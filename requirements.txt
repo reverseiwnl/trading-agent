@@ -1,0 +1,7 @@
+alpaca-py>=0.21
+pydantic>=2.5
+python-dotenv>=1.0
+PyYAML>=6.0
+yfinance>=0.2
+pytest>=8.0
+vectorbt>=0.26   # backtesting the rules engine

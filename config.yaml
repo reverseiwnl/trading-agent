@@ -1,0 +1,36 @@
+# config.yaml — risk rules. The decision engine reads this; Claude does not edit it
+# to make a trade pass. Changes here are a human decision, made deliberately.
+
+mode: paper                # paper | live. Live requires PROMOTION_CHECKLIST.md complete.
+
+watchlist:
+  - AAPL
+  - MSFT
+  - NVDA
+  - GOOGL
+  - JNJ
+  - UNH
+  # edit to taste
+
+risk:
+  max_position_pct: 0.05        # max 5% of equity in one ticker
+  max_sector_pct: 0.20          # max 20% in one sector
+  max_trades_per_day: 5
+  stop_loss_pct: 0.08           # sell if 8% below cost basis
+  daily_loss_circuit_breaker: 0.03   # no new buys if portfolio down >3% intraday
+  min_conviction_to_buy: 0.6
+  min_conviction_to_sell: 0.5   # lower bar to exit than to enter
+  allow_leverage: false
+  allow_options: false
+  allow_shorting: false
+
+sizing:
+  method: conviction_scaled     # position = max_position_pct * conviction, floor $50
+  min_order_dollars: 50
+
+benchmark: VOO
+
+alerts:
+  on_every_trade: true
+  on_rejected_signal: true
+  on_circuit_breaker: true

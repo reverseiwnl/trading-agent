@@ -1,0 +1,225 @@
+"""
+Risk-rule tests for decision_engine. No network anywhere: portfolio state is a
+hand-built fixture and main()-level tests monkeypatch get_portfolio_state and
+DB_PATH. Config values come from the real config.yaml — the tests assert the
+actual rules in force ($100k equity => $5k/ticker cap, $20k/sector cap,
+5 trades/day, 8% stop, -3% circuit breaker, 0.6 buy conviction floor).
+"""
+
+from __future__ import annotations
+
+import json
+import sqlite3
+import sys
+from datetime import date, datetime, timedelta, timezone
+
+import pytest
+
+import decision_engine as de
+
+TODAY = date.today().isoformat()
+YESTERDAY = (date.today() - timedelta(days=1)).isoformat()
+THESIS = "A sufficiently detailed test thesis explaining this trade."
+
+
+def signal(ticker: str, action: str, conviction: float = 0.8) -> de.Signal:
+    return de.Signal(ticker=ticker, action=action, conviction=conviction,
+                     thesis=THESIS, sources=["test"],
+                     timestamp=datetime.now(timezone.utc).isoformat())
+
+
+def daily(signals: list[de.Signal], day: str = TODAY) -> de.DailySignals:
+    return de.DailySignals(date=day, market_context="test context", signals=signals)
+
+
+def position(qty: float, cost_basis: float, current_price: float, sector: str) -> dict:
+    return {"qty": qty, "cost_basis": cost_basis, "current_price": current_price,
+            "market_value": qty * current_price, "sector": sector}
+
+
+@pytest.fixture
+def portfolio() -> dict:
+    """$100k equity, flat on the day, no positions, no sector data (so unknown
+    tickers default to themselves as a sector)."""
+    return {"equity": 100_000.0, "intraday_pnl_pct": 0.0, "positions": {}, "sectors": {}}
+
+
+@pytest.fixture
+def tmp_db(tmp_path, monkeypatch):
+    db = tmp_path / "trades.db"
+    monkeypatch.setattr(de, "DB_PATH", db)
+    return db
+
+
+def run_main(monkeypatch, signals_path) -> int:
+    monkeypatch.setattr(sys, "argv", ["decision_engine.py", str(signals_path)])
+    return de.main()
+
+
+def db_verdicts(db) -> list[str]:
+    with sqlite3.connect(db) as conn:
+        return [v for (v,) in conn.execute("SELECT verdict FROM decisions").fetchall()]
+
+
+# ---------- whole-file gates (via main) ----------
+
+def test_malformed_json_means_no_trades_and_exit_1(tmp_path, tmp_db, monkeypatch):
+    bad = tmp_path / "signals.json"
+    bad.write_text('{"date": "' + TODAY + '", "signals": [{"ticker": ')
+    monkeypatch.setattr(de, "get_portfolio_state",
+                        lambda: pytest.fail("portfolio fetched despite invalid signals"))
+    assert run_main(monkeypatch, bad) == 1
+    verdicts = db_verdicts(tmp_db)
+    assert verdicts and all(v == "rejected" for v in verdicts)
+
+
+def test_signals_dated_yesterday_rejected(tmp_path, tmp_db, monkeypatch):
+    stale = tmp_path / "signals.json"
+    stale.write_text(daily([signal("AAPL", "buy", 0.8)], day=YESTERDAY).model_dump_json())
+    monkeypatch.setattr(de, "get_portfolio_state",
+                        lambda: pytest.fail("portfolio fetched despite stale signals"))
+    assert run_main(monkeypatch, stale) == 1
+    verdicts = db_verdicts(tmp_db)
+    assert verdicts and all(v == "rejected" for v in verdicts)
+
+
+def test_mode_live_hard_exits_before_anything_runs(monkeypatch):
+    monkeypatch.setitem(de.CONFIG, "mode", "live")
+    # argv points at a file that does not exist: if the engine got past the mode
+    # gate it would raise reading it, so a clean exit 2 proves nothing ran.
+    monkeypatch.setattr(sys, "argv", ["decision_engine.py", "no_such_signals.json"])
+    assert de.main() == 2
+
+
+# ---------- buy-side limits ----------
+
+def test_conviction_boundary_059_rejected_060_approved(portfolio):
+    parsed = daily([signal("AAPL", "buy", 0.59), signal("MSFT", "buy", 0.6)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert [o["ticker"] for o in approved] == ["MSFT"]
+    assert rejected[0]["signal"]["ticker"] == "AAPL"
+    assert "conviction" in rejected[0]["reason"]
+
+
+def test_position_cap_counts_existing_exposure(portfolio):
+    # AAPL already worth $4k; the new $3k order alone is under the $5k cap but
+    # 4k + 3k busts it. JNJ (no position), same sizing, sails through.
+    portfolio["positions"]["AAPL"] = position(20, 190.0, 200.0, "Technology")
+    portfolio["sectors"] = {"JNJ": "Healthcare"}
+    parsed = daily([signal("AAPL", "buy", 0.6), signal("JNJ", "buy", 0.6)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert [o["ticker"] for o in approved] == ["JNJ"]
+    assert rejected[0]["signal"]["ticker"] == "AAPL"
+    assert "position cap" in rejected[0]["reason"]
+
+
+def test_sector_cap_counts_buys_approved_earlier_in_same_run(portfolio):
+    # Tech already at $12k. Two $5k tech buys: 12+5=17k OK, 17+5=22k > $20k cap.
+    portfolio["positions"]["AAPL"] = position(60, 190.0, 200.0, "Technology")
+    portfolio["sectors"] = {"NVDA": "Technology", "GOOGL": "Technology"}
+    parsed = daily([signal("NVDA", "buy", 1.0), signal("GOOGL", "buy", 1.0)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert [o["ticker"] for o in approved] == ["NVDA"]
+    assert rejected[0]["signal"]["ticker"] == "GOOGL"
+    assert "sector cap" in rejected[0]["reason"]
+
+
+def test_buy_sized_below_minimum_order_rejected(portfolio):
+    portfolio["equity"] = 1_000.0  # 1000 * 5% * 0.6 = $30 < $50 floor
+    parsed = daily([signal("AAPL", "buy", 0.6)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert approved == []
+    assert "minimum order" in rejected[0]["reason"]
+
+
+def test_ticker_outside_watchlist_and_holdings_rejected(portfolio):
+    parsed = daily([signal("TSLA", "buy", 0.9)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert approved == []
+    assert "watchlist" in rejected[0]["reason"]
+
+
+# ---------- circuit breaker ----------
+
+def test_circuit_breaker_blocks_buys_but_allows_sells(portfolio):
+    portfolio["intraday_pnl_pct"] = -0.035
+    portfolio["positions"]["JNJ"] = position(10, 150.0, 155.0, "Healthcare")
+    parsed = daily([signal("MSFT", "buy", 0.9), signal("JNJ", "sell", 0.6)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert [(o["ticker"], o["side"]) for o in approved] == [("JNJ", "sell")]
+    assert rejected[0]["signal"]["ticker"] == "MSFT"
+    assert "circuit breaker" in rejected[0]["reason"]
+
+
+# ---------- stop-loss sweep ----------
+
+def test_stop_loss_fires_even_when_signal_says_hold(portfolio):
+    portfolio["positions"]["MSFT"] = position(10, 100.0, 90.0, "Technology")  # -10%
+    parsed = daily([signal("MSFT", "hold")])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert [(o["ticker"], o["side"]) for o in approved] == [("MSFT", "sell")]
+    assert "stop-loss" in approved[0]["reason"]
+
+
+def test_stop_loss_boundary_fires_at_exactly_8_pct(portfolio):
+    portfolio["positions"]["MSFT"] = position(10, 100.0, 92.0, "Technology")
+    assert [o["ticker"] for o in de.stop_loss_sweep(portfolio)] == ["MSFT"]
+    portfolio["positions"]["MSFT"]["current_price"] = 92.01  # -7.99%: holds
+    assert de.stop_loss_sweep(portfolio) == []
+
+
+def test_signal_sell_not_duplicated_when_stop_loss_already_selling(portfolio):
+    portfolio["positions"]["MSFT"] = position(10, 100.0, 90.0, "Technology")
+    parsed = daily([signal("MSFT", "sell", 0.9)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert len(approved) == 1 and approved[0]["side"] == "sell"
+    assert "stop-loss" in rejected[0]["reason"]
+
+
+# ---------- daily trade budget ----------
+
+SIX_TICKERS = ["AAPL", "MSFT", "NVDA", "GOOGL", "JNJ", "UNH"]
+
+
+def test_six_valid_buys_only_five_approved(portfolio):
+    parsed = daily([signal(t, "buy", 0.7) for t in SIX_TICKERS])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert len(approved) == 5
+    assert rejected[0]["signal"]["ticker"] == "UNH"
+    assert "max trades per day" in rejected[0]["reason"]
+
+
+def test_stop_loss_exits_exempt_from_max_trades(portfolio):
+    # 5 buys fill the daily budget AND the stop-loss exit still goes out.
+    portfolio["positions"]["XOM"] = position(10, 100.0, 91.0, "Energy")  # -9%
+    parsed = daily([signal(t, "buy", 0.7) for t in SIX_TICKERS])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    sells = [o for o in approved if o["side"] == "sell"]
+    buys = [o for o in approved if o["side"] == "buy"]
+    assert [s["ticker"] for s in sells] == ["XOM"]
+    assert len(buys) == 5  # the cap still applies to signal-driven trades
+    assert any("max trades per day" in r["reason"] for r in rejected)
+
+
+# ---------- persistence ----------
+
+def test_every_decision_persisted_to_trades_db(tmp_path, tmp_db, monkeypatch, portfolio):
+    sig_file = tmp_path / "signals.json"
+    sig_file.write_text(
+        daily([signal("NVDA", "buy", 0.8), signal("TSLA", "buy", 0.9)]).model_dump_json())
+    monkeypatch.setattr(de, "get_portfolio_state", lambda: portfolio)
+    assert run_main(monkeypatch, sig_file) == 0
+
+    with sqlite3.connect(tmp_db) as conn:
+        rows = conn.execute(
+            "SELECT signal_json, verdict, reason, order_json FROM decisions").fetchall()
+    assert len(rows) == 2
+    approved_row = next(r for r in rows if r[1] == "approved")
+    assert json.loads(approved_row[0])["ticker"] == "NVDA"
+    assert approved_row[2]  # reason always recorded
+    assert json.loads(approved_row[3]) == {
+        "ticker": "NVDA", "side": "buy", "notional": 4000.0, "thesis": THESIS}
+    rejected_row = next(r for r in rows if r[1] == "rejected")
+    assert json.loads(rejected_row[0])["ticker"] == "TSLA"
+    assert "watchlist" in rejected_row[2]
+    assert rejected_row[3] is None  # no order for a rejection
