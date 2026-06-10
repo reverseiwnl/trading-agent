@@ -56,8 +56,13 @@ Top level: { "date": str, "signals": [...], "market_context": str }
 - [x] Implement fetch_data.py (Alpaca IEX primary, yfinance fallback, manifest + exit codes)
 - [x] Implement decision_engine.py (portfolio state, position/sector caps, stop-loss
       sweep, circuit breaker, SQLite decision log; tests in tests/test_decision_engine.py)
-- [ ] Implement execute.py against Alpaca paper API
-- [ ] Implement report.py + benchmark tracking vs VOO
+- [x] Implement execute.py against Alpaca paper API (double paper guard,
+      client_order_id idempotency, fill polling, executions table linked to
+      decisions; tests in tests/test_execute.py)
+- [x] Implement report.py + benchmark tracking vs VOO (digest + benchmark_deposits
+      counterfactual in trades.db; tests in tests/test_report.py)
+- [x] Implement flatten.py kill switch (close all positions at market, paper guard,
+      full audit trail in trades.db; tests in tests/test_flatten.py)
 - [ ] Backtest the rules engine (vectorbt) on 2+ years of history
 - [ ] Run as LOCAL scheduled task for 1-2 weeks, watching every run
 - [ ] Promote to remote routine (paper), run 2-3 months
