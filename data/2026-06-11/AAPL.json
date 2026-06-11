@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "as_of": "2026-06-11T04:08:57.489836+00:00",
+  "as_of": "2026-06-11T12:12:27.583719+00:00",
   "price": 292.02,
   "price_source": "alpaca",
   "bars": [
@@ -261,6 +261,12 @@
   },
   "headlines": [
     {
+      "headline": "Inquiry Into Apple's Competitor Dynamics In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/news/26/06/53134872/inquiry-into-apples-competitor-dynamics-in-technology-hardware-storage-amp-peripherals-industry",
+      "published_at": "2026-06-11T09:59:08+00:00"
+    },
+    {
       "headline": "Jim Cramer Describes Bitcoin, Gold As 'Bad Money' Getting Dumped For SpaceX — But 'Good Money' Apple And Nvidia Not Spared Either",
       "source": "benzinga",
       "url": "https://www.benzinga.com/crypto/cryptocurrency/26/06/53133001/jim-cramer-describes-bitcoin-gold-as-bad-money-getting-dumped-for-spacex",
@@ -313,12 +319,6 @@
       "source": "benzinga",
       "url": "https://www.benzinga.com/markets/prediction-markets/26/06/53104357/tim-cook-got-a-standing-ovation-at-his-final-wwdc-but-do-prediction-markets-appreciate-his-message",
       "published_at": "2026-06-09T20:58:17+00:00"
-    },
-    {
-      "headline": "OpenAI Files For IPO As Market Awaits CPI Data",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/Opinion/26/06/53103164/exclusive-pick-unexpected-hedge-fund-trade-impacting-sats-ahead-of-the-spacex-ipo",
-      "published_at": "2026-06-09T20:18:25+00:00"
     }
   ],
   "errors": []

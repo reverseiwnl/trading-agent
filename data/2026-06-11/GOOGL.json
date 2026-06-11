@@ -1,7 +1,7 @@
 {
   "ticker": "GOOGL",
-  "as_of": "2026-06-11T04:08:58.785111+00:00",
-  "price": 355.52,
+  "as_of": "2026-06-11T12:12:28.619971+00:00",
+  "price": 357.56,
   "price_source": "alpaca",
   "bars": [
     {
@@ -261,6 +261,24 @@
   },
   "headlines": [
     {
+      "headline": "DXC Technology Collaborates With Anthropic Over Adoption Of AI Into Enterprise Systems",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53137544/dxc-technology-collaborates-with-anthropic-over-adoption-of-ai-into-enterprise-systems",
+      "published_at": "2026-06-11T12:03:54+00:00"
+    },
+    {
+      "headline": "Martin Shkreli Predicts Meta Could Buy Anthropic In A 'Down Exit' As Claude Maker Eyes IPO",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53133446/martin-shkreli-meta-acquire-anthropic-down-exit-amid-ai-backlash",
+      "published_at": "2026-06-11T06:12:28+00:00"
+    },
+    {
+      "headline": "Gary Black Predicts TSLA Selling Ahead Of SpaceX IPO—Ross Gerber Says Investors Treating It Like 'Free Money'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/private-markets/26/06/53133264/gary-black-tsla-selling-spacex-ipo-ross-gerber-investors-free-money",
+      "published_at": "2026-06-11T05:20:16+00:00"
+    },
+    {
       "headline": "Anthropic Asks U.S. Government Not To Block State AI Laws Unless Federal Law Enacted; Publishes Requirements For Frontier Developers",
       "source": "benzinga",
       "url": "https://www.benzinga.com/government/26/06/53128003/anthropic-asks-u-s-government-not-to-block-state-ai-laws-unless-federal-law-enacted-publishes-requir",
@@ -301,24 +319,6 @@
       "source": "benzinga",
       "url": "https://www.benzinga.com/news/26/06/53116805/california-state-court-judge-in-youth-social-media-addiction-case-denies-google-and-meta-motions-see",
       "published_at": "2026-06-10T14:25:02+00:00"
-    },
-    {
-      "headline": "GitLab Expands Google Cloud Partnership To Boost Enterprise AI Offerings",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/06/53112639/gitlab-expands-google-cloud-partnership-to-boost-enterprise-ai-offerings",
-      "published_at": "2026-06-10T12:54:34+00:00"
-    },
-    {
-      "headline": "Why Is Intel Stock Sliding On Wednesday?",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53111785/why-is-intel-stock-sliding-on-wednesday",
-      "published_at": "2026-06-10T12:10:19+00:00"
-    },
-    {
-      "headline": "Apple's AI Reveal Hands An Unexpected Win To Google, NVIDIA",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/06/53109798/apples-ai-reveal-hands-an-unexpected-win-to-google-nvidia",
-      "published_at": "2026-06-10T10:43:11+00:00"
     }
   ],
   "errors": []

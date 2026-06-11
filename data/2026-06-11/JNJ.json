@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "as_of": "2026-06-11T04:08:59.727906+00:00",
+  "as_of": "2026-06-11T12:12:29.343976+00:00",
   "price": 238.52,
   "price_source": "alpaca",
   "bars": [
@@ -249,7 +249,7 @@
     "sector": "Healthcare",
     "industry": "Drug Manufacturers - General",
     "marketCap": 574097195008,
-    "trailingPE": 27.475805,
+    "trailingPE": 27.634995,
     "forwardPE": 18.753136,
     "priceToBook": 7.0695124,
     "dividendYield": 2.25,
@@ -260,6 +260,18 @@
     "shortName": "Johnson & Johnson"
   },
   "headlines": [
+    {
+      "headline": "Johnson & Johnson Expands US Roll-Out Of Latest Advancement In Presbyopia-Correcting Intraocular Lenses",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53137094/johnson-johnson-expands-us-roll-out-of-latest-advancement-in-presbyopia-correcting-intraocular-lense",
+      "published_at": "2026-06-11T11:47:00+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Says IMAAVY Showed Rapid And Durable Anemia Improvement In wAIHA, A Disease With No FDA-Approved Therapies",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53133785/johnson-johnson-says-imaavy-showed-rapid-and-durable-anemia-improvement-in-waiha-a-disease-with-no-f",
+      "published_at": "2026-06-11T07:05:42+00:00"
+    },
     {
       "headline": "Johnson & Johnson Fined $32M From Los Angeles Jury Over 2024 Death Of California Woman From Pleural Mesothelioma Due To Exposure To Asbestos-Contaminated Talc Product",
       "source": "benzinga",

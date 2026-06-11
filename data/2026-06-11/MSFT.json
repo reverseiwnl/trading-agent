@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "as_of": "2026-06-11T04:09:00.220624+00:00",
+  "as_of": "2026-06-11T12:12:29.889649+00:00",
   "price": 397.38,
   "price_source": "alpaca",
   "bars": [
@@ -249,7 +249,7 @@
     "sector": "Technology",
     "industry": "Software - Infrastructure",
     "marketCap": 2951762673664,
-    "trailingPE": 23.68057,
+    "trailingPE": 23.63831,
     "forwardPE": 20.49086,
     "priceToBook": 7.124083,
     "dividendYield": 0.92,
@@ -260,6 +260,30 @@
     "shortName": "Microsoft Corporation"
   },
   "headlines": [
+    {
+      "headline": "Microsoft CEO Satya Nadella Warns Against AI Overuse: 'Don't Use Frontier Models For Non-Frontier Problems'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53135487/satya-nadella-warns-against-ai-overuse-frontier-models-non-frontier-problems",
+      "published_at": "2026-06-11T10:26:05+00:00"
+    },
+    {
+      "headline": "Russian National Extradited To US Over Alleged Role In Microsoft-Tracked Void Blizzard Cyberattacks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53134365/russian-national-extradited-to-us-over-alleged-role-in-microsoft-tracked-void-blizzard-cyberattacks",
+      "published_at": "2026-06-11T08:55:06+00:00"
+    },
+    {
+      "headline": "OpenAI And Oracle Partner To Let OCI Customers Access OpenAI Frontier Models And Codex Via Existing Oracle Universal Credits",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/ORCL",
+      "published_at": "2026-06-11T07:39:32+00:00"
+    },
+    {
+      "headline": "'OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic' - WSJ",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53134001/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-wsj",
+      "published_at": "2026-06-11T07:29:22+00:00"
+    },
     {
       "headline": "'Xbox Plans Significant Layoffs as It Transforms Under New CEO'- Bloomberg",
       "source": "benzinga",
@@ -295,30 +319,6 @@
       "source": "benzinga",
       "url": "https://www.benzinga.com/news/26/06/53120854/openai-ceo-sam-altman-told-staff-in-a-slack-message-on-monday-that-he-expects-openai-to-go-public-wi",
       "published_at": "2026-06-10T15:48:25+00:00"
-    },
-    {
-      "headline": "What's Going On With Microsoft Stock Wednesday?",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/53118226/whats-going-on-with-microsoft-stock-wednesday-3",
-      "published_at": "2026-06-10T14:50:28+00:00"
-    },
-    {
-      "headline": "GitLab Expands Google Cloud Partnership To Boost Enterprise AI Offerings",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/06/53112639/gitlab-expands-google-cloud-partnership-to-boost-enterprise-ai-offerings",
-      "published_at": "2026-06-10T12:54:34+00:00"
-    },
-    {
-      "headline": "Mark Zuckerberg Teams Up With India's Richest Man To Build Meta's Next AI Powerhouse",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/06/53108596/mark-zuckerberg-teams-up-with-indias-richest-man-to-build-metas-next-ai-powerhouse",
-      "published_at": "2026-06-10T09:22:17+00:00"
-    },
-    {
-      "headline": "'SoftBank Attempt to Get $6 Billion OpenAI Margin Loan Stalls' - Bloomberg",
-      "source": "benzinga",
-      "url": "https://www.benzinga.com/news/26/06/53108271/softbank-attempt-to-get-6-billion-openai-margin-loan-stalls-bloomberg",
-      "published_at": "2026-06-10T08:32:00+00:00"
     }
   ],
   "errors": []
