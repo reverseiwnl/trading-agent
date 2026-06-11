@@ -36,8 +36,14 @@ from pathlib import Path
 
 import yaml
 
+# Explicit UTF-8: Windows defaults to a legacy code page; an API error string
+# outside it must never crash a run mid-submission.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+
 ROOT = Path(__file__).resolve().parent.parent
-CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text())
+CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
 DB_PATH = ROOT / "data" / "trades.db"
 
 PAPER_ENDPOINT = "https://paper-api.alpaca.markets"

@@ -1,7 +1,13 @@
+# Secrets — never committed.
 .env
-data/
-reports/
-signals/signals_*.json
+
+# Local-only artifacts. NOTE: data/, reports/, and signals/ are deliberately
+# TRACKED — the cloud routine commits daily state (snapshots, trades.db,
+# signals, digests) back to the repo as the system of record (DESIGN.md
+# 2026-06-10 promotion entry).
+logs/
+backtest/price_cache.pkl
+backtest/last_run_summary.json
 __pycache__/
 *.pyc
 .pytest_cache/

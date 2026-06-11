@@ -28,6 +28,12 @@ import sys
 from contextlib import closing
 from datetime import date, datetime, timezone
 
+# Explicit UTF-8 console: an API error string outside the legacy Windows code
+# page must never crash the kill switch of all things.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+
 from decision_engine import _DECISIONS_DDL
 # All DB access goes through execute's helpers, so flatten shares its DB_PATH
 # (and tests only have to patch execute.DB_PATH).

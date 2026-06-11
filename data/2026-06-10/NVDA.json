@@ -1,0 +1,325 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-06-11T02:47:43.428065+00:00",
+  "price": 200.29,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-04-29",
+      "open": 212.7,
+      "high": 212.7,
+      "low": 207.59,
+      "close": 209.35,
+      "volume": 4435736.0
+    },
+    {
+      "date": "2026-04-30",
+      "open": 209.93,
+      "high": 210.29,
+      "low": 198.705,
+      "close": 199.54,
+      "volume": 6416731.0
+    },
+    {
+      "date": "2026-05-01",
+      "open": 201.13,
+      "high": 202.97,
+      "low": 197.13,
+      "close": 198.39,
+      "volume": 3090371.0
+    },
+    {
+      "date": "2026-05-04",
+      "open": 199.38,
+      "high": 201.7,
+      "low": 194.76,
+      "close": 198.56,
+      "volume": 4068999.0
+    },
+    {
+      "date": "2026-05-05",
+      "open": 199.11,
+      "high": 200.205,
+      "low": 196.03,
+      "close": 196.5,
+      "volume": 4024517.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 199.85,
+      "high": 208.25,
+      "low": 198.67,
+      "close": 207.67,
+      "volume": 6398711.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 208.27,
+      "high": 214.19,
+      "low": 206.51,
+      "close": 211.56,
+      "volume": 4455651.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 213.01,
+      "high": 217.785,
+      "low": 212.92,
+      "close": 215.21,
+      "volume": 4181656.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 214.03,
+      "high": 222.3,
+      "low": 213.91,
+      "close": 219.45,
+      "volume": 4141456.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 218.445,
+      "high": 223.74,
+      "low": 214.955,
+      "close": 220.88,
+      "volume": 4058854.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 224.96,
+      "high": 227.8,
+      "low": 221.62,
+      "close": 225.91,
+      "volume": 3138586.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 229.73,
+      "high": 236.54,
+      "low": 229.41,
+      "close": 235.78,
+      "volume": 4515441.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 229.76,
+      "high": 231.5,
+      "low": 224.3,
+      "close": 225.305,
+      "volume": 3774303.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 229.4,
+      "high": 229.97,
+      "low": 218.39,
+      "close": 222.35,
+      "volume": 4041240.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 219.715,
+      "high": 224.47,
+      "low": 217.97,
+      "close": 220.645,
+      "volume": 4057698.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 223.175,
+      "high": 226.1,
+      "low": 220.5,
+      "close": 223.48,
+      "volume": 4890857.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 222.31,
+      "high": 227.35,
+      "low": 217.94,
+      "close": 219.47,
+      "volume": 6222899.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 220.98,
+      "high": 220.98,
+      "low": 214.9,
+      "close": 215.34,
+      "volume": 4838641.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 216.64,
+      "high": 218.17,
+      "low": 212.0,
+      "close": 214.785,
+      "volume": 4935639.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 214.12,
+      "high": 214.15,
+      "low": 208.79,
+      "close": 212.575,
+      "volume": 3280775.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 211.26,
+      "high": 215.5,
+      "low": 211.255,
+      "close": 214.27,
+      "volume": 4856752.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 214.55,
+      "high": 217.8,
+      "low": 211.145,
+      "close": 211.155,
+      "volume": 5876800.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 215.81,
+      "high": 224.86,
+      "low": 215.75,
+      "close": 224.42,
+      "volume": 6738901.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 227.205,
+      "high": 232.28,
+      "low": 221.36,
+      "close": 222.82,
+      "volume": 7100206.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 221.75,
+      "high": 222.78,
+      "low": 214.54,
+      "close": 214.86,
+      "volume": 4741903.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 213.775,
+      "high": 221.59,
+      "low": 210.97,
+      "close": 218.64,
+      "volume": 5374242.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 214.575,
+      "high": 214.81,
+      "low": 204.35,
+      "close": 205.17,
+      "volume": 8060300.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 209.645,
+      "high": 210.36,
+      "low": 206.02,
+      "close": 208.66,
+      "volume": 3893430.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 210.74,
+      "high": 211.37,
+      "low": 199.34,
+      "close": 208.2,
+      "volume": 5608889.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 204.305,
+      "high": 207.185,
+      "low": 199.93,
+      "close": 200.41,
+      "volume": 4910869.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 4854372630528,
+    "trailingPE": 31.863276,
+    "forwardPE": 15.7474375,
+    "priceToBook": 24.835194,
+    "dividendYield": 0.48,
+    "beta": 2.202,
+    "fiftyTwoWeekHigh": 236.54,
+    "fiftyTwoWeekLow": 140.85,
+    "earningsTimestamp": 1787774400,
+    "shortName": "NVIDIA Corporation"
+  },
+  "headlines": [
+    {
+      "headline": "CPI Saves Market; China-Taiwan Tensions Hurt Semis-Momo Crowd Buys the Dip; Iran Truce Looks More Fragile",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/53130222/cpi-saves-market-china-taiwan-tensions-hurt-semis-momo-crowd-buys-the-dip-iran-truce-looks-more-fragile",
+      "published_at": "2026-06-10T20:29:30+00:00"
+    },
+    {
+      "headline": "Nvidia Announces New Collaborations At GTC Taipei Focusing On Robotaxi Deployment",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53127627/nvidia-announces-new-collaborations-at-gtc-taipei-focusing-on-robotaxi-deployment",
+      "published_at": "2026-06-10T19:13:49+00:00"
+    },
+    {
+      "headline": "SpaceX Is Targeting A $28.5 Trillion Market — Here's How It Breaks Down",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/53126126/spacex-is-targeting-a-28-5-trillion-market-heres-how-it-breaks-down",
+      "published_at": "2026-06-10T18:15:33+00:00"
+    },
+    {
+      "headline": "Michael Burry's NVDA, PLTR Shorts Are Paying Off—And More Trouble May Be Coming For AI Stocks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/53124895/michael-burrys-nvda-pltr-shorts-are-paying-off-and-more-trouble-may-be-coming-for-ai-stocks",
+      "published_at": "2026-06-10T17:39:24+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today's Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/options/26/06/53124726/10-information-technology-stocks-with-whale-alerts-in-todays-session",
+      "published_at": "2026-06-10T17:35:42+00:00"
+    },
+    {
+      "headline": "ServiceNow Demand Remains Resilient Despite Global Uncertainty: Analyst",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/53122554/servicenow-demand-remains-resilient-despite-global-uncertainty-analyst",
+      "published_at": "2026-06-10T16:33:11+00:00"
+    },
+    {
+      "headline": "What Is Going On With Arm Stock On Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53122333/what-is-going-on-with-arm-stock-on-wednesday-2",
+      "published_at": "2026-06-10T16:27:28+00:00"
+    },
+    {
+      "headline": "Qualcomm Slips, Shorter-Term Momentum Cools From Roller Coaster AI Highs",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53122093/qualcomm-slips-shorter-term-momentum-cools-from-roller-coaster-ai-highs",
+      "published_at": "2026-06-10T16:18:56+00:00"
+    },
+    {
+      "headline": "Nvidia Slips As Macro Rate Fears Clash With Jensen Huang's Infrastructure Mandate",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53117869/nvidia-slips-premarket-macro-rate-fears-clash-ceo-infrastructure",
+      "published_at": "2026-06-10T14:43:53+00:00"
+    },
+    {
+      "headline": "In Boost For Tesla's Full Self-Driving Narrative, Dutch Data Shows 3.5 Times Fewer Crashes",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/53117786/in-boost-for-teslas-full-self-driving-narrative-dutch-data-shows-3-5-times-fewer-crashes",
+      "published_at": "2026-06-10T14:41:31+00:00"
+    }
+  ],
+  "errors": []
+}

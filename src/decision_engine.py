@@ -23,8 +23,15 @@ from typing import Literal
 import yaml
 from pydantic import BaseModel, Field, ValidationError
 
+# Explicit UTF-8 everywhere: Windows defaults file I/O and console output to a
+# legacy code page, and a thesis or error string outside it must never crash or
+# corrupt a run.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+
 ROOT = Path(__file__).resolve().parent.parent
-CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text())
+CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
 DB_PATH = ROOT / "data" / "trades.db"
 
 # Cap comparisons use a tiny dollar tolerance so an order sized exactly at a cap
@@ -60,7 +67,7 @@ def load_sector(ticker: str, run_date: str | None = None) -> str:
     unclassified position can never hide inside an existing sector bucket."""
     snap = ROOT / "data" / (run_date or date.today().isoformat()) / f"{ticker}.json"
     try:
-        sector = json.loads(snap.read_text()).get("fundamentals", {}).get("sector")
+        sector = json.loads(snap.read_text(encoding="utf-8")).get("fundamentals", {}).get("sector")
     except (OSError, ValueError):
         sector = None
     return sector or ticker
@@ -286,7 +293,7 @@ def main() -> int:
         return 2
 
     run_date = date.today().isoformat()
-    raw = Path(sys.argv[1]).read_text()
+    raw = Path(sys.argv[1]).read_text(encoding="utf-8")
     try:
         parsed = DailySignals.model_validate_json(raw)
     except ValidationError as e:

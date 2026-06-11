@@ -1,8 +1,9 @@
 # ROUTINE_PROMPT.md
 
-Paste the prompt below when creating the routine (Routines panel -> New routine,
-or `claude routines create` in the CLI). Suggested schedule: weekdays 7:00 AM
-America/Chicago (pre-market). Start as a LOCAL task; promote to remote later.
+The prompt between the `---` markers below is the routine's prompt, verbatim.
+Schedule: weekdays 7:00 AM America/Chicago (pre-market). Promoted from local
+Task Scheduler to a Claude Code cloud routine on 2026-06-10; the cloud session
+clones the GitHub repo fresh each run and commits daily state back (step 6).
 
 ---
 
@@ -13,8 +14,8 @@ disposes. You never place orders directly and never modify config.yaml.
 Steps for today's run:
 
 1. Run `python src/fetch_data.py`. If it fails, write the error to
-   reports/digest_<today>.md, do NOT proceed to trading steps, and stop after
-   step 5.
+   reports/digest_<today>.md, do NOT proceed to trading steps, and skip
+   directly to steps 5 and 6 (a failed run's digest still gets committed).
 
 2. Research: read today's files in data/ for every watchlist ticker and current
    holding. Use web search to check for breaking news on current holdings only
@@ -38,6 +39,15 @@ Steps for today's run:
    digest must include: portfolio snapshot, P&L vs VOO benchmark, today's
    signals, decision engine verdicts, and any errors encountered.
 
+6. Commit today's state and push to main. Stage ONLY these paths:
+   data/<today>/, data/trades.db, signals/signals_<today>.json,
+   reports/digest_<today>.md. Commit message: "routine: daily run <today>".
+   Never stage .env, config.yaml, or any code/test/doc file — a routine that
+   needs a code change reports it in the digest instead of making it. If the
+   push is rejected, `git pull --rebase` and retry once; if it still fails,
+   say so clearly in your final output. The repo is the system of record: a
+   run whose state was not pushed did not happen.
+
 Hard rules: paper trading only; never touch .env or print secrets; if anything
 is ambiguous, choose the no-trade path and flag it in the digest.
 
@@ -45,7 +55,15 @@ is ambiguous, choose the no-trade path and flag it in the digest.
 
 ## Notes for setup
 - Output destination: point the routine's output/notification at email, Telegram,
-  or Discord via Channels so the digest reaches you daily.
+  or Discord via Channels so the digest reaches you daily. (Until then, the
+  digest is in the repo — every run pushes it.)
 - Tool permissions: shell + web search + repo file access. Nothing else needed.
-- Environment: routine env must contain the variables from .env.example
-  (paper keys only).
+- Environment: the CLOUD environment must contain ALPACA_API_KEY and
+  ALPACA_SECRET_KEY (paper keys only) from .env.example. Without them the run
+  fails safe: fetch_data exits fatal, no trades, error digest committed.
+- The cron schedule is fixed in UTC (12:00 UTC = 7:00 AM CDT). When DST ends
+  it fires at 6:00 AM CST — still pre-market; adjust the cron if it matters.
+- State contract: daily snapshots, signals, digests, and data/trades.db are
+  TRACKED in git and updated only by the routine (single writer). To run
+  anything locally that writes state (execute.py, flatten.py), pull first,
+  run, then commit and push the result.

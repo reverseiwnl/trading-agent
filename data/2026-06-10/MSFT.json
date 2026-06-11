@@ -1,0 +1,325 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-06-11T02:47:42.744268+00:00",
+  "price": 397.38,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-04-29",
+      "open": 424.575,
+      "high": 426.775,
+      "low": 420.31,
+      "close": 424.8,
+      "volume": 813815.0
+    },
+    {
+      "date": "2026-04-30",
+      "open": 410.56,
+      "high": 414.39,
+      "low": 398.01,
+      "close": 407.765,
+      "volume": 2376015.0
+    },
+    {
+      "date": "2026-05-01",
+      "open": 411.91,
+      "high": 417.07,
+      "low": 410.52,
+      "close": 414.46,
+      "volume": 946070.0
+    },
+    {
+      "date": "2026-05-04",
+      "open": 411.54,
+      "high": 420.705,
+      "low": 410.85,
+      "close": 413.635,
+      "volume": 789901.0
+    },
+    {
+      "date": "2026-05-05",
+      "open": 415.28,
+      "high": 416.47,
+      "low": 408.82,
+      "close": 411.33,
+      "volume": 634396.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 407.865,
+      "high": 418.26,
+      "low": 405.17,
+      "close": 413.82,
+      "volume": 764621.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 420.115,
+      "high": 427.92,
+      "low": 418.8,
+      "close": 420.79,
+      "volume": 708212.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 417.385,
+      "high": 418.57,
+      "low": 414.0,
+      "close": 414.965,
+      "volume": 818822.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 407.76,
+      "high": 412.62,
+      "low": 405.51,
+      "close": 412.62,
+      "volume": 674806.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 414.4,
+      "high": 415.44,
+      "low": 406.715,
+      "close": 407.77,
+      "volume": 897917.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 403.0,
+      "high": 406.27,
+      "low": 401.05,
+      "close": 405.09,
+      "volume": 785494.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 404.72,
+      "high": 411.795,
+      "low": 400.915,
+      "close": 409.44,
+      "volume": 794948.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 414.47,
+      "high": 428.155,
+      "low": 413.115,
+      "close": 422.0,
+      "volume": 1109396.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 416.4,
+      "high": 425.025,
+      "low": 415.64,
+      "close": 423.61,
+      "volume": 628464.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 429.885,
+      "high": 432.675,
+      "low": 416.49,
+      "close": 417.515,
+      "volume": 750391.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 414.135,
+      "high": 421.99,
+      "low": 411.31,
+      "close": 421.08,
+      "volume": 840531.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 424.72,
+      "high": 426.08,
+      "low": 415.78,
+      "close": 419.0,
+      "volume": 768373.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 419.48,
+      "high": 424.33,
+      "low": 416.36,
+      "close": 418.5,
+      "volume": 536551.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 416.575,
+      "high": 419.73,
+      "low": 413.075,
+      "close": 416.09,
+      "volume": 751245.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 410.9,
+      "high": 415.94,
+      "low": 409.66,
+      "close": 412.71,
+      "volume": 837631.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 2951762673664,
+    "trailingPE": 23.68057,
+    "forwardPE": 20.49086,
+    "priceToBook": 7.124083,
+    "dividendYield": 0.92,
+    "beta": 1.103,
+    "fiftyTwoWeekHigh": 555.45,
+    "fiftyTwoWeekLow": 356.28,
+    "earningsTimestamp": 1777492800,
+    "shortName": "Microsoft Corporation"
+  },
+  "headlines": [
+    {
+      "headline": "'Xbox Plans Significant Layoffs as It Transforms Under New CEO'- Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53130918/xbox-plans-significant-layoffs-as-it-transforms-under-new-ceo-bloomberg",
+      "published_at": "2026-06-10T20:57:39+00:00"
+    },
+    {
+      "headline": "CPI Saves Market; China-Taiwan Tensions Hurt Semis-Momo Crowd Buys the Dip; Iran Truce Looks More Fragile",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/53130222/cpi-saves-market-china-taiwan-tensions-hurt-semis-momo-crowd-buys-the-dip-iran-truce-looks-more-fragile",
+      "published_at": "2026-06-10T20:29:30+00:00"
+    },
+    {
+      "headline": "SpaceX Is Targeting A $28.5 Trillion Market — Here's How It Breaks Down",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/53126126/spacex-is-targeting-a-28-5-trillion-market-heres-how-it-breaks-down",
+      "published_at": "2026-06-10T18:15:33+00:00"
+    },
+    {
+      "headline": "'OpenAI, Visa Team Up to Let AI Agents Make Purchases Online' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53125456/openai-visa-team-up-to-let-ai-agents-make-purchases-online-bloomberg",
+      "published_at": "2026-06-10T17:56:30+00:00"
+    },
+    {
+      "headline": "'Microsoft Restricts Claude Fable For Employees Over Data Retention Concerns; Microsoft's Legal Teams Are Evaluating Anthropic's New Data Retention Changes' - The Verge",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53123692/microsoft-restricts-claude-fable-for-employees-over-data-retention-concerns-microsofts-legal-teams-a",
+      "published_at": "2026-06-10T17:03:38+00:00"
+    },
+    {
+      "headline": "'OpenAI CEO Sam Altman Told Staff In A Slack Message On Monday That He Expects OpenAI To Go Public \"Within The Next Year\"; Altman Told Staff OpenAI Is Preparing To Launch A Tender \"Very Soon\" At The Current Share Price. That Share Price Is $687.69; OpenAI Preparing To Release A New AI Model, Codenamed 5.6 This Month' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53120854/openai-ceo-sam-altman-told-staff-in-a-slack-message-on-monday-that-he-expects-openai-to-go-public-wi",
+      "published_at": "2026-06-10T15:48:25+00:00"
+    },
+    {
+      "headline": "What's Going On With Microsoft Stock Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/53118226/whats-going-on-with-microsoft-stock-wednesday-3",
+      "published_at": "2026-06-10T14:50:28+00:00"
+    },
+    {
+      "headline": "GitLab Expands Google Cloud Partnership To Boost Enterprise AI Offerings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53112639/gitlab-expands-google-cloud-partnership-to-boost-enterprise-ai-offerings",
+      "published_at": "2026-06-10T12:54:34+00:00"
+    },
+    {
+      "headline": "Mark Zuckerberg Teams Up With India's Richest Man To Build Meta's Next AI Powerhouse",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53108596/mark-zuckerberg-teams-up-with-indias-richest-man-to-build-metas-next-ai-powerhouse",
+      "published_at": "2026-06-10T09:22:17+00:00"
+    },
+    {
+      "headline": "'SoftBank Attempt to Get $6 Billion OpenAI Margin Loan Stalls' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53108271/softbank-attempt-to-get-6-billion-openai-margin-loan-stalls-bloomberg",
+      "published_at": "2026-06-10T08:32:00+00:00"
+    }
+  ],
+  "errors": []
+}

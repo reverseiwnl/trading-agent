@@ -170,3 +170,94 @@ Backtested rules engine -> add LLM research layer -> paper trade combined system
   fresh id instead of being blocked by the duplicate check — safe because open
   orders were just canceled and only the current remaining qty is sold.
   Exit codes: 0 flat, 1 NOT flat (needs attention), 2 paper guard refused.
+
+## 2026-06-10 — backtest of the rules engine (backtest/backtest_rules.py)
+
+- **Scope honesty preserved**: only the deterministic rules were tested, with a
+  naive SMA20/SMA100 momentum generator (conviction scaled from trailing
+  126d/63d returns) standing in for the LLM. P&L of the backtest is explicitly
+  meaningless as evidence of edge; the test target is rule behavior. Full
+  results and surprises in docs/backtest_results.md.
+- **Simulator mirrors decision_engine.py exactly** (check ordering, CAP_EPSILON,
+  budget-exempt stop sweep, same-day stop freeze, pending-notional cap
+  accounting) and reads live config.yaml values, so a config change re-tests
+  the new numbers. Cadence model: signals from close t-1, decisions + fills at
+  open t (pre-market run), breaker on the overnight gap.
+- **vectorbt is the independent auditor, not the rule engine.** The daily loop
+  emits share-level orders; vbt.Portfolio.from_orders (cash_sharing,
+  call_seq='auto') replays them from scratch. Run asserts $0 equity divergence
+  and identical fill counts — two implementations agreeing on the accounting.
+  Adjusted prices throughout (raw prices would fire fake stops on NVDA's 2024
+  10:1 split).
+- **--stress mode exists because two rules never trigger naturally**: at 30%
+  max deployment a -3% equity gap is a tail event (breaker: 0 trips in 2.9y)
+  and 6 tickers rarely produce >5 approvals (budget never bound). Stress run
+  tightens thresholds in-process (config.yaml untouched) and asserts both
+  paths fire.
+- **Verdict (2023-07 -> 2026-06)**: all caps held exactly at decision time, all
+  8 stops fired at >=8.19% below basis, max drawdown -4.7% vs VOO's -18.7%.
+  Open policy gaps for a human to accept or close before promotion: stops gap
+  through the 8% level at daily cadence (worst exit -17.0%); a stopped name can
+  re-enter the next day (NVDA did, realizing the loss for nothing — consider a
+  multi-day cooldown); winners drift above the 5% cap with no trimming rule
+  (NVDA reached 9.0% of equity); the sector cap is arithmetically unreachable
+  until the watchlist grows (3 tech names x 5% = 15% < 20%).
+
+## 2026-06-10 — routine dry run, UTF-8 hardening, local scheduled task
+
+- **Full manual dry run of ROUTINE_PROMPT.md passed end-to-end** (fetch → research
+  → signals → decision engine → digest). First real signals file produced one
+  approved order (JNJ buy, $3,250 notional at 0.65 conviction) and a clean digest.
+- **All file I/O and console output is now explicit UTF-8.** `Path.read_text`/
+  `write_text` on Windows default to cp1252: fetch_data.py was writing snapshots
+  cp1252-encoded (a Benzinga em-dash made GOOGL.json invalid UTF-8), and any
+  headline outside cp1252 would have crashed the fetch with UnicodeEncodeError.
+  Every read/write in src/ now passes `encoding="utf-8"`, and each runnable
+  script reconfigures stdout/stderr to UTF-8 with `errors="replace"` so a print
+  can never kill a scheduled run whose output is redirected to a log file.
+- **Local scheduling = Windows Task Scheduler, not an in-session mechanism.**
+  Task "TradingAgent Daily Routine" runs weekdays 7:00 AM local (machine is
+  America/Chicago, DST-aware) and calls scripts/run_routine.ps1, which extracts
+  the prompt verbatim from between ROUTINE_PROMPT.md's `---` markers, pipes it
+  via stdin to headless `claude -p --permission-mode acceptEdits` (stdin avoids
+  argument-quoting mangling), and logs to logs/routine_<date>.log (gitignored).
+  Headless permissions are a tight allowlist in .claude/settings.local.json
+  (the three routine scripts + WebSearch) — no blanket permission bypass.
+  Task settings: StartWhenAvailable (missed 7:00 runs fire on wake), WakeToRun,
+  2h execution limit, interactive logon token (runs only while ivy10 is logged
+  in — acceptable for the supervised phase; revisit if promoting).
+- **Open question flagged, deliberately not changed:** ROUTINE_PROMPT.md never
+  runs execute.py, so approved orders accumulate in trades.db unsubmitted and
+  expire at day rollover (execute.py only loads today's run_date). Coherent as
+  a human-in-the-loop supervised phase (review digest, run execute.py manually
+  before close), but it means the routine alone never trades. A human should
+  decide whether to add an execute step to the routine prompt before (or at)
+  promotion to remote.
+
+## 2026-06-10 — promoted to cloud routine; state committed to the repo
+
+- **Skipped the planned 1-2 week local phase** by explicit user decision (one
+  clean manual dry run stood in for it). Still paper-only; PROMOTION_CHECKLIST
+  gates anything live, unchanged.
+- **The repo is now the system of record.** Cloud routine runs start from a
+  fresh clone, so anything not in git does not exist for them. data/ (daily
+  snapshots + trades.db), signals/, and reports/ are now tracked; the routine's
+  new step 6 commits exactly those paths and pushes to main each run. Rationale
+  over alternatives: zero new infrastructure, every decision/digest lands in
+  git history (audit trail for free), and the local machine can always
+  `git pull` to inspect. Cost: trades.db is an opaque binary in diffs and the
+  repo grows ~70 KB/day — trivial at this scale, revisit if the watchlist grows
+  10x.
+- **Single-writer rule.** Only the cloud routine writes state unprompted. The
+  local Task Scheduler task is disabled (kept as fallback). Any local
+  state-writing run (execute.py after digest review, flatten.py) must be:
+  pull, run, commit, push.
+- **Failure semantics preserved end-to-end**: a failed fetch still produces and
+  COMMITS an error digest (step 1 now routes to steps 5-6); a rejected push
+  retries once after rebase, then fails loudly — "a run whose state was not
+  pushed did not happen."
+- **Schedule is UTC-fixed**: 12:00 UTC weekdays = 7:00 AM CDT now, 6:00 AM CST
+  after DST ends — both pre-market, so left as-is deliberately.
+- **execute.py remains outside the routine** (human-in-the-loop unchanged from
+  the local design): the routine proposes and reports; submitting approved
+  orders stays a manual, reviewed act.

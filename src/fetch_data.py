@@ -28,8 +28,16 @@ import yaml
 from dotenv import load_dotenv
 from pydantic import BaseModel, Field
 
+# Windows defaults console output and Path.read_text/write_text to a legacy
+# code page (cp1252); headlines and error strings routinely contain characters
+# outside it. All file I/O in this repo is explicit UTF-8, and stdout/stderr
+# are reconfigured so a print can never crash a scheduled run.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+
 ROOT = Path(__file__).resolve().parent.parent
-CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text())
+CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
 
 BARS_LOOKBACK_DAYS = 60   # calendar days fetched; trimmed to the last MAX_BARS
 MAX_BARS = 30
@@ -235,7 +243,8 @@ def main() -> int:
     statuses: dict[str, str] = {}
     for ticker in tickers:
         snap = fetch_snapshot(ticker)
-        (out_dir / f"{ticker}.json").write_text(snap.model_dump_json(indent=2))
+        (out_dir / f"{ticker}.json").write_text(snap.model_dump_json(indent=2),
+                                                encoding="utf-8")
         if snap.price is None:
             statuses[ticker] = "failed"          # no price at all = unusable
         elif snap.errors:
@@ -254,7 +263,8 @@ def main() -> int:
         "errors": fatal_errors,
         "clean": clean,
     }
-    (out_dir / "_manifest.json").write_text(json.dumps(manifest, indent=2))
+    (out_dir / "_manifest.json").write_text(json.dumps(manifest, indent=2),
+                                            encoding="utf-8")
 
     for err in fatal_errors:
         print(f"ERROR: {err}")

@@ -63,9 +63,18 @@ Top level: { "date": str, "signals": [...], "market_context": str }
       counterfactual in trades.db; tests in tests/test_report.py)
 - [x] Implement flatten.py kill switch (close all positions at market, paper guard,
       full audit trail in trades.db; tests in tests/test_flatten.py)
-- [ ] Backtest the rules engine (vectorbt) on 2+ years of history
-- [ ] Run as LOCAL scheduled task for 1-2 weeks, watching every run
-- [ ] Promote to remote routine (paper), run 2-3 months
+- [x] Backtest the rules engine (vectorbt) on 2.9 years of history
+      (backtest/backtest_rules.py; findings + policy gaps in docs/backtest_results.md)
+- [x] Run as LOCAL scheduled task — SUPERSEDED 2026-06-10: one manual dry run
+      passed, then promoted straight to cloud per user decision. The Task
+      Scheduler task "TradingAgent Daily Routine" is DISABLED (not deleted);
+      scripts/run_routine.ps1 remains as the local fallback runner.
+- [ ] Promote to remote routine (paper), run 2-3 months — IN PROGRESS: cloud
+      routine created 2026-06-10 (weekdays 12:00 UTC = 7:00 AM CDT). State
+      (data/, signals/, reports/, trades.db) is now TRACKED in git; the routine
+      commits it back each run (single writer — pull before any local state
+      write). NOTE: the routine does not run execute.py — approved orders need
+      a manual pull + `python src/execute.py` + push after digest review.
 - [ ] Review PROMOTION_CHECKLIST.md before any discussion of live keys
 
 ## When working in this repo, Claude should

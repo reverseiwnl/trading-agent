@@ -32,8 +32,14 @@ import yaml
 
 from execute import PaperGuardError, make_paper_client
 
+# Explicit UTF-8: Windows defaults to a legacy code page; snapshots, signals,
+# and the digest all carry text that may not fit it.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+
 ROOT = Path(__file__).resolve().parent.parent
-CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text())
+CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
 DB_PATH = ROOT / "data" / "trades.db"
 REPORTS_DIR = ROOT / "reports"
 BENCHMARK = CONFIG["benchmark"]
@@ -129,7 +135,7 @@ def load_voo_closes() -> tuple[list[tuple[str, float]], float | None, str]:
     if not snaps:
         raise FileNotFoundError(
             f"no {BENCHMARK} snapshot under data/ — run fetch_data.py first")
-    snap = json.loads(snaps[-1].read_text())
+    snap = json.loads(snaps[-1].read_text(encoding="utf-8"))
     closes = sorted((b["date"], float(b["close"])) for b in snap.get("bars", []))
     price = snap.get("price")
     if price is None:
@@ -221,7 +227,7 @@ def load_signals(run_date: str) -> dict | None:
     if not path.exists():
         return None
     try:
-        return json.loads(path.read_text())
+        return json.loads(path.read_text(encoding="utf-8"))
     except ValueError as e:
         return {"error": f"signals file exists but is not valid JSON: {e}"}
 
@@ -259,7 +265,7 @@ def load_manifest(run_date: str) -> dict | None:
     if not path.exists():
         return None
     try:
-        return json.loads(path.read_text())
+        return json.loads(path.read_text(encoding="utf-8"))
     except ValueError:
         return {"errors": ["manifest exists but is not valid JSON"], "tickers": {}}
 
