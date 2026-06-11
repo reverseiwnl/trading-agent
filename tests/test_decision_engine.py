@@ -2,8 +2,9 @@
 Risk-rule tests for decision_engine. No network anywhere: portfolio state is a
 hand-built fixture and main()-level tests monkeypatch get_portfolio_state and
 DB_PATH. Config values come from the real config.yaml — the tests assert the
-actual rules in force ($100k equity => $5k/ticker cap, $20k/sector cap,
-5 trades/day, 8% stop, -3% circuit breaker, 0.6 buy conviction floor).
+actual rules in force ($5k trading budget as the bankroll regardless of the
+$100k equity => $250/ticker cap, $1k/sector cap, 5 trades/day, 8% stop,
+circuit breaker at -3% of bankroll in dollars, 0.6 buy conviction floor).
 """
 
 from __future__ import annotations
@@ -102,8 +103,9 @@ def test_conviction_boundary_059_rejected_060_approved(portfolio):
 
 
 def test_position_cap_counts_existing_exposure(portfolio):
-    # AAPL already worth $4k; the new $3k order alone is under the $5k cap but
-    # 4k + 3k busts it. JNJ (no position), same sizing, sails through.
+    # AAPL already worth $4k market value — far over the $250/ticker cap, so
+    # any further AAPL buy is rejected. JNJ (no position), same sizing, sails
+    # through ($150 <= $250 cap; total spend $3,800 + $150 within budget).
     portfolio["positions"]["AAPL"] = position(20, 190.0, 200.0, "Technology")
     portfolio["sectors"] = {"JNJ": "Healthcare"}
     parsed = daily([signal("AAPL", "buy", 0.6), signal("JNJ", "buy", 0.6)])
@@ -114,8 +116,9 @@ def test_position_cap_counts_existing_exposure(portfolio):
 
 
 def test_sector_cap_counts_buys_approved_earlier_in_same_run(portfolio):
-    # Tech already at $12k. Two $5k tech buys: 12+5=17k OK, 17+5=22k > $20k cap.
-    portfolio["positions"]["AAPL"] = position(60, 190.0, 200.0, "Technology")
+    # Tech already at $700. Two $250 tech buys (conviction 1.0): 700+250=$950
+    # OK, 950+250=$1,200 > $1k sector cap (20% of the $5k bankroll).
+    portfolio["positions"]["AAPL"] = position(7, 100.0, 100.0, "Technology")
     portfolio["sectors"] = {"NVDA": "Technology", "GOOGL": "Technology"}
     parsed = daily([signal("NVDA", "buy", 1.0), signal("GOOGL", "buy", 1.0)])
     approved, rejected = de.apply_risk_rules(parsed, portfolio)
@@ -201,6 +204,100 @@ def test_stop_loss_exits_exempt_from_max_trades(portfolio):
     assert any("max trades per day" in r["reason"] for r in rejected)
 
 
+# ---------- trading budget (bankroll) ----------
+
+
+def test_sizing_uses_bankroll_not_equity(portfolio):
+    # $100k equity but $5k budget: 5000 * 5% * 0.8 = $200, not $4,000.
+    parsed = daily([signal("NVDA", "buy", 0.8)])
+    approved, _ = de.apply_risk_rules(parsed, portfolio)
+    assert approved[0]["notional"] == 200.0
+
+
+def test_budget_caps_total_spend_including_this_run(portfolio):
+    # $4,700 already spent (cost basis). First $200 buy reaches $4,900 — OK.
+    # Second $200 buy would reach $5,100 > $5,000 budget — rejected.
+    portfolio["positions"]["XOM"] = position(47, 100.0, 100.0, "Energy")
+    portfolio["sectors"] = {"JNJ": "Healthcare", "MSFT": "Technology"}
+    parsed = daily([signal("JNJ", "buy", 0.8), signal("MSFT", "buy", 0.8)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert [o["ticker"] for o in approved] == ["JNJ"]
+    assert rejected[0]["signal"]["ticker"] == "MSFT"
+    assert "trading budget" in rejected[0]["reason"]
+
+
+def test_budget_counts_cost_basis_not_market_value(portfolio):
+    # Spent $4,900 at cost; the position has LOST value ($3,000 market value,
+    # -38.8% would stop out but use a small drawdown instead). Budget math must
+    # use the $4,900 spent, so a $200 buy is rejected even though market value
+    # plus the order is well under $5k.
+    portfolio["positions"]["XOM"] = position(49, 100.0, 95.0, "Energy")  # -5%: no stop
+    portfolio["sectors"] = {"JNJ": "Healthcare"}
+    parsed = daily([signal("JNJ", "buy", 0.8)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert approved == []
+    assert "trading budget" in rejected[0]["reason"]
+
+
+def test_prior_pending_buy_blocks_reapproval_and_consumes_budget(portfolio):
+    # A $3,250 JNJ buy approved earlier today is still awaiting execution:
+    # JNJ may not be re-approved, and the $3,250 counts against the budget.
+    portfolio["sectors"] = {"JNJ": "Healthcare", "MSFT": "Technology", "NVDA": "Technology"}
+    prior = {"JNJ": 3250.0}
+    parsed = daily([signal("JNJ", "buy", 0.9), signal("MSFT", "buy", 0.8)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio, prior)
+    assert [o["ticker"] for o in approved] == ["MSFT"]  # 3250 + 200 <= 5000
+    assert rejected[0]["signal"]["ticker"] == "JNJ"
+    assert "already pending" in rejected[0]["reason"]
+
+    prior_big = {"JNJ": 4900.0}
+    parsed = daily([signal("NVDA", "buy", 0.8)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio, prior_big)
+    assert approved == []  # 4900 + 200 > 5000
+    assert "trading budget" in rejected[0]["reason"]
+
+
+def test_circuit_breaker_measured_in_dollars_against_bankroll(portfolio):
+    # -0.2% of $100k equity is ~-$200 — trivial for the account, but it
+    # exceeds 3% of the $5k bankroll ($150), so buys freeze.
+    portfolio["intraday_pnl_pct"] = -0.002
+    parsed = daily([signal("MSFT", "buy", 0.9)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert approved == []
+    assert "circuit breaker" in rejected[0]["reason"]
+
+    portfolio["intraday_pnl_pct"] = -0.001  # ~-$100: under the $150 threshold
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert [o["ticker"] for o in approved] == ["MSFT"]
+
+
+def test_pending_buy_notional_reads_unfilled_approvals(tmp_db):
+    run_date = TODAY
+    de.log_decisions(run_date, [
+        {"ticker": "JNJ", "side": "buy", "notional": 3250.0, "thesis": THESIS,
+         "signal": signal("JNJ", "buy", 0.65).model_dump()},
+        {"ticker": "MSFT", "side": "buy", "notional": 200.0, "thesis": THESIS,
+         "signal": signal("MSFT", "buy", 0.8).model_dump()},
+    ], [])
+    # MSFT's buy filled; JNJ's never executed.
+    with sqlite3.connect(tmp_db) as conn:
+        conn.execute(de._DECISIONS_DDL)
+        conn.execute("""CREATE TABLE IF NOT EXISTS executions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT, ts TEXT, run_date TEXT,
+            decision_id INTEGER, client_order_id TEXT, ticker TEXT, side TEXT,
+            request_json TEXT, alpaca_order_id TEXT, status TEXT,
+            filled_qty REAL, filled_avg_price REAL, detail TEXT, updated_ts TEXT)""")
+        conn.execute(
+            "INSERT INTO executions (ts, run_date, decision_id, client_order_id, "
+            "ticker, side, status) VALUES ('t', ?, 1, ?, 'MSFT', 'buy', 'filled')",
+            (run_date, f"{run_date}-MSFT-buy"))
+    assert de.pending_buy_notional(run_date) == {"JNJ": 3250.0}
+
+
+def test_pending_buy_notional_empty_when_db_missing(tmp_db):
+    assert de.pending_buy_notional(TODAY) == {}
+
+
 # ---------- persistence ----------
 
 def test_every_decision_persisted_to_trades_db(tmp_path, tmp_db, monkeypatch, portfolio):
@@ -218,7 +315,7 @@ def test_every_decision_persisted_to_trades_db(tmp_path, tmp_db, monkeypatch, po
     assert json.loads(approved_row[0])["ticker"] == "NVDA"
     assert approved_row[2]  # reason always recorded
     assert json.loads(approved_row[3]) == {
-        "ticker": "NVDA", "side": "buy", "notional": 4000.0, "thesis": THESIS}
+        "ticker": "NVDA", "side": "buy", "notional": 200.0, "thesis": THESIS}
     rejected_row = next(r for r in rows if r[1] == "rejected")
     assert json.loads(rejected_row[0])["ticker"] == "TSLA"
     assert "watchlist" in rejected_row[2]

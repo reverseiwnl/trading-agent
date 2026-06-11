@@ -274,3 +274,40 @@ claude-opus-4-8 — the research step is the system's only source of edge and
 runs once daily, so paying for quality there is the right asymmetry while the
 deterministic engine caps the downside. Revisit after a week of digests;
 Fable 5 is the next step up if Opus still under-engages with sources.
+
+## 2026-06-11 — $5,000 trading budget (bankroll mode); routine model -> Fable 5
+
+- **User decision: cap the system's deployable money at $5,000 regardless of
+  the $100k paper balance** — and, chosen explicitly between the two readings,
+  treat the budget as the bankroll rather than a mere spend ceiling: sizing,
+  position cap, and sector cap all compute from min(equity, budget), so the
+  system behaves as a faithful miniature (typical buy ~$162 at 0.65 conviction,
+  $250/ticker, $1k/sector) instead of letting one full-size $3,250 order eat
+  65% of the budget.
+- **Budget accounting is in spend terms** (cost basis of open positions plus
+  buys pending execution), not market value: "$5k able to be spent" means
+  dollars out the door; appreciation neither frees nor consumes budget.
+- **Pending-buy awareness**: the engine now reads today's approved-but-unfilled
+  buys from trades.db; they consume budget and block same-day re-approval
+  (execute.py's client_order_id dedup means a re-approval could never execute
+  anyway — rejecting it keeps the decision log honest). Conservative by
+  construction: over-counting can only under-spend.
+- **Circuit breaker re-based to dollars vs the bankroll** (3% of $5k = $150
+  intraday loss freezes buys). Kept as a percentage of full account equity it
+  would be ~20x too insensitive: realistic bad days for a $5k book move equity
+  by ~0.1-0.2%, far below the 3% account-level threshold, so the rule would
+  effectively never fire. The dollar basis restores its intent at the new
+  scale. (Configs without a budget keep the original percentage behavior.)
+- **Stop-loss unchanged** (8% below per-position cost basis — already
+  budget-independent).
+- Tests updated to the new rules-in-force and extended (56 pass): bankroll
+  sizing, total-spend cap within and across runs, cost-basis accounting,
+  pending-buy blocking, dollar-based breaker, pending_buy_notional DB reads.
+- **Routine model bumped Opus 4.8 -> Fable 5** (claude-fable-5) per user
+  preference, same rationale as the Opus bump: research quality is the
+  system's only source of edge and the engine caps the downside.
+- **Caveat flagged to the user**: two stale full-size JNJ $3,250 approvals
+  (2026-06-11, from validation runs under pre-budget sizing) sit unexecuted in
+  trades.db. Running execute.py on 2026-06-11 would submit one of them and
+  blow the new budget's sizing intent. Do not execute today; the rows are
+  inert from tomorrow's run_date onward.

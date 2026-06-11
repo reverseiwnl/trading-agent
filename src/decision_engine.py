@@ -92,6 +92,8 @@ def get_portfolio_state() -> dict:
     last_equity = float(account.last_equity or 0)
     intraday_pnl_pct = (equity - last_equity) / last_equity if last_equity else 0.0
 
+    intraday_pnl_dollars = equity - last_equity
+
     positions: dict[str, dict] = {}
     for p in client.get_all_positions():
         qty = float(p.qty)
@@ -109,6 +111,7 @@ def get_portfolio_state() -> dict:
     sectors.update({t: pos["sector"] for t, pos in positions.items()})
 
     return {"equity": equity, "intraday_pnl_pct": intraday_pnl_pct,
+            "intraday_pnl_dollars": intraday_pnl_dollars,
             "positions": positions, "sectors": sectors}
 
 
@@ -134,11 +137,26 @@ def stop_loss_sweep(portfolio: dict) -> list[dict]:
     return orders
 
 
-def apply_risk_rules(parsed: DailySignals, portfolio: dict) -> tuple[list[dict], list[dict]]:
+def apply_risk_rules(parsed: DailySignals, portfolio: dict,
+                     prior_buys: dict[str, float] | None = None) -> tuple[list[dict], list[dict]]:
     """Return (approved_orders, rejections). Each rejection carries a reason —
-    rejections are logged and alerted, never silently dropped."""
+    rejections are logged and alerted, never silently dropped.
+
+    prior_buys maps ticker -> notional of buys already approved earlier today
+    but not yet verifiably filled. They consume budget and block a same-day
+    re-approval (execute.py would skip the duplicate client_order_id anyway,
+    so a re-approval could never actually execute — rejecting it keeps the
+    log honest).
+
+    When risk.trading_budget_dollars is set, the engine's bankroll is
+    min(equity, budget): sizing, position/sector caps, and the circuit breaker
+    all scale to the bankroll, and total spend (cost basis of open positions
+    plus buys pending execution) can never exceed the budget."""
     risk = CONFIG["risk"]
     equity = portfolio["equity"]
+    budget = risk.get("trading_budget_dollars")
+    bankroll = min(equity, budget) if budget else equity
+    prior_buys = prior_buys or {}
     positions = portfolio["positions"]
     sectors = portfolio.get("sectors", {})
     approved: list[dict] = []
@@ -157,8 +175,18 @@ def apply_risk_rules(parsed: DailySignals, portfolio: dict) -> tuple[list[dict],
     approved.extend(stop_orders)
     stopped = {o["ticker"] for o in stop_orders}
 
-    # Circuit breaker: no new buys on a bad day
-    buys_frozen = portfolio["intraday_pnl_pct"] <= -risk["daily_loss_circuit_breaker"]
+    # Circuit breaker: no new buys on a bad day. With a budget, a "bad day" is
+    # measured in dollars against the bankroll (the account's idle cash would
+    # otherwise dilute the percentage ~equity/bankroll-fold and the breaker
+    # could never trip).
+    if budget:
+        pnl_dollars = portfolio.get("intraday_pnl_dollars")
+        if pnl_dollars is None:
+            pct = portfolio["intraday_pnl_pct"]
+            pnl_dollars = equity * pct / (1 + pct) if pct > -1 else -equity
+        buys_frozen = pnl_dollars <= -risk["daily_loss_circuit_breaker"] * bankroll
+    else:
+        buys_frozen = portfolio["intraday_pnl_pct"] <= -risk["daily_loss_circuit_breaker"]
 
     # Exposure already on the books, plus what this run approves as it goes.
     # Pending sells do NOT free up room: a fill is never assumed.
@@ -167,6 +195,13 @@ def apply_risk_rules(parsed: DailySignals, portfolio: dict) -> tuple[list[dict],
         sector_exposure[sector_of(ticker)] += pos["market_value"]
     pending_by_ticker: defaultdict[str, float] = defaultdict(float)
     pending_by_sector: defaultdict[str, float] = defaultdict(float)
+
+    # Budget accounting is in SPEND terms (cost basis + buys awaiting
+    # execution), not market value: "$5k able to be spent" means dollars out
+    # the door, and a winner's appreciation neither frees nor consumes budget.
+    spent = sum(p["qty"] * p["cost_basis"] for p in positions.values())
+    spent += sum(prior_buys.values())
+    pending_spend = 0.0
 
     signal_trades = 0  # stop-loss exits above don't count toward max_trades_per_day
 
@@ -186,37 +221,49 @@ def apply_risk_rules(parsed: DailySignals, portfolio: dict) -> tuple[list[dict],
             continue
 
         if sig.action == "buy":
+            if sig.ticker in prior_buys:
+                reject(sig, "an approved buy for this ticker is already pending "
+                            "execution today")
+                continue
             if buys_frozen:
                 reject(sig, "circuit breaker: buys frozen")
                 continue
             if sig.conviction < risk["min_conviction_to_buy"]:
                 reject(sig, "conviction below buy threshold")
                 continue
-            dollars = equity * risk["max_position_pct"] * sig.conviction
+            dollars = bankroll * risk["max_position_pct"] * sig.conviction
             if dollars < CONFIG["sizing"]["min_order_dollars"]:
                 reject(sig, "sized below minimum order")
                 continue
 
-            position_cap = equity * risk["max_position_pct"]
+            position_cap = bankroll * risk["max_position_pct"]
             existing = positions.get(sig.ticker, {}).get("market_value", 0.0)
             would_hold = existing + pending_by_ticker[sig.ticker] + dollars
             if would_hold > position_cap + CAP_EPSILON:
                 reject(sig, f"position cap: would hold ${would_hold:,.2f} of {sig.ticker} "
-                            f"vs ${position_cap:,.2f} limit ({risk['max_position_pct']:.0%} of equity)")
+                            f"vs ${position_cap:,.2f} limit ({risk['max_position_pct']:.0%} of bankroll)")
                 continue
 
             sector = sector_of(sig.ticker)
-            sector_cap = equity * risk["max_sector_pct"]
+            sector_cap = bankroll * risk["max_sector_pct"]
             would_expose = sector_exposure[sector] + pending_by_sector[sector] + dollars
             if would_expose > sector_cap + CAP_EPSILON:
                 reject(sig, f"sector cap: {sector} would reach ${would_expose:,.2f} "
-                            f"vs ${sector_cap:,.2f} limit ({risk['max_sector_pct']:.0%} of equity)")
+                            f"vs ${sector_cap:,.2f} limit ({risk['max_sector_pct']:.0%} of bankroll)")
                 continue
+
+            if budget is not None:
+                would_spend = spent + pending_spend + dollars
+                if would_spend > budget + CAP_EPSILON:
+                    reject(sig, f"trading budget: spend would reach ${would_spend:,.2f} "
+                                f"vs ${budget:,.2f} budget")
+                    continue
 
             approved.append({"ticker": sig.ticker, "side": "buy", "notional": round(dollars, 2),
                              "thesis": sig.thesis, "signal": sig.model_dump()})
             pending_by_ticker[sig.ticker] += dollars
             pending_by_sector[sector] += dollars
+            pending_spend += dollars
             signal_trades += 1
 
         elif sig.action == "sell":
@@ -231,6 +278,34 @@ def apply_risk_rules(parsed: DailySignals, portfolio: dict) -> tuple[list[dict],
             signal_trades += 1
 
     return approved, rejected
+
+
+def pending_buy_notional(run_date: str) -> dict[str, float]:
+    """Ticker -> notional of buys approved earlier today (decisions table) with
+    no verifiably filled execution yet. These consume budget and block same-day
+    re-approval. Conservative on purpose: an approved-but-unconfirmed buy still
+    claims its dollars — over-counting can only under-spend, never overspend.
+    Same-day re-approvals share one client_order_id slot, so max() not sum()."""
+    try:
+        with closing(sqlite3.connect(DB_PATH)) as conn:
+            rows = conn.execute(
+                "SELECT order_json FROM decisions WHERE run_date = ? "
+                "AND verdict = 'approved' AND order_json IS NOT NULL", (run_date,)).fetchall()
+            try:
+                filled = {t for (t,) in conn.execute(
+                    "SELECT ticker FROM executions WHERE run_date = ? AND side = 'buy' "
+                    "AND status IN ('filled', 'partially_filled')", (run_date,))}
+            except sqlite3.OperationalError:
+                filled = set()  # no executions table yet: nothing has run
+    except sqlite3.OperationalError:
+        return {}  # no decisions table yet: the engine has never run
+    pending: dict[str, float] = {}
+    for (order_json,) in rows:
+        order = json.loads(order_json)
+        if order.get("side") == "buy" and order["ticker"] not in filled:
+            pending[order["ticker"]] = max(pending.get(order["ticker"], 0.0),
+                                           float(order["notional"]))
+    return pending
 
 
 # ---------- Decision log (data/trades.db) ----------
@@ -308,7 +383,7 @@ def main() -> int:
         return 1
 
     portfolio = get_portfolio_state()
-    approved, rejected = apply_risk_rules(parsed, portfolio)
+    approved, rejected = apply_risk_rules(parsed, portfolio, pending_buy_notional(run_date))
     log_decisions(run_date, approved, rejected)
 
     print(json.dumps({"approved": approved, "rejected": rejected}, indent=2))

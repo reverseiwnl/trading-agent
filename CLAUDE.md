@@ -35,7 +35,10 @@ Top level: { "date": str, "signals": [...], "market_context": str }
 
 ## Risk rules (config.yaml is authoritative; summarized here)
 - Paper trading only until PROMOTION_CHECKLIST.md is fully checked off.
-- Max position size: 5% of portfolio equity per ticker.
+- Trading budget: $5,000 hard bankroll regardless of account equity. All
+  dollar-based rules below scale to min(equity, budget), and total spend
+  (cost basis of positions + buys pending execution) can never exceed it.
+- Max position size: 5% of bankroll per ticker.
 - Max sector exposure: 20%.
 - Max trades per day: 5.
 - Stop-loss: 8% below cost basis, enforced by decision engine on every run.

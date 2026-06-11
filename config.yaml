@@ -13,7 +13,14 @@ watchlist:
   # edit to taste
 
 risk:
-  max_position_pct: 0.05        # max 5% of equity in one ticker
+  trading_budget_dollars: 5000  # hard bankroll (human decision 2026-06-11):
+                                # the engine treats min(equity, this) as its
+                                # bankroll — sizing, position/sector caps, and
+                                # the circuit breaker all scale to it, and
+                                # total spend (cost basis of positions + buys
+                                # pending execution) can never exceed it.
+                                # Set to null to use full account equity.
+  max_position_pct: 0.05        # max 5% of bankroll in one ticker
   max_sector_pct: 0.20          # max 20% in one sector
   max_trades_per_day: 5
   stop_loss_pct: 0.08           # sell if 8% below cost basis
