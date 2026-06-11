@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T04:00:07.021987+00:00",
+  "holdings": [],
+  "tickers": {
+    "AAPL": "failed",
+    "GOOGL": "failed",
+    "JNJ": "failed",
+    "MSFT": "failed",
+    "NVDA": "failed",
+    "UNH": "failed",
+    "VOO": "failed"
+  },
+  "errors": [
+    "could not fetch holdings from Alpaca paper account: Host not in allowlist"
+  ],
+  "clean": false
+}

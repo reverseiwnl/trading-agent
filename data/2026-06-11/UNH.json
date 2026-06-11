@@ -1,0 +1,15 @@
+{
+  "ticker": "UNH",
+  "as_of": "2026-06-11T04:00:06.320479+00:00",
+  "price": null,
+  "price_source": null,
+  "bars": [],
+  "fundamentals": {},
+  "headlines": [],
+  "errors": [
+    "alpaca bars/price failed: Host not in allowlist",
+    "yfinance bars/price fallback failed: yfinance returned no history for UNH",
+    "fundamentals failed: argument of type 'NoneType' is not iterable",
+    "alpaca news failed: Host not in allowlist"
+  ]
+}
