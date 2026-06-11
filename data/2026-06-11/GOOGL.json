@@ -1,15 +1,325 @@
 {
   "ticker": "GOOGL",
-  "as_of": "2026-06-11T04:00:04.783843+00:00",
-  "price": null,
-  "price_source": null,
-  "bars": [],
-  "fundamentals": {},
-  "headlines": [],
-  "errors": [
-    "alpaca bars/price failed: Host not in allowlist",
-    "yfinance bars/price fallback failed: argument of type 'NoneType' is not iterable",
-    "fundamentals failed: argument of type 'NoneType' is not iterable",
-    "alpaca news failed: Host not in allowlist"
-  ]
+  "as_of": "2026-06-11T04:08:58.785111+00:00",
+  "price": 355.52,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-04-29",
+      "open": 347.32,
+      "high": 355.755,
+      "low": 344.23,
+      "close": 350.27,
+      "volume": 1021396.0
+    },
+    {
+      "date": "2026-04-30",
+      "open": 374.17,
+      "high": 385.84,
+      "low": 365.87,
+      "close": 384.99,
+      "volume": 2175993.0
+    },
+    {
+      "date": "2026-05-01",
+      "open": 381.645,
+      "high": 386.7,
+      "low": 379.155,
+      "close": 385.79,
+      "volume": 1330844.0
+    },
+    {
+      "date": "2026-05-04",
+      "open": 385.625,
+      "high": 387.27,
+      "low": 379.81,
+      "close": 383.21,
+      "volume": 921651.0
+    },
+    {
+      "date": "2026-05-05",
+      "open": 386.34,
+      "high": 392.69,
+      "low": 384.05,
+      "close": 388.41,
+      "volume": 991193.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 394.27,
+      "high": 399.83,
+      "low": 392.82,
+      "close": 397.83,
+      "volume": 1071518.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 400.05,
+      "high": 400.1,
+      "low": 392.69,
+      "close": 397.89,
+      "volume": 876338.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 397.44,
+      "high": 401.89,
+      "low": 396.4,
+      "close": 400.67,
+      "volume": 865052.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 393.645,
+      "high": 397.37,
+      "low": 388.51,
+      "close": 388.64,
+      "volume": 906121.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 387.03,
+      "high": 388.4,
+      "low": 382.78,
+      "close": 387.42,
+      "volume": 879557.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 385.49,
+      "high": 403.685,
+      "low": 385.02,
+      "close": 402.63,
+      "volume": 995762.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 397.28,
+      "high": 402.925,
+      "low": 395.85,
+      "close": 401.115,
+      "volume": 892737.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 395.995,
+      "high": 399.525,
+      "low": 393.29,
+      "close": 396.75,
+      "volume": 567513.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 395.685,
+      "high": 408.57,
+      "low": 394.62,
+      "close": 396.815,
+      "volume": 925835.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 396.8,
+      "high": 396.92,
+      "low": 386.11,
+      "close": 387.75,
+      "volume": 1014449.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 387.695,
+      "high": 393.58,
+      "low": 382.95,
+      "close": 388.86,
+      "volume": 1184514.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 385.705,
+      "high": 392.42,
+      "low": 383.125,
+      "close": 387.52,
+      "volume": 657497.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 386.765,
+      "high": 388.7,
+      "low": 381.8,
+      "close": 383.03,
+      "volume": 607993.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.21,
+      "low": 382.72,
+      "close": 388.91,
+      "volume": 950634.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "marketCap": 4346030850048,
+    "trailingPE": 27.18383,
+    "forwardPE": 24.63638,
+    "priceToBook": 9.019082,
+    "dividendYield": 0.25,
+    "beta": 1.237,
+    "fiftyTwoWeekHigh": 408.61,
+    "fiftyTwoWeekLow": 162.0,
+    "earningsTimestamp": 1777492800,
+    "shortName": "Alphabet Inc."
+  },
+  "headlines": [
+    {
+      "headline": "Anthropic Asks U.S. Government Not To Block State AI Laws Unless Federal Law Enacted; Publishes Requirements For Frontier Developers",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/government/26/06/53128003/anthropic-asks-u-s-government-not-to-block-state-ai-laws-unless-federal-law-enacted-publishes-requir",
+      "published_at": "2026-06-10T19:26:22+00:00"
+    },
+    {
+      "headline": "SpaceX Is Targeting A $28.5 Trillion Market — Here's How It Breaks Down",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/53126126/spacex-is-targeting-a-28-5-trillion-market-heres-how-it-breaks-down",
+      "published_at": "2026-06-10T18:15:33+00:00"
+    },
+    {
+      "headline": "'OpenAI, Visa Team Up to Let AI Agents Make Purchases Online' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53125456/openai-visa-team-up-to-let-ai-agents-make-purchases-online-bloomberg",
+      "published_at": "2026-06-10T17:56:30+00:00"
+    },
+    {
+      "headline": "Google Rolls Out DiffusionGemma Open Model Released Under Apache 2.0 License",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53122232/google-rolls-out-diffusiongemma-open-model-released-under-apache-2-0-license",
+      "published_at": "2026-06-10T16:23:45+00:00"
+    },
+    {
+      "headline": "Think SpaceX Will Mark The Market Top? Tom Lee Says History Suggests Otherwise",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/ipos/26/06/53119402/think-spacex-will-mark-the-market-top-tom-lee-says-history-suggests-otherwise",
+      "published_at": "2026-06-10T15:16:09+00:00"
+    },
+    {
+      "headline": "What's Going On With Microsoft Stock Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/53118226/whats-going-on-with-microsoft-stock-wednesday-3",
+      "published_at": "2026-06-10T14:50:28+00:00"
+    },
+    {
+      "headline": "'California State Court Judge In Youth Social Media Addiction Case Denies Google And Meta Motions Seeking New Trial, Sources Say' - Reuters",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53116805/california-state-court-judge-in-youth-social-media-addiction-case-denies-google-and-meta-motions-see",
+      "published_at": "2026-06-10T14:25:02+00:00"
+    },
+    {
+      "headline": "GitLab Expands Google Cloud Partnership To Boost Enterprise AI Offerings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53112639/gitlab-expands-google-cloud-partnership-to-boost-enterprise-ai-offerings",
+      "published_at": "2026-06-10T12:54:34+00:00"
+    },
+    {
+      "headline": "Why Is Intel Stock Sliding On Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53111785/why-is-intel-stock-sliding-on-wednesday",
+      "published_at": "2026-06-10T12:10:19+00:00"
+    },
+    {
+      "headline": "Apple's AI Reveal Hands An Unexpected Win To Google, NVIDIA",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53109798/apples-ai-reveal-hands-an-unexpected-win-to-google-nvidia",
+      "published_at": "2026-06-10T10:43:11+00:00"
+    }
+  ],
+  "errors": []
 }

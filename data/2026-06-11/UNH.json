@@ -1,15 +1,325 @@
 {
   "ticker": "UNH",
-  "as_of": "2026-06-11T04:00:06.320479+00:00",
-  "price": null,
-  "price_source": null,
-  "bars": [],
-  "fundamentals": {},
-  "headlines": [],
-  "errors": [
-    "alpaca bars/price failed: Host not in allowlist",
-    "yfinance bars/price fallback failed: yfinance returned no history for UNH",
-    "fundamentals failed: argument of type 'NoneType' is not iterable",
-    "alpaca news failed: Host not in allowlist"
-  ]
+  "as_of": "2026-06-11T04:09:01.264871+00:00",
+  "price": 407.52,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-04-29",
+      "open": 366.175,
+      "high": 370.84,
+      "low": 365.17,
+      "close": 370.71,
+      "volume": 419088.0
+    },
+    {
+      "date": "2026-04-30",
+      "open": 369.18,
+      "high": 371.95,
+      "low": 363.09,
+      "close": 370.58,
+      "volume": 242961.0
+    },
+    {
+      "date": "2026-05-01",
+      "open": 371.96,
+      "high": 372.79,
+      "low": 367.165,
+      "close": 368.78,
+      "volume": 154325.0
+    },
+    {
+      "date": "2026-05-04",
+      "open": 369.57,
+      "high": 370.82,
+      "low": 364.94,
+      "close": 370.7,
+      "volume": 191333.0
+    },
+    {
+      "date": "2026-05-05",
+      "open": 370.475,
+      "high": 371.7,
+      "low": 361.855,
+      "close": 363.835,
+      "volume": 180872.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 363.1,
+      "high": 368.51,
+      "low": 358.34,
+      "close": 367.04,
+      "volume": 253705.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 366.89,
+      "high": 369.78,
+      "low": 364.845,
+      "close": 369.65,
+      "volume": 168787.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 372.83,
+      "high": 379.79,
+      "low": 372.17,
+      "close": 379.79,
+      "volume": 266827.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 381.04,
+      "high": 384.7,
+      "low": 376.145,
+      "close": 384.46,
+      "volume": 232735.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 383.71,
+      "high": 397.415,
+      "low": 382.16,
+      "close": 396.46,
+      "volume": 387837.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 397.02,
+      "high": 404.15,
+      "low": 393.07,
+      "close": 401.05,
+      "volume": 341066.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 401.45,
+      "high": 401.51,
+      "low": 396.12,
+      "close": 399.18,
+      "volume": 176880.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 394.655,
+      "high": 397.6,
+      "low": 390.3,
+      "close": 393.525,
+      "volume": 226602.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 391.76,
+      "high": 392.02,
+      "low": 383.655,
+      "close": 391.04,
+      "volume": 317946.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 389.49,
+      "high": 394.965,
+      "low": 387.825,
+      "close": 389.45,
+      "volume": 208699.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 388.825,
+      "high": 393.15,
+      "low": 380.73,
+      "close": 383.19,
+      "volume": 335801.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 381.3,
+      "high": 386.09,
+      "low": 380.71,
+      "close": 382.57,
+      "volume": 134040.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 382.33,
+      "high": 390.4,
+      "low": 381.28,
+      "close": 388.545,
+      "volume": 143620.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.91,
+      "high": 384.91,
+      "low": 376.63,
+      "close": 376.99,
+      "volume": 162489.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 380.25,
+      "high": 384.49,
+      "low": 377.285,
+      "close": 384.15,
+      "volume": 173189.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 384.825,
+      "high": 389.185,
+      "low": 380.96,
+      "close": 382.41,
+      "volume": 179104.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 383.36,
+      "high": 385.0,
+      "low": 375.48,
+      "close": 380.28,
+      "volume": 249789.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.84,
+      "high": 383.305,
+      "low": 375.925,
+      "close": 379.85,
+      "volume": 203276.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 378.0,
+      "high": 380.0,
+      "low": 374.78,
+      "close": 377.92,
+      "volume": 154557.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 379.965,
+      "high": 387.28,
+      "low": 376.84,
+      "close": 376.96,
+      "volume": 287113.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 390.99,
+      "high": 401.2,
+      "low": 389.97,
+      "close": 396.52,
+      "volume": 350963.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 399.54,
+      "high": 403.95,
+      "low": 397.21,
+      "close": 399.59,
+      "volume": 348917.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 398.01,
+      "high": 408.62,
+      "low": 396.7,
+      "close": 406.66,
+      "volume": 251708.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 408.79,
+      "high": 412.955,
+      "low": 407.58,
+      "close": 412.68,
+      "volume": 328511.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 414.555,
+      "high": 415.95,
+      "low": 404.58,
+      "close": 407.52,
+      "volume": 283293.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Healthcare",
+    "industry": "Healthcare Plans",
+    "marketCap": 370032508928,
+    "trailingPE": 30.682228,
+    "forwardPE": 19.494164,
+    "priceToBook": 3.7798476,
+    "dividendYield": 2.28,
+    "beta": 0.65,
+    "fiftyTwoWeekHigh": 415.965,
+    "fiftyTwoWeekLow": 234.6,
+    "earningsTimestamp": 1776774600,
+    "shortName": "UnitedHealth Group Incorporated"
+  },
+  "headlines": [
+    {
+      "headline": "7 Health Care Stocks With Whale Alerts In Today's Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/options/26/06/53091312/7-health-care-stocks-with-whale-alerts-in-todays-session",
+      "published_at": "2026-06-09T15:15:44+00:00"
+    },
+    {
+      "headline": "Mizuho Maintains Outperform on UnitedHealth Group, Raises Price Target to $460",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53068286/mizuho-maintains-outperform-on-unitedhealth-group-raises-price-target-to-460",
+      "published_at": "2026-06-08T17:37:56+00:00"
+    },
+    {
+      "headline": "AbbVie, UnitedHealth, Sabra Health Care And A Consumer Defensive Stock On CNBC's 'Final Trades'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/53054099/coca-cola-unitedhealth-sabra-health-care-cnbc-final-trades",
+      "published_at": "2026-06-08T11:38:51+00:00"
+    },
+    {
+      "headline": "10 Health Care Stocks Whale Activity In Today's Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/options/26/06/53037272/10-health-care-stocks-whale-activity-in-todays-session",
+      "published_at": "2026-06-05T17:35:32+00:00"
+    },
+    {
+      "headline": "CNBC Halftime Report Final Trades: Coca-Cola, AbbVie, UnitedHealth Group, Sabra Health Care REIT",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/UNH",
+      "published_at": "2026-06-05T17:01:58+00:00"
+    },
+    {
+      "headline": "UnitedHealth Positioned As AI Leader: Analyst",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53028701/unitedhealth-positioned-as-ai-leader-analyst",
+      "published_at": "2026-06-05T14:05:34+00:00"
+    },
+    {
+      "headline": "4 Health Care Stocks With Whale Alerts In Today's Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/options/26/06/53011206/4-health-care-stocks-with-whale-alerts-in-todays-session",
+      "published_at": "2026-06-04T17:35:23+00:00"
+    },
+    {
+      "headline": "Why Is UnitedHealth Stock Gaining Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/06/53010304/why-is-unitedhealth-stock-gaining-thursday",
+      "published_at": "2026-06-04T17:11:03+00:00"
+    },
+    {
+      "headline": "Morgan Stanley Maintains Overweight on UnitedHealth Group, Raises Price Target to $453",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53008100/morgan-stanley-maintains-overweight-on-unitedhealth-group-raises-price-target-to-453",
+      "published_at": "2026-06-04T16:16:16+00:00"
+    },
+    {
+      "headline": "This KeyBanc Analyst Turns Bullish; Here Are Top 4 Upgrades For Thursday",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/52997429/this-keybanc-analyst-turns-bullish-here-are-top-4-upgrades-for-thursday",
+      "published_at": "2026-06-04T12:43:21+00:00"
+    }
+  ],
+  "errors": []
 }
