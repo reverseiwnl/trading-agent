@@ -8,7 +8,6 @@ from __future__ import annotations
 
 import json
 import sqlite3
-from datetime import date
 from types import SimpleNamespace
 
 import pytest
@@ -17,8 +16,9 @@ from alpaca.trading.enums import OrderSide
 
 import execute as ex
 import flatten as fl
+from trading_day import today_iso
 
-TODAY = date.today().isoformat()
+TODAY = today_iso()
 
 
 # ---------- fakes ----------
@@ -41,6 +41,10 @@ class FakeFlattenClient:
         self.events.append("cancel_orders")
         canceled, self.open_orders = self.open_orders, 0
         return [SimpleNamespace(id=f"old-{i}") for i in range(canceled)]
+
+    def get_orders(self, filter=None):
+        self.events.append("get_orders")
+        return [SimpleNamespace(id=f"open-{i}") for i in range(self.open_orders)]
 
     def get_all_positions(self):
         return [SimpleNamespace(symbol=t, qty=str(q))
@@ -131,8 +135,39 @@ def test_no_positions_is_already_flat(tmp_db, monkeypatch):
     client = FakeFlattenClient({})
     assert run_main(monkeypatch, client) == 0
     assert client.submissions == []
-    assert client.events == ["cancel_orders"]  # stale orders still get canceled
+    # stale orders still get canceled, and the cancel is verified complete
+    assert client.events == ["cancel_orders", "get_orders"]
     assert rows(tmp_db, "executions") == []
+
+
+def test_refuses_to_sell_while_orders_still_open(tmp_db, monkeypatch):
+    # Cancellation is async at Alpaca: if orders are STILL open after the
+    # cancel wait, selling into them could leave the account not flat —
+    # refuse and exit 1 without submitting anything.
+    class StuckCancel(FakeFlattenClient):
+        def cancel_orders(self):
+            self.events.append("cancel_orders")
+            return [SimpleNamespace(id="old-0")]  # requested, but stays open
+
+    monkeypatch.setattr(fl, "CANCEL_WAIT_S", 0.0)
+    client = StuckCancel({"AAPL": 10.0}, open_orders=1)
+    assert run_main(monkeypatch, client) == 1
+    assert client.submissions == []
+    assert rows(tmp_db, "executions") == []
+
+
+def test_short_position_closed_with_buy_to_cover(tmp_db, monkeypatch):
+    # Shorting is disallowed upstream, but the kill switch must close whatever
+    # the account holds: a -7 qty short closes with a BUY for 7, never a sell.
+    class ShortAware(FakeFlattenClient):
+        def get_order_by_id(self, order_id):
+            return SimpleNamespace(id=order_id, status="filled",
+                                   filled_qty="7", filled_avg_price="100.00")
+
+    client = ShortAware({"MSFT": -7.0})
+    assert run_main(monkeypatch, client) == 0
+    (req,) = client.submissions
+    assert (req.symbol, float(req.qty), req.side) == ("MSFT", 7.0, OrderSide.BUY)
 
 
 # ---------- unhappy outcomes ----------

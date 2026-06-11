@@ -17,6 +17,10 @@ Safety properties:
   canceled / expired or a 60s timeout. A partial fill still open at timeout is
   recorded as partially_filled with the fill quantity; anything else still open
   is recorded as UNCONFIRMED for manual review.
+- Revalidates at submission time: an approved buy whose notional violates the
+  CURRENT position cap or trading budget (config may have changed since
+  approval) is refused (refused_stale), logged, and left for the decision
+  engine to re-approve under current rules.
 
 Usage: python src/execute.py   (no args — submits today's approved orders)
 Exit codes: 0 all filled (or nothing to do / duplicates skipped),
@@ -31,10 +35,12 @@ import sqlite3
 import sys
 import time
 from contextlib import closing
-from datetime import date, datetime, timezone
+from datetime import datetime, timezone
 from pathlib import Path
 
 import yaml
+
+from trading_day import today_iso
 
 # Explicit UTF-8: Windows defaults to a legacy code page; an API error string
 # outside it must never crash a run mid-submission.
@@ -49,6 +55,7 @@ DB_PATH = ROOT / "data" / "trades.db"
 PAPER_ENDPOINT = "https://paper-api.alpaca.markets"
 POLL_TIMEOUT_S = 60.0
 POLL_INTERVAL_S = 2.0
+CAP_EPSILON = 1e-6  # same tolerance as decision_engine.py
 
 TERMINAL_FAILURES = {"rejected", "canceled", "expired"}
 # Final statuses that don't demand human attention.
@@ -145,7 +152,8 @@ def prior_submission(client_order_id: str) -> tuple[int, str] | None:
     with closing(_connect()) as conn:
         row = conn.execute(
             "SELECT id, status FROM executions WHERE client_order_id = ? "
-            "AND status != 'skipped_duplicate' ORDER BY id DESC LIMIT 1",
+            "AND status NOT IN ('skipped_duplicate', 'refused_stale') "
+            "ORDER BY id DESC LIMIT 1",
             (client_order_id,)).fetchone()
     return (row[0], row[1]) if row else None
 
@@ -177,6 +185,44 @@ def _update_execution(execution_id: int, *, status: str,
             "detail = COALESCE(?, detail), updated_ts = ? WHERE id = ?",
             (status, alpaca_order_id, filled_qty, filled_avg_price, detail,
              datetime.now(timezone.utc).isoformat(), execution_id))
+
+
+# ---------- Submission-time revalidation ----------
+
+def current_limits(client) -> dict:
+    """Dollar limits under TODAY's config and account state: the per-ticker
+    position cap, the trading budget, and the dollars already committed
+    (cost basis of open positions). Approved orders can sit in the decisions
+    table while config.yaml or the account changes underneath them — the
+    notional that was legal at approval time is re-checked here, at the last
+    moment before money moves."""
+    risk = CONFIG["risk"]
+    equity = float(client.get_account().equity)
+    budget = risk.get("trading_budget_dollars")
+    bankroll = min(equity, budget) if budget else equity
+    committed = sum(float(p.qty) * float(p.avg_entry_price)
+                    for p in client.get_all_positions())
+    return {"position_cap": bankroll * risk["max_position_pct"],
+            "budget": budget, "committed": committed}
+
+
+def revalidation_failure(order: dict, limits: dict) -> str | None:
+    """Reason this approved order violates the CURRENT dollar rules, or None.
+    A failure refuses the order — re-approving under current rules is the
+    decision engine's job, never this module's."""
+    if order["side"] != "buy":
+        return None  # exits are never blocked by sizing rules
+    notional = float(order["notional"])
+    if notional > limits["position_cap"] + CAP_EPSILON:
+        return (f"stale approval: notional ${notional:,.2f} exceeds the current "
+                f"position cap ${limits['position_cap']:,.2f} — re-run the "
+                f"decision engine under current config")
+    budget = limits["budget"]
+    if budget is not None and limits["committed"] + notional > budget + CAP_EPSILON:
+        return (f"stale approval: ${notional:,.2f} would push total spend to "
+                f"${limits['committed'] + notional:,.2f}, over the "
+                f"${budget:,.2f} trading budget")
+    return None
 
 
 # ---------- Submission + confirmation ----------
@@ -215,17 +261,23 @@ def poll_until_final(client, order_id) -> dict:
     last_filled = 0.0
     last_price: float | None = None
     while True:
-        order = client.get_order_by_id(order_id)
-        last_status = _order_status(order)
-        last_filled = float(order.filled_qty or 0)
-        last_price = float(order.filled_avg_price) if order.filled_avg_price else None
-        if last_status == "filled":
-            return {"status": "filled", "filled_qty": last_filled,
-                    "filled_avg_price": last_price, "detail": None}
-        if last_status in TERMINAL_FAILURES:
-            return {"status": last_status, "filled_qty": last_filled,
-                    "filled_avg_price": last_price,
-                    "detail": f"order ended '{last_status}' at Alpaca"}
+        # A transient error mid-poll must not crash the run and strand the
+        # execution row: keep polling on the last known state until deadline.
+        try:
+            order = client.get_order_by_id(order_id)
+        except Exception as exc:
+            print(f"poll error for {order_id} (will retry until timeout): {exc}")
+        else:
+            last_status = _order_status(order)
+            last_filled = float(order.filled_qty or 0)
+            last_price = float(order.filled_avg_price) if order.filled_avg_price else None
+            if last_status == "filled":
+                return {"status": "filled", "filled_qty": last_filled,
+                        "filled_avg_price": last_price, "detail": None}
+            if last_status in TERMINAL_FAILURES:
+                return {"status": last_status, "filled_qty": last_filled,
+                        "filled_avg_price": last_price,
+                        "detail": f"order ended '{last_status}' at Alpaca"}
         if time.monotonic() >= deadline:
             break
         time.sleep(POLL_INTERVAL_S)
@@ -241,7 +293,8 @@ def poll_until_final(client, order_id) -> dict:
                       f"{POLL_TIMEOUT_S:.0f}s — verify at Alpaca before any re-run"}
 
 
-def execute_order(client, decision_id: int, order: dict, run_date: str) -> str:
+def execute_order(client, decision_id: int, order: dict, run_date: str,
+                  limits: dict | None = None) -> str:
     """Submit one approved order, confirm its outcome, log everything.
     Returns the final status recorded in the executions table."""
     from alpaca.common.exceptions import APIError
@@ -262,6 +315,18 @@ def execute_order(client, decision_id: int, order: dict, run_date: str) -> str:
         # benign: anything else means today's intent is still unexecuted and
         # the run must stay red until a human resolves it.
         return "skipped_duplicate" if prior_status == "filled" else "skipped_unresolved"
+
+    if limits is not None:
+        reason = revalidation_failure(order, limits)
+        if reason:
+            _insert_execution(run_date, decision_id, client_order_id, ticker, side,
+                              "refused_stale", detail=reason)
+            print(f"REFUSED {ticker} {side}: {reason}")
+            return "refused_stale"
+        if side == "buy":
+            # Claim the dollars now, success or not: over-counting a failed
+            # submit can only under-spend later in this run, never overspend.
+            limits["committed"] += float(order["notional"])
 
     qty: float | None = None
     if side == "sell":
@@ -328,17 +393,36 @@ def main() -> int:
         print(f"FATAL: {exc}")
         print("Refusing to submit anything. See PROMOTION_CHECKLIST.md.")
         return 2
+    except RuntimeError as exc:
+        print(f"FATAL: {exc}")
+        return 2
 
-    run_date = date.today().isoformat()
+    run_date = today_iso()
     orders = load_approved_orders(run_date)
     if not orders:
         print(f"No approved orders for {run_date} in {DB_PATH.name}. Nothing to submit.")
         return 0
 
+    # If today's limits can't be read, nothing can be revalidated — fail
+    # closed and submit nothing rather than trust approval-time sizing.
+    try:
+        limits = current_limits(client)
+    except Exception as exc:
+        print(f"FATAL: could not read account state to revalidate orders: {exc}")
+        print("Nothing submitted.")
+        return 1
+
     results: dict[str, str] = {}
     for decision_id, order in orders:
         key = f"{order['ticker']}:{order['side']}:decision#{decision_id}"
-        results[key] = execute_order(client, decision_id, order, run_date)
+        # One order's unexpected failure (network, parsing) must not strand
+        # the rest of today's approved orders unattempted.
+        try:
+            results[key] = execute_order(client, decision_id, order, run_date, limits)
+        except Exception as exc:
+            results[key] = "error"
+            print(f"ERROR {order['ticker']} {order['side']}: unexpected failure "
+                  f"(check the executions table before any re-run): {exc}")
 
     print(json.dumps({"run_date": run_date, "results": results}, indent=2))
     return 0 if all(status in OK_FINALS for status in results.values()) else 1

@@ -25,12 +25,13 @@ import json
 import sqlite3
 import sys
 from contextlib import closing
-from datetime import date, datetime, timezone
+from datetime import datetime, timezone
 from pathlib import Path
 
 import yaml
 
-from execute import PaperGuardError, make_paper_client
+from execute import _EXECUTIONS_DDL, PaperGuardError, make_paper_client
+from trading_day import today_iso
 
 # Explicit UTF-8: Windows defaults to a legacy code page; snapshots, signals,
 # and the digest all carry text that may not fit it.
@@ -260,6 +261,33 @@ def load_executions(run_date: str) -> list[dict]:
         "SELECT * FROM executions WHERE run_date = ? ORDER BY id", (run_date,))]
 
 
+def unexecuted_prior_approvals(run_date: str) -> list[str]:
+    """Approved orders from PREVIOUS days that never produced an execution
+    attempt. execute.py only ever submits same-day approvals, so these expired
+    silently — surface them every day until a human resolves the decision row
+    (re-run the engine for a fresh approval, or record why it was dropped)."""
+    with closing(_connect()) as conn:
+        try:
+            conn.execute(_EXECUTIONS_DDL)  # query must run even if execute.py never has
+            rows = conn.execute(
+                "SELECT run_date, order_json FROM decisions "
+                "WHERE verdict = 'approved' AND order_json IS NOT NULL "
+                "AND run_date < ? AND id NOT IN (SELECT decision_id FROM executions) "
+                "ORDER BY id", (run_date,)).fetchall()
+        except sqlite3.OperationalError:
+            return []  # no decisions table yet: nothing was ever approved
+    out = []
+    for r in rows:
+        o = json.loads(r["order_json"])
+        size = (f"${o['notional']:,.2f}" if o.get("notional") is not None
+                else f"qty {o.get('qty', '?')}")
+        out.append(f"approved {o.get('side', '?')} {o.get('ticker', '?')} ({size}) "
+                   f"from {r['run_date']} was never executed and has expired — "
+                   f"execute.py only submits same-day approvals; re-run the "
+                   f"decision engine if the trade is still wanted")
+    return out
+
+
 def load_manifest(run_date: str) -> dict | None:
     path = ROOT / "data" / run_date / "_manifest.json"
     if not path.exists():
@@ -307,11 +335,36 @@ def _render_benchmark(account: dict, bench: dict | None,
           f"| Current value | {_usd(account['equity'])} | {_usd(bench['value'])} |",
           f"| Cumulative P&L | {_signed_usd(sys_pnl)} ({_pct(sys_pnl / deposits) if deposits else 'n/a'}) "
           f"| {_signed_usd(bench_pnl)} ({_pct(bench_pnl / deposits) if deposits else 'n/a'}) |",
-          "",
-          f"**System minus benchmark: {_signed_usd(sys_pnl - bench_pnl)}** "
-          f"(positive = the system is beating buy-and-hold {BENCHMARK})", "",
-          f"- {BENCHMARK} position: {bench['shares']:.4f} shares, valued at "
-          f"{_usd(voo_price)} ({voo_label})"]
+          ""]
+
+    # With a trading budget, the account's idle cash above the bankroll can
+    # never be deployed: comparing it against a fully-invested counterfactual
+    # would just measure that idle cash. The honest headline scales the
+    # benchmark's return to the bankroll the system actually plays with;
+    # system P&L needs no scaling (idle cash contributes exactly zero to it).
+    budget = CONFIG["risk"].get("trading_budget_dollars")
+    bankroll = min(account["equity"], budget) if budget else None
+    if bankroll and deposits > bankroll:
+        bench_scaled = (bench_pnl / deposits) * bankroll
+        L += [f"**System minus benchmark on the {_usd(bankroll)} bankroll: "
+              f"{_signed_usd(sys_pnl - bench_scaled)}** "
+              f"(system trading P&L {_signed_usd(sys_pnl)} vs {BENCHMARK} "
+              f"{_signed_usd(bench_scaled)} on the same {_usd(bankroll)}; "
+              f"positive = the system is beating buy-and-hold {BENCHMARK})", "",
+              f"_The full-account comparison ({_signed_usd(sys_pnl - bench_pnl)}) is "
+              f"distorted by {_usd(account['equity'] - bankroll)} of idle cash the "
+              f"trading budget bars the system from deploying; the bankroll-scaled "
+              f"figure above is the honest one._", ""]
+    else:
+        L += [f"**System minus benchmark: {_signed_usd(sys_pnl - bench_pnl)}** "
+              f"(positive = the system is beating buy-and-hold {BENCHMARK})", ""]
+
+    if voo_price is not None:
+        L += [f"- {BENCHMARK} position: {bench['shares']:.4f} shares, valued at "
+              f"{_usd(voo_price)} ({voo_label})"]
+    else:
+        L += [f"- {BENCHMARK} position: {bench['shares']:.4f} shares — no current "
+              f"{BENCHMARK} price on hand (run fetch_data.py); cash counted at face value"]
     if bench["unpriced_cash"]:
         L += [f"- {_usd(bench['unpriced_cash'])} deposited but awaiting its first "
               f"{BENCHMARK} close — counted at face value until then"]
@@ -436,12 +489,15 @@ def render_digest(run_date: str, account: dict, positions: list[dict],
 # ---------- Entry point ----------
 
 def main() -> int:
-    run_date = date.today().isoformat()
+    run_date = today_iso()
     warnings: list[str] = []
 
     try:
         client = make_paper_client()  # read-only here, but the guard still applies
     except PaperGuardError as exc:
+        print(f"FATAL: {exc}")
+        return 2
+    except RuntimeError as exc:
         print(f"FATAL: {exc}")
         return 2
     try:
@@ -465,6 +521,7 @@ def main() -> int:
         warnings.append(f"latest {BENCHMARK} snapshot is from {snap_date}, not today "
                         f"— benchmark valued at a stale price")
     warnings += price_open_deposits(closes)
+    warnings += unexecuted_prior_approvals(run_date)
     voo_label = f"latest actual {BENCHMARK} price, snapshot {snap_date}" if snap_date else ""
 
     digest = render_digest(
