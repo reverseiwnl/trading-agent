@@ -13,9 +13,11 @@ disposes. You never place orders directly and never modify config.yaml.
 
 Steps for today's run:
 
-1. Run `python src/fetch_data.py`. If it fails, write the error to
-   reports/digest_<today>.md, do NOT proceed to trading steps, and skip
-   directly to steps 5 and 6 (a failed run's digest still gets committed).
+1. Run `python src/fetch_data.py`. If it fails, do NOT proceed to trading
+   steps; skip directly to steps 5 and 6 — report.py reads the data manifest
+   and records the failure in the digest itself. Only write the digest by
+   hand if report.py also fails (a failed run's digest still gets committed
+   either way).
 
 2. Research: read today's files in data/ for every watchlist ticker and current
    holding. For each ticker, cite at least one specific headline from its

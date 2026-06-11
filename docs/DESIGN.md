@@ -311,3 +311,77 @@ Fable 5 is the next step up if Opus still under-engages with sources.
   trades.db. Running execute.py on 2026-06-11 would submit one of them and
   blow the new budget's sizing intent. Do not execute today; the rows are
   inert from tomorrow's run_date onward.
+
+## 2026-06-11 — Codebase-review hardening (submission revalidation, Chicago dates, benchmark scaling)
+
+Fixes from a full codebase review; all behavior changes are listed here, the
+review itself surfaced them in chat. 70 tests pass (was 56).
+
+- **execute.py revalidates at submission time.** Approved orders sit in
+  trades.db while config.yaml or the account changes underneath them — the
+  review found a live example: a $3,250 JNJ buy approved under pre-budget
+  sizing, still pending for 2026-06-11, 13x the new $250 cap. execute.py now
+  re-checks every buy's notional against the CURRENT position cap and trading
+  budget (including dollars committed earlier in the same run) and refuses
+  violations as `refused_stale` (exit 1, surfaced in the digest). Refusals
+  never reach Alpaca, so they don't trip the duplicate guard; re-approval
+  under current rules stays the decision engine's job. The two stale JNJ rows
+  in trades.db are now inert on every future day.
+- **One definition of "today": src/trading_day.py (America/Chicago).** All
+  run_date stamps and signal-date checks previously used machine-local
+  date.today(); on the UTC cloud host an 11 PM Chicago run stamped the NEXT
+  day's run_date onto stale data (observed 2026-06-10/11 — that is exactly
+  how the stale JNJ approval became "today's"). tzdata added to requirements
+  for Windows.
+- **Expired approvals are surfaced, not silent.** execute.py only submits
+  same-day approvals, so an approved order that was never executed simply
+  fell off the radar. report.py now warns in the digest, every day, about any
+  prior-day approved order with no execution attempt, until a human resolves
+  the decision row.
+- **Sector cap counts pending buys.** Buys approved earlier today but not yet
+  filled consumed budget but not sector headroom, so a second run could
+  overshoot a sector cap. They now count toward their sector, same
+  never-assume-a-fill rationale as everything else.
+- **One buy per ticker per day, enforced at approval.** client_order_id is
+  (date, ticker, side), so a second same-day buy approval could never submit;
+  after the first one FILLED, the engine would happily approve a phantom.
+  approved_buy_tickers() now blocks it with an explicit rejection.
+- **Unknown sector now rejects a buy** instead of parking the ticker in its
+  own bucket (which fragmented — i.e. quietly loosened — the real sector's
+  cap). Existing positions still count in their own bucket; only NEW buys
+  require a classified sector. Missing data is never a pass.
+- **Circuit breaker ignores cash flows.** equity − last_equity includes
+  deposits/withdrawals: a $150 withdrawal would freeze buys as a phantom
+  "loss"; a deposit could mask a real one. Today's CSD/CSW activities are now
+  subtracted; if the endpoint fails, the unadjusted (freeze-prone, fail-safe)
+  number is used.
+- **Benchmark headline is bankroll-scaled.** With the $5k budget, comparing
+  full account equity against a fully-invested VOO counterfactual mostly
+  measures the $95k of idle cash the system may not touch. The digest now
+  headlines system trading P&L vs VOO's return scaled to the bankroll (system
+  P&L needs no scaling — idle cash contributes exactly zero to it); the
+  full-account figure stays visible with an explicit caveat. No DB or seed
+  changes: benchmark_deposits is untouched.
+- **report.py no longer crashes when no VOO price exists** (first run /
+  failed fetch: _usd(None) TypeError killed the digest on exactly the path
+  that exists for failed runs). Renders at face value with a warning instead.
+- **flatten.py: cancellation is verified, shorts close correctly.** cancel is
+  async at Alpaca — flatten now waits until no order is open (30s) and
+  refuses to proceed otherwise; a negative-qty position is closed with a BUY
+  (selling abs(qty) would have doubled a short).
+- **Robustness:** execute.py catches non-APIError exceptions per order (one
+  network failure no longer strands the rest of the day's orders) and keeps
+  polling through transient errors until timeout; missing-credential
+  RuntimeErrors exit cleanly (2) instead of tracebacks in execute/report/
+  flatten; decision_engine logs an unreadable signals file as a run rejection
+  instead of crashing, and exits 2 if portfolio state can't be read; Signal
+  timestamps must parse as ISO-8601.
+- **ROUTINE_PROMPT step 1 contradiction fixed** (hand-written failure digest
+  was overwritten by report.py in step 5; report.py is now the writer of
+  record for failure digests too). NOTE: the live cloud routine's prompt must
+  be re-synced from ROUTINE_PROMPT.md to pick this up.
+- Known gaps left deliberately: budget is current-cost-basis (realized losses
+  free budget — matches the documented spend-terms decision); same-day
+  deposits after benchmark inception are not mirrored; partial fills release
+  their unfilled remainder's budget claim only via the conservative
+  pending-buy path.

@@ -16,12 +16,14 @@ import sqlite3
 import sys
 from collections import defaultdict
 from contextlib import closing
-from datetime import date, datetime, timezone
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Literal
 
 import yaml
-from pydantic import BaseModel, Field, ValidationError
+from pydantic import BaseModel, Field, ValidationError, field_validator
+
+from trading_day import today_iso
 
 # Explicit UTF-8 everywhere: Windows defaults file I/O and console output to a
 # legacy code page, and a thesis or error string outside it must never crash or
@@ -51,6 +53,12 @@ class Signal(BaseModel):
     sources: list[str] = Field(min_length=1)
     timestamp: str
 
+    @field_validator("timestamp")
+    @classmethod
+    def _timestamp_is_iso8601(cls, v: str) -> str:
+        datetime.fromisoformat(v)  # raises ValueError -> ValidationError
+        return v
+
 
 class DailySignals(BaseModel):
     model_config = {"extra": "forbid"}
@@ -62,15 +70,17 @@ class DailySignals(BaseModel):
 
 # ---------- Portfolio state ----------
 
-def load_sector(ticker: str, run_date: str | None = None) -> str:
-    """Sector from today's data/ snapshot. Unknown -> the ticker itself, so an
-    unclassified position can never hide inside an existing sector bucket."""
-    snap = ROOT / "data" / (run_date or date.today().isoformat()) / f"{ticker}.json"
+def load_sector(ticker: str, run_date: str | None = None) -> str | None:
+    """Sector from today's data/ snapshot, or None when unknown. A None sector
+    blocks new buys (the sector cap cannot be enforced without it) and parks an
+    existing position's exposure in its own bucket — it never hides inside, or
+    escapes from, a real sector's cap accounting."""
+    snap = ROOT / "data" / (run_date or today_iso()) / f"{ticker}.json"
     try:
         sector = json.loads(snap.read_text(encoding="utf-8")).get("fundamentals", {}).get("sector")
     except (OSError, ValueError):
         sector = None
-    return sector or ticker
+    return sector or None
 
 
 def get_portfolio_state() -> dict:
@@ -90,9 +100,23 @@ def get_portfolio_state() -> dict:
     account = client.get_account()
     equity = float(account.equity)
     last_equity = float(account.last_equity or 0)
-    intraday_pnl_pct = (equity - last_equity) / last_equity if last_equity else 0.0
 
-    intraday_pnl_dollars = equity - last_equity
+    # Deposits/withdrawals move equity without being P&L: a withdrawal must not
+    # masquerade as a crash (false breaker trip) and a deposit must not mask a
+    # real loss. Subtract today's net cash flow; if the activities endpoint
+    # fails, fall back to the unadjusted number (a phantom freeze is the safe
+    # failure mode, a masked loss is not — and only a same-day deposit could
+    # mask one).
+    net_cash_flow = 0.0
+    try:
+        activities = client.get("/account/activities",
+                                {"activity_types": "CSD,CSW", "date": today_iso()}) or []
+        net_cash_flow = sum(float(a["net_amount"]) for a in activities)
+    except Exception:
+        pass
+
+    intraday_pnl_dollars = equity - last_equity - net_cash_flow
+    intraday_pnl_pct = intraday_pnl_dollars / last_equity if last_equity else 0.0
 
     positions: dict[str, dict] = {}
     for p in client.get_all_positions():
@@ -138,15 +162,20 @@ def stop_loss_sweep(portfolio: dict) -> list[dict]:
 
 
 def apply_risk_rules(parsed: DailySignals, portfolio: dict,
-                     prior_buys: dict[str, float] | None = None) -> tuple[list[dict], list[dict]]:
+                     prior_buys: dict[str, float] | None = None,
+                     prior_buy_tickers: set[str] | None = None) -> tuple[list[dict], list[dict]]:
     """Return (approved_orders, rejections). Each rejection carries a reason —
     rejections are logged and alerted, never silently dropped.
 
     prior_buys maps ticker -> notional of buys already approved earlier today
-    but not yet verifiably filled. They consume budget and block a same-day
-    re-approval (execute.py would skip the duplicate client_order_id anyway,
-    so a re-approval could never actually execute — rejecting it keeps the
-    log honest).
+    but not yet verifiably filled. They consume budget AND sector headroom
+    (a fill is never assumed for sells, so a pending buy must be assumed for
+    exposure), and block a same-day re-approval.
+
+    prior_buy_tickers is every ticker with ANY approved buy today, filled or
+    not (defaults to prior_buys' keys). One buy per ticker per day: execute.py
+    derives client_order_id from (date, ticker, side), so a second approval
+    could never actually execute — rejecting it keeps the log honest.
 
     When risk.trading_budget_dollars is set, the engine's bankroll is
     min(equity, budget): sizing, position/sector caps, and the circuit breaker
@@ -157,6 +186,8 @@ def apply_risk_rules(parsed: DailySignals, portfolio: dict,
     budget = risk.get("trading_budget_dollars")
     bankroll = min(equity, budget) if budget else equity
     prior_buys = prior_buys or {}
+    prior_buy_tickers = (set(prior_buys) if prior_buy_tickers is None
+                         else prior_buy_tickers | set(prior_buys))
     positions = portfolio["positions"]
     sectors = portfolio.get("sectors", {})
     approved: list[dict] = []
@@ -165,10 +196,16 @@ def apply_risk_rules(parsed: DailySignals, portfolio: dict,
     def reject(sig: Signal, reason: str) -> None:
         rejected.append({"signal": sig.model_dump(), "reason": reason})
 
-    def sector_of(ticker: str) -> str:
+    def sector_of(ticker: str) -> str | None:
+        """Real sector, or None when no snapshot classified the ticker."""
         if ticker in positions:
-            return positions[ticker].get("sector") or ticker
-        return sectors.get(ticker) or ticker
+            return positions[ticker].get("sector")
+        return sectors.get(ticker)
+
+    def sector_bucket(ticker: str) -> str:
+        """Exposure bucket: the real sector, or the ticker's own bucket when
+        unclassified — unknown exposure never hides inside a real sector."""
+        return sector_of(ticker) or ticker
 
     # Risk exits first: independent of signals, exempt from the daily trade cap.
     stop_orders = stop_loss_sweep(portfolio)
@@ -189,12 +226,15 @@ def apply_risk_rules(parsed: DailySignals, portfolio: dict,
         buys_frozen = portfolio["intraday_pnl_pct"] <= -risk["daily_loss_circuit_breaker"]
 
     # Exposure already on the books, plus what this run approves as it goes.
-    # Pending sells do NOT free up room: a fill is never assumed.
+    # Pending sells do NOT free up room: a fill is never assumed. Buys approved
+    # earlier today count toward their sector for the same reason.
     sector_exposure: defaultdict[str, float] = defaultdict(float)
     for ticker, pos in positions.items():
-        sector_exposure[sector_of(ticker)] += pos["market_value"]
+        sector_exposure[sector_bucket(ticker)] += pos["market_value"]
     pending_by_ticker: defaultdict[str, float] = defaultdict(float)
     pending_by_sector: defaultdict[str, float] = defaultdict(float)
+    for ticker, notional in prior_buys.items():
+        pending_by_sector[sector_bucket(ticker)] += notional
 
     # Budget accounting is in SPEND terms (cost basis + buys awaiting
     # execution), not market value: "$5k able to be spent" means dollars out
@@ -225,6 +265,11 @@ def apply_risk_rules(parsed: DailySignals, portfolio: dict,
                 reject(sig, "an approved buy for this ticker is already pending "
                             "execution today")
                 continue
+            if sig.ticker in prior_buy_tickers:
+                reject(sig, "a buy for this ticker was already approved and executed "
+                            "today — one buy per ticker per day (the shared "
+                            "client_order_id could never submit a second one)")
+                continue
             if buys_frozen:
                 reject(sig, "circuit breaker: buys frozen")
                 continue
@@ -245,6 +290,10 @@ def apply_risk_rules(parsed: DailySignals, portfolio: dict,
                 continue
 
             sector = sector_of(sig.ticker)
+            if sector is None:
+                reject(sig, "sector unknown — no data snapshot classifies this "
+                            "ticker, so the sector cap cannot be enforced; no trade")
+                continue
             sector_cap = bankroll * risk["max_sector_pct"]
             would_expose = sector_exposure[sector] + pending_by_sector[sector] + dollars
             if would_expose > sector_cap + CAP_EPSILON:
@@ -308,6 +357,22 @@ def pending_buy_notional(run_date: str) -> dict[str, float]:
     return pending
 
 
+def approved_buy_tickers(run_date: str) -> set[str]:
+    """Every ticker with ANY approved buy today, filled or not. Used to block
+    a same-day re-approval after a fill: client_order_id is (date, ticker,
+    side), so a second buy could never submit — approving it would put an
+    order in the log that silently cannot happen."""
+    try:
+        with closing(sqlite3.connect(DB_PATH)) as conn:
+            rows = conn.execute(
+                "SELECT order_json FROM decisions WHERE run_date = ? "
+                "AND verdict = 'approved' AND order_json IS NOT NULL", (run_date,)).fetchall()
+    except sqlite3.OperationalError:
+        return set()  # no decisions table yet: the engine has never run
+    return {order["ticker"] for (order_json,) in rows
+            if (order := json.loads(order_json)).get("side") == "buy"}
+
+
 # ---------- Decision log (data/trades.db) ----------
 
 _DECISIONS_DDL = """
@@ -367,8 +432,15 @@ def main() -> int:
         print("usage: python src/decision_engine.py <signals.json>")
         return 2
 
-    run_date = date.today().isoformat()
-    raw = Path(sys.argv[1]).read_text(encoding="utf-8")
+    run_date = today_iso()
+    signals_path = Path(sys.argv[1])
+    try:
+        raw = signals_path.read_text(encoding="utf-8")
+    except OSError as e:
+        print(f"REJECTED: cannot read signals file {signals_path}. NO TRADES TODAY.")
+        print(e)
+        log_run_rejection(run_date, str(signals_path), f"signals file unreadable: {e}")
+        return 1
     try:
         parsed = DailySignals.model_validate_json(raw)
     except ValidationError as e:
@@ -382,8 +454,14 @@ def main() -> int:
         log_run_rejection(run_date, raw, f"signals dated {parsed.date}, expected {run_date}")
         return 1
 
-    portfolio = get_portfolio_state()
-    approved, rejected = apply_risk_rules(parsed, portfolio, pending_buy_notional(run_date))
+    try:
+        portfolio = get_portfolio_state()
+    except Exception as e:
+        print(f"FATAL: could not read portfolio state, no decisions made: {e}")
+        return 2
+
+    approved, rejected = apply_risk_rules(parsed, portfolio, pending_buy_notional(run_date),
+                                          approved_buy_tickers(run_date))
     log_decisions(run_date, approved, rejected)
 
     print(json.dumps({"approved": approved, "rejected": rejected}, indent=2))

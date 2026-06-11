@@ -9,15 +9,17 @@ from __future__ import annotations
 import json
 import sqlite3
 from contextlib import closing
-from datetime import date, datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import pytest
 
 import decision_engine as de
 import execute as ex
 import report as rp
+from trading_day import trading_today
 
-TODAY = date.today().isoformat()
+TODAY = trading_today().isoformat()
+YESTERDAY = (trading_today() - timedelta(days=1)).isoformat()
 THESIS = "A sufficiently detailed test thesis explaining this trade."
 
 ACCOUNT = {"equity": 101_000.0, "cash": 1_000.0, "intraday_pnl_pct": 0.001}
@@ -212,8 +214,12 @@ def test_digest_shows_verdicts_executions_benchmark_and_errors(tmp_db):
     digest = render(tmp_db)
 
     # benchmark: system pnl = 101000-100000 = +1000; bench = 200*502.5 = 100500
-    # -> bench pnl +500; system ahead by +500. The honesty number must be exact.
-    assert "**System minus benchmark: +$500.00**" in digest
+    # -> bench pnl +500. The $5k budget makes the bankroll-scaled figure the
+    # headline: VOO's +0.50% on the $5k bankroll is +$25, system ahead by
+    # +$975. The honesty number must be exact, and the full-account figure
+    # (+$500) must still be visible with its idle-cash caveat.
+    assert "**System minus benchmark on the $5,000.00 bankroll: +$975.00**" in digest
+    assert "(+$500.00) is distorted by $96,000.00 of idle cash" in digest
     assert "+$1,000.00 (+1.00%)" in digest      # system cumulative P&L
     assert "+$500.00 (+0.50%)" in digest        # VOO counterfactual P&L
     assert "200.0000 shares" in digest
@@ -232,9 +238,43 @@ def test_digest_shows_verdicts_executions_benchmark_and_errors(tmp_db):
 
 
 def test_digest_when_system_lags_benchmark_shows_negative(tmp_db):
-    digest = render(tmp_db, account={**ACCOUNT, "equity": 100_100.0})
-    # system pnl +100 vs bench +500 -> honesty number is negative
-    assert "**System minus benchmark: -$400.00**" in digest
+    digest = render(tmp_db, account={**ACCOUNT, "equity": 99_900.0})
+    # system pnl -100 vs VOO +25 on the bankroll -> honesty number is negative
+    assert "**System minus benchmark on the $5,000.00 bankroll: -$125.00**" in digest
+
+
+def test_benchmark_renders_unpriced_without_crashing(tmp_db):
+    # First-ever run with NO VOO snapshot at all: the seed is unpriced cash and
+    # voo_price is None. The digest must still render (this is exactly the
+    # "fetch failed, still write the digest" path), valued at face.
+    rp.ensure_inception(100_000.0, TODAY)
+    bench = rp.benchmark_state(None)
+    digest = render(tmp_db, bench=bench, voo_price=None, voo_label="")
+    assert "no current VOO price on hand" in digest
+    assert "$100,000.00" in digest  # face-value cash still shown
+
+
+def test_unexecuted_prior_approval_surfaces_as_warning(tmp_db):
+    # An approved order execute.py never attempted (it only submits same-day
+    # approvals) must be flagged every day until a human resolves it — never
+    # silently dropped.
+    de.log_decisions(YESTERDAY, [{"ticker": "JNJ", "side": "buy",
+                                  "notional": 3250.0, "thesis": THESIS,
+                                  "signal": None}], [])
+    warnings = rp.unexecuted_prior_approvals(TODAY)
+    assert len(warnings) == 1
+    assert "JNJ" in warnings[0] and "$3,250.00" in warnings[0]
+    assert "never executed" in warnings[0]
+
+    # today's own approvals are NOT flagged (execution is still pending)...
+    de.log_decisions(TODAY, [{"ticker": "MSFT", "side": "buy", "notional": 200.0,
+                              "thesis": THESIS, "signal": None}], [])
+    assert len(rp.unexecuted_prior_approvals(TODAY)) == 1
+
+    # ...and any execution attempt, even a failed one, clears the flag.
+    ex._insert_execution(YESTERDAY, 1, f"{YESTERDAY}-JNJ-buy", "JNJ", "buy",
+                         "submit_failed")
+    assert rp.unexecuted_prior_approvals(TODAY) == []
 
 
 def test_digest_handles_a_day_where_nothing_ran(tmp_db):

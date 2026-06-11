@@ -20,13 +20,15 @@ from __future__ import annotations
 import json
 import os
 import sys
-from datetime import date, datetime, timedelta, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Literal
 
 import yaml
 from dotenv import load_dotenv
 from pydantic import BaseModel, Field
+
+from trading_day import today_iso
 
 # Windows defaults console output and Path.read_text/write_text to a legacy
 # code page (cp1252); headlines and error strings routinely contain characters
@@ -221,7 +223,7 @@ def fetch_snapshot(ticker: str) -> Snapshot:
 
 def main() -> int:
     load_dotenv(ROOT / ".env")
-    run_date = date.today().isoformat()
+    run_date = today_iso()
     out_dir = ROOT / "data" / run_date
     out_dir.mkdir(parents=True, exist_ok=True)
 

@@ -12,14 +12,15 @@ from __future__ import annotations
 import json
 import sqlite3
 import sys
-from datetime import date, datetime, timedelta, timezone
+from datetime import datetime, timedelta, timezone
 
 import pytest
 
 import decision_engine as de
+from trading_day import trading_today
 
-TODAY = date.today().isoformat()
-YESTERDAY = (date.today() - timedelta(days=1)).isoformat()
+TODAY = trading_today().isoformat()
+YESTERDAY = (trading_today() - timedelta(days=1)).isoformat()
 THESIS = "A sufficiently detailed test thesis explaining this trade."
 
 
@@ -38,11 +39,18 @@ def position(qty: float, cost_basis: float, current_price: float, sector: str) -
             "market_value": qty * current_price, "sector": sector}
 
 
+WATCHLIST_SECTORS = {"AAPL": "Technology", "MSFT": "Technology", "NVDA": "Technology",
+                     "GOOGL": "Communication Services", "JNJ": "Healthcare",
+                     "UNH": "Healthcare"}
+
+
 @pytest.fixture
 def portfolio() -> dict:
-    """$100k equity, flat on the day, no positions, no sector data (so unknown
-    tickers default to themselves as a sector)."""
-    return {"equity": 100_000.0, "intraday_pnl_pct": 0.0, "positions": {}, "sectors": {}}
+    """$100k equity, flat on the day, no positions, every watchlist ticker
+    classified (a buy with an UNKNOWN sector is rejected outright — covered
+    by its own test)."""
+    return {"equity": 100_000.0, "intraday_pnl_pct": 0.0, "positions": {},
+            "sectors": dict(WATCHLIST_SECTORS)}
 
 
 @pytest.fixture
@@ -255,6 +263,56 @@ def test_prior_pending_buy_blocks_reapproval_and_consumes_budget(portfolio):
     approved, rejected = de.apply_risk_rules(parsed, portfolio, prior_big)
     assert approved == []  # 4900 + 200 > 5000
     assert "trading budget" in rejected[0]["reason"]
+
+
+def test_sector_cap_counts_pending_buys_from_earlier_runs(portfolio):
+    # $900 of Healthcare (JNJ) approved earlier today is still awaiting
+    # execution. A fill is never assumed, so a $200 UNH buy must see Healthcare
+    # at $1,100 > the $1k sector cap — not at $200.
+    prior = {"JNJ": 900.0}
+    parsed = daily([signal("UNH", "buy", 0.8)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio, prior)
+    assert approved == []
+    assert "sector cap" in rejected[0]["reason"]
+
+
+def test_buy_with_unknown_sector_rejected(portfolio):
+    # No snapshot classified NVDA today: the sector cap cannot be enforced,
+    # so the buy is rejected — missing data is never a pass.
+    del portfolio["sectors"]["NVDA"]
+    parsed = daily([signal("NVDA", "buy", 0.9)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert approved == []
+    assert "sector unknown" in rejected[0]["reason"]
+
+
+def test_buy_already_filled_today_not_reapproved(portfolio):
+    # MSFT's buy already executed today (so it is NOT pending), but the shared
+    # per-day client_order_id means a second buy could never submit —
+    # approving one would put a phantom trade in the log.
+    parsed = daily([signal("MSFT", "buy", 0.9)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio, {}, {"MSFT"})
+    assert approved == []
+    assert "already approved and executed" in rejected[0]["reason"]
+
+
+def test_approved_buy_tickers_includes_filled_and_pending(tmp_db):
+    de.log_decisions(TODAY, [
+        {"ticker": "JNJ", "side": "buy", "notional": 200.0, "thesis": THESIS,
+         "signal": signal("JNJ", "buy", 0.65).model_dump()},
+        {"ticker": "MSFT", "side": "sell", "qty": "all", "thesis": THESIS,
+         "signal": signal("MSFT", "sell", 0.8).model_dump()},
+    ], [])
+    assert de.approved_buy_tickers(TODAY) == {"JNJ"}  # sells don't count
+    assert de.approved_buy_tickers(YESTERDAY) == set()
+
+
+def test_signal_timestamp_must_be_iso8601():
+    with pytest.raises(Exception):
+        signal_kwargs = dict(ticker="AAPL", action="buy", conviction=0.8,
+                             thesis=THESIS, sources=["test"],
+                             timestamp="yesterday at noon-ish")
+        de.Signal(**signal_kwargs)
 
 
 def test_circuit_breaker_measured_in_dollars_against_bankroll(portfolio):
