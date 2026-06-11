@@ -261,3 +261,16 @@ Backtested rules engine -> add LLM research layer -> paper trade combined system
 - **execute.py remains outside the routine** (human-in-the-loop unchanged from
   the local design): the routine proposes and reports; submitting approved
   orders stays a manual, reviewed act.
+
+## 2026-06-10 — routine model bumped to Opus 4.8; headline-citation rule added
+
+First cloud run (Sonnet 4.6) claimed "no news items in today's data pull"
+while the snapshots it had just committed held 6-10 headlines per ticker — a
+diligence failure, not a data failure. Two-part fix: (1) step 2 of the routine
+prompt now requires citing at least one specific headline per ticker, or an
+explicit statement that the ticker's headline list was empty (makes skipping
+the news detectable in every digest); (2) routine model raised to
+claude-opus-4-8 — the research step is the system's only source of edge and
+runs once daily, so paying for quality there is the right asymmetry while the
+deterministic engine caps the downside. Revisit after a week of digests;
+Fable 5 is the next step up if Opus still under-engages with sources.

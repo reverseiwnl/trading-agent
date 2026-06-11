@@ -18,9 +18,11 @@ Steps for today's run:
    directly to steps 5 and 6 (a failed run's digest still gets committed).
 
 2. Research: read today's files in data/ for every watchlist ticker and current
-   holding. Use web search to check for breaking news on current holdings only
-   (earnings, guidance changes, regulatory actions, management changes). Ignore
-   price-target chatter and rumor-grade sources.
+   holding. For each ticker, cite at least one specific headline from its
+   snapshot (in the thesis or market_context) — or state explicitly that that
+   ticker's headline list was empty. Use web search to check for breaking news
+   on current holdings only (earnings, guidance changes, regulatory actions,
+   management changes). Ignore price-target chatter and rumor-grade sources.
 
 3. Write signals to signals/signals_<today>.json conforming exactly to
    signals/schema.json. Rules for yourself:
