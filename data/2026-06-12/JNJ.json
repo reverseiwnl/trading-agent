@@ -1,0 +1,313 @@
+{
+  "ticker": "JNJ",
+  "as_of": "2026-06-12T12:03:29.338056+00:00",
+  "price": 238.31,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-04-30",
+      "open": 228.125,
+      "high": 231.14,
+      "low": 228.05,
+      "close": 229.935,
+      "volume": 284837.0
+    },
+    {
+      "date": "2026-05-01",
+      "open": 229.05,
+      "high": 229.68,
+      "low": 227.15,
+      "close": 227.17,
+      "volume": 247712.0
+    },
+    {
+      "date": "2026-05-04",
+      "open": 224.87,
+      "high": 227.055,
+      "low": 223.59,
+      "close": 224.14,
+      "volume": 398219.0
+    },
+    {
+      "date": "2026-05-05",
+      "open": 225.39,
+      "high": 226.45,
+      "low": 224.93,
+      "close": 225.57,
+      "volume": 224679.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 225.705,
+      "high": 226.105,
+      "low": 222.96,
+      "close": 224.48,
+      "volume": 275183.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 224.435,
+      "high": 224.56,
+      "low": 220.68,
+      "close": 222.46,
+      "volume": 268320.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 223.08,
+      "high": 223.2,
+      "low": 220.955,
+      "close": 221.27,
+      "volume": 241678.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 221.2,
+      "high": 223.16,
+      "low": 220.42,
+      "close": 221.4,
+      "volume": 211941.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 223.05,
+      "high": 227.605,
+      "low": 221.795,
+      "close": 224.34,
+      "volume": 289023.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 225.78,
+      "high": 230.775,
+      "low": 225.68,
+      "close": 230.455,
+      "volume": 371179.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 230.93,
+      "high": 231.76,
+      "low": 229.28,
+      "close": 230.8,
+      "volume": 151174.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 230.52,
+      "high": 232.04,
+      "low": 226.55,
+      "close": 226.75,
+      "volume": 260269.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 227.11,
+      "high": 229.68,
+      "low": 225.91,
+      "close": 228.93,
+      "volume": 234232.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 228.935,
+      "high": 230.795,
+      "low": 228.385,
+      "close": 230.14,
+      "volume": 358980.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 231.89,
+      "high": 231.94,
+      "low": 229.19,
+      "close": 229.27,
+      "volume": 191463.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 228.89,
+      "high": 231.87,
+      "low": 227.455,
+      "close": 231.795,
+      "volume": 158009.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 232.85,
+      "high": 235.42,
+      "low": 232.85,
+      "close": 234.37,
+      "volume": 308416.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 232.97,
+      "high": 233.19,
+      "low": 229.08,
+      "close": 230.31,
+      "volume": 271670.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 229.41,
+      "high": 232.75,
+      "low": 229.22,
+      "close": 231.28,
+      "volume": 217694.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 231.15,
+      "high": 231.865,
+      "low": 229.87,
+      "close": 230.8,
+      "volume": 314611.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 231.175,
+      "high": 231.2,
+      "low": 224.585,
+      "close": 225.23,
+      "volume": 289363.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 223.285,
+      "high": 224.41,
+      "low": 220.84,
+      "close": 223.5,
+      "volume": 409646.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 222.89,
+      "high": 225.29,
+      "low": 221.47,
+      "close": 222.91,
+      "volume": 225278.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 222.55,
+      "high": 224.85,
+      "low": 222.54,
+      "close": 223.61,
+      "volume": 238590.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 227.67,
+      "high": 228.63,
+      "low": 225.98,
+      "close": 228.27,
+      "volume": 224474.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 229.85,
+      "high": 235.215,
+      "low": 229.55,
+      "close": 232.71,
+      "volume": 326310.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 233.135,
+      "high": 234.93,
+      "low": 230.66,
+      "close": 232.15,
+      "volume": 256806.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 232.63,
+      "high": 237.625,
+      "low": 230.66,
+      "close": 237.0,
+      "volume": 325263.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 238.42,
+      "high": 240.88,
+      "low": 237.43,
+      "close": 238.52,
+      "volume": 352737.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 239.8,
+      "high": 241.55,
+      "low": 238.18,
+      "close": 238.31,
+      "volume": 262713.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General",
+    "marketCap": 573712039936,
+    "trailingPE": 27.616453,
+    "forwardPE": 18.740553,
+    "priceToBook": 7.0647693,
+    "dividendYield": 2.25,
+    "beta": 0.256,
+    "fiftyTwoWeekHigh": 251.71,
+    "fiftyTwoWeekLow": 149.04,
+    "earningsTimestamp": 1784118600,
+    "shortName": "Johnson & Johnson"
+  },
+  "headlines": [
+    {
+      "headline": "Johnson & Johnson Hits Target With IMAAVY In Rare Blood Disorder",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/06/53148538/johnson-johnson-hits-target-with-imaavy-in-rare-blood-disorder",
+      "published_at": "2026-06-11T16:40:38+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Expands US Roll-Out Of Latest Advancement In Presbyopia-Correcting Intraocular Lenses",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53137094/johnson-johnson-expands-us-roll-out-of-latest-advancement-in-presbyopia-correcting-intraocular-lense",
+      "published_at": "2026-06-11T11:47:00+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Says IMAAVY Showed Rapid And Durable Anemia Improvement In wAIHA, A Disease With No FDA-Approved Therapies",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53133785/johnson-johnson-says-imaavy-showed-rapid-and-durable-anemia-improvement-in-waiha-a-disease-with-no-f",
+      "published_at": "2026-06-11T07:05:42+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Fined $32M From Los Angeles Jury Over 2024 Death Of California Woman From Pleural Mesothelioma Due To Exposure To Asbestos-Contaminated Talc Product",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53119906/johnson-johnson-fined-32m-from-los-angeles-jury-over-2024-death-of-california-woman-from-pleural-mes",
+      "published_at": "2026-06-10T15:25:52+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Executive Speaking At Goldman Sachs Healthcare Conference Says Psoriasis Pill Icotyde Has Roughly 4,500 Prescribers Now, DTC Campaign Is Expected Soon",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/JNJ",
+      "published_at": "2026-06-09T14:52:26+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson's Nipocalimab Gets U.K.'s Medicines And Healthcare Products Regulatory Agency Authorization To Treat Adults And Adolescents With Generalised Myasthenia Gravis",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53083429/johnson-johnsons-nipocalimab-gets-u-k-s-medicines-and-healthcare-products-regulatory-agency-authoriz",
+      "published_at": "2026-06-09T12:39:12+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson To Acquire Firefly Bio For $1B In All-Cash Deal, Transaction To Complete Late 2026",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/JNJ",
+      "published_at": "2026-06-08T12:02:44+00:00"
+    },
+    {
+      "headline": "U.S. State Dept Announces Nearly $38M In Additional Funding Toward The Department's Ongoing Ebola Response Efforts",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/general/biotech/26/06/53039143/u-s-state-dept-announces-nearly-38m-in-additional-funding-toward-the-departments-ongoing-ebola-re",
+      "published_at": "2026-06-05T18:24:46+00:00"
+    }
+  ],
+  "errors": []
+}

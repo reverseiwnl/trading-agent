@@ -1,0 +1,307 @@
+{
+  "ticker": "VOO",
+  "as_of": "2026-06-12T12:03:31.191533+00:00",
+  "price": 678.49,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-04-30",
+      "open": 657.025,
+      "high": 661.595,
+      "low": 653.51,
+      "close": 660.845,
+      "volume": 33000.0
+    },
+    {
+      "date": "2026-05-01",
+      "open": 663.13,
+      "high": 666.4,
+      "low": 662.63,
+      "close": 662.63,
+      "volume": 81726.0
+    },
+    {
+      "date": "2026-05-04",
+      "open": 662.035,
+      "high": 663.83,
+      "low": 658.0,
+      "close": 660.1,
+      "volume": 60305.0
+    },
+    {
+      "date": "2026-05-05",
+      "open": 663.59,
+      "high": 666.48,
+      "low": 663.34,
+      "close": 665.3,
+      "volume": 103833.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 669.46,
+      "high": 675.3,
+      "low": 669.3,
+      "close": 674.6,
+      "volume": 84291.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 675.825,
+      "high": 676.72,
+      "low": 671.36,
+      "close": 672.27,
+      "volume": 48816.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 675.54,
+      "high": 678.39,
+      "low": 675.54,
+      "close": 677.99,
+      "volume": 47085.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 677.385,
+      "high": 681.005,
+      "low": 677.31,
+      "close": 679.485,
+      "volume": 33128.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 677.53,
+      "high": 679.195,
+      "low": 672.85,
+      "close": 678.5,
+      "volume": 122463.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 678.9,
+      "high": 683.86,
+      "low": 676.25,
+      "close": 682.52,
+      "volume": 65498.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 683.74,
+      "high": 688.93,
+      "low": 683.69,
+      "close": 687.76,
+      "volume": 36677.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 682.06,
+      "high": 683.4,
+      "low": 678.52,
+      "close": 679.31,
+      "volume": 80535.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 680.13,
+      "high": 681.26,
+      "low": 674.48,
+      "close": 678.88,
+      "volume": 54304.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 675.67,
+      "high": 678.08,
+      "low": 672.78,
+      "close": 674.61,
+      "volume": 80868.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 676.315,
+      "high": 681.72,
+      "low": 675.09,
+      "close": 681.485,
+      "volume": 74551.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 679.11,
+      "high": 684.825,
+      "low": 677.81,
+      "close": 682.89,
+      "volume": 69663.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 685.93,
+      "high": 688.24,
+      "low": 684.52,
+      "close": 685.4,
+      "volume": 46623.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 689.66,
+      "high": 691.44,
+      "low": 688.145,
+      "close": 689.99,
+      "volume": 42082.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 690.38,
+      "high": 690.665,
+      "low": 688.005,
+      "close": 689.97,
+      "volume": 70162.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 689.76,
+      "high": 694.27,
+      "low": 688.88,
+      "close": 693.68,
+      "volume": 52564.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 695.0,
+      "high": 696.865,
+      "low": 693.91,
+      "close": 695.79,
+      "volume": 45650.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 694.81,
+      "high": 698.75,
+      "low": 694.06,
+      "close": 697.32,
+      "volume": 82549.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 696.26,
+      "high": 699.09,
+      "low": 695.91,
+      "close": 698.31,
+      "volume": 69512.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 697.11,
+      "high": 697.57,
+      "low": 692.96,
+      "close": 693.19,
+      "volume": 34479.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 691.31,
+      "high": 697.14,
+      "low": 690.98,
+      "close": 696.125,
+      "volume": 28712.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 691.65,
+      "high": 691.99,
+      "low": 676.575,
+      "close": 677.91,
+      "volume": 60026.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 683.415,
+      "high": 685.12,
+      "low": 678.725,
+      "close": 679.77,
+      "volume": 54319.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 683.56,
+      "high": 686.69,
+      "low": 664.51,
+      "close": 677.69,
+      "volume": 167933.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 674.27,
+      "high": 678.6,
+      "low": 667.0,
+      "close": 667.09,
+      "volume": 56395.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 670.02,
+      "high": 680.265,
+      "low": 666.27,
+      "close": 678.49,
+      "volume": 146979.0
+    }
+  ],
+  "fundamentals": {
+    "trailingPE": 27.741663,
+    "priceToBook": 1.7352514,
+    "dividendYield": 1.03,
+    "fiftyTwoWeekHigh": 699.15,
+    "fiftyTwoWeekLow": 545.75,
+    "shortName": "Vanguard S&P 500 ETF"
+  },
+  "headlines": [
+    {
+      "headline": "Nvidia Millionaires Can't Afford To Sell, ETFs May Be Their Escape Route",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/06/53153136/nvidia-millionaires-cant-afford-to-sell-etfs-may-be-their-escape-route",
+      "published_at": "2026-06-11T19:01:23+00:00"
+    },
+    {
+      "headline": "Chips Lead Nasdaq 100 Rebound, Oracle Sinks 11%: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53149689/semiconductors-memory-nasdaq-100-rebound-oracle-sinks-markets-thursday",
+      "published_at": "2026-06-11T17:14:37+00:00"
+    },
+    {
+      "headline": "Oil Jumps On Iran Strikes, Nasdaq 100 Falls On Hot Inflation: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53124067/oil-jumps-iran-strikes-tech-rout-drags-stocks-cpi-4-2-percent-markets-wednesday",
+      "published_at": "2026-06-10T17:13:55+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Tumbles Over 3%, Marvell Crashes 12%: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53097400/nasdaq-100-craters-marvell-sinks-ai-rally-at-risk-markets-tuesday",
+      "published_at": "2026-06-09T17:26:33+00:00"
+    },
+    {
+      "headline": "The 3% Delusion: New CBO Data Exposes The Hole In Trump's Fiscal Pledges",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/economic-data/26/06/53083515/the-3-delusion-new-cbo-data-exposes-the-hole-in-trumps-fiscal-pledges",
+      "published_at": "2026-06-09T12:42:36+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Rallies Over 2% On Iran-Israel Ceasefire: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/53067229/nasdaq-100-rallies-intel-jumps-iran-ceasefire-stocks-markets-monday",
+      "published_at": "2026-06-08T17:13:10+00:00"
+    },
+    {
+      "headline": "Marvell's S&P 500 Inclusion Could Spark Fresh ETF Buying Despite Valuation Concerns",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/06/53063946/marvells-sp-500-inclusion-could-spark-fresh-etf-buying-despite-valuation-concerns",
+      "published_at": "2026-06-08T15:46:41+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Plunges Over 3% On Rate Hike Jitters, Bitcoin's Bloodbath Worsens: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/53036948/nasdaq-100-plunges-over-3-on-rate-hike-jitters-bitcoins-bloodbath-worsens-stock-market-today",
+      "published_at": "2026-06-05T17:27:12+00:00"
+    }
+  ],
+  "errors": []
+}

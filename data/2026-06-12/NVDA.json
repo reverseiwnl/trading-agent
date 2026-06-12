@@ -1,0 +1,325 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-06-12T12:03:30.217584+00:00",
+  "price": 204.86,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-04-30",
+      "open": 209.93,
+      "high": 210.29,
+      "low": 198.705,
+      "close": 199.54,
+      "volume": 6416731.0
+    },
+    {
+      "date": "2026-05-01",
+      "open": 201.13,
+      "high": 202.97,
+      "low": 197.13,
+      "close": 198.39,
+      "volume": 3090371.0
+    },
+    {
+      "date": "2026-05-04",
+      "open": 199.38,
+      "high": 201.7,
+      "low": 194.76,
+      "close": 198.56,
+      "volume": 4068999.0
+    },
+    {
+      "date": "2026-05-05",
+      "open": 199.11,
+      "high": 200.205,
+      "low": 196.03,
+      "close": 196.5,
+      "volume": 4024517.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 199.85,
+      "high": 208.25,
+      "low": 198.67,
+      "close": 207.67,
+      "volume": 6398711.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 208.27,
+      "high": 214.19,
+      "low": 206.51,
+      "close": 211.56,
+      "volume": 4455651.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 213.01,
+      "high": 217.785,
+      "low": 212.92,
+      "close": 215.21,
+      "volume": 4181656.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 214.03,
+      "high": 222.3,
+      "low": 213.91,
+      "close": 219.45,
+      "volume": 4141456.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 218.445,
+      "high": 223.74,
+      "low": 214.955,
+      "close": 220.88,
+      "volume": 4058854.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 224.96,
+      "high": 227.8,
+      "low": 221.62,
+      "close": 225.91,
+      "volume": 3138586.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 229.73,
+      "high": 236.54,
+      "low": 229.41,
+      "close": 235.78,
+      "volume": 4515441.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 229.76,
+      "high": 231.5,
+      "low": 224.3,
+      "close": 225.305,
+      "volume": 3774303.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 229.4,
+      "high": 229.97,
+      "low": 218.39,
+      "close": 222.35,
+      "volume": 4041240.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 219.715,
+      "high": 224.47,
+      "low": 217.97,
+      "close": 220.645,
+      "volume": 4057698.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 223.175,
+      "high": 226.1,
+      "low": 220.5,
+      "close": 223.48,
+      "volume": 4890857.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 222.31,
+      "high": 227.35,
+      "low": 217.94,
+      "close": 219.47,
+      "volume": 6222899.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 220.98,
+      "high": 220.98,
+      "low": 214.9,
+      "close": 215.34,
+      "volume": 4838641.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 216.64,
+      "high": 218.17,
+      "low": 212.0,
+      "close": 214.785,
+      "volume": 4935639.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 214.12,
+      "high": 214.15,
+      "low": 208.79,
+      "close": 212.575,
+      "volume": 3280775.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 211.26,
+      "high": 215.5,
+      "low": 211.255,
+      "close": 214.27,
+      "volume": 4856752.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 214.55,
+      "high": 217.8,
+      "low": 211.145,
+      "close": 211.155,
+      "volume": 5876800.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 215.81,
+      "high": 224.86,
+      "low": 215.75,
+      "close": 224.42,
+      "volume": 6738901.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 227.205,
+      "high": 232.28,
+      "low": 221.36,
+      "close": 222.82,
+      "volume": 7100206.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 221.75,
+      "high": 222.78,
+      "low": 214.54,
+      "close": 214.86,
+      "volume": 4741903.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 213.775,
+      "high": 221.59,
+      "low": 210.97,
+      "close": 218.64,
+      "volume": 5374242.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 214.575,
+      "high": 214.81,
+      "low": 204.35,
+      "close": 205.17,
+      "volume": 8060300.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 209.645,
+      "high": 210.36,
+      "low": 206.02,
+      "close": 208.66,
+      "volume": 3893430.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 210.74,
+      "high": 211.37,
+      "low": 199.34,
+      "close": 208.2,
+      "volume": 5608889.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 204.305,
+      "high": 207.185,
+      "low": 199.93,
+      "close": 200.41,
+      "volume": 4910869.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 201.33,
+      "high": 205.64,
+      "low": 199.54,
+      "close": 204.86,
+      "volume": 5648208.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 4962156281856,
+    "trailingPE": 31.325687,
+    "forwardPE": 16.097084,
+    "priceToBook": 25.386618,
+    "dividendYield": 0.49,
+    "beta": 2.202,
+    "fiftyTwoWeekHigh": 236.54,
+    "fiftyTwoWeekLow": 140.85,
+    "earningsTimestamp": 1787774400,
+    "shortName": "NVIDIA Corporation"
+  },
+  "headlines": [
+    {
+      "headline": "Sharon AI Signs Six-Year AI Infrastructure Compute Collaboration With Nvidia To Deploy 72MW Of New Data Center Capacity In Australia",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53162312/sharon-ai-signs-six-year-ai-infrastructure-compute-collaboration-with-nvidia-to-deploy-72mw-of-new-d",
+      "published_at": "2026-06-12T11:24:16+00:00"
+    },
+    {
+      "headline": "Conflict Minerals Are Allegedly Reaching NVIDIA, Microsoft Supply Chains: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/commodities/26/06/53161847/conflict-minerals-are-allegedly-reaching-nvidia-microsoft-supply-chains-report",
+      "published_at": "2026-06-12T10:57:40+00:00"
+    },
+    {
+      "headline": "Chinese Customers Can Now Order NVIDIA's Vera CPUs: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53161253/chinese-customers-can-now-order-nvidias-vera-cpus-report",
+      "published_at": "2026-06-12T10:06:33+00:00"
+    },
+    {
+      "headline": "Investigating NVIDIA's Standing In Semiconductors &amp; Semiconductor Equipment Industry Compared To Competitors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/news/26/06/53160974/investigating-nvidias-standing-in-semiconductors-amp-semiconductor-equipment-industry-compared-to-c",
+      "published_at": "2026-06-12T09:58:27+00:00"
+    },
+    {
+      "headline": "Nvidia Taps Veteran Lobbyist To Help Navigate Washington's China Chip Curbs",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53160498/nvidia-hires-former-intel-lobbying-chief-bruce-andrews-to-lead-washington-strategy-as-us-china-ai-chip-tensions-intensify",
+      "published_at": "2026-06-12T08:57:06+00:00"
+    },
+    {
+      "headline": "Elon Musk's SpaceX Is Coming To Solana Via Tokenized Shares, Says Foundation President",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/06/53160174/elon-musks-spacex-solana-tokenized-shares-foundation-president",
+      "published_at": "2026-06-12T07:53:32+00:00"
+    },
+    {
+      "headline": "'Nvidia Begins Vera CPU Sales Pitch To Chinese Clients, Sources Say' - Reuters Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53160159/nvidia-begins-vera-cpu-sales-pitch-to-chinese-clients-sources-say-reuters-exclusive",
+      "published_at": "2026-06-12T07:51:34+00:00"
+    },
+    {
+      "headline": "SpaceX's Biggest Believers Say The IPO Is A Ticket To A 'Star Trek Future' — Here's What Jim Cramer, Alexis Ohanian And Others Are Talking About",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/ipos/26/06/53159999/spacex-bulls-say-ipo-is-a-ticket-to-a-star-trek-future",
+      "published_at": "2026-06-12T07:13:21+00:00"
+    },
+    {
+      "headline": "Nvidia Millionaires Can't Afford To Sell, ETFs May Be Their Escape Route",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/06/53153136/nvidia-millionaires-cant-afford-to-sell-etfs-may-be-their-escape-route",
+      "published_at": "2026-06-11T19:01:23+00:00"
+    },
+    {
+      "headline": "Stock Market Whipsawed on Trump Statements, SpaceX Euphoria, ECB Rate Hike, Hotter PPI but Prior Revised",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/53152453/stock-market-whipsawed-on-trump-statements-spacex-euphoria-ecb-rate-hike-hotter-ppi-but-prior-revised",
+      "published_at": "2026-06-11T18:30:46+00:00"
+    }
+  ],
+  "errors": []
+}

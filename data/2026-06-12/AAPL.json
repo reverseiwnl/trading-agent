@@ -1,0 +1,325 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-06-12T12:03:27.425386+00:00",
+  "price": 295.56,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-04-30",
+      "open": 270.465,
+      "high": 275.91,
+      "low": 268.16,
+      "close": 271.145,
+      "volume": 1907969.0
+    },
+    {
+      "date": "2026-05-01",
+      "open": 278.855,
+      "high": 287.21,
+      "low": 278.39,
+      "close": 280.11,
+      "volume": 2917475.0
+    },
+    {
+      "date": "2026-05-04",
+      "open": 279.655,
+      "high": 280.6,
+      "low": 274.88,
+      "close": 276.87,
+      "volume": 1389755.0
+    },
+    {
+      "date": "2026-05-05",
+      "open": 276.94,
+      "high": 284.555,
+      "low": 276.51,
+      "close": 284.18,
+      "volume": 1525477.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 281.92,
+      "high": 288.0,
+      "low": 281.09,
+      "close": 287.46,
+      "volume": 1379120.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 289.19,
+      "high": 292.12,
+      "low": 285.81,
+      "close": 287.4,
+      "volume": 1222813.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 290.11,
+      "high": 294.76,
+      "low": 290.065,
+      "close": 293.15,
+      "volume": 1591559.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 292.025,
+      "high": 293.87,
+      "low": 290.25,
+      "close": 292.66,
+      "volume": 1134574.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 293.2,
+      "high": 295.26,
+      "low": 292.67,
+      "close": 294.72,
+      "volume": 1063424.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 293.5,
+      "high": 300.91,
+      "low": 293.5,
+      "close": 298.95,
+      "volume": 1263486.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 300.0,
+      "high": 300.45,
+      "low": 295.43,
+      "close": 298.25,
+      "volume": 951426.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 297.94,
+      "high": 303.19,
+      "low": 296.6,
+      "close": 300.19,
+      "volume": 1241262.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 300.19,
+      "high": 300.625,
+      "low": 294.92,
+      "close": 297.85,
+      "volume": 1082963.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 297.145,
+      "high": 300.51,
+      "low": 296.36,
+      "close": 299.14,
+      "volume": 1046682.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 298.18,
+      "high": 302.8,
+      "low": 298.12,
+      "close": 302.2,
+      "volume": 1610963.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 301.25,
+      "high": 305.53,
+      "low": 300.41,
+      "close": 305.07,
+      "volume": 1190868.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 306.06,
+      "high": 311.39,
+      "low": 306.06,
+      "close": 308.81,
+      "volume": 1275219.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 309.53,
+      "high": 311.82,
+      "low": 307.67,
+      "close": 308.33,
+      "volume": 1366307.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 308.41,
+      "high": 313.22,
+      "low": 308.38,
+      "close": 310.93,
+      "volume": 1681995.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 310.605,
+      "high": 312.72,
+      "low": 309.57,
+      "close": 312.45,
+      "volume": 1514315.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 311.915,
+      "high": 315.0,
+      "low": 309.54,
+      "close": 312.01,
+      "volume": 1619960.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 309.6,
+      "high": 310.94,
+      "low": 305.03,
+      "close": 306.265,
+      "volume": 1790146.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 307.36,
+      "high": 315.44,
+      "low": 306.73,
+      "close": 315.195,
+      "volume": 1291226.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 314.38,
+      "high": 316.92,
+      "low": 308.865,
+      "close": 310.22,
+      "volume": 1966854.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 313.335,
+      "high": 313.38,
+      "low": 309.675,
+      "close": 311.21,
+      "volume": 1230648.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 312.77,
+      "high": 315.14,
+      "low": 307.16,
+      "close": 307.59,
+      "volume": 2188603.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 308.615,
+      "high": 317.38,
+      "low": 301.18,
+      "close": 301.57,
+      "volume": 2762619.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 300.155,
+      "high": 300.59,
+      "low": 287.79,
+      "close": 290.36,
+      "volume": 2491376.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 290.7,
+      "high": 294.74,
+      "low": 287.38,
+      "close": 291.48,
+      "volume": 1843917.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 293.395,
+      "high": 296.995,
+      "low": 289.62,
+      "close": 295.48,
+      "volume": 1372585.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "marketCap": 4342023192576,
+    "trailingPE": 35.83394,
+    "forwardPE": 30.810581,
+    "priceToBook": 40.720387,
+    "dividendYield": 0.37,
+    "beta": 1.086,
+    "fiftyTwoWeekHigh": 317.4,
+    "fiftyTwoWeekLow": 195.07,
+    "earningsTimestamp": 1777579200,
+    "shortName": "Apple Inc."
+  },
+  "headlines": [
+    {
+      "headline": "Conflict Minerals Are Allegedly Reaching NVIDIA, Microsoft Supply Chains: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/commodities/26/06/53161847/conflict-minerals-are-allegedly-reaching-nvidia-microsoft-supply-chains-report",
+      "published_at": "2026-06-12T10:57:40+00:00"
+    },
+    {
+      "headline": "Waymo Is Charging $29.99 A Month For Faster Robotaxi Pickups — Here's What Subscribers Get",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53159659/waymo-is-charging-29-99-a-month-for-faster-robotaxi-pickups-heres-what-subscribers-get",
+      "published_at": "2026-06-12T06:38:17+00:00"
+    },
+    {
+      "headline": "Nvidia Millionaires Can't Afford To Sell, ETFs May Be Their Escape Route",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/06/53153136/nvidia-millionaires-cant-afford-to-sell-etfs-may-be-their-escape-route",
+      "published_at": "2026-06-11T19:01:23+00:00"
+    },
+    {
+      "headline": "Stock Market Whipsawed on Trump Statements, SpaceX Euphoria, ECB Rate Hike, Hotter PPI but Prior Revised",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/53152453/stock-market-whipsawed-on-trump-statements-spacex-euphoria-ecb-rate-hike-hotter-ppi-but-prior-revised",
+      "published_at": "2026-06-11T18:30:46+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today's Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/options/26/06/53150365/10-information-technology-stocks-whale-activity-in-todays-session",
+      "published_at": "2026-06-11T17:35:22+00:00"
+    },
+    {
+      "headline": "Retail Is Cashing Out Of Micron, AMD, AI Stocks Ahead Of SpaceX IPO",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53148534/retail-is-cashing-out-of-micron-amd-ai-stocks-ahead-of-spacex-ipo",
+      "published_at": "2026-06-11T16:40:22+00:00"
+    },
+    {
+      "headline": "Intel Stock Gets Rare Double Upgrade From Bank of America: Here's Why",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53145150/intel-bofa-double-upgrade-best-year-since-1975",
+      "published_at": "2026-06-11T15:07:32+00:00"
+    },
+    {
+      "headline": "Does Apple's 8% Tumble Prove It's Too Little Too Late For Siri AI Ambitions?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/53141566/does-apples-8-tumble-prove-its-too-little-too-late-for-siri-ai-ambitions",
+      "published_at": "2026-06-11T13:56:14+00:00"
+    },
+    {
+      "headline": "Inquiry Into Apple's Competitor Dynamics In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/news/26/06/53134872/inquiry-into-apples-competitor-dynamics-in-technology-hardware-storage-amp-peripherals-industry",
+      "published_at": "2026-06-11T09:59:08+00:00"
+    },
+    {
+      "headline": "Jim Cramer Describes Bitcoin, Gold As 'Bad Money' Getting Dumped For SpaceX — But 'Good Money' Apple And Nvidia Not Spared Either",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/06/53133001/jim-cramer-describes-bitcoin-gold-as-bad-money-getting-dumped-for-spacex",
+      "published_at": "2026-06-11T03:10:10+00:00"
+    }
+  ],
+  "errors": []
+}

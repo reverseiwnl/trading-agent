@@ -1,0 +1,77 @@
+{
+  "date": "2026-06-12",
+  "market_context": "Whipsaw tape: Benzinga 06-11 'Stock Market Whipsawed on Trump Statements, SpaceX Euphoria, ECB Rate Hike, Hotter PPI but Prior Revised'; 06-10 CPI printed 4.2% with Nasdaq 100 falling on hot inflation plus oil up on Iran strikes, after a 06-08 ceasefire rally and a 06-09 3% Nasdaq tumble. Macro is headline-driven and unstable, so the default today is hold across the tech names; the one action is a small JNJ buy where a multi-week catalyst stream remains unfalsified. Portfolio is currently 100% cash (no holdings per data/2026-06-12/_manifest.json), so no holdings news sweep was required.",
+  "signals": [
+    {
+      "ticker": "JNJ",
+      "action": "buy",
+      "conviction": 0.65,
+      "thesis": "Catalyst stream intact: 06-11 IMAAVY hit target in wAIHA (rapid, durable anemia improvement; no FDA-approved therapies) and US rollout of presbyopia-correcting IOLs expanded; follows 06-09 MHRA nipocalimab authorization and 06-08 $1B Firefly Bio deal. Close 238.31 holds above the 230 falsification line in a weak tape (beta 0.26). Falsified if close < 230 or talc litigation escalates beyond the 06-10 $32M LA mesothelioma verdict.",
+      "sources": [
+        "Benzinga 2026-06-11: Johnson & Johnson Hits Target With IMAAVY In Rare Blood Disorder",
+        "Benzinga 2026-06-11: Johnson & Johnson Expands US Roll-Out Of Latest Advancement In Presbyopia-Correcting Intraocular Lenses",
+        "Benzinga 2026-06-10: Johnson & Johnson Fined $32M From Los Angeles Jury Over 2024 Death... Asbestos-Contaminated Talc Product (risk factor)",
+        "data/2026-06-12/JNJ.json (30-day bars: close 238.31; 52w 149.04-251.71)"
+      ],
+      "timestamp": "2026-06-12T12:20:00+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Conflicting picture: Benzinga 06-11 'Does Apple's 8% Tumble Prove It's Too Little Too Late For Siri AI Ambitions?' questions the AI narrative, yet the 06-11 close of 295.48 is a 30-day high (vs 271.15 on 04-30). No new product or earnings catalyst in today's snapshot; in a whipsaw macro tape this is a hold. Re-evaluate on concrete Siri/AI product news or a break below 280.",
+      "sources": [
+        "Benzinga 2026-06-11: Does Apple's 8% Tumble Prove It's Too Little Too Late For Siri AI Ambitions?",
+        "data/2026-06-12/AAPL.json (30-day bars: close 295.48)"
+      ],
+      "timestamp": "2026-06-12T12:20:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Soft drift, no actionable catalyst: close 390.26 vs 407.77 on 04-30, near the 52w low end (356.28-555.45). Headlines are cost-side: Benzinga 06-11 'Microsoft's Xbox Unit Braces For Major Layoffs' and a 06-12 report of conflict minerals allegedly reaching NVIDIA/Microsoft supply chains. Neither is a clean buy or sell trigger; hold and re-evaluate if supply-chain allegations draw regulatory action.",
+      "sources": [
+        "Benzinga 2026-06-11: Microsoft's Xbox Unit Braces For Major Layoffs",
+        "Benzinga 2026-06-12: Conflict Minerals Are Allegedly Reaching NVIDIA, Microsoft Supply Chains: Report",
+        "data/2026-06-12/MSFT.json (30-day bars: close 390.26)"
+      ],
+      "timestamp": "2026-06-12T12:20:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Mixed signals cancel out: positive — Benzinga 06-12 'Chinese Customers Can Now Order NVIDIA's Vera CPUs' (Reuters-sourced) and Sharon AI's six-year 72MW Australia compute deal; negative — 06-12 conflict-minerals supply chain report and ongoing China chip-curb politics (new DC lobbyist hire). Beta 2.2 in a tape swinging 3% per day on macro headlines argues against initiating. Hold; revisit if Vera China sales get official confirmation.",
+      "sources": [
+        "Benzinga 2026-06-12: 'Nvidia Begins Vera CPU Sales Pitch To Chinese Clients, Sources Say' - Reuters Exclusive",
+        "Benzinga 2026-06-12: Sharon AI Signs Six-Year AI Infrastructure Compute Collaboration With Nvidia To Deploy 72MW Of New Data Center Capacity In Australia",
+        "data/2026-06-12/NVDA.json (30-day bars: close 204.86; beta 2.202)"
+      ],
+      "timestamp": "2026-06-12T12:20:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Regulatory overhang vs AI demand: Benzinga 06-12 'Meta, Google, Snap In Spotlight As UK Reportedly Eyes Crackdown On Harmful Social Media For Under-16s' adds regulatory risk, while 06-11 'Anthropic Turns To Google To Back Massive Data Center Push' supports the cloud/AI demand story. Price 357.87 is well off the 30-day high (~385) and the 52w high 408.61. No falsifiable edge either way today; hold.",
+      "sources": [
+        "Benzinga 2026-06-12: Meta, Google, Snap In Spotlight As UK Reportedly Eyes Crackdown On 'Harmful' Social Media For Under-16s (UPDATED)",
+        "Benzinga 2026-06-11: Anthropic Turns To Google To Back Massive Data Center Push",
+        "data/2026-06-12/GOOGL.json (30-day bars: close 357.87)"
+      ],
+      "timestamp": "2026-06-12T12:20:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Strong run, fresh regulatory cloud: close 405.27 is near the 52w high 415.98 after a 30-day climb from 370.58, but Benzinga 06-11 'Patients Denied Care, Then Approved Later? Federal Watchdog Raises Medicare Advantage Concerns' puts the core MA business under scrutiny. Chasing the move into a watchdog headline has poor risk/reward; hold. Falsifier for a future buy: the MA concern fading with price holding above 400.",
+      "sources": [
+        "Benzinga 2026-06-11: Patients Denied Care, Then Approved Later? Federal Watchdog Raises Medicare Advantage Concerns",
+        "data/2026-06-12/UNH.json (30-day bars: close 405.27; 52w high 415.98)"
+      ],
+      "timestamp": "2026-06-12T12:20:00+00:00"
+    }
+  ]
+}

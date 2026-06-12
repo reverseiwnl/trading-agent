@@ -1,0 +1,325 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-06-12T12:03:29.765283+00:00",
+  "price": 391.47,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-04-30",
+      "open": 410.56,
+      "high": 414.39,
+      "low": 398.01,
+      "close": 407.765,
+      "volume": 2376015.0
+    },
+    {
+      "date": "2026-05-01",
+      "open": 411.91,
+      "high": 417.07,
+      "low": 410.52,
+      "close": 414.46,
+      "volume": 946070.0
+    },
+    {
+      "date": "2026-05-04",
+      "open": 411.54,
+      "high": 420.705,
+      "low": 410.85,
+      "close": 413.635,
+      "volume": 789901.0
+    },
+    {
+      "date": "2026-05-05",
+      "open": 415.28,
+      "high": 416.47,
+      "low": 408.82,
+      "close": 411.33,
+      "volume": 634396.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 407.865,
+      "high": 418.26,
+      "low": 405.17,
+      "close": 413.82,
+      "volume": 764621.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 420.115,
+      "high": 427.92,
+      "low": 418.8,
+      "close": 420.79,
+      "volume": 708212.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 417.385,
+      "high": 418.57,
+      "low": 414.0,
+      "close": 414.965,
+      "volume": 818822.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 407.76,
+      "high": 412.62,
+      "low": 405.51,
+      "close": 412.62,
+      "volume": 674806.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 414.4,
+      "high": 415.44,
+      "low": 406.715,
+      "close": 407.77,
+      "volume": 897917.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 403.0,
+      "high": 406.27,
+      "low": 401.05,
+      "close": 405.09,
+      "volume": 785494.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 404.72,
+      "high": 411.795,
+      "low": 400.915,
+      "close": 409.44,
+      "volume": 794948.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 414.47,
+      "high": 428.155,
+      "low": 413.115,
+      "close": 422.0,
+      "volume": 1109396.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 416.4,
+      "high": 425.025,
+      "low": 415.64,
+      "close": 423.61,
+      "volume": 628464.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 429.885,
+      "high": 432.675,
+      "low": 416.49,
+      "close": 417.515,
+      "volume": 750391.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 414.135,
+      "high": 421.99,
+      "low": 411.31,
+      "close": 421.08,
+      "volume": 840531.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 424.72,
+      "high": 426.08,
+      "low": 415.78,
+      "close": 419.0,
+      "volume": 768373.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 419.48,
+      "high": 424.33,
+      "low": 416.36,
+      "close": 418.5,
+      "volume": 536551.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 416.575,
+      "high": 419.73,
+      "low": 413.075,
+      "close": 416.09,
+      "volume": 751245.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 410.9,
+      "high": 415.94,
+      "low": 409.66,
+      "close": 412.71,
+      "volume": 837631.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 2899615154176,
+    "trailingPE": 23.262217,
+    "forwardPE": 20.176886,
+    "priceToBook": 6.9982247,
+    "dividendYield": 0.93,
+    "beta": 1.103,
+    "fiftyTwoWeekHigh": 555.45,
+    "fiftyTwoWeekLow": 356.28,
+    "earningsTimestamp": 1777492800,
+    "shortName": "Microsoft Corporation"
+  },
+  "headlines": [
+    {
+      "headline": "Conflict Minerals Are Allegedly Reaching NVIDIA, Microsoft Supply Chains: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/commodities/26/06/53161847/conflict-minerals-are-allegedly-reaching-nvidia-microsoft-supply-chains-report",
+      "published_at": "2026-06-12T10:57:40+00:00"
+    },
+    {
+      "headline": "Google Reveals Why It Turned Down Trump Administration's Quantum Funding Deal: 'In This One Specific Case…'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53160287/google-reveals-why-it-turned-down-trump-administrations-quantum-funding-deal-in-this-one-specific-case",
+      "published_at": "2026-06-12T08:13:56+00:00"
+    },
+    {
+      "headline": "Elon Musk's SpaceX Is Coming To Solana Via Tokenized Shares, Says Foundation President",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/06/53160174/elon-musks-spacex-solana-tokenized-shares-foundation-president",
+      "published_at": "2026-06-12T07:53:32+00:00"
+    },
+    {
+      "headline": "OpenAI Buys Cloud Execution Startup Ona To Scale Agent Workloads",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/private-markets/26/06/53157373/openai-buys-cloud-execution-startup-ona-to-scale-agent-workloads",
+      "published_at": "2026-06-11T21:13:08+00:00"
+    },
+    {
+      "headline": "Nvidia Millionaires Can't Afford To Sell, ETFs May Be Their Escape Route",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/06/53153136/nvidia-millionaires-cant-afford-to-sell-etfs-may-be-their-escape-route",
+      "published_at": "2026-06-11T19:01:23+00:00"
+    },
+    {
+      "headline": "Stock Market Whipsawed on Trump Statements, SpaceX Euphoria, ECB Rate Hike, Hotter PPI but Prior Revised",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/53152453/stock-market-whipsawed-on-trump-statements-spacex-euphoria-ecb-rate-hike-hotter-ppi-but-prior-revised",
+      "published_at": "2026-06-11T18:30:46+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today's Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/options/26/06/53150365/10-information-technology-stocks-whale-activity-in-todays-session",
+      "published_at": "2026-06-11T17:35:22+00:00"
+    },
+    {
+      "headline": "Microsoft's Xbox Unit Braces For Major Layoffs",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/53148440/microsofts-xbox-unit-braces-for-major-layoffs",
+      "published_at": "2026-06-11T16:37:06+00:00"
+    },
+    {
+      "headline": "'OpenAI to Acquire Cloud Platform Ona to Support AI Agents' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/m-a/26/06/53145257/openai-to-acquire-cloud-platform-ona-to-support-ai-agents-bloomberg",
+      "published_at": "2026-06-11T15:10:17+00:00"
+    },
+    {
+      "headline": "Microsoft CEO Satya Nadella Warns Against AI Overuse: 'Don't Use Frontier Models For Non-Frontier Problems'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53135487/satya-nadella-warns-against-ai-overuse-frontier-models-non-frontier-problems",
+      "published_at": "2026-06-11T10:26:05+00:00"
+    }
+  ],
+  "errors": []
+}

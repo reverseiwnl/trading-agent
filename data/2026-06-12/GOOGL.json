@@ -1,0 +1,325 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-06-12T12:03:28.915199+00:00",
+  "price": 364.58,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-04-30",
+      "open": 374.17,
+      "high": 385.84,
+      "low": 365.87,
+      "close": 384.99,
+      "volume": 2175993.0
+    },
+    {
+      "date": "2026-05-01",
+      "open": 381.645,
+      "high": 386.7,
+      "low": 379.155,
+      "close": 385.79,
+      "volume": 1330844.0
+    },
+    {
+      "date": "2026-05-04",
+      "open": 385.625,
+      "high": 387.27,
+      "low": 379.81,
+      "close": 383.21,
+      "volume": 921651.0
+    },
+    {
+      "date": "2026-05-05",
+      "open": 386.34,
+      "high": 392.69,
+      "low": 384.05,
+      "close": 388.41,
+      "volume": 991193.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 394.27,
+      "high": 399.83,
+      "low": 392.82,
+      "close": 397.83,
+      "volume": 1071518.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 400.05,
+      "high": 400.1,
+      "low": 392.69,
+      "close": 397.89,
+      "volume": 876338.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 397.44,
+      "high": 401.89,
+      "low": 396.4,
+      "close": 400.67,
+      "volume": 865052.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 393.645,
+      "high": 397.37,
+      "low": 388.51,
+      "close": 388.64,
+      "volume": 906121.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 387.03,
+      "high": 388.4,
+      "low": 382.78,
+      "close": 387.42,
+      "volume": 879557.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 385.49,
+      "high": 403.685,
+      "low": 385.02,
+      "close": 402.63,
+      "volume": 995762.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 397.28,
+      "high": 402.925,
+      "low": 395.85,
+      "close": 401.115,
+      "volume": 892737.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 395.995,
+      "high": 399.525,
+      "low": 393.29,
+      "close": 396.75,
+      "volume": 567513.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 395.685,
+      "high": 408.57,
+      "low": 394.62,
+      "close": 396.815,
+      "volume": 925835.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 396.8,
+      "high": 396.92,
+      "low": 386.11,
+      "close": 387.75,
+      "volume": 1014449.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 387.695,
+      "high": 393.58,
+      "low": 382.95,
+      "close": 388.86,
+      "volume": 1184514.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 385.705,
+      "high": 392.42,
+      "low": 383.125,
+      "close": 387.52,
+      "volume": 657497.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 386.765,
+      "high": 388.7,
+      "low": 381.8,
+      "close": 383.03,
+      "volume": 607993.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.21,
+      "low": 382.72,
+      "close": 388.91,
+      "volume": 950634.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "marketCap": 4362981605376,
+    "trailingPE": 27.331549,
+    "forwardPE": 24.706831,
+    "priceToBook": 9.054259,
+    "dividendYield": 0.25,
+    "beta": 1.237,
+    "fiftyTwoWeekHigh": 408.61,
+    "fiftyTwoWeekLow": 162.0,
+    "earningsTimestamp": 1777492800,
+    "shortName": "Alphabet Inc."
+  },
+  "headlines": [
+    {
+      "headline": "Meta, Google, Snap In Spotlight As UK Reportedly Eyes Crackdown On 'Harmful' Social Media For Under-16s (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53055238/meta-google-snap-in-spotlight-as-uk-reportedly-eyes-crackdown-on-harmful-social-media-for-under-16s",
+      "published_at": "2026-06-08T12:30:09+00:00"
+    },
+    {
+      "headline": "Google Sounds Alarm On Active Oracle PeopleSoft Zero-Day Attacks Linked To ShinyHunters",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53161062/google-sounds-alarm-on-active-oracle-peoplesoft-zero-day-attacks-linked-to-shinyhunters",
+      "published_at": "2026-06-12T10:02:14+00:00"
+    },
+    {
+      "headline": "Google Reveals Why It Turned Down Trump Administration's Quantum Funding Deal: 'In This One Specific Case…'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53160287/google-reveals-why-it-turned-down-trump-administrations-quantum-funding-deal-in-this-one-specific-case",
+      "published_at": "2026-06-12T08:13:56+00:00"
+    },
+    {
+      "headline": "Waymo Is Charging $29.99 A Month For Faster Robotaxi Pickups — Here's What Subscribers Get",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53159659/waymo-is-charging-29-99-a-month-for-faster-robotaxi-pickups-heres-what-subscribers-get",
+      "published_at": "2026-06-12T06:38:17+00:00"
+    },
+    {
+      "headline": "Elon Musk Is A Stone's Throw Away From Becoming The World's First Trillionaire As SpaceX IPO Sends His Net Worth Soaring",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53159313/elon-musk-nears-worlds-first-trillionaire-status-as-spacex-ipo-boosts-net-worth",
+      "published_at": "2026-06-12T05:34:05+00:00"
+    },
+    {
+      "headline": "Mark Zuckerberg's $115 Million Workforce Push Gets A Sunder Pichai Follow Up Act, Alphabet CEO Says Will Train 300,000 American Tradespeople",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53159095/mark-zuckerbergs-workforce-push-gets-follow-up-from-sundar-pichai-train-300000-tradespeople",
+      "published_at": "2026-06-12T03:22:34+00:00"
+    },
+    {
+      "headline": "Anthropic Turns To Google To Back Massive Data Center Push",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/private-markets/26/06/53158178/anthropic-turns-to-google-to-back-massive-data-center-push",
+      "published_at": "2026-06-11T22:39:53+00:00"
+    },
+    {
+      "headline": "Cathie Wood, Bill Ackman Share 3 Stock Investments In Common: Can You Guess What They Are?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/53156689/cathie-wood-bill-ackman-share-3-stock-investments-in-common-can-you-guess-what-they-are",
+      "published_at": "2026-06-11T20:41:39+00:00"
+    },
+    {
+      "headline": "Google's Nationwide Expansion Into Home Listings Shakes Real Estate Incumbents",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53155162/googles-nationwide-expansion-into-home-listings-shakes-real-estate-incumbents",
+      "published_at": "2026-06-11T20:00:55+00:00"
+    },
+    {
+      "headline": "Waymo Rolls Out Waymo Premier Membership Program",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53149541/waymo-rolls-out-waymo-premier-membership-program",
+      "published_at": "2026-06-11T17:10:17+00:00"
+    }
+  ],
+  "errors": []
+}
