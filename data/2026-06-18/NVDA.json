@@ -1,0 +1,324 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-06-18T12:02:31.065333+00:00",
+  "price": 205.15,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-06",
+      "open": 199.85,
+      "high": 208.25,
+      "low": 198.67,
+      "close": 207.67,
+      "volume": 6398711.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 208.27,
+      "high": 214.19,
+      "low": 206.51,
+      "close": 211.56,
+      "volume": 4455651.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 213.01,
+      "high": 217.785,
+      "low": 212.92,
+      "close": 215.21,
+      "volume": 4181656.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 214.03,
+      "high": 222.3,
+      "low": 213.91,
+      "close": 219.45,
+      "volume": 4141456.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 218.445,
+      "high": 223.74,
+      "low": 214.955,
+      "close": 220.88,
+      "volume": 4058854.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 224.96,
+      "high": 227.8,
+      "low": 221.62,
+      "close": 225.91,
+      "volume": 3138586.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 229.73,
+      "high": 236.54,
+      "low": 229.41,
+      "close": 235.78,
+      "volume": 4515441.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 229.76,
+      "high": 231.5,
+      "low": 224.3,
+      "close": 225.305,
+      "volume": 3774303.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 229.4,
+      "high": 229.97,
+      "low": 218.39,
+      "close": 222.35,
+      "volume": 4041240.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 219.715,
+      "high": 224.47,
+      "low": 217.97,
+      "close": 220.645,
+      "volume": 4057698.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 223.175,
+      "high": 226.1,
+      "low": 220.5,
+      "close": 223.48,
+      "volume": 4890857.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 222.31,
+      "high": 227.35,
+      "low": 217.94,
+      "close": 219.47,
+      "volume": 6222899.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 220.98,
+      "high": 220.98,
+      "low": 214.9,
+      "close": 215.34,
+      "volume": 4838641.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 216.64,
+      "high": 218.17,
+      "low": 212.0,
+      "close": 214.785,
+      "volume": 4935639.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 214.12,
+      "high": 214.15,
+      "low": 208.79,
+      "close": 212.575,
+      "volume": 3280775.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 211.26,
+      "high": 215.5,
+      "low": 211.255,
+      "close": 214.27,
+      "volume": 4856752.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 214.55,
+      "high": 217.8,
+      "low": 211.145,
+      "close": 211.155,
+      "volume": 5876800.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 215.81,
+      "high": 224.86,
+      "low": 215.75,
+      "close": 224.42,
+      "volume": 6738901.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 227.205,
+      "high": 232.28,
+      "low": 221.36,
+      "close": 222.82,
+      "volume": 7100206.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 221.75,
+      "high": 222.78,
+      "low": 214.54,
+      "close": 214.86,
+      "volume": 4741903.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 213.775,
+      "high": 221.59,
+      "low": 210.97,
+      "close": 218.64,
+      "volume": 5374242.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 214.575,
+      "high": 214.81,
+      "low": 204.35,
+      "close": 205.17,
+      "volume": 8060300.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 209.645,
+      "high": 210.36,
+      "low": 206.02,
+      "close": 208.66,
+      "volume": 3893430.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 210.74,
+      "high": 211.37,
+      "low": 199.34,
+      "close": 208.2,
+      "volume": 5608889.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 204.305,
+      "high": 207.185,
+      "low": 199.93,
+      "close": 200.41,
+      "volume": 4910869.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 201.33,
+      "high": 205.64,
+      "low": 199.54,
+      "close": 204.86,
+      "volume": 5648208.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 204.5,
+      "high": 207.06,
+      "low": 203.46,
+      "close": 205.17,
+      "volume": 3923011.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 208.875,
+      "high": 212.71,
+      "low": 208.35,
+      "close": 212.46,
+      "volume": 4594335.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 211.115,
+      "high": 211.365,
+      "low": 207.31,
+      "close": 207.37,
+      "volume": 4089180.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 208.3,
+      "high": 209.2,
+      "low": 203.47,
+      "close": 204.7,
+      "volume": 3697942.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 4956827418624,
+    "trailingPE": 31.339968,
+    "forwardPE": 16.079798,
+    "priceToBook": 25.359356,
+    "beta": 2.202,
+    "fiftyTwoWeekHigh": 236.54,
+    "fiftyTwoWeekLow": 142.03,
+    "earningsTimestamp": 1787774400,
+    "shortName": "NVIDIA Corporation"
+  },
+  "headlines": [
+    {
+      "headline": "Why Is Intel Stock Soaring Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53271124/why-is-intel-stock-soaring-thursday",
+      "published_at": "2026-06-18T11:24:31+00:00"
+    },
+    {
+      "headline": "After Nvidia And Tesla, Trump Confirms Apple Has Agreed To Build Chips With Intel Amid US Manufacturing Push: 'When Was The Last Time...'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53268744/after-nvidia-and-tesla-trump-confirms-apple-has-agreed-to-build-chips-with-intel-amid-us-manufacturing-push-when-was-the-last-time",
+      "published_at": "2026-06-18T08:15:53+00:00"
+    },
+    {
+      "headline": "Nvidia Supplier SK Hynix Ships Next-Generation HBM Memory Samples To Major Customers",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53267631/nvidia-supplier-sk-hynix-ships-next-gen-hbm-samples-as-ai-demand-surges",
+      "published_at": "2026-06-18T04:36:51+00:00"
+    },
+    {
+      "headline": "Trump-Linked Rumble Rebrands To RUM Group, Unveils Quake AI After $767 Million Northern Data Deal",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53267321/trump-linked-rumble-rebrands-to-rum-group-unveils-quake-ai-after-northern-data-deal",
+      "published_at": "2026-06-18T02:22:34+00:00"
+    },
+    {
+      "headline": "Fed Holds Rates Steady; Retail Sales Remain Resilient",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/53262681/fed-holds-rates-steady-retail-sales-remain-resilient",
+      "published_at": "2026-06-17T19:47:11+00:00"
+    },
+    {
+      "headline": "A SpaceX-Tesla Merger Could Manufacture A $5 Trillion Giant: Here's What Prediction Markets Say",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/small-cap/26/06/53259569/a-spacex-tesla-merger-could-manufacture-a-5-trillion-giant-heres-what-prediction-markets-say",
+      "published_at": "2026-06-17T18:13:26+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today's Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/options/26/06/53258448/10-information-technology-stocks-whale-activity-in-todays-session",
+      "published_at": "2026-06-17T17:35:21+00:00"
+    },
+    {
+      "headline": "What's Going On With Hewlett Packard Stock Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53257604/whats-going-on-with-hewlett-packard-stock-wednesday-2",
+      "published_at": "2026-06-17T17:09:42+00:00"
+    },
+    {
+      "headline": "SpaceX Options Just Broke A Record Meta Set In 2012",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/06/53256299/spacex-options-just-broke-a-record-meta-set-in-2012",
+      "published_at": "2026-06-17T16:30:24+00:00"
+    },
+    {
+      "headline": "Why MANGOS ETFs May Be More Complicated Than FAANG Ever Was",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/06/53253215/why-mangos-etfs-may-be-more-complicated-than-faang-ever-was",
+      "published_at": "2026-06-17T15:05:13+00:00"
+    }
+  ],
+  "errors": []
+}

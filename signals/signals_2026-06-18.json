@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-18",
+  "market_context": "Constructive macro tape: Fed held rates steady 06-17 with retail sales resilient (Benzinga 'Fed Holds Rates Steady; Retail Sales Remain Resilient'); Dow hit record highs as oil dropped to $77 (06-16) after a US-Iran deal reopened Hormuz and sank oil 5% (06-15). AI-led bull market persists, but stock-level news is mixed: Apple flags a memory-chip cost 'flood', Trump pushes US chip manufacturing (Intel/Apple/Nvidia). Portfolio is 100% cash (no holdings per data/2026-06-18/_manifest.json), so no holdings-news sweep was required; I did verify JNJ has no fresh adverse litigation/FDA news before proposing a buy. Default is hold across the tech names; the one action is a small JNJ buy on a fresh, falsifiable clinical catalyst.",
+  "signals": [
+    {
+      "ticker": "JNJ",
+      "action": "buy",
+      "conviction": 0.65,
+      "thesis": "Fresh clinical catalyst: 06-15 TALVEY+DARZALEX FASPRO Phase 3 hit up to 81% PFS / 89% OS at 24 months (first GPRC5D bispecific combo with superior PFS in multiple myeloma); plus 06-15 $1B+ Florida vision investment and 06-11 IMAAVY rare-disease win. Beta 0.256; close 233.92 holds above the 230 falsification line. Talc litigation a known overhang, no new escalation 06-18. Falsified if close < 230 or an oncology/FDA/talc setback.",
+      "sources": [
+        "Benzinga 2026-06-15: Johnson & Johnson's TALVEY Plus DARZALEX FASPRO Delivers Up To 81% PFS And 89% OS At 24 Months In First Phase 3 To Show Superior PFS For GPRC5D Bispecific Combination In Multiple Myeloma",
+        "Benzinga 2026-06-15: Johnson & Johnson Plans $1B+ Florida Investment To Strengthen Its Vision Operations",
+        "Benzinga 2026-06-11: Johnson & Johnson Hits Target With IMAAVY In Rare Blood Disorder",
+        "Web check 2026-06-18 (talcum powder lawsuit updates): litigation ongoing, no new escalation; J&J defending claims in court",
+        "data/2026-06-18/JNJ.json (close 233.92; 52w 149.04-251.71; beta 0.256)"
+      ],
+      "timestamp": "2026-06-18T12:35:00+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Margin pressure vs manufacturing tailwind: 06-17 Tim Cook says Apple will raise prices on a memory-chip crunch he calls 'a 100-year flood' (WSJ Exclusive), a clear cost/margin negative, while 06-18 Trump confirms Apple agreed to build chips with Intel in the US. Close 296.07 sits near the low end of the 30-day range (287-315). No clean falsifiable edge; hold. Re-evaluate on demand data or a break below 287.",
+      "sources": [
+        "Benzinga 2026-06-17: 'Apple to Raise Prices Due to Memory Chip Crunch, Tim Cook Says' - WSJ Exclusive",
+        "Benzinga 2026-06-18: After Nvidia And Tesla, Trump Confirms Apple Has Agreed To Build Chips With Intel Amid US Manufacturing Push",
+        "data/2026-06-18/AAPL.json (close 296.07; 30-day 287-315)"
+      ],
+      "timestamp": "2026-06-18T12:35:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Soft drift continues: close 380.34 is at the bottom of the 30-day range (379-460) and far below the 52w high 555.45. The only company-specific headline is 06-17 'Oracle Denies Report That Security Concerns Killed Potential $3 Billion Microsoft Cloud Deal' — a rumor denial, not a catalyst. No actionable trigger; hold. Watch for a confirmed cloud deal or a decisive break of the 379 30-day low.",
+      "sources": [
+        "Benzinga 2026-06-17: Oracle Denies Report That Security Concerns Killed Potential $3 Billion Microsoft Cloud Deal",
+        "data/2026-06-18/MSFT.json (close 380.34; 30-day low 379.05; 52w high 555.45)"
+      ],
+      "timestamp": "2026-06-18T12:35:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Supply-chain positive, no clean entry: 06-18 'Nvidia Supplier SK Hynix Ships Next-Generation HBM Memory Samples To Major Customers' supports the AI-compute demand story, and 06-18 Trump confirms a US chip-build push (Nvidia/Apple/Intel). Close 205.15 is mid 30-day range; beta 2.2 in a headline-driven tape argues against initiating. Hold; revisit on a confirmed HBM ramp or a pullback toward the 200 30-day low.",
+      "sources": [
+        "Benzinga 2026-06-18: Nvidia Supplier SK Hynix Ships Next-Generation HBM Memory Samples To Major Customers",
+        "Benzinga 2026-06-18: After Nvidia And Tesla, Trump Confirms Apple Has Agreed To Build Chips With Intel Amid US Manufacturing Push",
+        "data/2026-06-18/NVDA.json (close 205.15; 30-day 200-236; beta 2.202)"
+      ],
+      "timestamp": "2026-06-18T12:35:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Negative tilt today: 06-18 'Google Gemini Co-Lead Noam Shazeer Joins OpenAI' is a notable AI-talent loss, and 06-18 'Waymo Recalls 3,871 Automated Driving Systems Over Freeway Construction Zone Software Issue' adds operational risk. Close 364.49 is near the low end of the 30-day range (356-402) and well off the 52w high 408.61. No falsifiable buy edge against two fresh negatives; hold.",
+      "sources": [
+        "Benzinga 2026-06-18: Google Gemini Co-Lead Noam Shazeer Joins OpenAI",
+        "Benzinga 2026-06-18: Waymo Recalls 3,871 Automated Driving Systems Over Freeway Construction Zone Software Issue",
+        "data/2026-06-18/GOOGL.json (close 364.49; 30-day 356-402; 52w high 408.61)"
+      ],
+      "timestamp": "2026-06-18T12:35:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Regulatory overhang persists; the only fresh item is price-target chatter, which I ignore per mandate (06-17 Leerink raised PT to $462). The 06-11 federal-watchdog Medicare Advantage concern still clouds the core business. Close 399.57 has pulled back from ~405 and sits below the 412 30-day high. No actionable, non-chatter catalyst; hold. Falsifier for a future buy: MA scrutiny fading with price reclaiming 410.",
+      "sources": [
+        "Benzinga 2026-06-11: Patients Denied Care, Then Approved Later? Federal Watchdog Raises Medicare Advantage Concerns",
+        "Benzinga 2026-06-17: Leerink Partners Maintains Outperform on UnitedHealth Group, Raises Price Target to $462 (price-target chatter, not acted on)",
+        "data/2026-06-18/UNH.json (close 399.57; 30-day high 412.68; 52w high 415.98)"
+      ],
+      "timestamp": "2026-06-18T12:35:00+00:00"
+    }
+  ]
+}

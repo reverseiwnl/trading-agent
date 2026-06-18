@@ -1,0 +1,288 @@
+{
+  "ticker": "JNJ",
+  "as_of": "2026-06-18T12:02:30.046059+00:00",
+  "price": 233.92,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-06",
+      "open": 225.705,
+      "high": 226.105,
+      "low": 222.96,
+      "close": 224.48,
+      "volume": 275183.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 224.435,
+      "high": 224.56,
+      "low": 220.68,
+      "close": 222.46,
+      "volume": 268320.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 223.08,
+      "high": 223.2,
+      "low": 220.955,
+      "close": 221.27,
+      "volume": 241678.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 221.2,
+      "high": 223.16,
+      "low": 220.42,
+      "close": 221.4,
+      "volume": 211941.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 223.05,
+      "high": 227.605,
+      "low": 221.795,
+      "close": 224.34,
+      "volume": 289023.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 225.78,
+      "high": 230.775,
+      "low": 225.68,
+      "close": 230.455,
+      "volume": 371179.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 230.93,
+      "high": 231.76,
+      "low": 229.28,
+      "close": 230.8,
+      "volume": 151174.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 230.52,
+      "high": 232.04,
+      "low": 226.55,
+      "close": 226.75,
+      "volume": 260269.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 227.11,
+      "high": 229.68,
+      "low": 225.91,
+      "close": 228.93,
+      "volume": 234232.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 228.935,
+      "high": 230.795,
+      "low": 228.385,
+      "close": 230.14,
+      "volume": 358980.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 231.89,
+      "high": 231.94,
+      "low": 229.19,
+      "close": 229.27,
+      "volume": 191463.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 228.89,
+      "high": 231.87,
+      "low": 227.455,
+      "close": 231.795,
+      "volume": 158009.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 232.85,
+      "high": 235.42,
+      "low": 232.85,
+      "close": 234.37,
+      "volume": 308416.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 232.97,
+      "high": 233.19,
+      "low": 229.08,
+      "close": 230.31,
+      "volume": 271670.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 229.41,
+      "high": 232.75,
+      "low": 229.22,
+      "close": 231.28,
+      "volume": 217694.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 231.15,
+      "high": 231.865,
+      "low": 229.87,
+      "close": 230.8,
+      "volume": 314611.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 231.175,
+      "high": 231.2,
+      "low": 224.585,
+      "close": 225.23,
+      "volume": 289363.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 223.285,
+      "high": 224.41,
+      "low": 220.84,
+      "close": 223.5,
+      "volume": 409646.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 222.89,
+      "high": 225.29,
+      "low": 221.47,
+      "close": 222.91,
+      "volume": 225278.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 222.55,
+      "high": 224.85,
+      "low": 222.54,
+      "close": 223.61,
+      "volume": 238590.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 227.67,
+      "high": 228.63,
+      "low": 225.98,
+      "close": 228.27,
+      "volume": 224474.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 229.85,
+      "high": 235.215,
+      "low": 229.55,
+      "close": 232.71,
+      "volume": 326310.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 233.135,
+      "high": 234.93,
+      "low": 230.66,
+      "close": 232.15,
+      "volume": 256806.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 232.63,
+      "high": 237.625,
+      "low": 230.66,
+      "close": 237.0,
+      "volume": 325263.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 238.42,
+      "high": 240.88,
+      "low": 237.43,
+      "close": 238.52,
+      "volume": 352737.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 239.8,
+      "high": 241.55,
+      "low": 238.18,
+      "close": 238.31,
+      "volume": 262713.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 238.98,
+      "high": 240.9,
+      "low": 237.83,
+      "close": 240.84,
+      "volume": 241223.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 239.01,
+      "high": 239.01,
+      "low": 233.675,
+      "close": 235.78,
+      "volume": 261626.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 236.03,
+      "high": 236.125,
+      "low": 231.14,
+      "close": 235.25,
+      "volume": 327750.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 233.585,
+      "high": 233.95,
+      "low": 230.845,
+      "close": 233.92,
+      "volume": 372902.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General",
+    "marketCap": 563770163200,
+    "trailingPE": 27.13789,
+    "forwardPE": 18.4158,
+    "priceToBook": 6.9423447,
+    "beta": 0.256,
+    "fiftyTwoWeekHigh": 251.71,
+    "fiftyTwoWeekLow": 149.04,
+    "earningsTimestamp": 1784118600,
+    "shortName": "Johnson & Johnson"
+  },
+  "headlines": [
+    {
+      "headline": "'J&J Takes a Pass on Obesity Drugs to Focus Efforts on Cancer' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53251773/j-j-takes-a-pass-on-obesity-drugs-to-focus-efforts-on-cancer-bloomberg",
+      "published_at": "2026-06-17T14:32:32+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Plans $1B+ Florida Investment To Strengthen Its Vision Operations By Scaling Up Its Manufacturing, Packaging And Distribution Capabilities",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53188550/johnson-johnson-plans-1b-florida-investment-to-strengthen-its-vision-operations-by-scaling-up-its-ma",
+      "published_at": "2026-06-15T10:02:26+00:00"
+    },
+    {
+      "headline": "Reported Saturday, Johnson & Johnson's TALVEY Plus DARZALEX FASPRO Delivers Up To 81% PFS And 89% OS At 24 Months In First Phase 3 Study To Show Superior PFS For GPRC5D Bispecific Combination In Multiple Myeloma",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53187479/reported-saturday-johnson-johnsons-talvey-plus-darzalex-faspro-delivers-up-to-81-pfs-and-89-os-at-24",
+      "published_at": "2026-06-15T07:19:19+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Hits Target With IMAAVY In Rare Blood Disorder",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/06/53148538/johnson-johnson-hits-target-with-imaavy-in-rare-blood-disorder",
+      "published_at": "2026-06-11T16:40:38+00:00"
+    }
+  ],
+  "errors": []
+}

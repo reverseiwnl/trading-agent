@@ -1,0 +1,325 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-06-18T12:02:30.593403+00:00",
+  "price": 380.34,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-06",
+      "open": 407.865,
+      "high": 418.26,
+      "low": 405.17,
+      "close": 413.82,
+      "volume": 764621.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 420.115,
+      "high": 427.92,
+      "low": 418.8,
+      "close": 420.79,
+      "volume": 708212.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 417.385,
+      "high": 418.57,
+      "low": 414.0,
+      "close": 414.965,
+      "volume": 818822.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 407.76,
+      "high": 412.62,
+      "low": 405.51,
+      "close": 412.62,
+      "volume": 674806.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 414.4,
+      "high": 415.44,
+      "low": 406.715,
+      "close": 407.77,
+      "volume": 897917.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 403.0,
+      "high": 406.27,
+      "low": 401.05,
+      "close": 405.09,
+      "volume": 785494.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 404.72,
+      "high": 411.795,
+      "low": 400.915,
+      "close": 409.44,
+      "volume": 794948.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 414.47,
+      "high": 428.155,
+      "low": 413.115,
+      "close": 422.0,
+      "volume": 1109396.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 416.4,
+      "high": 425.025,
+      "low": 415.64,
+      "close": 423.61,
+      "volume": 628464.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 429.885,
+      "high": 432.675,
+      "low": 416.49,
+      "close": 417.515,
+      "volume": 750391.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 414.135,
+      "high": 421.99,
+      "low": 411.31,
+      "close": 421.08,
+      "volume": 840531.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 424.72,
+      "high": 426.08,
+      "low": 415.78,
+      "close": 419.0,
+      "volume": 768373.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 419.48,
+      "high": 424.33,
+      "low": 416.36,
+      "close": 418.5,
+      "volume": 536551.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 416.575,
+      "high": 419.73,
+      "low": 413.075,
+      "close": 416.09,
+      "volume": 751245.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 410.9,
+      "high": 415.94,
+      "low": 409.66,
+      "close": 412.71,
+      "volume": 837631.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 2814708285440,
+    "trailingPE": 22.581049,
+    "forwardPE": 19.586063,
+    "priceToBook": 6.793302,
+    "dividendYield": 0.92,
+    "beta": 1.103,
+    "fiftyTwoWeekHigh": 555.45,
+    "fiftyTwoWeekLow": 356.28,
+    "earningsTimestamp": 1777492800,
+    "shortName": "Microsoft Corporation"
+  },
+  "headlines": [
+    {
+      "headline": "Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53266186/apple-will-raise-prices-due-to-soaring-memory-costs-ceo-tim-cook-says-this-is-a-100-year-flood",
+      "published_at": "2026-06-17T22:19:18+00:00"
+    },
+    {
+      "headline": "Fed Holds Rates Steady; Retail Sales Remain Resilient",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/53262681/fed-holds-rates-steady-retail-sales-remain-resilient",
+      "published_at": "2026-06-17T19:47:11+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today's Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/options/26/06/53258448/10-information-technology-stocks-whale-activity-in-todays-session",
+      "published_at": "2026-06-17T17:35:21+00:00"
+    },
+    {
+      "headline": "Illinois Rep. Jonathan Jackson Sold Up to $50K Worth of Microsoft Stock",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/government/26/06/53252937/illinois-rep-jonathan-jackson-sold-up-to-50k-worth-of-microsoft-stock",
+      "published_at": "2026-06-17T15:00:30+00:00"
+    },
+    {
+      "headline": "President Trump Says Was A Great Meeting On AI At G7 Summit; Anthropic Negotiations Going Fine",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53251512/president-trump-says-was-a-great-meeting-on-ai-at-g7-summit-anthropic-negotiations-going-fine",
+      "published_at": "2026-06-17T14:27:55+00:00"
+    },
+    {
+      "headline": "Passive Funds Crossed $2.6 Trillion—Here Is The Percentage That Breaks The Market",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53243977/passive-funds-crossed-2-6-trillion-here-is-the-percentage-that-breaks-the-market",
+      "published_at": "2026-06-17T10:21:44+00:00"
+    },
+    {
+      "headline": "Jim Cramer On SpaceX's Wild Rally: 'This Stock Might As Well Be Called Elon Musk'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53243928/jim-cramer-on-spacexs-wild-rally-this-stock-might-as-well-be-called-elon-musk",
+      "published_at": "2026-06-17T10:17:44+00:00"
+    },
+    {
+      "headline": "Assessing Microsoft's Performance Against Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/news/26/06/53243391/assessing-microsofts-performance-against-competitors-in-software-industry",
+      "published_at": "2026-06-17T09:59:07+00:00"
+    },
+    {
+      "headline": "Holding This ETF Could Have Beaten Most VC Funds—Anthony Pompliano Says 'Insane Returns'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/53243061/anthony-pompliano-qqq-indexs-insane-returns-after-more-than-550-decade-long-gain",
+      "published_at": "2026-06-17T09:15:16+00:00"
+    },
+    {
+      "headline": "Oracle Denies Report That Security Concerns Killed Potential $3 Billion Microsoft Cloud Deal",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53242835/oracle-denies-report-that-security-concerns-killed-potential-3-billion-microsoft-cloud-deal",
+      "published_at": "2026-06-17T08:57:26+00:00"
+    }
+  ],
+  "errors": []
+}
