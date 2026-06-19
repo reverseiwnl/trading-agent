@@ -1,0 +1,324 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-06-19T12:04:03.031433+00:00",
+  "price": 209.97,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-07",
+      "open": 208.27,
+      "high": 214.19,
+      "low": 206.51,
+      "close": 211.56,
+      "volume": 4455651.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 213.01,
+      "high": 217.785,
+      "low": 212.92,
+      "close": 215.21,
+      "volume": 4181656.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 214.03,
+      "high": 222.3,
+      "low": 213.91,
+      "close": 219.45,
+      "volume": 4141456.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 218.445,
+      "high": 223.74,
+      "low": 214.955,
+      "close": 220.88,
+      "volume": 4058854.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 224.96,
+      "high": 227.8,
+      "low": 221.62,
+      "close": 225.91,
+      "volume": 3138586.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 229.73,
+      "high": 236.54,
+      "low": 229.41,
+      "close": 235.78,
+      "volume": 4515441.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 229.76,
+      "high": 231.5,
+      "low": 224.3,
+      "close": 225.305,
+      "volume": 3774303.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 229.4,
+      "high": 229.97,
+      "low": 218.39,
+      "close": 222.35,
+      "volume": 4041240.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 219.715,
+      "high": 224.47,
+      "low": 217.97,
+      "close": 220.645,
+      "volume": 4057698.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 223.175,
+      "high": 226.1,
+      "low": 220.5,
+      "close": 223.48,
+      "volume": 4890857.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 222.31,
+      "high": 227.35,
+      "low": 217.94,
+      "close": 219.47,
+      "volume": 6222899.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 220.98,
+      "high": 220.98,
+      "low": 214.9,
+      "close": 215.34,
+      "volume": 4838641.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 216.64,
+      "high": 218.17,
+      "low": 212.0,
+      "close": 214.785,
+      "volume": 4935639.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 214.12,
+      "high": 214.15,
+      "low": 208.79,
+      "close": 212.575,
+      "volume": 3280775.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 211.26,
+      "high": 215.5,
+      "low": 211.255,
+      "close": 214.27,
+      "volume": 4856752.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 214.55,
+      "high": 217.8,
+      "low": 211.145,
+      "close": 211.155,
+      "volume": 5876800.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 215.81,
+      "high": 224.86,
+      "low": 215.75,
+      "close": 224.42,
+      "volume": 6738901.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 227.205,
+      "high": 232.28,
+      "low": 221.36,
+      "close": 222.82,
+      "volume": 7100206.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 221.75,
+      "high": 222.78,
+      "low": 214.54,
+      "close": 214.86,
+      "volume": 4741903.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 213.775,
+      "high": 221.59,
+      "low": 210.97,
+      "close": 218.64,
+      "volume": 5374242.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 214.575,
+      "high": 214.81,
+      "low": 204.35,
+      "close": 205.17,
+      "volume": 8060300.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 209.645,
+      "high": 210.36,
+      "low": 206.02,
+      "close": 208.66,
+      "volume": 3893430.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 210.74,
+      "high": 211.37,
+      "low": 199.34,
+      "close": 208.2,
+      "volume": 5608889.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 204.305,
+      "high": 207.185,
+      "low": 199.93,
+      "close": 200.41,
+      "volume": 4910869.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 201.33,
+      "high": 205.64,
+      "low": 199.54,
+      "close": 204.86,
+      "volume": 5648208.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 204.5,
+      "high": 207.06,
+      "low": 203.46,
+      "close": 205.17,
+      "volume": 3923011.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 208.875,
+      "high": 212.71,
+      "low": 208.35,
+      "close": 212.46,
+      "volume": 4594335.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 211.115,
+      "high": 211.365,
+      "low": 207.31,
+      "close": 207.37,
+      "volume": 4089180.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 208.3,
+      "high": 209.2,
+      "low": 203.47,
+      "close": 204.7,
+      "volume": 3697942.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 207.4,
+      "high": 211.385,
+      "low": 206.5,
+      "close": 210.38,
+      "volume": 4026083.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 5103122644992,
+    "trailingPE": 32.26493,
+    "forwardPE": 16.554375,
+    "priceToBook": 26.107807,
+    "beta": 2.202,
+    "fiftyTwoWeekHigh": 236.54,
+    "fiftyTwoWeekLow": 142.03,
+    "earningsTimestamp": 1787774400,
+    "shortName": "NVIDIA Corporation"
+  },
+  "headlines": [
+    {
+      "headline": "Insights Into NVIDIA's Performance Versus Peers In Semiconductors &amp; Semiconductor Equipment Sector",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60000895/insights-nvidia-s-performance-versus-peers-semiconductors-amp-semiconductor-equipment-sector",
+      "published_at": "2026-06-19T09:58:25+00:00"
+    },
+    {
+      "headline": "Qnity Electronics Stock Trends After Hours: CEO Tells Jim Cramer Company 'Right At The Center' Of Materials Innovation, The 'Hidden Hero' Of AI Era",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60000020/qnity-electronics-stock-trends-after-hours-ceo-tells-jim-cramer-company-right-at-the-center-of-materials-innovation-the-hidden-hero-of-ai-era",
+      "published_at": "2026-06-19T05:30:34+00:00"
+    },
+    {
+      "headline": "Bernie Sanders Unveils Bill Targeting AI Billions, Plans To Create $7 Trillion Sovereign Wealth Fund That Sends Americans $1,000 Checks Each Year",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53295666/bernie-sanders-unveils-ai-bill-to-create-7-trillion-fund-and-1000-annual-checks",
+      "published_at": "2026-06-19T03:39:12+00:00"
+    },
+    {
+      "headline": "Holding SpaceX Since The IPO? Why I'd Use The Strength To Sell",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/53294246/holding-spacex-since-the-ipo-why-i-would-use-the-strength-to-sell",
+      "published_at": "2026-06-18T21:41:50+00:00"
+    },
+    {
+      "headline": "Nvidia Ecosystem ETF Debuts, Offering Exposure To The AI Buildout",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/06/53292723/nvidia-ecosystem-etf-debuts-offering-exposure-to-ai-buildout",
+      "published_at": "2026-06-18T20:30:02+00:00"
+    },
+    {
+      "headline": "If You Invested $1000 In NVIDIA Stock 5 Years Ago, You Would Have This Much Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/news/26/06/53292257/if-you-invested-1000-in-nvidia-stock-5-years-ago-you-would-have-this-much-today",
+      "published_at": "2026-06-18T20:15:43+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today's Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/options/26/06/53286088/10-information-technology-stocks-with-whale-alerts-in-todays-session",
+      "published_at": "2026-06-18T17:35:26+00:00"
+    },
+    {
+      "headline": "AI Trade Is Moving From Nvidia To The Bond Market",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53285836/ai-trade-is-moving-from-nvidia-to-the-bond-market",
+      "published_at": "2026-06-18T17:27:53+00:00"
+    },
+    {
+      "headline": "Amazon Expands Trainium AI Chip Strategy Beyond AWS",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53285203/amazon-expands-trainium-ai-chip-strategy-beyond-aws",
+      "published_at": "2026-06-18T17:08:40+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Most eVTOL Companies Won't Survive — Nvidia Partner Explains Why",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/53283071/exclusive-most-evtol-companies-wont-survive-this-nvidia-partner-explains-why",
+      "published_at": "2026-06-18T16:09:07+00:00"
+    }
+  ],
+  "errors": []
+}

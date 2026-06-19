@@ -1,0 +1,325 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-06-19T12:04:01.546805+00:00",
+  "price": 367.04,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-07",
+      "open": 400.05,
+      "high": 400.1,
+      "low": 392.69,
+      "close": 397.89,
+      "volume": 876338.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 397.44,
+      "high": 401.89,
+      "low": 396.4,
+      "close": 400.67,
+      "volume": 865052.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 393.645,
+      "high": 397.37,
+      "low": 388.51,
+      "close": 388.64,
+      "volume": 906121.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 387.03,
+      "high": 388.4,
+      "low": 382.78,
+      "close": 387.42,
+      "volume": 879557.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 385.49,
+      "high": 403.685,
+      "low": 385.02,
+      "close": 402.63,
+      "volume": 995762.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 397.28,
+      "high": 402.925,
+      "low": 395.85,
+      "close": 401.115,
+      "volume": 892737.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 395.995,
+      "high": 399.525,
+      "low": 393.29,
+      "close": 396.75,
+      "volume": 567513.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 395.685,
+      "high": 408.57,
+      "low": 394.62,
+      "close": 396.815,
+      "volume": 925835.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 396.8,
+      "high": 396.92,
+      "low": 386.11,
+      "close": 387.75,
+      "volume": 1014449.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 387.695,
+      "high": 393.58,
+      "low": 382.95,
+      "close": 388.86,
+      "volume": 1184514.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 385.705,
+      "high": 392.42,
+      "low": 383.125,
+      "close": 387.52,
+      "volume": 657497.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 386.765,
+      "high": 388.7,
+      "low": 381.8,
+      "close": 383.03,
+      "volume": 607993.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.21,
+      "low": 382.72,
+      "close": 388.91,
+      "volume": 950634.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "marketCap": 4490912595968,
+    "trailingPE": 28.093893,
+    "forwardPE": 25.415365,
+    "priceToBook": 9.313914,
+    "dividendYield": 0.24,
+    "beta": 1.237,
+    "fiftyTwoWeekHigh": 408.61,
+    "fiftyTwoWeekLow": 162.0,
+    "earningsTimestamp": 1777492800,
+    "shortName": "Alphabet Inc."
+  },
+  "headlines": [
+    {
+      "headline": "Meta, TikTok And YouTube Face New Hurdle As Appeals Court Allows Ohio To Enforce Parental Consent Requirement For Users Under 16",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/legal/26/06/60000077/meta-tiktok-and-youtube-face-new-hurdle-as-ohio-parental-consent-law-moves-forward",
+      "published_at": "2026-06-19T06:15:52+00:00"
+    },
+    {
+      "headline": "Bernie Sanders Unveils Bill Targeting AI Billions, Plans To Create $7 Trillion Sovereign Wealth Fund That Sends Americans $1,000 Checks Each Year",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53295666/bernie-sanders-unveils-ai-bill-to-create-7-trillion-fund-and-1000-annual-checks",
+      "published_at": "2026-06-19T03:39:12+00:00"
+    },
+    {
+      "headline": "Holding SpaceX Since The IPO? Why I'd Use The Strength To Sell",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/53294246/holding-spacex-since-the-ipo-why-i-would-use-the-strength-to-sell",
+      "published_at": "2026-06-18T21:41:50+00:00"
+    },
+    {
+      "headline": "'Meta Platforms Has Lobbied U.S. Congress For Immunity From Child-Harm Lawsuits As Part Of Child Online Safety Legislation' - Reuters Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53291405/meta-platforms-has-lobbied-u-s-congress-for-immunity-from-child-harm-lawsuits-as-part-of-child-onlin",
+      "published_at": "2026-06-18T20:02:44+00:00"
+    },
+    {
+      "headline": "Why Is SanDisk Stock Surging On Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53284461/why-is-sandisk-stock-surging-on-thursday-2",
+      "published_at": "2026-06-18T16:48:56+00:00"
+    },
+    {
+      "headline": "What's Going On With Broadcom Stock On Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53281700/whats-going-on-with-broadcom-stock-on-thursday-2",
+      "published_at": "2026-06-18T15:37:21+00:00"
+    },
+    {
+      "headline": "Congressional Trading Report: Rep. Matt Van Epps Sold Over $27K In Tapestry Stock",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/government/26/06/53279927/congressional-trading-report-rep-matt-van-epps-sold-over-27k-in-tapestry-stock",
+      "published_at": "2026-06-18T15:00:21+00:00"
+    },
+    {
+      "headline": "Apple CEO Says iPhone Prices Hikes Are 'Unavoidable': Do Prediction Markets Agree?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/53277294/apple-ceo-says-iphone-prices-hikes-are-unavoidable-do-prediction-markets-agree",
+      "published_at": "2026-06-18T14:10:51+00:00"
+    },
+    {
+      "headline": "Goldman Sachs Warns Big Tech's $770 Billion AI Spending Frenzy Could Backfire— Here's Why",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53273622/goldman-sachs-warns-big-techs-770-billion-ai-spending-frenzy-could-backfire-heres-why",
+      "published_at": "2026-06-18T13:00:46+00:00"
+    },
+    {
+      "headline": "Elizabeth Warren Says Every 4-Year-Old In America Could Get Health Care If Elon Musk Did This",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/06/53269934/elizabeth-warren-says-every-4-year-old-in-america-could-get-health-care-if-elon-musk-did-this",
+      "published_at": "2026-06-18T10:15:15+00:00"
+    }
+  ],
+  "errors": []
+}

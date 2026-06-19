@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-19",
+  "market_context": "No current holdings, so no holdings-specific breaking-news search was required; research is from today's data/2026-06-19 snapshots. All snapshot headlines come from a single aggregator (Benzinga), so source independence is weak and no conviction is set above 0.70. Macro tone is cautious: Goldman warns Big Tech's ~$770B AI capex 'could backfire', Sen. Sanders proposed an AI windfall-tax bill, and the EU is pressing cloud antitrust (per MSFT/NVDA/GOOGL snapshots). VOO sits at ~688 just under its 52wk high of 699 on an 'Iran peace deal' risk-on tape. Most watchlist names (AAPL, GOOGL, UNH) are near 52wk highs. The one concrete, falsifiable positive catalyst is JNJ's reported Phase 3 oncology readout; everything else is a hold.",
+  "signals": [
+    {
+      "ticker": "JNJ",
+      "action": "buy",
+      "conviction": 0.62,
+      "thesis": "Falsifiable catalyst: snapshot headline reports Phase 3 TALVEY + DARZALEX FASPRO delivering up to 81% PFS and 89% OS at 24 months in multiple myeloma; paired with a strategic oncology focus (J&J passing on obesity drugs) and a $1B+ Florida vision investment. Defensive Healthcare name at ~18x forward P/E, ~9% off its 52wk high. Thesis fails if the readout is later qualified/retracted or oncology pipeline disappoints.",
+      "sources": ["data/2026-06-19/JNJ.json headline: TALVEY Plus DARZALEX FASPRO 81% PFS / 89% OS at 24 months Phase 3 (Benzinga, 2026-06-15)", "data/2026-06-19/JNJ.json headline: J&J Takes a Pass on Obesity Drugs to Focus Efforts on Cancer (Benzinga/Bloomberg, 2026-06-17)", "data/2026-06-19/JNJ.json headline: J&J Plans $1B+ Florida Investment to scale vision manufacturing (Benzinga, 2026-06-15)"],
+      "timestamp": "2026-06-19T12:05:15+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Snapshot headlines show CEO calling iPhone price hikes 'unavoidable' and analysts modeling a $100 high-end increase to offset memory costs — a margin/demand overhang that offsets the Intel foundry-partnership optimism. At ~31x forward P/E and ~6% below its 52wk high (317.4), risk/reward is balanced. Hold pending the next earnings/guidance print.",
+      "sources": ["data/2026-06-19/AAPL.json headline: Apple CEO Says iPhone Price Hikes Are 'Unavoidable' (Benzinga, 2026-06-18)", "data/2026-06-19/AAPL.json headline: Apple May Add $100 To Higher-End iPhone Models To Counter Memory Costs (Benzinga, 2026-06-18)"],
+      "timestamp": "2026-06-19T12:05:15+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "MSFT trades ~32% below its 52wk high (555.45) at a relatively modest ~19.6x forward P/E, but the snapshot headlines explain the weakness rather than refute it: EU antitrust pressure on Azure cloud services and a Goldman warning that Big Tech's ~$770B AI capex could backfire. No fresh positive catalyst to act on; hold.",
+      "sources": ["data/2026-06-19/MSFT.json headline: Microsoft, Amazon Cloud Services Face Tough EU Antitrust Law (Benzinga/Bloomberg, 2026-06-18)", "data/2026-06-19/MSFT.json headline: Goldman Sachs Warns Big Tech's $770 Billion AI Spending Frenzy Could Backfire (Benzinga, 2026-06-18)"],
+      "timestamp": "2026-06-19T12:05:15+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "NVDA's ~16.5x forward P/E looks undemanding and it sits ~11% below its 52wk high (236.54), but the snapshot offers no NVDA-specific catalyst today — coverage is generic peer-comparison and ETF-launch items. Political/regulatory headwind from Sen. Sanders' proposed AI windfall-tax bill argues for patience. Hold.",
+      "sources": ["data/2026-06-19/NVDA.json headline: Insights Into NVIDIA's Performance Versus Peers In Semiconductors (Benzinga, 2026-06-19)", "data/2026-06-19/NVDA.json headline: Bernie Sanders Unveils Bill Targeting AI Billions (Benzinga, 2026-06-19)"],
+      "timestamp": "2026-06-19T12:05:15+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "GOOGL is near its 52wk high (408.61) at ~25x forward P/E while snapshot headlines flag rising child-safety regulatory risk for YouTube — an appeals court allowing Ohio to enforce parental consent for under-16 users, plus broader child-online-safety legislation. No new positive catalyst; hold near highs.",
+      "sources": ["data/2026-06-19/GOOGL.json headline: Appeals Court Allows Ohio To Enforce Parental Consent For Users Under 16 (affects YouTube) (Benzinga, 2026-06-19)", "data/2026-06-19/GOOGL.json headline: Meta Lobbied Congress For Immunity From Child-Harm Lawsuits (Benzinga/Reuters, 2026-06-18)"],
+      "timestamp": "2026-06-19T12:05:15+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "UNH has recovered to ~401, near its 52wk high (415.98) and well off its low (234.6), and Leerink raised its price target to $462 (Outperform). But the headline-grade catalyst is the ongoing CEO-murder trial overhang, and per system rules price-target chatter is not actionable. No fresh fundamental catalyst; hold.",
+      "sources": ["data/2026-06-19/UNH.json headline: Luigi Mangione Backs Away From Extreme Emotional Disturbance Defense Ahead Of UnitedHealthcare CEO Murder Trial (Benzinga, 2026-06-19)", "data/2026-06-19/UNH.json headline: Leerink Partners Maintains Outperform on UnitedHealth, Raises PT to $462 (Benzinga, 2026-06-17)"],
+      "timestamp": "2026-06-19T12:05:15+00:00"
+    }
+  ]
+}

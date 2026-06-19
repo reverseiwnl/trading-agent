@@ -1,0 +1,325 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-06-19T12:03:59.426740+00:00",
+  "price": 297.86,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-07",
+      "open": 289.19,
+      "high": 292.12,
+      "low": 285.81,
+      "close": 287.4,
+      "volume": 1222813.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 290.11,
+      "high": 294.76,
+      "low": 290.065,
+      "close": 293.15,
+      "volume": 1591559.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 292.025,
+      "high": 293.87,
+      "low": 290.25,
+      "close": 292.66,
+      "volume": 1134574.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 293.2,
+      "high": 295.26,
+      "low": 292.67,
+      "close": 294.72,
+      "volume": 1063424.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 293.5,
+      "high": 300.91,
+      "low": 293.5,
+      "close": 298.95,
+      "volume": 1263486.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 300.0,
+      "high": 300.45,
+      "low": 295.43,
+      "close": 298.25,
+      "volume": 951426.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 297.94,
+      "high": 303.19,
+      "low": 296.6,
+      "close": 300.19,
+      "volume": 1241262.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 300.19,
+      "high": 300.625,
+      "low": 294.92,
+      "close": 297.85,
+      "volume": 1082963.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 297.145,
+      "high": 300.51,
+      "low": 296.36,
+      "close": 299.14,
+      "volume": 1046682.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 298.18,
+      "high": 302.8,
+      "low": 298.12,
+      "close": 302.2,
+      "volume": 1610963.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 301.25,
+      "high": 305.53,
+      "low": 300.41,
+      "close": 305.07,
+      "volume": 1190868.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 306.06,
+      "high": 311.39,
+      "low": 306.06,
+      "close": 308.81,
+      "volume": 1275219.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 309.53,
+      "high": 311.82,
+      "low": 307.67,
+      "close": 308.33,
+      "volume": 1366307.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 308.41,
+      "high": 313.22,
+      "low": 308.38,
+      "close": 310.93,
+      "volume": 1681995.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 310.605,
+      "high": 312.72,
+      "low": 309.57,
+      "close": 312.45,
+      "volume": 1514315.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 311.915,
+      "high": 315.0,
+      "low": 309.54,
+      "close": 312.01,
+      "volume": 1619960.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 309.6,
+      "high": 310.94,
+      "low": 305.03,
+      "close": 306.265,
+      "volume": 1790146.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 307.36,
+      "high": 315.44,
+      "low": 306.73,
+      "close": 315.195,
+      "volume": 1291226.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 314.38,
+      "high": 316.92,
+      "low": 308.865,
+      "close": 310.22,
+      "volume": 1966854.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 313.335,
+      "high": 313.38,
+      "low": 309.675,
+      "close": 311.21,
+      "volume": 1230648.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 312.77,
+      "high": 315.14,
+      "low": 307.16,
+      "close": 307.59,
+      "volume": 2188603.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 308.615,
+      "high": 317.38,
+      "low": 301.18,
+      "close": 301.57,
+      "volume": 2762619.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 300.155,
+      "high": 300.59,
+      "low": 287.79,
+      "close": 290.36,
+      "volume": 2491376.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 290.7,
+      "high": 294.74,
+      "low": 287.38,
+      "close": 291.48,
+      "volume": 1843917.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 293.395,
+      "high": 296.995,
+      "low": 289.62,
+      "close": 295.48,
+      "volume": 1372585.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 296.075,
+      "high": 297.11,
+      "low": 289.635,
+      "close": 291.085,
+      "volume": 1456808.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 293.99,
+      "high": 297.78,
+      "low": 291.75,
+      "close": 296.53,
+      "volume": 1573337.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 295.245,
+      "high": 300.445,
+      "low": 293.99,
+      "close": 299.26,
+      "volume": 1229360.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 300.845,
+      "high": 301.95,
+      "low": 294.39,
+      "close": 296.07,
+      "volume": 1195228.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 298.44,
+      "high": 300.56,
+      "low": 295.635,
+      "close": 297.86,
+      "volume": 1278873.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "marketCap": 4376979046400,
+    "trailingPE": 36.078693,
+    "forwardPE": 31.058918,
+    "priceToBook": 41.04821,
+    "dividendYield": 0.36,
+    "beta": 1.086,
+    "fiftyTwoWeekHigh": 317.4,
+    "fiftyTwoWeekLow": 196.86,
+    "earningsTimestamp": 1777579200,
+    "shortName": "Apple Inc."
+  },
+  "headlines": [
+    {
+      "headline": "Intel Hires Former SK Hynix CEO Seok-Hee Lee To Lead Advanced Packaging Push As Apple Partnership Fuels Foundry Revival",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/53295522/intel-hires-former-sk-hynix-ceo-seok-hee-lee-to-lead-advanced-packaging-push",
+      "published_at": "2026-06-19T02:22:20+00:00"
+    },
+    {
+      "headline": "Apple's Price-Hike Warning Exposes AI's Hidden Cost—And A Fresh ETF Opportunity",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/53286214/apples-price-hike-warning-exposes-ais-hidden-cost-etf-opportunities",
+      "published_at": "2026-06-18T17:38:44+00:00"
+    },
+    {
+      "headline": "B of A Securities Reiterates Buy on Apple, Maintains $380 Price Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53285579/b-of-a-securities-reiterates-buy-on-apple-maintains-380-price-target",
+      "published_at": "2026-06-18T17:19:42+00:00"
+    },
+    {
+      "headline": "Apple May Add $100 To Higher-End iPhone Models To Counter Memory Costs: Analyst",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/06/53285077/apple-may-add-100-to-higher-end-iphone-models-to-counter-memory-costs-analyst",
+      "published_at": "2026-06-18T17:06:31+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Rallies, Oil Sinks To $75 On Iran Peace Deal: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/53283834/nasdaq-100-rallied-intel-apple-deal-oil-sinks-on-iran-peace-deal",
+      "published_at": "2026-06-18T16:33:55+00:00"
+    },
+    {
+      "headline": "Apple Dominates Global Smartwatch Market",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/53283613/apple-dominates-global-smartwatch-market",
+      "published_at": "2026-06-18T16:27:02+00:00"
+    },
+    {
+      "headline": "Apple Announces Changes To iOS In Brazil",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53280542/apple-announces-changes-to-ios-in-brazil",
+      "published_at": "2026-06-18T15:11:34+00:00"
+    },
+    {
+      "headline": "Intel's Next Move Could Be Bigger Than Today's Pop",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/53278084/intels-next-move-could-be-bigger-than-todays-pop",
+      "published_at": "2026-06-18T14:26:55+00:00"
+    },
+    {
+      "headline": "Apple CEO Says iPhone Prices Hikes Are 'Unavoidable': Do Prediction Markets Agree?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/53277294/apple-ceo-says-iphone-prices-hikes-are-unavoidable-do-prediction-markets-agree",
+      "published_at": "2026-06-18T14:10:51+00:00"
+    },
+    {
+      "headline": "Intel Stock Soars After Trump Reveals Apple Partnership — The Chart Points To More Upside",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/technicals/26/06/53274303/intel-stock-soars-after-trump-reveals-apple-partnership-the-chart-points-to-more-upside",
+      "published_at": "2026-06-18T13:19:02+00:00"
+    }
+  ],
+  "errors": []
+}
