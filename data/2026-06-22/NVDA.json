@@ -1,0 +1,324 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-06-22T12:03:05.558016+00:00",
+  "price": 209.97,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-07",
+      "open": 208.27,
+      "high": 214.19,
+      "low": 206.51,
+      "close": 211.56,
+      "volume": 4455651.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 213.01,
+      "high": 217.785,
+      "low": 212.92,
+      "close": 215.21,
+      "volume": 4181656.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 214.03,
+      "high": 222.3,
+      "low": 213.91,
+      "close": 219.45,
+      "volume": 4141456.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 218.445,
+      "high": 223.74,
+      "low": 214.955,
+      "close": 220.88,
+      "volume": 4058854.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 224.96,
+      "high": 227.8,
+      "low": 221.62,
+      "close": 225.91,
+      "volume": 3138586.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 229.73,
+      "high": 236.54,
+      "low": 229.41,
+      "close": 235.78,
+      "volume": 4515441.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 229.76,
+      "high": 231.5,
+      "low": 224.3,
+      "close": 225.305,
+      "volume": 3774303.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 229.4,
+      "high": 229.97,
+      "low": 218.39,
+      "close": 222.35,
+      "volume": 4041240.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 219.715,
+      "high": 224.47,
+      "low": 217.97,
+      "close": 220.645,
+      "volume": 4057698.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 223.175,
+      "high": 226.1,
+      "low": 220.5,
+      "close": 223.48,
+      "volume": 4890857.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 222.31,
+      "high": 227.35,
+      "low": 217.94,
+      "close": 219.47,
+      "volume": 6222899.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 220.98,
+      "high": 220.98,
+      "low": 214.9,
+      "close": 215.34,
+      "volume": 4838641.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 216.64,
+      "high": 218.17,
+      "low": 212.0,
+      "close": 214.785,
+      "volume": 4935639.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 214.12,
+      "high": 214.15,
+      "low": 208.79,
+      "close": 212.575,
+      "volume": 3280775.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 211.26,
+      "high": 215.5,
+      "low": 211.255,
+      "close": 214.27,
+      "volume": 4856752.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 214.55,
+      "high": 217.8,
+      "low": 211.145,
+      "close": 211.155,
+      "volume": 5876800.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 215.81,
+      "high": 224.86,
+      "low": 215.75,
+      "close": 224.42,
+      "volume": 6738901.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 227.205,
+      "high": 232.28,
+      "low": 221.36,
+      "close": 222.82,
+      "volume": 7100206.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 221.75,
+      "high": 222.78,
+      "low": 214.54,
+      "close": 214.86,
+      "volume": 4741903.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 213.775,
+      "high": 221.59,
+      "low": 210.97,
+      "close": 218.64,
+      "volume": 5374242.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 214.575,
+      "high": 214.81,
+      "low": 204.35,
+      "close": 205.17,
+      "volume": 8060300.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 209.645,
+      "high": 210.36,
+      "low": 206.02,
+      "close": 208.66,
+      "volume": 3893430.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 210.74,
+      "high": 211.37,
+      "low": 199.34,
+      "close": 208.2,
+      "volume": 5608889.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 204.305,
+      "high": 207.185,
+      "low": 199.93,
+      "close": 200.41,
+      "volume": 4910869.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 201.33,
+      "high": 205.64,
+      "low": 199.54,
+      "close": 204.86,
+      "volume": 5648208.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 204.5,
+      "high": 207.06,
+      "low": 203.46,
+      "close": 205.17,
+      "volume": 3923011.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 208.875,
+      "high": 212.71,
+      "low": 208.35,
+      "close": 212.46,
+      "volume": 4594335.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 211.115,
+      "high": 211.365,
+      "low": 207.31,
+      "close": 207.37,
+      "volume": 4089180.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 208.3,
+      "high": 209.2,
+      "low": 203.47,
+      "close": 204.7,
+      "volume": 3697942.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 207.4,
+      "high": 211.385,
+      "low": 206.5,
+      "close": 210.38,
+      "volume": 4026083.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 5103122644992,
+    "trailingPE": 32.26493,
+    "forwardPE": 16.551956,
+    "priceToBook": 26.107807,
+    "beta": 2.202,
+    "fiftyTwoWeekHigh": 236.54,
+    "fiftyTwoWeekLow": 142.03,
+    "earningsTimestamp": 1787774400,
+    "shortName": "NVIDIA Corporation"
+  },
+  "headlines": [
+    {
+      "headline": "Fervo, NVIDIA and PNNL Team Up on Geothermal AI Platform",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60008591/fervo-nvidia-and-pnnl-team-geothermal-ai-platform",
+      "published_at": "2026-06-22T10:12:15+00:00"
+    },
+    {
+      "headline": "Analyzing NVIDIA In Comparison To Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60008134/analyzing-nvidia-comparison-competitors-semiconductors-amp-semiconductor-equipment-industry",
+      "published_at": "2026-06-22T09:58:35+00:00"
+    },
+    {
+      "headline": "Tesla Quietly Files Megapod Trademark — An AI Data Center Play That Could See Elon Musk Challenging Nvidia's Dominance",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60006991/tesla-files-megapod-trademark-as-elon-musk-eyes-ai-data-center-market",
+      "published_at": "2026-06-22T07:05:10+00:00"
+    },
+    {
+      "headline": "Nvidia Supplier SK Hynix Overtakes Samsung Electronics To Become South Korea’s Most Valuable Company",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60006946/sk-hynix-overtakes-samsung-to-become-south-koreas-most-valuable-company",
+      "published_at": "2026-06-22T06:57:31+00:00"
+    },
+    {
+      "headline": "Asia Is Going All-In On AI Stocks — And Leveraged Demand Is Breaking Records: Here's What You Should Know",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60006931/asia-goes-all-in-on-ai-stocks-as-leveraged-demand-hits-record-highs",
+      "published_at": "2026-06-22T06:51:36+00:00"
+    },
+    {
+      "headline": "NVIDIA Stock Has Slipped By 10% From YTD High As Pros Predict 46% Jump",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60005608/nvidia-stock-has-slipped-by-10-from-ytd-high-as-pros-predict-46-jump",
+      "published_at": "2026-06-21T18:31:10+00:00"
+    },
+    {
+      "headline": "Peterffy Overtakes Bill Gates on Net Worth List as IBKR Surges",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60005484/peterffy-overtakes-bill-gates-on-net-worth-list-as-ibkr-surges",
+      "published_at": "2026-06-21T17:11:07+00:00"
+    },
+    {
+      "headline": "Consumer Tech News (June 15-18): Trump Signals Major US Chip Alliance, Snap AR Glasses Face Criticism & More",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60005276/consumer-tech-news-june-15-18-trump-signals-major-us-chip-alliance-snap-ar-glasses-face-criticism-more",
+      "published_at": "2026-06-21T13:41:05+00:00"
+    },
+    {
+      "headline": "Apple's Tim Cook Warns Of Price Hike, Intel Soars On Trump's Apple Partnership Announcement, And More: This Week In Appleverse",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60005144/apples-tim-cook-warns-of-price-hike-intel-soars-on-trumps-apple-parttnership-announcement-and-more-this-week-in-appleverse",
+      "published_at": "2026-06-21T11:00:00+00:00"
+    },
+    {
+      "headline": "Top BofA Analyst Explains Why Sandisk Has More Upside After 4,755% Surge",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60004635/top-bofa-analyst-explains-why-sandisk-has-more-upside-after-4755-surge",
+      "published_at": "2026-06-20T20:14:35+00:00"
+    }
+  ],
+  "errors": []
+}

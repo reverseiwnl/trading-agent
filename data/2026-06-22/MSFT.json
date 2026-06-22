@@ -1,0 +1,325 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-06-22T12:03:05.000722+00:00",
+  "price": 379.08,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-07",
+      "open": 420.115,
+      "high": 427.92,
+      "low": 418.8,
+      "close": 420.79,
+      "volume": 708212.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 417.385,
+      "high": 418.57,
+      "low": 414.0,
+      "close": 414.965,
+      "volume": 818822.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 407.76,
+      "high": 412.62,
+      "low": 405.51,
+      "close": 412.62,
+      "volume": 674806.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 414.4,
+      "high": 415.44,
+      "low": 406.715,
+      "close": 407.77,
+      "volume": 897917.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 403.0,
+      "high": 406.27,
+      "low": 401.05,
+      "close": 405.09,
+      "volume": 785494.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 404.72,
+      "high": 411.795,
+      "low": 400.915,
+      "close": 409.44,
+      "volume": 794948.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 414.47,
+      "high": 428.155,
+      "low": 413.115,
+      "close": 422.0,
+      "volume": 1109396.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 416.4,
+      "high": 425.025,
+      "low": 415.64,
+      "close": 423.61,
+      "volume": 628464.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 429.885,
+      "high": 432.675,
+      "low": 416.49,
+      "close": 417.515,
+      "volume": 750391.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 414.135,
+      "high": 421.99,
+      "low": 411.31,
+      "close": 421.08,
+      "volume": 840531.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 424.72,
+      "high": 426.08,
+      "low": 415.78,
+      "close": 419.0,
+      "volume": 768373.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 419.48,
+      "high": 424.33,
+      "low": 416.36,
+      "close": 418.5,
+      "volume": 536551.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 416.575,
+      "high": 419.73,
+      "low": 413.075,
+      "close": 416.09,
+      "volume": 751245.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 410.9,
+      "high": 415.94,
+      "low": 409.66,
+      "close": 412.71,
+      "volume": 837631.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 2818348154880,
+    "trailingPE": 22.569899,
+    "forwardPE": 19.611391,
+    "priceToBook": 6.802087,
+    "dividendYield": 0.96,
+    "beta": 1.103,
+    "fiftyTwoWeekHigh": 555.45,
+    "fiftyTwoWeekLow": 356.28,
+    "earningsTimestamp": 1777492800,
+    "shortName": "Microsoft Corporation"
+  },
+  "headlines": [
+    {
+      "headline": "Why Is SanDisk Stock Surging Monday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60010635/why-is-sandisk-stock-surging-monday",
+      "published_at": "2026-06-22T11:55:00+00:00"
+    },
+    {
+      "headline": "ICON Picks Microsoft to Expand AI Use in Clinical Trials",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60009697/icon-picks-microsoft-expand-ai-use-clinical-trials",
+      "published_at": "2026-06-22T11:12:19+00:00"
+    },
+    {
+      "headline": "'Microsoft and Chevron Sign 20-Year Power Deal For Texas Data Center' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60008839/microsoft-and-chevron-sign-20-year-power-deal-texas-data-center-bloomberg",
+      "published_at": "2026-06-22T10:34:01+00:00"
+    },
+    {
+      "headline": "SpaceX Rally Loses Steam, Stock Declines 5% In Pre-Market",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/space/26/06/60008788/spacex-rally-loses-steam-stock-declines-5-in-pre-market",
+      "published_at": "2026-06-22T10:29:23+00:00"
+    },
+    {
+      "headline": "Performance Comparison: Microsoft And Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60008136/performance-comparison-microsoft-and-competitors-software-industry",
+      "published_at": "2026-06-22T09:58:48+00:00"
+    },
+    {
+      "headline": "Asia Is Going All-In On AI Stocks — And Leveraged Demand Is Breaking Records: Here's What You Should Know",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60006931/asia-goes-all-in-on-ai-stocks-as-leveraged-demand-hits-record-highs",
+      "published_at": "2026-06-22T06:51:36+00:00"
+    },
+    {
+      "headline": "Michael Burry Unlocks Research For Father's Day, Says AI Will Create Software Winners And Losers: Here Are The Stocks He Highlighted",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60006317/michael-burry-unlocks-research-for-fathers-day-says-ai-will-create-software-winners-and-losers-here-are-the-stocks-he-highlighted",
+      "published_at": "2026-06-22T02:46:38+00:00"
+    },
+    {
+      "headline": "Peterffy Overtakes Bill Gates on Net Worth List as IBKR Surges",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60005484/peterffy-overtakes-bill-gates-on-net-worth-list-as-ibkr-surges",
+      "published_at": "2026-06-21T17:11:07+00:00"
+    },
+    {
+      "headline": "Netflix Co-CEO Ted Sarandos Doesn't Bother With Management Books, But This 1902 Book A Steamship Captain He Read 'Over And Over' Again",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60005469/netflix-co-ceo-ted-sarandos-still-reads-this-1902-book-over-and-over-again",
+      "published_at": "2026-06-21T17:01:19+00:00"
+    },
+    {
+      "headline": "Consumer Tech News (June 15-18): Trump Signals Major US Chip Alliance, Snap AR Glasses Face Criticism & More",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60005276/consumer-tech-news-june-15-18-trump-signals-major-us-chip-alliance-snap-ar-glasses-face-criticism-more",
+      "published_at": "2026-06-21T13:41:05+00:00"
+    }
+  ],
+  "errors": []
+}

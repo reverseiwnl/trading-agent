@@ -1,0 +1,307 @@
+{
+  "ticker": "VOO",
+  "as_of": "2026-06-22T12:03:06.538895+00:00",
+  "price": 688.13,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-07",
+      "open": 675.825,
+      "high": 676.72,
+      "low": 671.36,
+      "close": 672.27,
+      "volume": 48816.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 675.54,
+      "high": 678.39,
+      "low": 675.54,
+      "close": 677.99,
+      "volume": 47085.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 677.385,
+      "high": 681.005,
+      "low": 677.31,
+      "close": 679.485,
+      "volume": 33128.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 677.53,
+      "high": 679.195,
+      "low": 672.85,
+      "close": 678.5,
+      "volume": 122463.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 678.9,
+      "high": 683.86,
+      "low": 676.25,
+      "close": 682.52,
+      "volume": 65498.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 683.74,
+      "high": 688.93,
+      "low": 683.69,
+      "close": 687.76,
+      "volume": 36677.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 682.06,
+      "high": 683.4,
+      "low": 678.52,
+      "close": 679.31,
+      "volume": 80535.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 680.13,
+      "high": 681.26,
+      "low": 674.48,
+      "close": 678.88,
+      "volume": 54304.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 675.67,
+      "high": 678.08,
+      "low": 672.78,
+      "close": 674.61,
+      "volume": 80868.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 676.315,
+      "high": 681.72,
+      "low": 675.09,
+      "close": 681.485,
+      "volume": 74551.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 679.11,
+      "high": 684.825,
+      "low": 677.81,
+      "close": 682.89,
+      "volume": 69663.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 685.93,
+      "high": 688.24,
+      "low": 684.52,
+      "close": 685.4,
+      "volume": 46623.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 689.66,
+      "high": 691.44,
+      "low": 688.145,
+      "close": 689.99,
+      "volume": 42082.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 690.38,
+      "high": 690.665,
+      "low": 688.005,
+      "close": 689.97,
+      "volume": 70162.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 689.76,
+      "high": 694.27,
+      "low": 688.88,
+      "close": 693.68,
+      "volume": 52564.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 695.0,
+      "high": 696.865,
+      "low": 693.91,
+      "close": 695.79,
+      "volume": 45650.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 694.81,
+      "high": 698.75,
+      "low": 694.06,
+      "close": 697.32,
+      "volume": 82549.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 696.26,
+      "high": 699.09,
+      "low": 695.91,
+      "close": 698.31,
+      "volume": 69512.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 697.11,
+      "high": 697.57,
+      "low": 692.96,
+      "close": 693.19,
+      "volume": 34479.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 691.31,
+      "high": 697.14,
+      "low": 690.98,
+      "close": 696.125,
+      "volume": 28712.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 691.65,
+      "high": 691.99,
+      "low": 676.575,
+      "close": 677.91,
+      "volume": 60026.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 683.415,
+      "high": 685.12,
+      "low": 678.725,
+      "close": 679.77,
+      "volume": 54319.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 683.56,
+      "high": 686.69,
+      "low": 664.51,
+      "close": 677.69,
+      "volume": 167933.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 674.27,
+      "high": 678.6,
+      "low": 667.0,
+      "close": 667.09,
+      "volume": 56395.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 670.02,
+      "high": 680.265,
+      "low": 666.27,
+      "close": 678.49,
+      "volume": 146979.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 681.1,
+      "high": 684.34,
+      "low": 675.98,
+      "close": 682.16,
+      "volume": 115690.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 691.275,
+      "high": 695.73,
+      "low": 691.275,
+      "close": 693.99,
+      "volume": 57033.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 693.84,
+      "high": 694.545,
+      "low": 689.44,
+      "close": 690.01,
+      "volume": 69905.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 690.76,
+      "high": 691.46,
+      "low": 679.72,
+      "close": 681.26,
+      "volume": 106821.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 689.245,
+      "high": 689.55,
+      "low": 685.71,
+      "close": 688.13,
+      "volume": 86479.0
+    }
+  ],
+  "fundamentals": {
+    "trailingPE": 26.854876,
+    "priceToBook": 1.7605294,
+    "dividendYield": 1.03,
+    "fiftyTwoWeekHigh": 699.15,
+    "fiftyTwoWeekLow": 545.75,
+    "shortName": "Vanguard S&P 500 ETF"
+  },
+  "headlines": [
+    {
+      "headline": "Investors Flee Cathie Wood's ARKK ETF As It Trails S&P 500, Nasdaq 100 By Far",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60005808/investors-flee-cathie-woods-arkk-etf-as-it-trails-sp-500-nasdaq-100-by-far",
+      "published_at": "2026-06-21T21:46:30+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Rallies, Oil Sinks To $75 On Iran Peace Deal: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/53283834/nasdaq-100-rallied-intel-apple-deal-oil-sinks-on-iran-peace-deal",
+      "published_at": "2026-06-18T16:33:55+00:00"
+    },
+    {
+      "headline": "Marvell, Flex Could Be Days Away From Massive Passive-Fund Tailwind",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/06/53260169/marvell-flex-could-be-days-away-from-massive-passive-fund-tailwind",
+      "published_at": "2026-06-17T18:35:49+00:00"
+    },
+    {
+      "headline": "Small Caps Near Record Highs, Robinhood Rallies 12%: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53258383/russell-2000-small-caps-near-records-ahead-fed-meeting-robinhood-jumps-deutsche-bank-upgrad",
+      "published_at": "2026-06-17T17:33:03+00:00"
+    },
+    {
+      "headline": "JP Morgan's David Kelly Says It's 'A Great Economy For Stocks' Amid AI-Led Bull Market Despite Inflation Risks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53254039/jp-morgans-david-kelly-says-its-a-great-economy-for-stocks-amid-ai-led-bull-market-despite-inflation-risks",
+      "published_at": "2026-06-17T15:28:16+00:00"
+    },
+    {
+      "headline": "Passive Funds Crossed $2.6 Trillion—Here Is The Percentage That Breaks The Market",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53243977/passive-funds-crossed-2-6-trillion-here-is-the-percentage-that-breaks-the-market",
+      "published_at": "2026-06-17T10:21:44+00:00"
+    },
+    {
+      "headline": "Dow Jones Hit Record Highs As Oil Drops To $77: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53232072/dow-jones-record-highs-tech-slips-oil-sinks-warsh-fed-debut-markets-tuesday",
+      "published_at": "2026-06-16T17:12:55+00:00"
+    },
+    {
+      "headline": "Stock Market Today: Nasdaq 100 Rallies, Oil Sinks 5% As U.S.-Iran Deal Reopens Hormuz",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/53203303/stocks-rally-oil-sinks-us-iran-deal-reopens-hormuz-markets-monday",
+      "published_at": "2026-06-15T16:34:42+00:00"
+    }
+  ],
+  "errors": []
+}

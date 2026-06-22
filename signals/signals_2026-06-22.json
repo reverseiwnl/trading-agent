@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-22",
+  "market_context": "Risk-on tape on Iran peace-deal hopes: snapshot VOO headlines 'Nasdaq 100 Rallies, Oil Sinks To $75 On Iran Peace Deal' and 'Dow Jones Hit Record Highs As Oil Drops To $77'. Portfolio is 100% cash, no open positions (data/2026-06-22/_manifest.json holdings empty), so no holdings news-sweep was required; I still ran one targeted JNJ check because a JNJ buy approved on prior days remains unexecuted. The notable development: JNJ closed 228.345, BELOW the 230 line the standing JNJ buy thesis named as its falsifier — so that thesis is now falsified and I am NOT re-proposing a JNJ buy. No name shows a clean, falsifiable catalyst today; default is hold across the board. An all-hold day into a headline-driven rally is the correct, disciplined outcome.",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "No actionable catalyst. Price 297.86 sits mid-range (90d close 287-315), below 52w high 317.40. Snapshot headlines are peripheral narrative chatter, not a product/earnings event: 'Apple's Tim Cook Warns Of Price Hike, Intel Soars On Trump's Apple Partnership Announcement' and 'Ross Gerber Says SpaceX Could Build A Great AI Phone To Challenge Apple'. Hold; revisit on a concrete Siri/AI launch or a break below 287.",
+      "sources": ["data/2026-06-22/AAPL.json snapshot headlines", "Benzinga: 'Apple's Tim Cook Warns Of Price Hike, Intel Soars On Trump's Apple Partnership Announcement'"],
+      "timestamp": "2026-06-22T12:10:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Constructive headlines, unconfirming price. Snapshot cites 'Microsoft and Chevron Sign 20-Year Power Deal For Texas Data Center' (Bloomberg) and 'ICON Picks Microsoft to Expand AI Use in Clinical Trials' — both support the data-center/AI demand story. But close 379.08 sits at the bottom of the 90d range (379-460) and near the 52w low 356.28; momentum does not confirm. Hold; revisit if price reclaims ~400 on the AI-infra thesis.",
+      "sources": ["data/2026-06-22/MSFT.json snapshot headlines", "Bloomberg: 'Microsoft and Chevron Sign 20-Year Power Deal For Texas Data Center'"],
+      "timestamp": "2026-06-22T12:10:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "High beta (2.2), no clean trigger. Snapshot positives — 'Nvidia Supplier SK Hynix Overtakes Samsung To Become South Korea's Most Valuable Company' and 'Fervo, NVIDIA and PNNL Team Up on Geothermal AI Platform' — sit against 'NVIDIA Stock Has Slipped By 10% From YTD High'. Price 209.97 is mid-range (90d 200-236). Initiating a 2.2-beta name in a headline-driven tape is poor risk/reward. Hold; revisit on the late-July earnings catalyst.",
+      "sources": ["data/2026-06-22/NVDA.json snapshot headlines", "Benzinga: 'Nvidia Supplier SK Hynix Overtakes Samsung Electronics To Become South Korea's Most Valuable Company'"],
+      "timestamp": "2026-06-22T12:10:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Mixed signals cancel out. Snapshot 'Top Bank Says AVGO Dip Is A Buying Opportunity, Points To Locked-In Broadcom-Google AI Chip Deal Through 2031' supports the cloud/AI-silicon story, while 'Amazon's AI Chip Expansion, Intel's New Hire And Google's Loss: This Week In Tech' flags competitive/legal overhang. Price 367.04 is well off the 52w high 408.61, with no falsifiable edge either way today. Hold.",
+      "sources": ["data/2026-06-22/GOOGL.json snapshot headlines", "Benzinga: 'Ignore The Noise: Top Bank Says AVGO Stock Dip Is A Buying Opportunity, Points To Locked-In Broadcom-Google AI Chip Deal Through 2031'"],
+      "timestamp": "2026-06-22T12:10:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Standing buy thesis FALSIFIED by price. Prior 06-11/06-12 JNJ buys named 'close < 230' as the falsifier; today's close 228.345 breaks it. Sole snapshot headline 'J&J Takes a Pass on Obesity Drugs to Focus Efforts on Cancer' (Bloomberg) is strategic, not a shock; a targeted web check found no fresh breaking catalyst (Q1 reported 04-14 raised guidance; talc reserve ~$15B is a known baseline). No positive to revive the buy. Hold, no new buy.",
+      "sources": ["data/2026-06-22/JNJ.json snapshot headline 'J&J Takes a Pass on Obesity Drugs to Focus Efforts on Cancer' (Bloomberg)", "Johnson & Johnson Q1 2026 results / raised 2026 outlook (investor.jnj.com)"],
+      "timestamp": "2026-06-22T12:10:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Strong price, persistent overhang, no clean catalyst. Close 401.13 is near the 52w high 415.98. Snapshot headline 'Luigi Mangione Backs Away From Extreme Emotional Disturbance Defense Ahead Of UnitedHealthcare CEO Murder Trial' keeps legal/headline risk live; 'Leerink Raises Price Target to $462' is price-target chatter I discount per policy. Chasing near the high into an active trial is poor risk/reward. Hold.",
+      "sources": ["data/2026-06-22/UNH.json snapshot headlines", "Benzinga: 'Luigi Mangione Backs Away From Extreme Emotional Disturbance Defense Ahead Of UnitedHealthcare CEO Murder Trial'"],
+      "timestamp": "2026-06-22T12:10:00+00:00"
+    }
+  ]
+}
