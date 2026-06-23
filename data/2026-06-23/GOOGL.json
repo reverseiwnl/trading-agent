@@ -1,0 +1,325 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-06-23T12:03:26.634184+00:00",
+  "price": 348.53,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-08",
+      "open": 397.44,
+      "high": 401.89,
+      "low": 396.4,
+      "close": 400.67,
+      "volume": 865052.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 393.645,
+      "high": 397.37,
+      "low": 388.51,
+      "close": 388.64,
+      "volume": 906121.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 387.03,
+      "high": 388.4,
+      "low": 382.78,
+      "close": 387.42,
+      "volume": 879557.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 385.49,
+      "high": 403.685,
+      "low": 385.02,
+      "close": 402.63,
+      "volume": 995762.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 397.28,
+      "high": 402.925,
+      "low": 395.85,
+      "close": 401.115,
+      "volume": 892737.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 395.995,
+      "high": 399.525,
+      "low": 393.29,
+      "close": 396.75,
+      "volume": 567513.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 395.685,
+      "high": 408.57,
+      "low": 394.62,
+      "close": 396.815,
+      "volume": 925835.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 396.8,
+      "high": 396.92,
+      "low": 386.11,
+      "close": 387.75,
+      "volume": 1014449.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 387.695,
+      "high": 393.58,
+      "low": 382.95,
+      "close": 388.86,
+      "volume": 1184514.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 385.705,
+      "high": 392.42,
+      "low": 383.125,
+      "close": 387.52,
+      "volume": 657497.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 386.765,
+      "high": 388.7,
+      "low": 381.8,
+      "close": 383.03,
+      "volume": 607993.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.21,
+      "low": 382.72,
+      "close": 388.91,
+      "volume": 950634.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "marketCap": 4266995482624,
+    "trailingPE": 26.67277,
+    "forwardPE": 24.121851,
+    "priceToBook": 8.849522,
+    "dividendYield": 0.25,
+    "beta": 1.237,
+    "fiftyTwoWeekHigh": 408.61,
+    "fiftyTwoWeekLow": 166.13,
+    "earningsTimestamp": 1777492800,
+    "shortName": "Alphabet Inc."
+  },
+  "headlines": [
+    {
+      "headline": "Tech Investor Dan Niles Cuts Back On Mag7 Bets Despite Massive Gains, Flags 'Speed Bump' Ahead: 'What Does September Guidance Look Like?'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60036876/tech-investor-dan-niles-cuts-back-on-mag7-bets-despite-massive-gains-flags-speed-bump-ahead-what-does-september-guidance-look-like",
+      "published_at": "2026-06-23T10:55:43+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60035209/sp500-june-23-open-up-or-down-polymarket-tech-selloff-fed-inflation",
+      "published_at": "2026-06-23T08:44:16+00:00"
+    },
+    {
+      "headline": "New Congressman Is Selling Stocks: Here’s The Six Magnificent Seven Names He Ditched",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/06/60029740/new-congressman-is-selling-stocks-heres-the-six-magnificent-seven-names-he-ditched",
+      "published_at": "2026-06-22T20:03:05+00:00"
+    },
+    {
+      "headline": "SanDisk's AI-Driven Surge Brings These ETFs In Focus As Memory Shortage Fears Grow",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60029438/sandisks-ai-driven-surge-brings-these-etfs-in-focus-as-memory-shortage-fears-grow",
+      "published_at": "2026-06-22T19:59:16+00:00"
+    },
+    {
+      "headline": "SpaceX Fuels AI Ambitions With $6.3 Billion Reflection Compute Deal",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60029271/spacex-fuels-ai-ambitions-with-reflection-compute-deal",
+      "published_at": "2026-06-22T19:54:58+00:00"
+    },
+    {
+      "headline": "GOOGL, MSFT Plunge Up To 6% On Monday: What Is Going On With AI Hyperscalers?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60029258/googl-msft-plunge-up-to-6-on-monday-what-is-going-on-with-ai-hyperscalers",
+      "published_at": "2026-06-22T19:54:39+00:00"
+    },
+    {
+      "headline": "Nokia Stock Gains As Google Cloud Partnership Adds Gemini AI Agents",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60024973/nokia-stock-gains-as-google-cloud-partnership-adds-gemini-ai-agents",
+      "published_at": "2026-06-22T17:39:22+00:00"
+    },
+    {
+      "headline": "Why Is Fervo Energy Stock Gaining Monday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/06/60024478/why-is-fervo-energy-stock-gaining-monday",
+      "published_at": "2026-06-22T17:25:21+00:00"
+    },
+    {
+      "headline": "Alphabet Tumbles 6%, SpaceX Sinks 10% On Bond Sale: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60023640/stock-market-today-alphabet-getty-spacex-nasdaq-s-p-500",
+      "published_at": "2026-06-22T17:01:47+00:00"
+    },
+    {
+      "headline": "Amazon Says Its Data Centers Use 86% Less Water Than Industry Average",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60020190/amazon-says-its-data-centers-use-86-less-water-than-industry-average",
+      "published_at": "2026-06-22T15:39:22+00:00"
+    }
+  ],
+  "errors": []
+}

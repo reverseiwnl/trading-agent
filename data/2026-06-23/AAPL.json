@@ -1,0 +1,325 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-06-23T12:03:25.608041+00:00",
+  "price": 296.64,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-08",
+      "open": 290.11,
+      "high": 294.76,
+      "low": 290.065,
+      "close": 293.15,
+      "volume": 1591559.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 292.025,
+      "high": 293.87,
+      "low": 290.25,
+      "close": 292.66,
+      "volume": 1134574.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 293.2,
+      "high": 295.26,
+      "low": 292.67,
+      "close": 294.72,
+      "volume": 1063424.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 293.5,
+      "high": 300.91,
+      "low": 293.5,
+      "close": 298.95,
+      "volume": 1263486.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 300.0,
+      "high": 300.45,
+      "low": 295.43,
+      "close": 298.25,
+      "volume": 951426.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 297.94,
+      "high": 303.19,
+      "low": 296.6,
+      "close": 300.19,
+      "volume": 1241262.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 300.19,
+      "high": 300.625,
+      "low": 294.92,
+      "close": 297.85,
+      "volume": 1082963.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 297.145,
+      "high": 300.51,
+      "low": 296.36,
+      "close": 299.14,
+      "volume": 1046682.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 298.18,
+      "high": 302.8,
+      "low": 298.12,
+      "close": 302.2,
+      "volume": 1610963.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 301.25,
+      "high": 305.53,
+      "low": 300.41,
+      "close": 305.07,
+      "volume": 1190868.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 306.06,
+      "high": 311.39,
+      "low": 306.06,
+      "close": 308.81,
+      "volume": 1275219.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 309.53,
+      "high": 311.82,
+      "low": 307.67,
+      "close": 308.33,
+      "volume": 1366307.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 308.41,
+      "high": 313.22,
+      "low": 308.38,
+      "close": 310.93,
+      "volume": 1681995.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 310.605,
+      "high": 312.72,
+      "low": 309.57,
+      "close": 312.45,
+      "volume": 1514315.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 311.915,
+      "high": 315.0,
+      "low": 309.54,
+      "close": 312.01,
+      "volume": 1619960.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 309.6,
+      "high": 310.94,
+      "low": 305.03,
+      "close": 306.265,
+      "volume": 1790146.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 307.36,
+      "high": 315.44,
+      "low": 306.73,
+      "close": 315.195,
+      "volume": 1291226.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 314.38,
+      "high": 316.92,
+      "low": 308.865,
+      "close": 310.22,
+      "volume": 1966854.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 313.335,
+      "high": 313.38,
+      "low": 309.675,
+      "close": 311.21,
+      "volume": 1230648.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 312.77,
+      "high": 315.14,
+      "low": 307.16,
+      "close": 307.59,
+      "volume": 2188603.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 308.615,
+      "high": 317.38,
+      "low": 301.18,
+      "close": 301.57,
+      "volume": 2762619.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 300.155,
+      "high": 300.59,
+      "low": 287.79,
+      "close": 290.36,
+      "volume": 2491376.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 290.7,
+      "high": 294.74,
+      "low": 287.38,
+      "close": 291.48,
+      "volume": 1843917.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 293.395,
+      "high": 296.995,
+      "low": 289.62,
+      "close": 295.48,
+      "volume": 1372585.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 296.075,
+      "high": 297.11,
+      "low": 289.635,
+      "close": 291.085,
+      "volume": 1456808.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 293.99,
+      "high": 297.78,
+      "low": 291.75,
+      "close": 296.53,
+      "volume": 1573337.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 295.245,
+      "high": 300.445,
+      "low": 293.99,
+      "close": 299.26,
+      "volume": 1229360.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 300.845,
+      "high": 301.95,
+      "low": 294.39,
+      "close": 296.07,
+      "volume": 1195228.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 298.44,
+      "high": 300.56,
+      "low": 295.635,
+      "close": 297.86,
+      "volume": 1278873.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 297.41,
+      "high": 302.415,
+      "low": 296.82,
+      "close": 296.85,
+      "volume": 1619228.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "marketCap": 4362291642368,
+    "trailingPE": 35.957626,
+    "forwardPE": 30.936642,
+    "priceToBook": 40.91047,
+    "dividendYield": 0.36,
+    "beta": 1.086,
+    "fiftyTwoWeekHigh": 317.4,
+    "fiftyTwoWeekLow": 199.26,
+    "earningsTimestamp": 1777579200,
+    "shortName": "Apple Inc."
+  },
+  "headlines": [
+    {
+      "headline": "Jack Dorsey Hailed As A 'Legend' For Creating An App That Sends Bitcoin Without Internet—But How Does It Actually Work?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/06/60035445/jack-dorsey-legend-app-that-sends-bitcoin-without-internet-how-legit-is-this-really",
+      "published_at": "2026-06-23T09:13:27+00:00"
+    },
+    {
+      "headline": "Apple, Tesla Documents Allegedly Leaked After Tata Electronics Cyberattack As Ransomware Group Publishes 200,000 Files On Dark Web (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60033868/apple-and-tesla-documents-allegedly-leaked-after-tata-electronics-cyberattack",
+      "published_at": "2026-06-23T03:43:41+00:00"
+    },
+    {
+      "headline": "Here’s How Much You Would Have Made Owning Apple Stock In The Last 10 Years",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60031347/here-s-how-much-you-would-have-made-owning-apple-stock-last-10-years",
+      "published_at": "2026-06-22T20:45:35+00:00"
+    },
+    {
+      "headline": "New Congressman Is Selling Stocks: Here’s The Six Magnificent Seven Names He Ditched",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/06/60029740/new-congressman-is-selling-stocks-heres-the-six-magnificent-seven-names-he-ditched",
+      "published_at": "2026-06-22T20:03:05+00:00"
+    },
+    {
+      "headline": "Reported June 19: Xiao-I Announces Shanghai High People's Court Dismisses All Litigation Claims Filed By Co. Against Apple's Siri Technology Alleged Infringement; Confirms Non-Patent Infringement Action That Specified Siri-Equipped iPhone Models Not Fall Within Protection Scope",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60024445/reported-june-19-xiao-i-announces-shanghai-high-people-s-court-dismisses-all-litigation-claims-filed",
+      "published_at": "2026-06-22T17:24:54+00:00"
+    },
+    {
+      "headline": "Micron Stock Climbs Over 3% In Pre-Market: What's Going On?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60008042/micron-stock-climbs-over-3-in-pre-market-whats-going-on",
+      "published_at": "2026-06-22T09:46:09+00:00"
+    },
+    {
+      "headline": "This Apple Analyst Is No Longer Bullish; Here Are Top 3 Downgrades For Monday",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/downgrades/26/06/60021430/this-apple-analyst-is-no-longer-bullish-here-are-top-3-downgrades-for-monday",
+      "published_at": "2026-06-22T16:08:00+00:00"
+    },
+    {
+      "headline": "'India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets' - Reuters",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60020071/india-s-tata-electronics-hit-cyber-breach-claiming-expose-apple-tesla-trade-secrets-reuters",
+      "published_at": "2026-06-22T15:36:17+00:00"
+    },
+    {
+      "headline": "Western Digital Joins Micron’s AI Memory Rally As Chip Demand Supercharges Storage Stocks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60019969/western-digital-joins-microns-ai-memory-rally-as-chip-demand-supercharges-storage-stocks",
+      "published_at": "2026-06-22T15:34:23+00:00"
+    },
+    {
+      "headline": "KGI Securities Downgrades Apple to Hold, Announces $315 Price Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60017352/kgi-securities-downgrades-apple-hold-announces-315-price-target",
+      "published_at": "2026-06-22T14:36:12+00:00"
+    }
+  ],
+  "errors": []
+}

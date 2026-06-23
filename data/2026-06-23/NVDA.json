@@ -1,0 +1,325 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-06-23T12:03:28.042762+00:00",
+  "price": 208.59,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-08",
+      "open": 213.01,
+      "high": 217.785,
+      "low": 212.92,
+      "close": 215.21,
+      "volume": 4181656.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 214.03,
+      "high": 222.3,
+      "low": 213.91,
+      "close": 219.45,
+      "volume": 4141456.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 218.445,
+      "high": 223.74,
+      "low": 214.955,
+      "close": 220.88,
+      "volume": 4058854.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 224.96,
+      "high": 227.8,
+      "low": 221.62,
+      "close": 225.91,
+      "volume": 3138586.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 229.73,
+      "high": 236.54,
+      "low": 229.41,
+      "close": 235.78,
+      "volume": 4515441.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 229.76,
+      "high": 231.5,
+      "low": 224.3,
+      "close": 225.305,
+      "volume": 3774303.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 229.4,
+      "high": 229.97,
+      "low": 218.39,
+      "close": 222.35,
+      "volume": 4041240.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 219.715,
+      "high": 224.47,
+      "low": 217.97,
+      "close": 220.645,
+      "volume": 4057698.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 223.175,
+      "high": 226.1,
+      "low": 220.5,
+      "close": 223.48,
+      "volume": 4890857.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 222.31,
+      "high": 227.35,
+      "low": 217.94,
+      "close": 219.47,
+      "volume": 6222899.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 220.98,
+      "high": 220.98,
+      "low": 214.9,
+      "close": 215.34,
+      "volume": 4838641.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 216.64,
+      "high": 218.17,
+      "low": 212.0,
+      "close": 214.785,
+      "volume": 4935639.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 214.12,
+      "high": 214.15,
+      "low": 208.79,
+      "close": 212.575,
+      "volume": 3280775.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 211.26,
+      "high": 215.5,
+      "low": 211.255,
+      "close": 214.27,
+      "volume": 4856752.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 214.55,
+      "high": 217.8,
+      "low": 211.145,
+      "close": 211.155,
+      "volume": 5876800.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 215.81,
+      "high": 224.86,
+      "low": 215.75,
+      "close": 224.42,
+      "volume": 6738901.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 227.205,
+      "high": 232.28,
+      "low": 221.36,
+      "close": 222.82,
+      "volume": 7100206.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 221.75,
+      "high": 222.78,
+      "low": 214.54,
+      "close": 214.86,
+      "volume": 4741903.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 213.775,
+      "high": 221.59,
+      "low": 210.97,
+      "close": 218.64,
+      "volume": 5374242.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 214.575,
+      "high": 214.81,
+      "low": 204.35,
+      "close": 205.17,
+      "volume": 8060300.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 209.645,
+      "high": 210.36,
+      "low": 206.02,
+      "close": 208.66,
+      "volume": 3893430.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 210.74,
+      "high": 211.37,
+      "low": 199.34,
+      "close": 208.2,
+      "volume": 5608889.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 204.305,
+      "high": 207.185,
+      "low": 199.93,
+      "close": 200.41,
+      "volume": 4910869.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 201.33,
+      "high": 205.64,
+      "low": 199.54,
+      "close": 204.86,
+      "volume": 5648208.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 204.5,
+      "high": 207.06,
+      "low": 203.46,
+      "close": 205.17,
+      "volume": 3923011.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 208.875,
+      "high": 212.71,
+      "low": 208.35,
+      "close": 212.46,
+      "volume": 4594335.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 211.115,
+      "high": 211.365,
+      "low": 207.31,
+      "close": 207.37,
+      "volume": 4089180.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 208.3,
+      "high": 209.2,
+      "low": 203.47,
+      "close": 204.7,
+      "volume": 3697942.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 207.4,
+      "high": 211.385,
+      "low": 206.5,
+      "close": 210.38,
+      "volume": 4026083.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 211.45,
+      "high": 213.98,
+      "low": 207.72,
+      "close": 208.59,
+      "volume": 5739735.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "marketCap": 5053711646720,
+    "trailingPE": 31.952524,
+    "forwardPE": 16.391691,
+    "priceToBook": 25.855019,
+    "dividendYield": 0.48,
+    "beta": 2.202,
+    "fiftyTwoWeekHigh": 236.54,
+    "fiftyTwoWeekLow": 145.5,
+    "earningsTimestamp": 1787774400,
+    "shortName": "NVIDIA Corporation"
+  },
+  "headlines": [
+    {
+      "headline": "Gary Black Says 'The Math Doesn't Math' As SPCX Stock Stays Volatile After Blockbuster IPO— Compares Elon Musk-Led Company To Nvidia",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60037948/gary-black-says-the-math-doesnt-math-as-spcx-dips-after-blockbuster-ipo-compares-elon-musk-led-company-to-nvidia",
+      "published_at": "2026-06-23T11:55:52+00:00"
+    },
+    {
+      "headline": "Box CEO Aaron Levie Says 'It's All Evals' When It Comes To AI Progress",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60036338/box-ceo-aaron-levie-says-its-all-evals-when-it-comes-to-ai-progress",
+      "published_at": "2026-06-23T10:22:47+00:00"
+    },
+    {
+      "headline": "Understanding NVIDIA's Position In Semiconductors &amp; Semiconductor Equipment Industry Compared To Competitors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60035763/understanding-nvidia-s-position-semiconductors-amp-semiconductor-equipment-industry-compared-competi",
+      "published_at": "2026-06-23T09:58:30+00:00"
+    },
+    {
+      "headline": "Trump Admits Regret Over Selling IBM Stock Too Soon After Praising CEO For 'Leading Fab' In US Chip Push— 'Not A Good Move'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60035619/trump-admits-regret-over-selling-ibm-stock-too-soon-after-praising-ceo-for-leading-fab-in-us-chip-push-not-a-good-move",
+      "published_at": "2026-06-23T09:39:47+00:00"
+    },
+    {
+      "headline": "Winamp Group's Jamendo Files US Federal Lawsuit Against NVIDIA For Copyright Infringement While Belgian Court Confirms EUR 16M Claim Jurisdiction",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60035339/winamp-group-s-jamendo-files-us-federal-lawsuit-against-nvidia-copyright-infringement-while-belgian-",
+      "published_at": "2026-06-23T09:02:53+00:00"
+    },
+    {
+      "headline": "Ted Cruz Says China Is Spending 'A Lot Of Money' To Scare Americans Away From AI",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60035199/ted-cruz-alleges-china-is-fueling-ai-fear-campaigns-in-us",
+      "published_at": "2026-06-23T08:42:16+00:00"
+    },
+    {
+      "headline": "Elon Musk Gives A Nod As Nvidia Argues AI Data Centers Aren't The Water Drain Many Believe: 'Numbers May Surprise You'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60034061/elon-musk-reacts-as-nvidia-says-ai-data-centers-use-less-water-than-many-believe",
+      "published_at": "2026-06-23T05:17:48+00:00"
+    },
+    {
+      "headline": "Reported Earlier: Groq Raises $650M To Scale Its AI Inference Cloud Business",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60030745/reported-earlier-groq-raises-650m-scale-its-ai-inference-cloud-business",
+      "published_at": "2026-06-22T20:25:54+00:00"
+    },
+    {
+      "headline": "New Congressman Is Selling Stocks: Here’s The Six Magnificent Seven Names He Ditched",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/06/60029740/new-congressman-is-selling-stocks-heres-the-six-magnificent-seven-names-he-ditched",
+      "published_at": "2026-06-22T20:03:05+00:00"
+    },
+    {
+      "headline": "GOOGL, MSFT Plunge Up To 6% On Monday: What Is Going On With AI Hyperscalers?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60029258/googl-msft-plunge-up-to-6-on-monday-what-is-going-on-with-ai-hyperscalers",
+      "published_at": "2026-06-22T19:54:39+00:00"
+    }
+  ],
+  "errors": []
+}

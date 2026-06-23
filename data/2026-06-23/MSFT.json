@@ -1,0 +1,325 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-06-23T12:03:27.638250+00:00",
+  "price": 367.98,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-08",
+      "open": 417.385,
+      "high": 418.57,
+      "low": 414.0,
+      "close": 414.965,
+      "volume": 818822.0
+    },
+    {
+      "date": "2026-05-11",
+      "open": 407.76,
+      "high": 412.62,
+      "low": 405.51,
+      "close": 412.62,
+      "volume": 674806.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 414.4,
+      "high": 415.44,
+      "low": 406.715,
+      "close": 407.77,
+      "volume": 897917.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 403.0,
+      "high": 406.27,
+      "low": 401.05,
+      "close": 405.09,
+      "volume": 785494.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 404.72,
+      "high": 411.795,
+      "low": 400.915,
+      "close": 409.44,
+      "volume": 794948.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 414.47,
+      "high": 428.155,
+      "low": 413.115,
+      "close": 422.0,
+      "volume": 1109396.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 416.4,
+      "high": 425.025,
+      "low": 415.64,
+      "close": 423.61,
+      "volume": 628464.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 429.885,
+      "high": 432.675,
+      "low": 416.49,
+      "close": 417.515,
+      "volume": 750391.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 414.135,
+      "high": 421.99,
+      "low": 411.31,
+      "close": 421.08,
+      "volume": 840531.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 424.72,
+      "high": 426.08,
+      "low": 415.78,
+      "close": 419.0,
+      "volume": 768373.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 419.48,
+      "high": 424.33,
+      "low": 416.36,
+      "close": 418.5,
+      "volume": 536551.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 416.575,
+      "high": 419.73,
+      "low": 413.075,
+      "close": 416.09,
+      "volume": 751245.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 410.9,
+      "high": 415.94,
+      "low": 409.66,
+      "close": 412.71,
+      "volume": 837631.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    }
+  ],
+  "fundamentals": {
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "marketCap": 2728761229312,
+    "trailingPE": 21.878498,
+    "forwardPE": 18.988003,
+    "priceToBook": 6.585869,
+    "dividendYield": 0.99,
+    "beta": 1.103,
+    "fiftyTwoWeekHigh": 555.45,
+    "fiftyTwoWeekLow": 356.28,
+    "earningsTimestamp": 1777492800,
+    "shortName": "Microsoft Corporation"
+  },
+  "headlines": [
+    {
+      "headline": "Options Are Pricing A Tech Market Shakeout",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60037411/options-are-pricing-a-tech-market-shakeout",
+      "published_at": "2026-06-23T11:24:13+00:00"
+    },
+    {
+      "headline": "Comparing Microsoft With Industry Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60035765/comparing-microsoft-industry-competitors-software-industry",
+      "published_at": "2026-06-23T09:58:39+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60035209/sp500-june-23-open-up-or-down-polymarket-tech-selloff-fed-inflation",
+      "published_at": "2026-06-23T08:44:16+00:00"
+    },
+    {
+      "headline": "IBM Joins OpenAI Daybreak Cyber Partner Program Over Advanced AI Capabilities",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60030856/ibm-joins-openai-daybreak-cyber-partner-program-over-advanced-ai-capabilities",
+      "published_at": "2026-06-22T20:30:55+00:00"
+    },
+    {
+      "headline": "New Congressman Is Selling Stocks: Here’s The Six Magnificent Seven Names He Ditched",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/06/60029740/new-congressman-is-selling-stocks-heres-the-six-magnificent-seven-names-he-ditched",
+      "published_at": "2026-06-22T20:03:05+00:00"
+    },
+    {
+      "headline": "SanDisk's AI-Driven Surge Brings These ETFs In Focus As Memory Shortage Fears Grow",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60029438/sandisks-ai-driven-surge-brings-these-etfs-in-focus-as-memory-shortage-fears-grow",
+      "published_at": "2026-06-22T19:59:16+00:00"
+    },
+    {
+      "headline": "President Trump Says Investing In Quantum Leadership Like Never Before",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/06/60029423/president-trump-says-investing-quantum-leadership-never",
+      "published_at": "2026-06-22T19:59:01+00:00"
+    },
+    {
+      "headline": "GOOGL, MSFT Plunge Up To 6% On Monday: What Is Going On With AI Hyperscalers?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60029258/googl-msft-plunge-up-to-6-on-monday-what-is-going-on-with-ai-hyperscalers",
+      "published_at": "2026-06-22T19:54:39+00:00"
+    },
+    {
+      "headline": "Credo Wires Agentic AI With $10 Billion-Plus Market In Sight",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60023965/credo-wires-agentic-ai-with-10-billion-plus-market-in-sight",
+      "published_at": "2026-06-22T17:10:02+00:00"
+    },
+    {
+      "headline": "Alphabet Tumbles 6%, SpaceX Sinks 10% On Bond Sale: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60023640/stock-market-today-alphabet-getty-spacex-nasdaq-s-p-500",
+      "published_at": "2026-06-22T17:01:47+00:00"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-23",
+  "market_context": "Risk-off tech tape. AI hyperscalers sold hard into 06-22: Benzinga 'GOOGL, MSFT Plunge Up To 6% On Monday: What Is Going On With AI Hyperscalers?' and 'Alphabet Tumbles 6%, SpaceX Sinks 10% On Bond Sale', with 06-23 'Options Are Pricing A Tech Market Shakeout' and 'Tech Investor Dan Niles Cuts Back On Mag7 Bets... Flags Speed Bump Ahead'. Default is hold across the watchlist: the moves are capital-structure/sentiment driven (bond sale, positioning) rather than fresh fundamental breaks, and there is no falsifiable buy catalyst in today's snapshots. Portfolio is 100% cash (no holdings per data/2026-06-23/_manifest.json), so no holdings news sweep was required. NOTE: prior dated signals run was 2026-06-12 (the 06-12 JNJ buy was approved but never filled - executions row 1 'refused_stale'), so today opens flat.",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "No actionable catalyst; close 296.85 mid-range vs 52w 199.26-317.40. Tape is sell-side noise: 06-22 'KGI Downgrades Apple to Hold, $315 PT' (chatter, discounted). Mild positive: 06-22 'Shanghai High People's Court Dismisses All Litigation Claims Against Apple's Siri Technology' (Xiao-I). The 06-22 Tata Electronics breach allegedly exposing Apple secrets is a watch-item, not yet a financial event. Hold; revisit on a product/earnings catalyst or break below 280.",
+      "sources": [
+        "Benzinga 2026-06-22: Reported June 19 - Xiao-I Announces Shanghai High People's Court Dismisses All Litigation Claims Filed By Co. Against Apple's Siri Technology",
+        "Benzinga 2026-06-22: 'India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets' - Reuters",
+        "data/2026-06-23/AAPL.json (last bar 2026-06-22 close 296.85; 52w 199.26-317.40)"
+      ],
+      "timestamp": "2026-06-23T12:10:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Caught in the hyperscaler selloff: Benzinga 06-22 'GOOGL, MSFT Plunge Up To 6% On Monday: What Is Going On With AI Hyperscalers?' and 06-23 'Options Are Pricing A Tech Market Shakeout'. Close 367.21 is near the low end of the 52w range (356.28-555.45) at forwardPE ~19. The drawdown is sentiment/positioning, not a disclosed fundamental break, so there is no clean buy or sell trigger today. Hold; revisit on Azure/AI guidance or a decisive break of the 356 52w low.",
+      "sources": [
+        "Benzinga 2026-06-22: GOOGL, MSFT Plunge Up To 6% On Monday: What Is Going On With AI Hyperscalers?",
+        "Benzinga 2026-06-23: Options Are Pricing A Tech Market Shakeout",
+        "data/2026-06-23/MSFT.json (last bar 2026-06-22 close 367.21; 52w 356.28-555.45)"
+      ],
+      "timestamp": "2026-06-23T12:10:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "High-beta (2.202) name into a risk-off AI tape (06-22 hyperscaler plunge) argues against initiating. Today's headlines are litigation/commentary, not fundamentals: 06-23 'Jamendo Files US Federal Lawsuit Against NVIDIA For Copyright Infringement' (Belgian court confirms EUR 16M claim) and 06-23 'Ted Cruz Says China Is Spending A Lot Of Money To Scare Americans Away From AI'. Close 208.59 vs 52w high 236.54. Hold; revisit on a confirmed data-center/earnings catalyst, not beta-driven swings.",
+      "sources": [
+        "Benzinga 2026-06-23: Winamp Group's Jamendo Files US Federal Lawsuit Against NVIDIA For Copyright Infringement While Belgian Court Confirms EUR 16M Claim Jurisdiction",
+        "Benzinga 2026-06-22: GOOGL, MSFT Plunge Up To 6% On Monday: What Is Going On With AI Hyperscalers?",
+        "data/2026-06-23/NVDA.json (last bar 2026-06-22 close 208.59; beta 2.202; 52w 145.50-236.54)"
+      ],
+      "timestamp": "2026-06-23T12:10:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Down ~6% on 06-22 per Benzinga 'Alphabet Tumbles 6%, SpaceX Sinks 10% On Bond Sale' and 'GOOGL, MSFT Plunge Up To 6%'. The drop is tied to a bond sale / hyperscaler de-rating rather than a guidance or regulatory shock, so it is a sentiment dip without a falsifiable edge today; close 349.50 vs 52w high 408.61. Demand story intact (06-22 'Nokia Stock Gains As Google Cloud Partnership Adds Gemini AI Agents'). Hold; a future buy needs the selloff to stabilize with price holding above ~340.",
+      "sources": [
+        "Benzinga 2026-06-22: Alphabet Tumbles 6%, SpaceX Sinks 10% On Bond Sale: Stock Market Today",
+        "Benzinga 2026-06-22: Nokia Stock Gains As Google Cloud Partnership Adds Gemini AI Agents",
+        "data/2026-06-23/GOOGL.json (last bar 2026-06-22 close 349.50; 52w 166.13-408.61)"
+      ],
+      "timestamp": "2026-06-23T12:10:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Downgrading the prior buy stance to hold: close 231.34 has drifted to just above the 230 falsification line set 06-12, with no fresh catalyst - only 06-22 'AbbVie Expands Immunology Footprint With Apogee $11B Acquisition' (competitor M&A) and 06-17 Bloomberg 'J&J Takes a Pass on Obesity Drugs to Focus Efforts on Cancer'. Defensive profile (beta 0.256, 2.32% yield) intact, but a stale catalyst at the falsification line is not a buy. Hold; reconsider only on a fresh dated catalyst reclaiming 238.",
+      "sources": [
+        "Benzinga 2026-06-22: AbbVie Expands Immunology Footprint With Apogee $11 Billion Acquisition",
+        "Benzinga 2026-06-17: 'J&J Takes a Pass on Obesity Drugs to Focus Efforts on Cancer' - Bloomberg",
+        "data/2026-06-23/JNJ.json (last bar 2026-06-22 close 231.34; 52w 150.73-251.71)"
+      ],
+      "timestamp": "2026-06-23T12:10:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Near the 52w high (406.53 vs 415.98) after a strong run; chasing that level has poor risk/reward. Today's headlines are non-fundamental: 06-22 a 15-year-return puff piece, 06-19 'Luigi Mangione Backs Away From Extreme Emotional Disturbance Defense Ahead Of UnitedHealthcare CEO Murder Trial' (overhang, not financials), and 06-17 'Leerink Raises PT to $462' (chatter, discounted). No falsifiable edge; hold. A future buy needs a pullback or a clean MA-regulatory all-clear.",
+      "sources": [
+        "Benzinga 2026-06-19: Luigi Mangione Backs Away From Extreme Emotional Disturbance Defense Ahead Of UnitedHealthcare CEO Murder Trial",
+        "Benzinga 2026-06-22: If You Invested $100 In UnitedHealth Group Stock 15 Years Ago, You Would Have This Much Today",
+        "data/2026-06-23/UNH.json (last bar 2026-06-22 close 406.525; 52w 234.60-415.98)"
+      ],
+      "timestamp": "2026-06-23T12:10:00+00:00"
+    }
+  ]
+}
