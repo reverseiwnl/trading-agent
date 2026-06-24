@@ -1,0 +1,284 @@
+{
+  "ticker": "UNH",
+  "as_of": "2026-06-24T12:02:48.838768+00:00",
+  "price": 409.65,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-11",
+      "open": 381.04,
+      "high": 384.7,
+      "low": 376.145,
+      "close": 384.46,
+      "volume": 232735.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 383.71,
+      "high": 397.415,
+      "low": 382.16,
+      "close": 396.46,
+      "volume": 387837.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 397.02,
+      "high": 404.15,
+      "low": 393.07,
+      "close": 401.05,
+      "volume": 341066.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 401.45,
+      "high": 401.51,
+      "low": 396.12,
+      "close": 399.18,
+      "volume": 176880.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 394.655,
+      "high": 397.6,
+      "low": 390.3,
+      "close": 393.525,
+      "volume": 226602.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 391.76,
+      "high": 392.02,
+      "low": 383.655,
+      "close": 391.04,
+      "volume": 317946.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 389.49,
+      "high": 394.965,
+      "low": 387.825,
+      "close": 389.45,
+      "volume": 208699.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 388.825,
+      "high": 393.15,
+      "low": 380.73,
+      "close": 383.19,
+      "volume": 335801.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 381.3,
+      "high": 386.09,
+      "low": 380.71,
+      "close": 382.57,
+      "volume": 134040.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 382.33,
+      "high": 390.4,
+      "low": 381.28,
+      "close": 388.545,
+      "volume": 143620.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.91,
+      "high": 384.91,
+      "low": 376.63,
+      "close": 376.99,
+      "volume": 162489.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 380.25,
+      "high": 384.49,
+      "low": 377.285,
+      "close": 384.15,
+      "volume": 173189.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 384.825,
+      "high": 389.185,
+      "low": 380.96,
+      "close": 382.41,
+      "volume": 179104.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 383.36,
+      "high": 385.0,
+      "low": 375.48,
+      "close": 380.28,
+      "volume": 249789.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.84,
+      "high": 383.305,
+      "low": 375.925,
+      "close": 379.85,
+      "volume": 203276.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 378.0,
+      "high": 380.0,
+      "low": 374.78,
+      "close": 377.92,
+      "volume": 154557.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 379.965,
+      "high": 387.28,
+      "low": 376.84,
+      "close": 376.96,
+      "volume": 287113.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 390.99,
+      "high": 401.2,
+      "low": 389.97,
+      "close": 396.52,
+      "volume": 350963.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 399.54,
+      "high": 403.95,
+      "low": 397.21,
+      "close": 399.59,
+      "volume": 348917.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 398.01,
+      "high": 408.62,
+      "low": 396.7,
+      "close": 406.66,
+      "volume": 251708.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 408.79,
+      "high": 412.955,
+      "low": 407.58,
+      "close": 412.68,
+      "volume": 328511.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 414.555,
+      "high": 415.95,
+      "low": 404.58,
+      "close": 407.52,
+      "volume": 283293.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 408.3,
+      "high": 409.86,
+      "low": 403.185,
+      "close": 405.27,
+      "volume": 218691.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 409.325,
+      "high": 409.325,
+      "low": 404.92,
+      "close": 408.49,
+      "volume": 291653.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 405.58,
+      "high": 414.13,
+      "low": 399.87,
+      "close": 411.2,
+      "volume": 241196.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 410.675,
+      "high": 411.705,
+      "low": 406.54,
+      "close": 407.95,
+      "volume": 205578.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 410.0,
+      "high": 411.16,
+      "low": 398.65,
+      "close": 399.57,
+      "volume": 320575.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 400.525,
+      "high": 406.19,
+      "low": 399.41,
+      "close": 401.13,
+      "volume": 246165.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 402.675,
+      "high": 409.46,
+      "low": 402.37,
+      "close": 406.525,
+      "volume": 322546.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 408.73,
+      "high": 409.67,
+      "low": 402.835,
+      "close": 409.65,
+      "volume": 280155.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "If You Invested $100 In UnitedHealth Group Stock 15 Years Ago, You Would Have This Much Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60030392/if-you-invested-100-unitedhealth-group-stock-15-years-ago-you-would-have-much-today",
+      "published_at": "2026-06-22T20:16:07+00:00"
+    },
+    {
+      "headline": "Luigi Mangione Backs Away From Extreme Emotional Disturbance Defense Ahead Of UnitedHealthcare CEO Murder Trial",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/legal/26/06/53295536/luigi-mangione-drops-extreme-emotional-disturbance-defense-ahead-of-ceo-murder-trial",
+      "published_at": "2026-06-19T02:29:41+00:00"
+    },
+    {
+      "headline": "Cramer Gives Vistra His Blessing, Backs Stryker, Steers Clear Of AI-Exposed FICO",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/53272439/cramer-gives-vistra-his-blessing-backs-stryker-steers-clear-of-ai-exposed-fico",
+      "published_at": "2026-06-18T12:23:23+00:00"
+    },
+    {
+      "headline": "7 Health Care Stocks With Whale Alerts In Today's Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/insights/options/26/06/53258451/7-health-care-stocks-with-whale-alerts-in-todays-session",
+      "published_at": "2026-06-17T17:35:32+00:00"
+    },
+    {
+      "headline": "Leerink Partners Maintains Outperform on UnitedHealth Group, Raises Price Target to $462",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/53252997/leerink-partners-maintains-outperform-on-unitedhealth-group-raises-price-target-to-462",
+      "published_at": "2026-06-17T15:01:02+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

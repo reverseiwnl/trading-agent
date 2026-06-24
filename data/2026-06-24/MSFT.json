@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-06-24T12:02:46.270283+00:00",
+  "price": 373.93,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-11",
+      "open": 407.76,
+      "high": 412.62,
+      "low": 405.51,
+      "close": 412.62,
+      "volume": 674806.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 414.4,
+      "high": 415.44,
+      "low": 406.715,
+      "close": 407.77,
+      "volume": 897917.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 403.0,
+      "high": 406.27,
+      "low": 401.05,
+      "close": 405.09,
+      "volume": 785494.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 404.72,
+      "high": 411.795,
+      "low": 400.915,
+      "close": 409.44,
+      "volume": 794948.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 414.47,
+      "high": 428.155,
+      "low": 413.115,
+      "close": 422.0,
+      "volume": 1109396.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 416.4,
+      "high": 425.025,
+      "low": 415.64,
+      "close": 423.61,
+      "volume": 628464.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 429.885,
+      "high": 432.675,
+      "low": 416.49,
+      "close": 417.515,
+      "volume": 750391.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 414.135,
+      "high": 421.99,
+      "low": 411.31,
+      "close": 421.08,
+      "volume": 840531.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 424.72,
+      "high": 426.08,
+      "low": 415.78,
+      "close": 419.0,
+      "volume": 768373.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 419.48,
+      "high": 424.33,
+      "low": 416.36,
+      "close": 418.5,
+      "volume": 536551.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 416.575,
+      "high": 419.73,
+      "low": 413.075,
+      "close": 416.09,
+      "volume": 751245.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 410.9,
+      "high": 415.94,
+      "low": 409.66,
+      "close": 412.71,
+      "volume": 837631.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 372.54,
+      "high": 377.19,
+      "low": 370.82,
+      "close": 373.93,
+      "volume": 905629.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Comparing Microsoft With Industry Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60063712/comparing-microsoft-industry-competitors-software-industry",
+      "published_at": "2026-06-24T09:58:39+00:00"
+    },
+    {
+      "headline": "Coinbase CEO Brian Armstrong Says Founders Must Be Willing To Be ‘Vilified’ To Build Anything Meaningful",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60062755/coinbase-ceo-brian-armstrong-says-founders-must-be-willing-to-be-vilified-to-build-anything-meaningful",
+      "published_at": "2026-06-24T07:27:28+00:00"
+    },
+    {
+      "headline": "Meta Faces Growing Pressure From Trump Administration To Submit Advanced AI Models For Federal Testing: Report (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60061389/meta-faces-growing-pressure-from-trump-administration-to-submit-advanced-ai-models-for-testing",
+      "published_at": "2026-06-24T01:51:24+00:00"
+    },
+    {
+      "headline": "Semi Mania Gets A Reality Check From South Korea; Investors Should Pay Attention To Shift In AI Tokens",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/60054308/semi-mania-gets-a-reality-check-from-south-korea-investors-should-pay-attention-to-shift-in-ai-tokens",
+      "published_at": "2026-06-23T18:22:49+00:00"
+    },
+    {
+      "headline": "Here’s How Much You Would Have Made Owning Microsoft Stock In The Last 20 Years",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60048145/here-s-how-much-you-would-have-made-owning-microsoft-stock-last-20-years",
+      "published_at": "2026-06-23T15:45:39+00:00"
+    },
+    {
+      "headline": "Coinbase Is A Potential $1 Trillion Company, Dan Tapiero Says: What Do Prediction Markets Say?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60046387/coinbase-is-a-potential-1-trillion-company-dan-tapiero-says-what-do-prediction-markets-say",
+      "published_at": "2026-06-23T15:05:32+00:00"
+    },
+    {
+      "headline": "Stock Of The Day: Where Is The Bottom For Microsoft?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/60042394/stock-of-the-day-where-is-the-bottom-for-microsoft",
+      "published_at": "2026-06-23T13:51:09+00:00"
+    },
+    {
+      "headline": "Microsoft Stock In Focus After Inking 20-Yr, 2.67 GW Power Deal With Chevron To Fuel AI Growth",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60040795/microsoft-stock-in-focus-after-inking-20-yr-2-67-gw-power-deal-with-chevron-to-fuel-ai-growth",
+      "published_at": "2026-06-23T13:18:31+00:00"
+    },
+    {
+      "headline": "Options Are Pricing A Tech Market Shakeout",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60037411/options-are-pricing-a-tech-market-shakeout",
+      "published_at": "2026-06-23T11:24:13+00:00"
+    },
+    {
+      "headline": "Comparing Microsoft With Industry Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60035765/comparing-microsoft-industry-competitors-software-industry",
+      "published_at": "2026-06-23T09:58:39+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

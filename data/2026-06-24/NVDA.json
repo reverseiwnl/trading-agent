@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-06-24T12:02:47.475627+00:00",
+  "price": 200.04,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-11",
+      "open": 214.03,
+      "high": 222.3,
+      "low": 213.91,
+      "close": 219.45,
+      "volume": 4141456.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 218.445,
+      "high": 223.74,
+      "low": 214.955,
+      "close": 220.88,
+      "volume": 4058854.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 224.96,
+      "high": 227.8,
+      "low": 221.62,
+      "close": 225.91,
+      "volume": 3138586.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 229.73,
+      "high": 236.54,
+      "low": 229.41,
+      "close": 235.78,
+      "volume": 4515441.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 229.76,
+      "high": 231.5,
+      "low": 224.3,
+      "close": 225.305,
+      "volume": 3774303.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 229.4,
+      "high": 229.97,
+      "low": 218.39,
+      "close": 222.35,
+      "volume": 4041240.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 219.715,
+      "high": 224.47,
+      "low": 217.97,
+      "close": 220.645,
+      "volume": 4057698.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 223.175,
+      "high": 226.1,
+      "low": 220.5,
+      "close": 223.48,
+      "volume": 4890857.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 222.31,
+      "high": 227.35,
+      "low": 217.94,
+      "close": 219.47,
+      "volume": 6222899.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 220.98,
+      "high": 220.98,
+      "low": 214.9,
+      "close": 215.34,
+      "volume": 4838641.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 216.64,
+      "high": 218.17,
+      "low": 212.0,
+      "close": 214.785,
+      "volume": 4935639.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 214.12,
+      "high": 214.15,
+      "low": 208.79,
+      "close": 212.575,
+      "volume": 3280775.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 211.26,
+      "high": 215.5,
+      "low": 211.255,
+      "close": 214.27,
+      "volume": 4856752.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 214.55,
+      "high": 217.8,
+      "low": 211.145,
+      "close": 211.155,
+      "volume": 5876800.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 215.81,
+      "high": 224.86,
+      "low": 215.75,
+      "close": 224.42,
+      "volume": 6738901.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 227.205,
+      "high": 232.28,
+      "low": 221.36,
+      "close": 222.82,
+      "volume": 7100206.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 221.75,
+      "high": 222.78,
+      "low": 214.54,
+      "close": 214.86,
+      "volume": 4741903.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 213.775,
+      "high": 221.59,
+      "low": 210.97,
+      "close": 218.64,
+      "volume": 5374242.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 214.575,
+      "high": 214.81,
+      "low": 204.35,
+      "close": 205.17,
+      "volume": 8060300.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 209.645,
+      "high": 210.36,
+      "low": 206.02,
+      "close": 208.66,
+      "volume": 3893430.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 210.74,
+      "high": 211.37,
+      "low": 199.34,
+      "close": 208.2,
+      "volume": 5608889.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 204.305,
+      "high": 207.185,
+      "low": 199.93,
+      "close": 200.41,
+      "volume": 4910869.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 201.33,
+      "high": 205.64,
+      "low": 199.54,
+      "close": 204.86,
+      "volume": 5648208.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 204.5,
+      "high": 207.06,
+      "low": 203.46,
+      "close": 205.17,
+      "volume": 3923011.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 208.875,
+      "high": 212.71,
+      "low": 208.35,
+      "close": 212.46,
+      "volume": 4594335.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 211.115,
+      "high": 211.365,
+      "low": 207.31,
+      "close": 207.37,
+      "volume": 4089180.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 208.3,
+      "high": 209.2,
+      "low": 203.47,
+      "close": 204.7,
+      "volume": 3697942.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 207.4,
+      "high": 211.385,
+      "low": 206.5,
+      "close": 210.38,
+      "volume": 4026083.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 211.45,
+      "high": 213.98,
+      "low": 207.72,
+      "close": 208.59,
+      "volume": 5739735.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 202.05,
+      "high": 203.75,
+      "low": 200.0,
+      "close": 200.07,
+      "volume": 3965353.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Nvidia Supplier SK Hynix Targets Massive Nasdaq Debut— And It's Coming For Alibaba's Record",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60065267/nvidia-supplier-sk-hynix-targets-massive-nasdaq-debut-and-its-coming-for-alibabas-record",
+      "published_at": "2026-06-24T11:15:36+00:00"
+    },
+    {
+      "headline": "Insights Into NVIDIA's Performance Versus Peers In Semiconductors &amp; Semiconductor Equipment Sector",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60063708/insights-nvidia-s-performance-versus-peers-semiconductors-amp-semiconductor-equipment-sector",
+      "published_at": "2026-06-24T09:58:26+00:00"
+    },
+    {
+      "headline": "UN Chief António Guterres Demands AI Companies Reveal Data Centers' Environmental Costs: 'Time To Come Clean'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60063593/un-chief-antonio-guterres-demands-ai-companies-reveal-data-centers-environmental-costs-time-to-come-clean",
+      "published_at": "2026-06-24T09:50:24+00:00"
+    },
+    {
+      "headline": "Nvidia's Nightmare? Why J.P. Morgan's Cembalest Calls Anthropic's Trainium Deal 'Strongest Third-Party' Endorsement Of GPU Alternatives",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60063563/nvidias-nightmare-why-j-p-morgans-cembalest-calls-anthropics-trainium-deal-strongest-third-party-endorsement-of-gpu-alternatives",
+      "published_at": "2026-06-24T09:44:27+00:00"
+    },
+    {
+      "headline": "'Nvidia’s Banned AI Chips Double In Price On China’s Black Market' - FT",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60062812/nvidia-s-banned-ai-chips-double-price-china-s-black-market-ft",
+      "published_at": "2026-06-24T07:41:17+00:00"
+    },
+    {
+      "headline": "Forget The Magnificent 7 And MANGOS—Billionaire Philippe Laffont Adds These Two 'Non-Tech' Giants To His New 'Mag 12'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60062788/forget-the-magnificent-7-and-mangos-billionaire-philippe-laffont-adds-these-two-non-tech-giants-to-his-new-mag-12",
+      "published_at": "2026-06-24T07:33:15+00:00"
+    },
+    {
+      "headline": "Micron Earnings Echo Nvidia's 2023 Moment? Futurum CEO Says Memory Chips Are 'The GPUs Of Three Years Ago,' Reiterates $1,500 Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60062500/micron-earnings-could-echo-nvidias-2023-moment-says-futurum-ceo",
+      "published_at": "2026-06-24T06:54:36+00:00"
+    },
+    {
+      "headline": "Elizabeth Warren Warns AI Could Eliminate Millions Of Jobs As Oracle Becomes Latest Big Tech To Reveal 21,000 Workforce Cuts: 'We Shouldn't Wait…'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60061898/elizabeth-warren-warns-ai-could-eliminate-millions-of-jobs-after-oracles-latest-cuts",
+      "published_at": "2026-06-24T04:39:50+00:00"
+    },
+    {
+      "headline": "Elon Musk's SpaceX Just Made Another Massive Fundraising Move After Its $86 Billion IPO Windfall",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60061874/elon-musks-spacex-just-made-another-massive-fundraising-move-after-its-86-billion-ipo-windfall",
+      "published_at": "2026-06-24T04:24:06+00:00"
+    },
+    {
+      "headline": "Micron's Run Isn't Over: Bank Of America Sees 40% More Upside",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/06/60059003/micron-technology-stock-bank-of-america-1500-price-target-rally-earnings-semiconductor-memory",
+      "published_at": "2026-06-23T20:45:07+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

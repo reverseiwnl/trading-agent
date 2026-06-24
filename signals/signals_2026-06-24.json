@@ -1,0 +1,70 @@
+{
+  "date": "2026-06-24",
+  "market_context": "Risk-off in semis: VOO snapshot carries Benzinga 06-23 'Chip Bloodbath Hits Nasdaq 100 As South Korea Plunges' and 06-22 'Alphabet Tumbles 6%, SpaceX Sinks 10% On Bond Sale'; NVDA -4.1% d/d on FT report of banned-chip black-market pricing and JPMorgan flagging Anthropic's Trainium deal as a GPU-alternative endorsement. AI-capex theme still intact (MSFT-Chevron 2.67GW power deal). Portfolio is 100% cash with no open positions (data/2026-06-24/_manifest.json holdings=[]), so no current-holdings breaking-news sweep was required. Fundamentals unavailable this run (yfinance fundamentals failed with proxy 403); research rests on Alpaca prices + Finnhub headlines only. Default is hold; one modest buy (GOOGL) on a dated, mechanical index-inclusion catalyst.",
+  "signals": [
+    {
+      "ticker": "GOOGL",
+      "action": "buy",
+      "conviction": 0.6,
+      "thesis": "Dated, mechanical catalyst: Benzinga 06-23 reports Alphabet replaces Verizon in the Dow Jones Industrial Average effective before the open Mon 06-29, forcing Dow-tracking passive buys into a name that just fell ~6% on the 06-22 bond sale (close 346.25). Secondary positive: 06-24 Japan megabanks AI deal. Falsified if GOOGL closes below 330 before 06-29 or the inclusion is delayed/withdrawn.",
+      "sources": [
+        "Benzinga 2026-06-23: Alphabet To Replace Verizon Communications In The Dow Jones Industrial Average Effective Prior To The Opening Of Trading On Monday, June 29",
+        "Benzinga 2026-06-24: Japan Finance Minister Katayama Says Google Offered Latest AI To Three Japanese Megabanks"
+      ],
+      "timestamp": "2026-06-24T12:05:00+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "No actionable catalyst. Benzinga 06-22 'Shanghai High People's Court Dismisses All Litigation Claims... Against Apple's Siri Technology' removes one overhang, but 06-23 'Apple, Tesla Documents Allegedly Leaked After Tata Electronics Cyberattack' is a fresh, unquantified risk. Close 294.28 (-0.9% d/d) is mid-range with only trading-desk chatter otherwise. Hold; revisit on concrete product/earnings news or a break below 280.",
+      "sources": [
+        "Benzinga 2026-06-22: Shanghai High People's Court Dismisses All Litigation Claims Against Apple's Siri Technology",
+        "Benzinga 2026-06-23: Apple, Tesla Documents Allegedly Leaked After Tata Electronics Cyberattack"
+      ],
+      "timestamp": "2026-06-24T12:05:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Constructive but no clean entry. Benzinga 06-23 'Microsoft Stock In Focus After Inking 20-Yr, 2.67 GW Power Deal With Chevron To Fuel AI Growth' supports the AI-infrastructure story, yet same-day 'Options Are Pricing A Tech Market Shakeout' and 'Where Is The Bottom For Microsoft?' signal a soft tape. Close 373.93 (+1.8% d/d). Hold; no falsifiable edge today.",
+      "sources": [
+        "Benzinga 2026-06-23: Microsoft Stock In Focus After Inking 20-Yr, 2.67 GW Power Deal With Chevron To Fuel AI Growth"
+      ],
+      "timestamp": "2026-06-24T12:05:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Negative drift, not a clean short setup. Close 200.07 (-4.1% d/d) amid the semi selloff; Benzinga 06-24 cites FT 'Nvidia's Banned AI Chips Double In Price On China's Black Market' and JPMorgan's Cembalest calling Anthropic's Trainium deal the 'strongest third-party endorsement of GPU alternatives'. Beta ~2.2 in a headline-driven tape argues against acting. Hold; no shorting permitted regardless.",
+      "sources": [
+        "Benzinga 2026-06-24: 'Nvidia's Banned AI Chips Double In Price On China's Black Market' - FT",
+        "Benzinga 2026-06-24: Nvidia's Nightmare? Why J.P. Morgan's Cembalest Calls Anthropic's Trainium Deal 'Strongest Third-Party' Endorsement Of GPU Alternatives"
+      ],
+      "timestamp": "2026-06-24T12:05:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Do not chase. Close 239.20 popped +3.4% d/d but today's snapshot has only two headlines, both stale/neutral-to-negative: Benzinga 06-22 'AbbVie Expands Immunology Footprint With Apogee $11 Billion Acquisition' (competitive pressure) and 06-17 'J&J Takes a Pass on Obesity Drugs to Focus Efforts on Cancer'. No fresh catalyst explains the move. Hold. (Note: a prior JNJ buy approved 06-12 was never executed and has expired.)",
+      "sources": [
+        "Benzinga 2026-06-22: AbbVie Expands Immunology Footprint With Apogee $11 Billion Acquisition",
+        "Benzinga 2026-06-17: 'J&J Takes a Pass on Obesity Drugs to Focus Efforts on Cancer' - Bloomberg"
+      ],
+      "timestamp": "2026-06-24T12:05:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Near 52-week high (close 409.65, +0.8% d/d) with no clean catalyst. The only fresh items are price-target chatter (Benzinga 06-17 Leerink raises PT to $462, ignored per process) and Benzinga 06-19 'Luigi Mangione Backs Away From Extreme Emotional Disturbance Defense Ahead Of UnitedHealthcare CEO Murder Trial', a headline risk not a fundamentals driver. Chasing into the high has poor risk/reward. Hold.",
+      "sources": [
+        "Benzinga 2026-06-19: Luigi Mangione Backs Away From Extreme Emotional Disturbance Defense Ahead Of UnitedHealthcare CEO Murder Trial"
+      ],
+      "timestamp": "2026-06-24T12:05:00+00:00"
+    }
+  ]
+}

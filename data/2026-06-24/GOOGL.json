@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-06-24T12:02:43.647804+00:00",
+  "price": 346.85,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-11",
+      "open": 393.645,
+      "high": 397.37,
+      "low": 388.51,
+      "close": 388.64,
+      "volume": 906121.0
+    },
+    {
+      "date": "2026-05-12",
+      "open": 387.03,
+      "high": 388.4,
+      "low": 382.78,
+      "close": 387.42,
+      "volume": 879557.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 385.49,
+      "high": 403.685,
+      "low": 385.02,
+      "close": 402.63,
+      "volume": 995762.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 397.28,
+      "high": 402.925,
+      "low": 395.85,
+      "close": 401.115,
+      "volume": 892737.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 395.995,
+      "high": 399.525,
+      "low": 393.29,
+      "close": 396.75,
+      "volume": 567513.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 395.685,
+      "high": 408.57,
+      "low": 394.62,
+      "close": 396.815,
+      "volume": 925835.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 396.8,
+      "high": 396.92,
+      "low": 386.11,
+      "close": 387.75,
+      "volume": 1014449.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 387.695,
+      "high": 393.58,
+      "low": 382.95,
+      "close": 388.86,
+      "volume": 1184514.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 385.705,
+      "high": 392.42,
+      "low": 383.125,
+      "close": 387.52,
+      "volume": 657497.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 386.765,
+      "high": 388.7,
+      "low": 381.8,
+      "close": 383.03,
+      "volume": 607993.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.21,
+      "low": 382.72,
+      "close": 388.91,
+      "volume": 950634.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Japan Finance Minister Katayama Says Google Offered Latest AI To Three Japanese Megabanks, Alphabet CEO Wants To Meet PM Takaichi This Autumn",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60063016/japan-finance-minister-katayama-says-google-offered-latest-ai-three-japanese-megabanks-alphabet-ceo-",
+      "published_at": "2026-06-24T08:13:05+00:00"
+    },
+    {
+      "headline": "Australian Competition Regulator Grants Google And Epic Interim Authorisation Pending Substantive Application, Australian User Settlement Terms Excluded",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60062948/australian-competition-regulator-grants-google-and-epic-interim-authorisation-pending-substantive-ap",
+      "published_at": "2026-06-24T07:56:30+00:00"
+    },
+    {
+      "headline": "Forget The Magnificent 7 And MANGOS—Billionaire Philippe Laffont Adds These Two 'Non-Tech' Giants To His New 'Mag 12'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60062788/forget-the-magnificent-7-and-mangos-billionaire-philippe-laffont-adds-these-two-non-tech-giants-to-his-new-mag-12",
+      "published_at": "2026-06-24T07:33:15+00:00"
+    },
+    {
+      "headline": "Meta Faces Growing Pressure From Trump Administration To Submit Advanced AI Models For Federal Testing: Report (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60061389/meta-faces-growing-pressure-from-trump-administration-to-submit-advanced-ai-models-for-testing",
+      "published_at": "2026-06-24T01:51:24+00:00"
+    },
+    {
+      "headline": "YouTube Settles Teen Social Media Addiction Lawsuit Ahead Of Trial As Meta, TikTok And Snapchat Face Mounting Mental Health Claims",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/legal/26/06/60061719/youtube-settles-teen-social-media-addiction-lawsuit-ahead-of-trial",
+      "published_at": "2026-06-24T03:26:51+00:00"
+    },
+    {
+      "headline": "$1000 Invested In Alphabet 20 Years Ago Would Be Worth This Much Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60060512/1000-invested-alphabet-20-years-ago-would-be-worth-much-today",
+      "published_at": "2026-06-23T22:16:54+00:00"
+    },
+    {
+      "headline": "Alphabet To Replace Verizon In Dow Jones Industrial Average",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60060233/alphabet-to-replace-verizon-in-dow-jones-industrial-average",
+      "published_at": "2026-06-23T21:44:01+00:00"
+    },
+    {
+      "headline": "Alphabet To Replace Verizon Communications In The Dow Jones Industrial Average Effective Prior To The Opening Of Trading On Monday, June 29, 2026",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60060010/alphabet-replace-verizon-communications-dow-jones-industrial-average-effective-prior-opening-trading",
+      "published_at": "2026-06-23T21:25:10+00:00"
+    },
+    {
+      "headline": "Semi Mania Gets A Reality Check From South Korea; Investors Should Pay Attention To Shift In AI Tokens",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/60054308/semi-mania-gets-a-reality-check-from-south-korea-investors-should-pay-attention-to-shift-in-ai-tokens",
+      "published_at": "2026-06-23T18:22:49+00:00"
+    },
+    {
+      "headline": "SpaceX Saw 850,000 Orders From Robinhood For Its IPO: What's Going On?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/06/60053098/spacex-saw-850000-orders-from-robinhood-for-its-ipo-whats-going-on",
+      "published_at": "2026-06-23T17:45:31+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
