@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-25",
+  "market_context": "Risk-off, chip-led tape: data/2026-06-25/VOO.json headlines 'Chip Bloodbath Hits Nasdaq 100 As South Korea Plunges' and 'Alphabet Tumbles 6%, SpaceX Sinks 10% On Bond Sale' alongside 'S&P 500 Rebounds Ahead Of Micron Test'. DATA CAVEAT: today's pull was PARTIAL (exit 1) — yfinance fundamentals failed for every ticker (fc.yahoo.com blocked by egress policy, 403), so all theses rest on Alpaca prices + headline feed only, with no valuation/earnings backstop. No current holdings (manifest holdings=[]; only prior order was a refused_stale JNJ buy on 06-11, never filled), so no breaking-news holdings search was required. With degraded data and a choppy/risk-off backdrop, default posture is HOLD across the watchlist — no conviction reaches the 0.6 buy bar on headline-grade evidence alone.",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "No AAPL-specific catalyst in today's snapshot; its headline list is dominated by other names (TSMC, Tesla, Micron) with only generic 'Apple ... on CNBC Final Trades' chatter. With fundamentals unavailable this run, there is no falsifiable basis to change exposure. Hold.",
+      "sources": ["data/2026-06-25/AAPL.json headline: 'Apple, Citizens Financial, Travelers And A Financial Stock On CNBC Final Trades'"],
+      "timestamp": "2026-06-25T12:05:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "MSFT snapshot carries only peer-comparison chatter ('Exploring The Competitive Space: Microsoft Versus Industry Peers In Software'), no company-specific catalyst. No fundamentals this run to support a sizing decision. Hold.",
+      "sources": ["data/2026-06-25/MSFT.json headline: 'Exploring The Competitive Space: Microsoft Versus Industry Peers In Software'"],
+      "timestamp": "2026-06-25T12:05:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "NVDA headlines are vague ('Why Is NVIDIA Stock Gaining Thursday?') against a sector 'Chip Bloodbath' backdrop (VOO snapshot). Directionally conflicting, headline-grade only, fundamentals missing — no edge. Hold.",
+      "sources": ["data/2026-06-25/NVDA.json headline: 'Why Is NVIDIA Stock Gaining Thursday?'", "data/2026-06-25/VOO.json headline: 'Chip Bloodbath Hits Nasdaq 100 As South Korea Plunges'"],
+      "timestamp": "2026-06-25T12:05:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "GOOGL fell sharply per VOO snapshot ('Alphabet Tumbles 6% ... On Bond Sale'); ticker snapshot adds a UK Play Store fee/CMA item (mildly positive regulatory de-risk) but no earnings catalyst. A 6% bond-sale-driven drop is not, by itself, a falsifiable buy thesis without fundamentals. Hold and reassess once a valuation pull is available.",
+      "sources": ["data/2026-06-25/VOO.json headline: 'Alphabet Tumbles 6%, SpaceX Sinks 10% On Bond Sale'", "data/2026-06-25/GOOGL.json headline: 'Google Announced Lower Google Play Service Fees And Developer Billing Options In UK From June 30 ... To Address CMA Concerns'"],
+      "timestamp": "2026-06-25T12:05:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "JNJ shows the only genuinely positive company-specific operational news today — SKYWARD IDE clinical enrollment start and a European THERMOCOOL SMARTTOUCH SF launch — and is a defensive name into a risk-off tape. But both are JNJ press releases (not independent sources) and fundamentals are unavailable, so conviction stays below the 0.6 buy bar. Hold; revisit as a defensive add only on a clean data pull.",
+      "sources": ["data/2026-06-25/JNJ.json headline: 'Johnson & Johnson Initiates Patient Enrollment In Its SKYWARD Investigational Device Exemption Clinical Program'", "data/2026-06-25/JNJ.json headline: 'Johnson & Johnson Announced Commercial Launch Of Dual Energy THERMOCOOL SMARTTOUCH SF Platform In Europe'"],
+      "timestamp": "2026-06-25T12:05:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "UNH headlines are a B of A price-target raise (chatter, ignored per process) and ongoing UnitedHealthcare-CEO murder-trial coverage (reputational overhang, not a fundamental change). No actionable, falsifiable catalyst and no fundamentals this run. Hold.",
+      "sources": ["data/2026-06-25/UNH.json headline: 'Luigi Mangione Backs Away From Extreme Emotional Disturbance Defense Ahead Of UnitedHealthcare CEO Murder Trial'"],
+      "timestamp": "2026-06-25T12:05:00+00:00"
+    }
+  ]
+}

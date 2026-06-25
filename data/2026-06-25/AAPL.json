@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-06-25T12:02:31.196061+00:00",
+  "price": 291.25,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-12",
+      "open": 293.2,
+      "high": 295.26,
+      "low": 292.67,
+      "close": 294.72,
+      "volume": 1063424.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 293.5,
+      "high": 300.91,
+      "low": 293.5,
+      "close": 298.95,
+      "volume": 1263486.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 300.0,
+      "high": 300.45,
+      "low": 295.43,
+      "close": 298.25,
+      "volume": 951426.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 297.94,
+      "high": 303.19,
+      "low": 296.6,
+      "close": 300.19,
+      "volume": 1241262.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 300.19,
+      "high": 300.625,
+      "low": 294.92,
+      "close": 297.85,
+      "volume": 1082963.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 297.145,
+      "high": 300.51,
+      "low": 296.36,
+      "close": 299.14,
+      "volume": 1046682.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 298.18,
+      "high": 302.8,
+      "low": 298.12,
+      "close": 302.2,
+      "volume": 1610963.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 301.25,
+      "high": 305.53,
+      "low": 300.41,
+      "close": 305.07,
+      "volume": 1190868.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 306.06,
+      "high": 311.39,
+      "low": 306.06,
+      "close": 308.81,
+      "volume": 1275219.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 309.53,
+      "high": 311.82,
+      "low": 307.67,
+      "close": 308.33,
+      "volume": 1366307.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 308.41,
+      "high": 313.22,
+      "low": 308.38,
+      "close": 310.93,
+      "volume": 1681995.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 310.605,
+      "high": 312.72,
+      "low": 309.57,
+      "close": 312.45,
+      "volume": 1514315.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 311.915,
+      "high": 315.0,
+      "low": 309.54,
+      "close": 312.01,
+      "volume": 1619960.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 309.6,
+      "high": 310.94,
+      "low": 305.03,
+      "close": 306.265,
+      "volume": 1790146.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 307.36,
+      "high": 315.44,
+      "low": 306.73,
+      "close": 315.195,
+      "volume": 1291226.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 314.38,
+      "high": 316.92,
+      "low": 308.865,
+      "close": 310.22,
+      "volume": 1966854.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 313.335,
+      "high": 313.38,
+      "low": 309.675,
+      "close": 311.21,
+      "volume": 1230648.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 312.77,
+      "high": 315.14,
+      "low": 307.16,
+      "close": 307.59,
+      "volume": 2188603.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 308.615,
+      "high": 317.38,
+      "low": 301.18,
+      "close": 301.57,
+      "volume": 2762619.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 300.155,
+      "high": 300.59,
+      "low": 287.79,
+      "close": 290.36,
+      "volume": 2491376.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 290.7,
+      "high": 294.74,
+      "low": 287.38,
+      "close": 291.48,
+      "volume": 1843917.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 293.395,
+      "high": 296.995,
+      "low": 289.62,
+      "close": 295.48,
+      "volume": 1372585.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 296.075,
+      "high": 297.11,
+      "low": 289.635,
+      "close": 291.085,
+      "volume": 1456808.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 293.99,
+      "high": 297.78,
+      "low": 291.75,
+      "close": 296.53,
+      "volume": 1573337.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 295.245,
+      "high": 300.445,
+      "low": 293.99,
+      "close": 299.26,
+      "volume": 1229360.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 300.845,
+      "high": 301.95,
+      "low": 294.39,
+      "close": 296.07,
+      "volume": 1195228.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 298.44,
+      "high": 300.56,
+      "low": 295.635,
+      "close": 297.86,
+      "volume": 1278873.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 297.41,
+      "high": 302.415,
+      "low": 296.82,
+      "close": 296.85,
+      "volume": 1619228.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 297.61,
+      "high": 301.635,
+      "low": 294.27,
+      "close": 294.28,
+      "volume": 1781140.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 295.345,
+      "high": 299.675,
+      "low": 292.94,
+      "close": 293.32,
+      "volume": 2239666.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Exclusive: Trump’s Intel Push Won’t Kill TSMC—Why The World’s ‘Indispensable Backbone’ Remains A Buy",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60090275/trumps-intel-push-tsm-why-worlds-indispensable-backbone-remains-a-buy",
+      "published_at": "2026-06-25T08:37:09+00:00"
+    },
+    {
+      "headline": "Gary Black Says Tesla Stock Continues To Underperform Nasdaq 100 Despite 10-Year Treasury Yield Drop And Crude Falling To $73",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60088782/gary-black-says-tesla-continues-to-underperform-the-nasdaq-100-despite-falling-yields-and-oil-prices",
+      "published_at": "2026-06-25T05:02:28+00:00"
+    },
+    {
+      "headline": "Alphabet Joins Dow Jones Industrial Average: Here's How The Last Three Additions Performed",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/60078810/alphabet-joins-dow-jones-industrial-average-heres-how-the-last-three-additions-performed",
+      "published_at": "2026-06-24T17:20:37+00:00"
+    },
+    {
+      "headline": "Micron Earnings Reaction To Test AI Trade; SK Hynix US Listing Is Bad News For MU",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/60077439/micron-earnings-reaction-to-test-ai-trade-sk-hynix-us-listing-is-bad-news-for-mu",
+      "published_at": "2026-06-24T16:38:29+00:00"
+    },
+    {
+      "headline": "What's Going On With Xiao-I Stock Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/legal/26/06/60075531/whats-going-on-with-xiao-i-stock-wednesday",
+      "published_at": "2026-06-24T15:38:45+00:00"
+    },
+    {
+      "headline": "Apple, Citizens Financial, Travelers And A Financial Stock On CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/60065697/apple-citizens-financial-travelers-and-a-financial-stock-on-cnbcs-final-trades",
+      "published_at": "2026-06-24T11:42:57+00:00"
+    },
+    {
+      "headline": "Coinbase CEO Brian Armstrong Says Founders Must Be Willing To Be ‘Vilified’ To Build Anything Meaningful",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60062755/coinbase-ceo-brian-armstrong-says-founders-must-be-willing-to-be-vilified-to-build-anything-meaningful",
+      "published_at": "2026-06-24T07:27:28+00:00"
+    },
+    {
+      "headline": "Apple Stock Is Trending: A Key Level Just Came Into Play",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60056401/apple-stock-is-trending-a-key-level-just-came-into-play",
+      "published_at": "2026-06-23T19:30:18+00:00"
+    },
+    {
+      "headline": "Semi Mania Gets A Reality Check From South Korea; Investors Should Pay Attention To Shift In AI Tokens",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/60054308/semi-mania-gets-a-reality-check-from-south-korea-investors-should-pay-attention-to-shift-in-ai-tokens",
+      "published_at": "2026-06-23T18:22:49+00:00"
+    },
+    {
+      "headline": "CNBC Halftime Report Final Trades: Citizens Financial Group, Apple, Travelers Companies, F.N.B.",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/FNB",
+      "published_at": "2026-06-23T17:01:33+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

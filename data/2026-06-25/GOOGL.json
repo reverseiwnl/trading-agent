@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-06-25T12:02:32.790368+00:00",
+  "price": 344.85,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-12",
+      "open": 387.03,
+      "high": 388.4,
+      "low": 382.78,
+      "close": 387.42,
+      "volume": 879557.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 385.49,
+      "high": 403.685,
+      "low": 385.02,
+      "close": 402.63,
+      "volume": 995762.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 397.28,
+      "high": 402.925,
+      "low": 395.85,
+      "close": 401.115,
+      "volume": 892737.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 395.995,
+      "high": 399.525,
+      "low": 393.29,
+      "close": 396.75,
+      "volume": 567513.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 395.685,
+      "high": 408.57,
+      "low": 394.62,
+      "close": 396.815,
+      "volume": 925835.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 396.8,
+      "high": 396.92,
+      "low": 386.11,
+      "close": 387.75,
+      "volume": 1014449.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 387.695,
+      "high": 393.58,
+      "low": 382.95,
+      "close": 388.86,
+      "volume": 1184514.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 385.705,
+      "high": 392.42,
+      "low": 383.125,
+      "close": 387.52,
+      "volume": 657497.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 386.765,
+      "high": 388.7,
+      "low": 381.8,
+      "close": 383.03,
+      "volume": 607993.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.21,
+      "low": 382.72,
+      "close": 388.91,
+      "volume": 950634.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "YouTuber Johnny Somali's Bid For Freedom Falls Short As South Korean Court Rejects Appeal And Keeps Prison Sentence Intact",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/legal/26/06/60092910/youtuber-johnny-somalis-bid-for-freedom-falls-short-as-south-korean-court-rejects-appeal-and-keeps-prison-sentence-intact",
+      "published_at": "2026-06-25T11:32:47+00:00"
+    },
+    {
+      "headline": "Google Announced Lower Google Play Service Fees And Developer Billing Options In UK From June 30, Google Play Changes Address CMA Concerns, To Launch Registered App Stores Program Later This Year For Installation Streamlining",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60092580/google-announced-lower-google-play-service-fees-and-developer-billing-options-uk-june-30-google-play",
+      "published_at": "2026-06-25T11:11:18+00:00"
+    },
+    {
+      "headline": "Jeff Bezos Challenges Elon Musk’s Tesla And SpaceX With Zoox Robotaxi, Blue Origin Mars Push",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60089098/jeff-bezos-challenges-elon-musk-biggest-bets-tesla-spacex",
+      "published_at": "2026-06-25T06:22:55+00:00"
+    },
+    {
+      "headline": "Gary Black Says Tesla Stock Continues To Underperform Nasdaq 100 Despite 10-Year Treasury Yield Drop And Crude Falling To $73",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60088782/gary-black-says-tesla-continues-to-underperform-the-nasdaq-100-despite-falling-yields-and-oil-prices",
+      "published_at": "2026-06-25T05:02:28+00:00"
+    },
+    {
+      "headline": "'Anthropic Accuses Alibaba of ‘Illicitly’ Accessing Its AI Models' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60083665/anthropic-accuses-alibaba-illicitly-accessing-its-ai-models-bloomberg",
+      "published_at": "2026-06-24T19:43:39+00:00"
+    },
+    {
+      "headline": "Broadcom, OpenAI Unveil ‘Jalapeño’ AI Inference Chip",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60083543/broadcom-openai-unveil-jalapeno-ai-inference-chip",
+      "published_at": "2026-06-24T19:39:45+00:00"
+    },
+    {
+      "headline": "Patent And Market Court Of Sweden Postpones Publication Of Its Judgement In Antitrust Claims Against Google Brought By Klarna's Subsidiary",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60082066/patent-and-market-court-sweden-postpones-publication-its-judgement-antitrust-claims-against-google-b",
+      "published_at": "2026-06-24T18:58:40+00:00"
+    },
+    {
+      "headline": "'Google Delays Gemini 3.5 Pro Launch To July As It Tweaks Its New Frontier AI Model' - Business Insider",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60081516/google-delays-gemini-3-5-pro-launch-july-it-tweaks-its-new-frontier-ai-model-business-insider",
+      "published_at": "2026-06-24T18:43:48+00:00"
+    },
+    {
+      "headline": "'Google Poised to Lose Two More High-Profile AI Staffers to Anthropic' - Bloomberg News",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60080730/google-poised-lose-two-more-high-profile-ai-staffers-anthropic-bloomberg-news",
+      "published_at": "2026-06-24T18:19:36+00:00"
+    },
+    {
+      "headline": "Why OpenAI's Jalapeño Is Really A Broadcom Story",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/60080364/why-openais-jalapeno-is-really-a-broadcom-story",
+      "published_at": "2026-06-24T18:09:11+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

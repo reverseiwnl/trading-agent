@@ -1,0 +1,272 @@
+{
+  "ticker": "JNJ",
+  "as_of": "2026-06-25T12:02:33.993210+00:00",
+  "price": 241.0,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-12",
+      "open": 223.05,
+      "high": 227.605,
+      "low": 221.795,
+      "close": 224.34,
+      "volume": 289023.0
+    },
+    {
+      "date": "2026-05-13",
+      "open": 225.78,
+      "high": 230.775,
+      "low": 225.68,
+      "close": 230.455,
+      "volume": 371179.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 230.93,
+      "high": 231.76,
+      "low": 229.28,
+      "close": 230.8,
+      "volume": 151174.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 230.52,
+      "high": 232.04,
+      "low": 226.55,
+      "close": 226.75,
+      "volume": 260269.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 227.11,
+      "high": 229.68,
+      "low": 225.91,
+      "close": 228.93,
+      "volume": 234232.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 228.935,
+      "high": 230.795,
+      "low": 228.385,
+      "close": 230.14,
+      "volume": 358980.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 231.89,
+      "high": 231.94,
+      "low": 229.19,
+      "close": 229.27,
+      "volume": 191463.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 228.89,
+      "high": 231.87,
+      "low": 227.455,
+      "close": 231.795,
+      "volume": 158009.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 232.85,
+      "high": 235.42,
+      "low": 232.85,
+      "close": 234.37,
+      "volume": 308416.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 232.97,
+      "high": 233.19,
+      "low": 229.08,
+      "close": 230.31,
+      "volume": 271670.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 229.41,
+      "high": 232.75,
+      "low": 229.22,
+      "close": 231.28,
+      "volume": 217694.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 231.15,
+      "high": 231.865,
+      "low": 229.87,
+      "close": 230.8,
+      "volume": 314611.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 231.175,
+      "high": 231.2,
+      "low": 224.585,
+      "close": 225.23,
+      "volume": 289363.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 223.285,
+      "high": 224.41,
+      "low": 220.84,
+      "close": 223.5,
+      "volume": 409646.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 222.89,
+      "high": 225.29,
+      "low": 221.47,
+      "close": 222.91,
+      "volume": 225278.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 222.55,
+      "high": 224.85,
+      "low": 222.54,
+      "close": 223.61,
+      "volume": 238590.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 227.67,
+      "high": 228.63,
+      "low": 225.98,
+      "close": 228.27,
+      "volume": 224474.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 229.85,
+      "high": 235.215,
+      "low": 229.55,
+      "close": 232.71,
+      "volume": 326310.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 233.135,
+      "high": 234.93,
+      "low": 230.66,
+      "close": 232.15,
+      "volume": 256806.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 232.63,
+      "high": 237.625,
+      "low": 230.66,
+      "close": 237.0,
+      "volume": 325263.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 238.42,
+      "high": 240.88,
+      "low": 237.43,
+      "close": 238.52,
+      "volume": 352737.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 239.8,
+      "high": 241.55,
+      "low": 238.18,
+      "close": 238.31,
+      "volume": 262713.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 238.98,
+      "high": 240.9,
+      "low": 237.83,
+      "close": 240.84,
+      "volume": 241223.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 239.01,
+      "high": 239.01,
+      "low": 233.675,
+      "close": 235.78,
+      "volume": 261626.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 236.03,
+      "high": 236.125,
+      "low": 231.14,
+      "close": 235.25,
+      "volume": 327750.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 233.585,
+      "high": 233.95,
+      "low": 230.845,
+      "close": 233.92,
+      "volume": 372902.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 231.75,
+      "high": 232.68,
+      "low": 227.635,
+      "close": 228.345,
+      "volume": 348977.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 228.39,
+      "high": 231.45,
+      "low": 227.715,
+      "close": 231.34,
+      "volume": 339851.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 236.375,
+      "high": 239.79,
+      "low": 234.42,
+      "close": 239.2,
+      "volume": 426872.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 240.33,
+      "high": 243.03,
+      "low": 238.75,
+      "close": 241.0,
+      "volume": 317781.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Johnson & Johnson Initiates Patient Enrollment In Its SKYWARD Investigational Device Exemption Clinical Program",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60093330/johnson-johnson-initiates-patient-enrollment-its-skyward-investigational-device-exemption-clinical-p",
+      "published_at": "2026-06-25T11:51:20+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Announced Commercial Launch Of Dual Energy THERMOCOOL SMARTTOUCH SF Platform In Europe",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/JNJ",
+      "published_at": "2026-06-25T09:05:29+00:00"
+    },
+    {
+      "headline": "AbbVie Expands Immunology Footprint With Apogee $11 Billion Acquisition",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/m-a/26/06/60013075/abbvie-expands-immunology-footprint-with-apogee-11-billion-acquisition",
+      "published_at": "2026-06-22T13:15:07+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
