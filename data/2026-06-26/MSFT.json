@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-06-26T12:03:06.244545+00:00",
+  "price": 353.97,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-13",
+      "open": 403.0,
+      "high": 406.27,
+      "low": 401.05,
+      "close": 405.09,
+      "volume": 785494.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 404.72,
+      "high": 411.795,
+      "low": 400.915,
+      "close": 409.44,
+      "volume": 794948.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 414.47,
+      "high": 428.155,
+      "low": 413.115,
+      "close": 422.0,
+      "volume": 1109396.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 416.4,
+      "high": 425.025,
+      "low": 415.64,
+      "close": 423.61,
+      "volume": 628464.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 429.885,
+      "high": 432.675,
+      "low": 416.49,
+      "close": 417.515,
+      "volume": 750391.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 414.135,
+      "high": 421.99,
+      "low": 411.31,
+      "close": 421.08,
+      "volume": 840531.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 424.72,
+      "high": 426.08,
+      "low": 415.78,
+      "close": 419.0,
+      "volume": 768373.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 419.48,
+      "high": 424.33,
+      "low": 416.36,
+      "close": 418.5,
+      "volume": 536551.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 416.575,
+      "high": 419.73,
+      "low": 413.075,
+      "close": 416.09,
+      "volume": 751245.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 410.9,
+      "high": 415.94,
+      "low": 409.66,
+      "close": 412.71,
+      "volume": 837631.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 372.54,
+      "high": 377.19,
+      "low": 370.82,
+      "close": 373.93,
+      "volume": 905629.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 371.83,
+      "high": 378.87,
+      "low": 364.8,
+      "close": 365.46,
+      "volume": 1182848.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 362.77,
+      "high": 364.19,
+      "low": 349.205,
+      "close": 352.415,
+      "volume": 2522776.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "‘Maleficent 7’? Analyst Warns Microsoft Could Crash To $250",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60122272/magnificent-seven-maleficent-7-microsoft-technical-analysis-sp500",
+      "published_at": "2026-06-26T11:51:58+00:00"
+    },
+    {
+      "headline": "Investigating Microsoft's Standing In Software Industry Compared To Competitors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60120387/investigating-microsoft-s-standing-software-industry-compared-competitors",
+      "published_at": "2026-06-26T09:58:38+00:00"
+    },
+    {
+      "headline": "Why Apple Just Suffered Its Worst Crash In Over A Year",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60120292/why-apple-just-suffered-its-worst-crash-in-over-a-year",
+      "published_at": "2026-06-26T09:42:55+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60120031/sp500-june-26-open-up-or-down-polymarket-tech-selloff-micron-ai-stocks",
+      "published_at": "2026-06-26T09:00:00+00:00"
+    },
+    {
+      "headline": "Italy's Competition Authority Launches Investigation Against Microsoft Over Microsoft 365 Price Increase And Copilot Integration Disclosures",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/VGK",
+      "published_at": "2026-06-26T07:22:43+00:00"
+    },
+    {
+      "headline": "Xbox Prices Surge Again As Microsoft Expects Memory Costs To Double By Fall 2027, Joins Apple, Sony And Nintendo In Wave Of Hardware Price Hikes",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60119125/xbox-prices-rise-again-as-microsoft-warns-memory-costs-could-double-by-2027",
+      "published_at": "2026-06-26T06:26:59+00:00"
+    },
+    {
+      "headline": "Apple, Triller Group, BlackBerry, Synaptics And Microsoft: Why These 5 Stocks Are On Investors' Radars Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60118381/apple-triller-group-blackberry-synaptics-and-microsoft-why-these-5-stocks-are-on-investors-radars-today",
+      "published_at": "2026-06-26T01:40:20+00:00"
+    },
+    {
+      "headline": "'OpenAI Leans Toward Waiting Until Next Year For I.P.O.' - NY Times",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60116251/openai-leans-toward-waiting-until-next-year-i-p-o-ny-times",
+      "published_at": "2026-06-25T20:37:30+00:00"
+    },
+    {
+      "headline": "Micron Rallies 15%, Apple Sinks 6% On Memory Costs: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60108692/micron-rallies-apple-sinks-stock-market-thursday",
+      "published_at": "2026-06-25T18:14:16+00:00"
+    },
+    {
+      "headline": "Is AI Talent Acquisition Emerging As A New Investment Signal?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/06/60111250/is-ai-talent-acquisition-emerging-as-a-new-investment-signal",
+      "published_at": "2026-06-25T18:13:47+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

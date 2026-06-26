@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-06-26T12:03:03.353054+00:00",
+  "price": 342.32,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-13",
+      "open": 385.49,
+      "high": 403.685,
+      "low": 385.02,
+      "close": 402.63,
+      "volume": 995762.0
+    },
+    {
+      "date": "2026-05-14",
+      "open": 397.28,
+      "high": 402.925,
+      "low": 395.85,
+      "close": 401.115,
+      "volume": 892737.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 395.995,
+      "high": 399.525,
+      "low": 393.29,
+      "close": 396.75,
+      "volume": 567513.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 395.685,
+      "high": 408.57,
+      "low": 394.62,
+      "close": 396.815,
+      "volume": 925835.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 396.8,
+      "high": 396.92,
+      "low": 386.11,
+      "close": 387.75,
+      "volume": 1014449.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 387.695,
+      "high": 393.58,
+      "low": 382.95,
+      "close": 388.86,
+      "volume": 1184514.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 385.705,
+      "high": 392.42,
+      "low": 383.125,
+      "close": 387.52,
+      "volume": 657497.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 386.765,
+      "high": 388.7,
+      "low": 381.8,
+      "close": 383.03,
+      "volume": 607993.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.21,
+      "low": 382.72,
+      "close": 388.91,
+      "volume": 950634.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Alphabet Hit By Another Wave Of AI Departures: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60122325/alphabet-hit-by-another-wave-of-ai-departures-report",
+      "published_at": "2026-06-26T11:55:08+00:00"
+    },
+    {
+      "headline": "‘Maleficent 7’? Analyst Warns Microsoft Could Crash To $250",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60122272/magnificent-seven-maleficent-7-microsoft-technical-analysis-sp500",
+      "published_at": "2026-06-26T11:51:58+00:00"
+    },
+    {
+      "headline": "Nancy Pelosi Has Added These 9 Stocks To Her Portfolio Since 2025, Including Three Magnificent Seven Names",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/06/60117738/nancy-pelosi-has-added-these-9-stocks-to-her-portfolio-since-2025-including-three-magnificent-seven-names",
+      "published_at": "2026-06-25T22:09:31+00:00"
+    },
+    {
+      "headline": "Elon Musk Was First Trillionaire, Prediction Markets Pick This Magnificent Seven CEO To Be Second To Join Elite Club",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/large-cap/26/06/60116556/elon-musk-was-first-trillionaire-prediction-markets-pick-this-magnificent-seven-ceo-to-be-second-to-join-elite-club",
+      "published_at": "2026-06-25T20:51:18+00:00"
+    },
+    {
+      "headline": "'Google’s AI Pilot Pushes Publishers To Allow Content For AI Model Training' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60115339/google-s-ai-pilot-pushes-publishers-allow-content-ai-model-training-information",
+      "published_at": "2026-06-25T20:09:39+00:00"
+    },
+    {
+      "headline": "Micron Rallies 15%, Apple Sinks 6% On Memory Costs: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60108692/micron-rallies-apple-sinks-stock-market-thursday",
+      "published_at": "2026-06-25T18:14:16+00:00"
+    },
+    {
+      "headline": "8 Communication Services Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/06/60109756/8-communication-services-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-06-25T17:35:22+00:00"
+    },
+    {
+      "headline": "Google Finance Exits Beta, Launches Portfolios, AI Tools, New Dedicated Android App",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60105565/google-finance-exits-beta-launches-portfolios-ai-tools-new-dedicated-android-app",
+      "published_at": "2026-06-25T16:02:35+00:00"
+    },
+    {
+      "headline": "Google Launches Revamped Finance Platform And Android App With AI-Powered Portfolio Tracking And Market Briefings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60105545/google-launches-revamped-finance-platform-and-android-app-ai-powered-portfolio-tracking-and-market-b",
+      "published_at": "2026-06-25T16:02:13+00:00"
+    },
+    {
+      "headline": "Google Says Google Finance Portfolios Rolling Out Globally; Launches Google Finance App For Android",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/GOOGL",
+      "published_at": "2026-06-25T15:59:01+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
