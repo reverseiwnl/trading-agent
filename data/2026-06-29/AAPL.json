@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-06-29T12:02:33.425711+00:00",
+  "price": 282.12,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-14",
+      "open": 300.0,
+      "high": 300.45,
+      "low": 295.43,
+      "close": 298.25,
+      "volume": 951426.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 297.94,
+      "high": 303.19,
+      "low": 296.6,
+      "close": 300.19,
+      "volume": 1241262.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 300.19,
+      "high": 300.625,
+      "low": 294.92,
+      "close": 297.85,
+      "volume": 1082963.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 297.145,
+      "high": 300.51,
+      "low": 296.36,
+      "close": 299.14,
+      "volume": 1046682.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 298.18,
+      "high": 302.8,
+      "low": 298.12,
+      "close": 302.2,
+      "volume": 1610963.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 301.25,
+      "high": 305.53,
+      "low": 300.41,
+      "close": 305.07,
+      "volume": 1190868.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 306.06,
+      "high": 311.39,
+      "low": 306.06,
+      "close": 308.81,
+      "volume": 1275219.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 309.53,
+      "high": 311.82,
+      "low": 307.67,
+      "close": 308.33,
+      "volume": 1366307.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 308.41,
+      "high": 313.22,
+      "low": 308.38,
+      "close": 310.93,
+      "volume": 1681995.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 310.605,
+      "high": 312.72,
+      "low": 309.57,
+      "close": 312.45,
+      "volume": 1514315.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 311.915,
+      "high": 315.0,
+      "low": 309.54,
+      "close": 312.01,
+      "volume": 1619960.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 309.6,
+      "high": 310.94,
+      "low": 305.03,
+      "close": 306.265,
+      "volume": 1790146.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 307.36,
+      "high": 315.44,
+      "low": 306.73,
+      "close": 315.195,
+      "volume": 1291226.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 314.38,
+      "high": 316.92,
+      "low": 308.865,
+      "close": 310.22,
+      "volume": 1966854.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 313.335,
+      "high": 313.38,
+      "low": 309.675,
+      "close": 311.21,
+      "volume": 1230648.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 312.77,
+      "high": 315.14,
+      "low": 307.16,
+      "close": 307.59,
+      "volume": 2188603.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 308.615,
+      "high": 317.38,
+      "low": 301.18,
+      "close": 301.57,
+      "volume": 2762619.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 300.155,
+      "high": 300.59,
+      "low": 287.79,
+      "close": 290.36,
+      "volume": 2491376.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 290.7,
+      "high": 294.74,
+      "low": 287.38,
+      "close": 291.48,
+      "volume": 1843917.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 293.395,
+      "high": 296.995,
+      "low": 289.62,
+      "close": 295.48,
+      "volume": 1372585.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 296.075,
+      "high": 297.11,
+      "low": 289.635,
+      "close": 291.085,
+      "volume": 1456808.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 293.99,
+      "high": 297.78,
+      "low": 291.75,
+      "close": 296.53,
+      "volume": 1573337.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 295.245,
+      "high": 300.445,
+      "low": 293.99,
+      "close": 299.26,
+      "volume": 1229360.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 300.845,
+      "high": 301.95,
+      "low": 294.39,
+      "close": 296.07,
+      "volume": 1195228.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 298.44,
+      "high": 300.56,
+      "low": 295.635,
+      "close": 297.86,
+      "volume": 1278873.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 297.41,
+      "high": 302.415,
+      "low": 296.82,
+      "close": 296.85,
+      "volume": 1619228.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 297.61,
+      "high": 301.635,
+      "low": 294.27,
+      "close": 294.28,
+      "volume": 1781140.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 295.345,
+      "high": 299.675,
+      "low": 292.94,
+      "close": 293.32,
+      "volume": 2239666.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 287.5,
+      "high": 288.68,
+      "low": 273.79,
+      "close": 275.21,
+      "volume": 5858472.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 275.14,
+      "high": 285.95,
+      "low": 274.25,
+      "close": 281.31,
+      "volume": 5117781.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Reuters Reported Apple Asked India Antitrust Watchdog To Quash All Findings Against Company, Accused Regulator Of Copy-Pasting Rivals' Claims Without Independent Analysis, Citing Documents",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/INDA",
+      "published_at": "2026-06-29T09:58:37+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60148258/stock-market-will-sp-500-open-up-or-down-today-5",
+      "published_at": "2026-06-29T05:48:47+00:00"
+    },
+    {
+      "headline": "Apple's Reported Push To Buy Chinese Memory Chips Isn't About Lower Prices, It's About Surviving A Worsening AI-Driven Supply Crunch, Says Analyst",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60148183/analyst-says-apples-reported-push-to-buy-chinese-memory-chips-is-about-surviving-the-ai-supply-crunch",
+      "published_at": "2026-06-29T05:26:31+00:00"
+    },
+    {
+      "headline": "AOC Targets Apple, Calls For Breakup Of 'Far Too Big' Companies After Tim Cook Defends Price Hikes: Need 'Consumer Protections' For People",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60147959/aoc-targets-apple-calls-for-breakup-of-far-too-big-companies-after-tim-cook-defends-price-hikes",
+      "published_at": "2026-06-29T03:15:07+00:00"
+    },
+    {
+      "headline": "Top Three S&P 500 Stocks To Watch This Week: Nike, Micron, Amazon",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/60147235/top-three-sp-500-stocks-to-watch-this-week-nike-micron-amazon",
+      "published_at": "2026-06-28T18:51:03+00:00"
+    },
+    {
+      "headline": "Apple's Top Hardware Chief Leaves For OpenAI, Tim Cook's Price Hike Strategy And More: This Week In Appleverse",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60146820/apples-top-hardware-chief-leaves-for-openai-tim-cooks-price-hike-strategy-and-more-this-week-in-appleverse",
+      "published_at": "2026-06-28T11:01:00+00:00"
+    },
+    {
+      "headline": "Apple's Push For Chinese Memory Chips Isn't The Micron Threat Investors Think It Is, Analyst Says: 5 Reasons Why",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60146621/apples-push-for-chinese-memory-chips-isnt-the-micron-threat-investors-think-it-is-analyst-says-5-reasons-why",
+      "published_at": "2026-06-28T07:29:15+00:00"
+    },
+    {
+      "headline": "MAGS ETF: Magnificent 7 Outflows Surge as Investors Rotate Into DRAM",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60146043/mags-etf-magnificent-7-outflows-surge-as-investors-rotate-into-dram",
+      "published_at": "2026-06-27T18:27:03+00:00"
+    },
+    {
+      "headline": "US, Allies Move To Strengthen AI Supply Chains in Push To Break China’s Grip on Critical Minerals",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/commodities/26/06/60145961/us-allies-move-to-strengthen-ai-supply-chains-in-push-to-break-chinas-grip-on-critical-minerals",
+      "published_at": "2026-06-27T16:31:23+00:00"
+    },
+    {
+      "headline": "Benzinga Bulls And Bears: Micron, Take-Two, SpaceX — And Nasdaq Posts Sharpest Decline In Months",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/60144904/benzinga-bulls-and-bears-micron-take-two-spacex-and-nasdaq-posts-sharpest-decline-in-months",
+      "published_at": "2026-06-27T12:01:09+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

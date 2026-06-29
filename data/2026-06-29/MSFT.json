@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-06-29T12:02:37.620776+00:00",
+  "price": 371.94,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-14",
+      "open": 404.72,
+      "high": 411.795,
+      "low": 400.915,
+      "close": 409.44,
+      "volume": 794948.0
+    },
+    {
+      "date": "2026-05-15",
+      "open": 414.47,
+      "high": 428.155,
+      "low": 413.115,
+      "close": 422.0,
+      "volume": 1109396.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 416.4,
+      "high": 425.025,
+      "low": 415.64,
+      "close": 423.61,
+      "volume": 628464.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 429.885,
+      "high": 432.675,
+      "low": 416.49,
+      "close": 417.515,
+      "volume": 750391.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 414.135,
+      "high": 421.99,
+      "low": 411.31,
+      "close": 421.08,
+      "volume": 840531.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 424.72,
+      "high": 426.08,
+      "low": 415.78,
+      "close": 419.0,
+      "volume": 768373.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 419.48,
+      "high": 424.33,
+      "low": 416.36,
+      "close": 418.5,
+      "volume": 536551.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 416.575,
+      "high": 419.73,
+      "low": 413.075,
+      "close": 416.09,
+      "volume": 751245.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 410.9,
+      "high": 415.94,
+      "low": 409.66,
+      "close": 412.71,
+      "volume": 837631.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 372.54,
+      "high": 377.19,
+      "low": 370.82,
+      "close": 373.93,
+      "volume": 905629.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 371.83,
+      "high": 378.87,
+      "low": 364.8,
+      "close": 365.46,
+      "volume": 1182848.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 362.77,
+      "high": 364.19,
+      "low": 349.205,
+      "close": 352.415,
+      "volume": 2522776.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 357.19,
+      "high": 376.6,
+      "low": 355.45,
+      "close": 371.67,
+      "volume": 2989666.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "MSFT Is Down 23% In 2026: Why This Strategist Says Investors Are 'Significantly Overselling' The Stock",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60150497/msft-is-down-23-in-2026-why-this-strategist-says-investors-are-significantly-overselling-the-stock",
+      "published_at": "2026-06-29T10:20:58+00:00"
+    },
+    {
+      "headline": "Evaluating Microsoft Against Peers In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60149772/evaluating-microsoft-against-peers-software-industry",
+      "published_at": "2026-06-29T09:58:31+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60148258/stock-market-will-sp-500-open-up-or-down-today-5",
+      "published_at": "2026-06-29T05:48:47+00:00"
+    },
+    {
+      "headline": "AOC Targets Apple, Calls For Breakup Of 'Far Too Big' Companies After Tim Cook Defends Price Hikes: Need 'Consumer Protections' For People",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60147959/aoc-targets-apple-calls-for-breakup-of-far-too-big-companies-after-tim-cook-defends-price-hikes",
+      "published_at": "2026-06-29T03:15:07+00:00"
+    },
+    {
+      "headline": "Nebius, IREN and CoreWeave Retreat Amid Rising Short Interest",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60147344/nebius-iren-and-coreweave-retreat-amid-rising-short-interest",
+      "published_at": "2026-06-28T20:36:14+00:00"
+    },
+    {
+      "headline": "MAGS ETF: Magnificent 7 Outflows Surge as Investors Rotate Into DRAM",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/06/60146043/mags-etf-magnificent-7-outflows-surge-as-investors-rotate-into-dram",
+      "published_at": "2026-06-27T18:27:03+00:00"
+    },
+    {
+      "headline": "Benzinga Bulls And Bears: Micron, Take-Two, SpaceX — And Nasdaq Posts Sharpest Decline In Months",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/60144904/benzinga-bulls-and-bears-micron-take-two-spacex-and-nasdaq-posts-sharpest-decline-in-months",
+      "published_at": "2026-06-27T12:01:09+00:00"
+    },
+    {
+      "headline": "'Anthropic Moves Toward Deal With US to Lift Curbs on AI Models'- Bloomberg Law",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60143698/anthropic-moves-toward-deal-us-lift-curbs-ai-models-bloomberg-law",
+      "published_at": "2026-06-26T21:54:18+00:00"
+    },
+    {
+      "headline": "Nancy Pelosi, Bill Ackman Bet On The Same 4 Stocks – Some Might Surprise You",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/60142091/nancy-pelosi-bill-ackman-bet-on-the-same-4-stocks-some-might-surprise-you",
+      "published_at": "2026-06-26T20:27:33+00:00"
+    },
+    {
+      "headline": "Microsoft Has Worst Month Since 2000, Micron Delivers Memorable Beat: This Week On Wall Street",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/60140539/microsoft-micron-ai-capex-squeeze-week-wall-street",
+      "published_at": "2026-06-26T20:00:42+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
