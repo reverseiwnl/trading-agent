@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-06-30T12:02:37.310643+00:00",
+  "price": 353.485,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-15",
+      "open": 395.995,
+      "high": 399.525,
+      "low": 393.29,
+      "close": 396.75,
+      "volume": 567513.0
+    },
+    {
+      "date": "2026-05-18",
+      "open": 395.685,
+      "high": 408.57,
+      "low": 394.62,
+      "close": 396.815,
+      "volume": 925835.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 396.8,
+      "high": 396.92,
+      "low": 386.11,
+      "close": 387.75,
+      "volume": 1014449.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 387.695,
+      "high": 393.58,
+      "low": 382.95,
+      "close": 388.86,
+      "volume": 1184514.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 385.705,
+      "high": 392.42,
+      "low": 383.125,
+      "close": 387.52,
+      "volume": 657497.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 386.765,
+      "high": 388.7,
+      "low": 381.8,
+      "close": 383.03,
+      "volume": 607993.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.21,
+      "low": 382.72,
+      "close": 388.91,
+      "volume": 950634.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Box CEO Aaron Levie Says AI Race Hinges On Whether 'Open Weights AI' Stays 'A Close Second'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60180609/box-ceo-aaron-levie-says-ai-race-hinges-on-whether-open-weights-ai-stays-a-close-second",
+      "published_at": "2026-06-30T10:59:39+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up Or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/06/60179071/sp500-june-30-open-up-or-down-polymarket-iran-ceasefire-dow-record-ai-stocks",
+      "published_at": "2026-06-30T09:13:05+00:00"
+    },
+    {
+      "headline": "Tesla's Robotaxi Math Doesn't Work With Human Safety Drivers, Gary Black Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60178839/teslas-robotaxi-math-doesnt-work-with-human-safety-drivers-gary-black-says",
+      "published_at": "2026-06-30T08:49:52+00:00"
+    },
+    {
+      "headline": "CMA Proposes New Apple And Google Mobile Platform Rules To Let UK App Developers Steer Users To Off-Platform Payments",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60178655/cma-proposes-new-apple-and-google-mobile-platform-rules-let-uk-app-developers-steer-users-platform-p",
+      "published_at": "2026-06-30T08:27:08+00:00"
+    },
+    {
+      "headline": "Uber Ends Waymo Robotaxi Partnership In Phoenix, Plans New AV Tie-Up: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60177451/uber-ends-waymo-robotaxi-partnership-in-phoenix-plans-new-av-tie-up-report",
+      "published_at": "2026-06-30T05:44:25+00:00"
+    },
+    {
+      "headline": "Nasdaq Jumps Over 500 Points, Dow Settles Above 52,000: Investor Sentiment Improves, Greed Index In ‘Fear’ Zone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/06/60177378/nasdaq-jumps-over-500-points-dow-settles-above-52000-investor-sentiment-improves-greed-index-in-fear-zone",
+      "published_at": "2026-06-30T05:29:04+00:00"
+    },
+    {
+      "headline": "Google's Dow Entry May Have Captured Headlines, But The Real Story Is Samsung And SK Hynix's 'Capex Builout,' Says Gene Munster",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60177115/gene-munster-says-googles-dow-entry-isnt-the-real-story-its-the-samsung-and-sk-hynix-capex-buildout",
+      "published_at": "2026-06-30T03:45:46+00:00"
+    },
+    {
+      "headline": "'Uber and Waymo Have Ended Their Robotaxi Tie-Up in Phoenix; Uber to Announce New Partner' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60170885/uber-and-waymo-have-ended-their-robotaxi-tie-phoenix-uber-announce-new-partner-bloomberg",
+      "published_at": "2026-06-29T19:07:12+00:00"
+    },
+    {
+      "headline": "Google Expands Free Personalized Gemini Image Generation With Google Photos Integration For Eligible U.S. Users",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60168501/google-expands-free-personalized-gemini-image-generation-google-photos-integration-eligible-u-s-user",
+      "published_at": "2026-06-29T17:51:06+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Soars As Semis Rebound, Tesla Jumps: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/06/60166806/stock-market-today-nasdaq-100-semis-rebound-tesla-monday",
+      "published_at": "2026-06-29T17:19:33+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

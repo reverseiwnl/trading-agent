@@ -1,0 +1,85 @@
+{
+  "date": "2026-06-30",
+  "market_context": "Whipsaw chip tape: Benzinga VOO/market wraps show a 'Chip Bloodbath' on 06-23, Micron rallying 15% while Apple sank 6% on memory costs on 06-25 (Benzinga 'Micron Rallies 15%, Apple Sinks 6% On Memory Costs'), a 06-26 'Chip Rout Drags Nasdaq 100', then a 06-29 'Nasdaq 100 Soars As Semis Rebound'. Macro is headline-driven and unstable, so the default today is hold across the watchlist. Portfolio is 100% cash (no holdings per data/2026-06-30/_manifest.json), so no current-holdings news sweep was required. DATA GAP: fundamentals (including sector) are unavailable for every ticker today — the yfinance source host fc.yahoo.com was blocked by the egress policy (403 CONNECT), recorded in each snapshot's errors list. Because the decision engine cannot enforce the sector cap without a sector, no buy could be validated today regardless; default hold is doubly warranted. Prices and 30-day bars (Alpaca IEX) and Alpaca news were fetched cleanly.",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Volatile, no clean trigger: close 281.69 (06-29) sits well below the early-June ~315 high after a 6% 06-25 drop on memory-cost concerns. Benzinga 06-30 'CMA Proposes New Apple And Google Mobile Platform Rules To Let UK App Developers Steer Users To Off-Platform Payments' is UK payments regulation, not an earnings/guidance catalyst. Hold; revisit on a concrete margin/guidance datapoint or a break below 270.",
+      "sources": [
+        "Benzinga 2026-06-30: CMA Proposes New Apple And Google Mobile Platform Rules To Let UK App Developers Steer Users To Off-Platform Payments",
+        "data/2026-06-30/AAPL.json (30-day bars: close 281.69; price 281.40)"
+      ],
+      "timestamp": "2026-06-30T12:05:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Regulatory overhang vs AI-demand tailwind, nets to no edge: Benzinga 06-30 'CMA Proposes New Apple And Google Mobile Platform Rules...' adds UK platform-payment risk, while 06-30 'Uber Ends Waymo Robotaxi Partnership In Phoenix, Plans New AV Tie-Up' is a modest negative for the Waymo narrative. Close 353.49. No earnings or guidance catalyst in today's snapshot; hold. Falsifier for a future buy: regulation fading with price holding the 30-day range.",
+      "sources": [
+        "Benzinga 2026-06-30: CMA Proposes New Apple And Google Mobile Platform Rules To Let UK App Developers Steer Users To Off-Platform Payments",
+        "Benzinga 2026-06-30: Uber Ends Waymo Robotaxi Partnership In Phoenix, Plans New AV Tie-Up: Report",
+        "data/2026-06-30/GOOGL.json (price 353.485)"
+      ],
+      "timestamp": "2026-06-30T12:05:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "No actionable catalyst; one fresh legal risk: Benzinga 06-29 'Microsoft, OpenAI Face Copyright Lawsuit From Nearly 400 Newspaper Publishers' is a litigation overhang but not a guidance/earnings event. Close 369.03. Default hold; re-evaluate if the copyright suit draws a material liability estimate or on the next earnings print.",
+      "sources": [
+        "Benzinga 2026-06-29: Microsoft, OpenAI Face Copyright Lawsuit From Nearly 400 Newspaper Publishers",
+        "data/2026-06-30/MSFT.json (price 369.03)"
+      ],
+      "timestamp": "2026-06-30T12:05:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Squarely inside the chip whipsaw with no single-name catalyst: today's snapshot headlines are sector framing (Benzinga 06-30 'Market Analysis: NVIDIA And Competitors In Semiconductors & Semiconductor Equipment Industry') against the same 06-23 to 06-29 chip rout-then-rebound backdrop. Close 194.92, a high-beta name in a tape swinging on macro headlines. No falsifiable single-stock edge today; hold.",
+      "sources": [
+        "Benzinga 2026-06-30: Market Analysis: NVIDIA And Competitors In Semiconductors & Semiconductor Equipment Industry",
+        "data/2026-06-30/NVDA.json (price 194.92)"
+      ],
+      "timestamp": "2026-06-30T12:05:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Pipeline catalysts continue but no fresh trigger today: latest snapshot headlines are 06-26 — Benzinga 'TECVAYLI Receives CHMP Approval Recommendation' (positive opinion in relapsed/refractory multiple myeloma) and additional IMAAVY data at EAN 2026. Constructive but days old; close 258.42. The 06-26 Guggenheim PT-raise is price-target chatter, ignored per mandate. Hold; fundamentals/sector are unavailable today so a buy could not be validated regardless.",
+      "sources": [
+        "Benzinga 2026-06-26: Johnson & Johnson's TECVAYLI Receives Committee For Medicinal Products For Human Use Approval Recommendation To Treat Relapsed/Refractory Multiple Myeloma",
+        "Benzinga 2026-06-26: Johnson & Johnson Announces Additional Data On IMAAVY Throughout 12 Abstracts At European Academy Of Neurology 2026 Congress",
+        "data/2026-06-30/JNJ.json (price 258.42)"
+      ],
+      "timestamp": "2026-06-30T12:05:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "No actionable news: the only headline in today's UNH snapshot is Benzinga 06-24 'B of A Securities Maintains Buy on UnitedHealth Group, Raises Price Target to $475' — price-target chatter, which is ignored per mandate, so there is effectively no fresh catalyst. Close/price 419.77. Default hold.",
+      "sources": [
+        "Benzinga 2026-06-24: B of A Securities Maintains Buy on UnitedHealth Group, Raises Price Target to $475 (price-target chatter — noted but disregarded)",
+        "data/2026-06-30/UNH.json (price 419.77)"
+      ],
+      "timestamp": "2026-06-30T12:05:00+00:00"
+    },
+    {
+      "ticker": "VOO",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Benchmark ETF, not a discretionary trade; held for reference. Benzinga 06-29 'Nasdaq 100 Soars As Semis Rebound, Tesla Jumps' captures the rebound after the 06-26 'Chip Rout Drags Nasdaq 100'. Price 681.16. Hold.",
+      "sources": [
+        "Benzinga 2026-06-29: Nasdaq 100 Soars As Semis Rebound, Tesla Jumps: Stock Market Today",
+        "data/2026-06-30/VOO.json (price 681.16)"
+      ],
+      "timestamp": "2026-06-30T12:05:00+00:00"
+    }
+  ]
+}
