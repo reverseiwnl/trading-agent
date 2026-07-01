@@ -26,22 +26,16 @@ import sqlite3
 import sys
 from contextlib import closing
 from datetime import datetime, timezone
-from pathlib import Path
 
-import yaml
-
+import common
+from common import ROOT, get_logger, load_config, utf8_console
 from execute import _EXECUTIONS_DDL, PaperGuardError, make_paper_client
 from trading_day import today_iso
 
-# Explicit UTF-8: Windows defaults to a legacy code page; snapshots, signals,
-# and the digest all carry text that may not fit it.
-for _stream in (sys.stdout, sys.stderr):
-    if hasattr(_stream, "reconfigure"):
-        _stream.reconfigure(encoding="utf-8", errors="replace")
-
-ROOT = Path(__file__).resolve().parent.parent
-CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
-DB_PATH = ROOT / "data" / "trades.db"
+utf8_console()
+CONFIG = load_config()
+DB_PATH = common.DB_PATH  # module-level alias: tests monkeypatch it per module
+log = get_logger("report")
 REPORTS_DIR = ROOT / "reports"
 BENCHMARK = CONFIG["benchmark"]
 
@@ -489,26 +483,29 @@ def render_digest(run_date: str, account: dict, positions: list[dict],
 # ---------- Entry point ----------
 
 def main() -> int:
+    """Write today's digest. Returns the process exit code (0 clean /
+    1 written-but-degraded / 2 fatal, no digest)."""
     run_date = today_iso()
+    get_logger("report", run_date)  # attach today's file log
     warnings: list[str] = []
 
     try:
         client = make_paper_client()  # read-only here, but the guard still applies
     except PaperGuardError as exc:
-        print(f"FATAL: {exc}")
+        log.error(f"FATAL: {exc}")
         return 2
     except RuntimeError as exc:
-        print(f"FATAL: {exc}")
+        log.error(f"FATAL: {exc}")
         return 2
     try:
         account = snapshot_account(client)
         positions = snapshot_positions(client)
     except Exception as e:
-        print(f"FATAL: could not read paper account, no digest written: {e}")
+        log.error(f"FATAL: could not read paper account, no digest written: {e}")
         return 2
 
     if ensure_inception(account["equity"], run_date):
-        print(f"benchmark inception: seeded {_usd(account['equity'])} on {run_date}")
+        log.info(f"benchmark inception: seeded {_usd(account['equity'])} on {run_date}")
     _, w = mirror_deposits(client, inception_date())
     warnings += w
 
@@ -532,9 +529,9 @@ def main() -> int:
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)
     out_path = REPORTS_DIR / f"digest_{run_date}.md"
     out_path.write_text(digest, encoding="utf-8")
-    print(f"wrote {out_path}")
+    log.info(f"wrote {out_path}")
     for w in warnings:
-        print(f"WARNING: {w}")
+        log.warning(f"WARNING: {w}")
     return 1 if warnings else 0
 
 

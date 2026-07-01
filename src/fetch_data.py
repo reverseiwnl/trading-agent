@@ -18,28 +18,18 @@ Exit codes: 0 = clean, 1 = partial (some tickers/fields failed), 2 = fatal.
 from __future__ import annotations
 
 import json
-import os
 import sys
 from datetime import datetime, timedelta, timezone
-from pathlib import Path
 from typing import Any, Literal
 
-import yaml
-from dotenv import load_dotenv
 from pydantic import BaseModel, Field
 
+from common import ROOT, alpaca_credentials, get_logger, load_config, utf8_console
 from trading_day import today_iso
 
-# Windows defaults console output and Path.read_text/write_text to a legacy
-# code page (cp1252); headlines and error strings routinely contain characters
-# outside it. All file I/O in this repo is explicit UTF-8, and stdout/stderr
-# are reconfigured so a print can never crash a scheduled run.
-for _stream in (sys.stdout, sys.stderr):
-    if hasattr(_stream, "reconfigure"):
-        _stream.reconfigure(encoding="utf-8", errors="replace")
-
-ROOT = Path(__file__).resolve().parent.parent
-CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
+utf8_console()
+CONFIG = load_config()
+log = get_logger("fetch_data")
 
 BARS_LOOKBACK_DAYS = 60   # calendar days fetched; trimmed to the last MAX_BARS
 MAX_BARS = 30
@@ -85,14 +75,6 @@ class Snapshot(BaseModel):
 
 # ---------- Alpaca clients ----------
 
-def alpaca_credentials() -> tuple[str, str]:
-    key = os.environ.get("ALPACA_API_KEY", "")
-    secret = os.environ.get("ALPACA_SECRET_KEY", "")
-    if not key or not secret:
-        raise RuntimeError("ALPACA_API_KEY / ALPACA_SECRET_KEY not set (see .env.example)")
-    return key, secret
-
-
 def get_holdings() -> list[str]:
     """Symbols currently held in the Alpaca PAPER account."""
     from alpaca.trading.client import TradingClient
@@ -105,6 +87,7 @@ def get_holdings() -> list[str]:
 # ---------- Per-source fetchers (each raises on failure; caller records it) ----------
 
 def fetch_bars_alpaca(ticker: str) -> tuple[float, list[DailyBar]]:
+    """(latest trade price, recent daily bars) from Alpaca's free IEX feed."""
     from alpaca.data.enums import DataFeed
     from alpaca.data.historical import StockHistoricalDataClient
     from alpaca.data.requests import StockBarsRequest, StockLatestTradeRequest
@@ -130,6 +113,7 @@ def fetch_bars_alpaca(ticker: str) -> tuple[float, list[DailyBar]]:
 
 
 def fetch_bars_yfinance(ticker: str) -> tuple[float, list[DailyBar]]:
+    """Fallback (last close, recent daily bars) when Alpaca is unavailable."""
     import yfinance as yf
 
     hist = yf.Ticker(ticker).history(period=f"{BARS_LOOKBACK_DAYS}d", interval="1d")
@@ -144,6 +128,8 @@ def fetch_bars_yfinance(ticker: str) -> tuple[float, list[DailyBar]]:
 
 
 def fetch_fundamentals_yfinance(ticker: str) -> dict[str, Any]:
+    """Curated fundamentals subset (FUNDAMENTAL_KEYS) — the only source of
+    `sector`, which the decision engine's sector cap depends on."""
     import yfinance as yf
 
     info = yf.Ticker(ticker).info or {}
@@ -154,6 +140,8 @@ def fetch_fundamentals_yfinance(ticker: str) -> dict[str, Any]:
 
 
 def fetch_news_alpaca(ticker: str) -> list[Headline]:
+    """Recent headlines (last NEWS_LOOKBACK_DAYS, max MAX_HEADLINES) from the
+    Alpaca news API — the primary news source."""
     from alpaca.data.historical.news import NewsClient
     from alpaca.data.requests import NewsRequest
 
@@ -170,6 +158,8 @@ def fetch_news_alpaca(ticker: str) -> list[Headline]:
 
 
 def fetch_news_yfinance(ticker: str) -> list[Headline]:
+    """Fallback headlines from yfinance; tolerates both the old flat item
+    format and the newer `content`-nested one, skipping items with no title."""
     import yfinance as yf
 
     headlines: list[Headline] = []
@@ -222,8 +212,10 @@ def fetch_snapshot(ticker: str) -> Snapshot:
 # ---------- Entry point ----------
 
 def main() -> int:
-    load_dotenv(ROOT / ".env")
+    """Pull today's snapshots for watchlist + holdings + benchmark; write the
+    run manifest. Returns the process exit code (0 clean / 1 partial / 2 fatal)."""
     run_date = today_iso()
+    get_logger("fetch_data", run_date)  # attach today's file log
     out_dir = ROOT / "data" / run_date
     out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -231,7 +223,7 @@ def main() -> int:
     try:
         alpaca_credentials()
     except RuntimeError as e:
-        print(f"FATAL: {e}")
+        log.error(f"FATAL: {e}")
         return 2
 
     try:
@@ -241,6 +233,7 @@ def main() -> int:
         fatal_errors.append(f"could not fetch holdings from Alpaca paper account: {e}")
 
     tickers = sorted(set(CONFIG["watchlist"]) | set(holdings) | {CONFIG["benchmark"]})
+    log.debug(f"run {run_date}: fetching {tickers} (holdings: {holdings})")
 
     statuses: dict[str, str] = {}
     for ticker in tickers:
@@ -253,8 +246,10 @@ def main() -> int:
             statuses[ticker] = "partial"
         else:
             statuses[ticker] = "ok"
-        print(f"{ticker}: {statuses[ticker]}"
-              + (f" ({'; '.join(snap.errors)})" if snap.errors else ""))
+        log.debug(f"{ticker}: price={snap.price} source={snap.price_source} "
+                  f"bars={len(snap.bars)} headlines={len(snap.headlines)}")
+        log.info(f"{ticker}: {statuses[ticker]}"
+                 + (f" ({'; '.join(snap.errors)})" if snap.errors else ""))
 
     clean = not fatal_errors and all(s == "ok" for s in statuses.values())
     manifest = {
@@ -269,8 +264,9 @@ def main() -> int:
                                             encoding="utf-8")
 
     for err in fatal_errors:
-        print(f"ERROR: {err}")
-    print(f"wrote {len(tickers)} snapshots to {out_dir} — {'CLEAN' if clean else 'PARTIAL PULL'}")
+        log.error(f"ERROR: {err}")
+    log.info(f"wrote {len(tickers)} snapshots to {out_dir} — "
+             f"{'CLEAN' if clean else 'PARTIAL PULL'}")
     return 0 if clean else 1
 
 

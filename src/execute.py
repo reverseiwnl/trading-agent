@@ -30,32 +30,24 @@ Exit codes: 0 all filled (or nothing to do / duplicates skipped),
 from __future__ import annotations
 
 import json
-import os
 import sqlite3
 import sys
 import time
 from contextlib import closing
 from datetime import datetime, timezone
-from pathlib import Path
 
-import yaml
-
+import common
+from common import CAP_EPSILON, get_logger, load_config, utf8_console
 from trading_day import today_iso
 
-# Explicit UTF-8: Windows defaults to a legacy code page; an API error string
-# outside it must never crash a run mid-submission.
-for _stream in (sys.stdout, sys.stderr):
-    if hasattr(_stream, "reconfigure"):
-        _stream.reconfigure(encoding="utf-8", errors="replace")
-
-ROOT = Path(__file__).resolve().parent.parent
-CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
-DB_PATH = ROOT / "data" / "trades.db"
+utf8_console()
+CONFIG = load_config()
+DB_PATH = common.DB_PATH  # module-level alias: tests monkeypatch it per module
+log = get_logger("execute")
 
 PAPER_ENDPOINT = "https://paper-api.alpaca.markets"
 POLL_TIMEOUT_S = 60.0
 POLL_INTERVAL_S = 2.0
-CAP_EPSILON = 1e-6  # same tolerance as decision_engine.py
 
 TERMINAL_FAILURES = {"rejected", "canceled", "expired"}
 # Final statuses that don't demand human attention.
@@ -88,14 +80,8 @@ def make_paper_client():
             "client. See PROMOTION_CHECKLIST.md.")
 
     from alpaca.trading.client import TradingClient
-    from dotenv import load_dotenv
 
-    load_dotenv(ROOT / ".env")
-    key = os.environ.get("ALPACA_API_KEY", "")
-    secret = os.environ.get("ALPACA_SECRET_KEY", "")
-    if not key or not secret:
-        raise RuntimeError("ALPACA_API_KEY / ALPACA_SECRET_KEY not set (see .env.example)")
-
+    key, secret = common.alpaca_credentials()
     client = TradingClient(key, secret, paper=True)
     assert_paper_endpoint(client)
     return client
@@ -266,7 +252,7 @@ def poll_until_final(client, order_id) -> dict:
         try:
             order = client.get_order_by_id(order_id)
         except Exception as exc:
-            print(f"poll error for {order_id} (will retry until timeout): {exc}")
+            log.warning(f"poll error for {order_id} (will retry until timeout): {exc}")
         else:
             last_status = _order_status(order)
             last_filled = float(order.filled_qty or 0)
@@ -309,7 +295,7 @@ def execute_order(client, decision_id: int, order: dict, run_date: str,
                           "skipped_duplicate",
                           detail=f"already attempted as execution #{prior_id} "
                                  f"(status: {prior_status}) — refusing to double-submit")
-        print(f"SKIP {ticker} {side}: {client_order_id} already attempted "
+        log.info(f"SKIP {ticker} {side}: {client_order_id} already attempted "
               f"(execution #{prior_id}, status {prior_status})")
         # The skip is always right, but only a filled prior attempt makes it
         # benign: anything else means today's intent is still unexecuted and
@@ -321,7 +307,7 @@ def execute_order(client, decision_id: int, order: dict, run_date: str,
         if reason:
             _insert_execution(run_date, decision_id, client_order_id, ticker, side,
                               "refused_stale", detail=reason)
-            print(f"REFUSED {ticker} {side}: {reason}")
+            log.warning(f"REFUSED {ticker} {side}: {reason}")
             return "refused_stale"
         if side == "buy":
             # Claim the dollars now, success or not: over-counting a failed
@@ -337,7 +323,7 @@ def execute_order(client, decision_id: int, order: dict, run_date: str,
             except APIError as exc:
                 _insert_execution(run_date, decision_id, client_order_id, ticker,
                                   side, "failed", detail=f"no open position to sell: {exc}")
-                print(f"FAIL {ticker} sell: no open position")
+                log.error(f"FAIL {ticker} sell: no open position")
                 return "failed"
         else:
             qty = float(raw_qty)
@@ -359,7 +345,7 @@ def execute_order(client, decision_id: int, order: dict, run_date: str,
         except APIError:
             _update_execution(execution_id, status="submit_failed",
                               detail=f"submit failed: {exc}")
-            print(f"FAIL {ticker} {side}: submit rejected by API: {exc}")
+            log.error(f"FAIL {ticker} {side}: submit rejected by API: {exc}")
             return "submit_failed"
         _update_execution(execution_id, status="submitted",
                           alpaca_order_id=str(submitted.id),
@@ -379,7 +365,7 @@ def execute_order(client, decision_id: int, order: dict, run_date: str,
         line += f": qty {final['filled_qty']} @ {final['filled_avg_price']}"
     elif final["detail"]:
         line += f": {final['detail']}"
-    print(line)
+    log.info(line)
     return final["status"]
 
 
@@ -390,17 +376,17 @@ def main() -> int:
     try:
         client = make_paper_client()
     except PaperGuardError as exc:
-        print(f"FATAL: {exc}")
-        print("Refusing to submit anything. See PROMOTION_CHECKLIST.md.")
+        log.error(f"FATAL: {exc}")
+        log.error("Refusing to submit anything. See PROMOTION_CHECKLIST.md.")
         return 2
     except RuntimeError as exc:
-        print(f"FATAL: {exc}")
+        log.error(f"FATAL: {exc}")
         return 2
 
     run_date = today_iso()
     orders = load_approved_orders(run_date)
     if not orders:
-        print(f"No approved orders for {run_date} in {DB_PATH.name}. Nothing to submit.")
+        log.info(f"No approved orders for {run_date} in {DB_PATH.name}. Nothing to submit.")
         return 0
 
     # If today's limits can't be read, nothing can be revalidated — fail
@@ -408,8 +394,8 @@ def main() -> int:
     try:
         limits = current_limits(client)
     except Exception as exc:
-        print(f"FATAL: could not read account state to revalidate orders: {exc}")
-        print("Nothing submitted.")
+        log.error(f"FATAL: could not read account state to revalidate orders: {exc}")
+        log.error("Nothing submitted.")
         return 1
 
     results: dict[str, str] = {}
@@ -421,10 +407,10 @@ def main() -> int:
             results[key] = execute_order(client, decision_id, order, run_date, limits)
         except Exception as exc:
             results[key] = "error"
-            print(f"ERROR {order['ticker']} {order['side']}: unexpected failure "
+            log.error(f"ERROR {order['ticker']} {order['side']}: unexpected failure "
                   f"(check the executions table before any re-run): {exc}")
 
-    print(json.dumps({"run_date": run_date, "results": results}, indent=2))
+    log.info(json.dumps({"run_date": run_date, "results": results}, indent=2))
     return 0 if all(status in OK_FINALS for status in results.values()) else 1
 
 

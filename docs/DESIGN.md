@@ -385,3 +385,47 @@ review itself surfaced them in chat. 70 tests pass (was 56).
   deposits after benchmark inception are not mirrored; partial fills release
   their unfilled remainder's budget claim only via the conservative
   pending-buy path.
+
+## 2026-07-01 — Refactor pass: shared plumbing, run logs, fetch_data coverage
+
+Requested full-repo audit + refactor before publishing. Audit verdict: the
+architecture was already sound (module split, typed schemas, mocked tests, no
+secrets anywhere in git history) — so this pass extracted duplication instead
+of restructuring, deliberately preserving every interface the cloud routine
+invokes (script paths, arguments, stdout, exit codes).
+
+- **src/common.py** now owns what every entry point had been duplicating:
+  ROOT, config loading, the UTF-8 console hardening block (was 4 copies),
+  Alpaca credential reading (was 3 copies), CAP_EPSILON (was 2 copies — the
+  approval-time and submission-time cap checks can no longer drift), DB_PATH,
+  and logging setup. Each script keeps its module-level CONFIG/DB_PATH aliases
+  because the tests monkeypatch those per module; behavior is unchanged.
+- **Run logs**: every script logs through common.get_logger — stdout output is
+  byte-identical to the old print() calls (the routine reads stdout verbatim),
+  plus a timestamped DEBUG file log at logs/<script>_<date>.log (gitignored)
+  so any run can be reconstructed after the fact: what was fetched per ticker,
+  every verdict with its reason, every execution status transition.
+- **Dead config removed from .env.example**: ALPACA_BASE_URL (no code ever
+  read it — the paper endpoint is hardcoded and guard-verified, and an env var
+  suggesting otherwise was actively misleading) and FINNHUB_API_KEY (reserved
+  in 2026-06-10's design, never wired). Known remaining dead config, left for
+  a human because config.yaml is human-owned: the `alerts:` block is read by
+  nothing (alerting happens via the digest + routine notification instead).
+- **requirements split**: vectorbt (numba/llvmlite, only used by
+  backtest/backtest_rules.py) moved to backtest/requirements.txt; a fresh
+  clone that just wants to run the system and its tests installs in seconds.
+- **Test coverage extended 70 -> 96**, all still network-free: fetch_data.py
+  was the one untested module (fallback ordering, the never-raise snapshot
+  contract, yfinance news format variants including titleless/malformed items,
+  manifest statuses and exit codes); decision-engine edge cases (empty signals
+  file, conflicting buy+sell same ticker, duplicate buys in one file,
+  conviction 0/1 extremes, out-of-range/missing/extra fields, bad tickers);
+  trading_day; common.
+- **scripts/replay_day.py**: offline, read-only replay of a committed signals
+  file through the real DailySignals validation + apply_risk_rules against a
+  synthetic flat portfolio. No network, no .env, no trades.db writes — a fresh
+  clone can verify the decision pipeline end-to-end with zero credentials
+  (verified: replaying 2026-06-12 reproduces the JNJ $162.50 approval).
+- README rewritten around the current system (was still the pre-build setup
+  guide), including an explicit "cannot execute real-money trades" section
+  documenting the guard chain.

@@ -356,6 +356,73 @@ def test_pending_buy_notional_empty_when_db_missing(tmp_db):
     assert de.pending_buy_notional(TODAY) == {}
 
 
+# ---------- edge cases: empty / conflicting / malformed / extreme signals ----------
+
+
+def test_empty_signals_list_is_a_valid_no_trade_day(portfolio):
+    approved, rejected = de.apply_risk_rules(daily([]), portfolio)
+    assert (approved, rejected) == ([], [])
+
+
+def test_conflicting_buy_and_sell_for_same_ticker_both_evaluated(portfolio):
+    # The engine takes signals in file order and holds no netting opinion:
+    # with no position, the buy is approved and the sell rejected (nothing to
+    # sell). Conflicts are visible in the log, never silently merged.
+    parsed = daily([signal("AAPL", "buy", 0.8), signal("AAPL", "sell", 0.8)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert [(o["ticker"], o["side"]) for o in approved] == [("AAPL", "buy")]
+    assert rejected[0]["reason"] == "cannot sell: no position"
+
+
+def test_two_buys_same_ticker_same_run_second_hits_position_cap(portfolio):
+    # Duplicate buys in one file: the first claims the full $250 cap
+    # (conviction 1.0), so the second must see it as pending exposure.
+    parsed = daily([signal("AAPL", "buy", 1.0), signal("AAPL", "buy", 1.0)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert len(approved) == 1
+    assert "position cap" in rejected[0]["reason"]
+
+
+def test_conviction_extremes_zero_and_one(portfolio):
+    parsed = daily([signal("AAPL", "buy", 0.0), signal("MSFT", "buy", 1.0)])
+    approved, rejected = de.apply_risk_rules(parsed, portfolio)
+    assert [o["ticker"] for o in approved] == ["MSFT"]
+    assert approved[0]["notional"] == 250.0  # full 5% of the $5k bankroll
+    assert "conviction" in rejected[0]["reason"]
+
+
+def test_out_of_range_conviction_fails_validation():
+    for bad in (-0.1, 1.1):
+        with pytest.raises(Exception):
+            de.Signal(ticker="AAPL", action="buy", conviction=bad, thesis=THESIS,
+                      sources=["test"],
+                      timestamp=datetime.now(timezone.utc).isoformat())
+
+
+def test_unknown_extra_field_rejected_by_schema():
+    with pytest.raises(Exception):
+        de.DailySignals(date=TODAY, market_context="ctx", signals=[],
+                        execute_immediately=True)  # not in the schema: forbidden
+
+
+def test_missing_required_fields_fail_validation():
+    with pytest.raises(Exception):
+        de.Signal(ticker="AAPL", action="buy")  # no conviction/thesis/sources/ts
+
+
+def test_lowercase_or_overlong_ticker_fails_validation():
+    for bad in ("aapl", "TOOLONG", "BRK.B"):
+        with pytest.raises(Exception):
+            de.Signal(ticker=bad, action="buy", conviction=0.8, thesis=THESIS,
+                      sources=["test"],
+                      timestamp=datetime.now(timezone.utc).isoformat())
+
+
+def test_hold_signals_produce_no_orders_and_no_rejections(portfolio):
+    parsed = daily([signal(t, "hold") for t in SIX_TICKERS])
+    assert de.apply_risk_rules(parsed, portfolio) == ([], [])
+
+
 # ---------- persistence ----------
 
 def test_every_decision_persisted_to_trades_db(tmp_path, tmp_db, monkeypatch, portfolio):
