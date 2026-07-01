@@ -32,11 +32,10 @@ import time
 from contextlib import closing
 from datetime import datetime, timezone
 
-# Explicit UTF-8 console: an API error string outside the legacy Windows code
-# page must never crash the kill switch of all things.
-for _stream in (sys.stdout, sys.stderr):
-    if hasattr(_stream, "reconfigure"):
-        _stream.reconfigure(encoding="utf-8", errors="replace")
+from common import get_logger, utf8_console
+
+utf8_console()
+log = get_logger("flatten")
 
 from decision_engine import _DECISIONS_DDL
 # All DB access goes through execute's helpers, so flatten shares its DB_PATH
@@ -111,7 +110,7 @@ def close_position(client, ticker: str, qty: float, side: str, run_date: str) ->
     except APIError as exc:
         _update_execution(execution_id, status="submit_failed",
                           detail=f"kill-switch submit failed: {exc}")
-        print(f"FAIL {ticker}: submit rejected by API: {exc}")
+        log.error(f"FAIL {ticker}: submit rejected by API: {exc}")
         return "submit_failed"
     _update_execution(execution_id, status="submitted",
                       alpaca_order_id=str(submitted.id))
@@ -126,7 +125,7 @@ def close_position(client, ticker: str, qty: float, side: str, run_date: str) ->
         line += f": qty {final['filled_qty']} @ {final['filled_avg_price']}"
     elif final["detail"]:
         line += f": {final['detail']}"
-    print(line)
+    log.info(line)
     return final["status"]
 
 
@@ -134,19 +133,20 @@ def main() -> int:
     try:
         client = make_paper_client()
     except PaperGuardError as exc:
-        print(f"FATAL: {exc}")
-        print("Refusing to flatten anything. See PROMOTION_CHECKLIST.md.")
+        log.error(f"FATAL: {exc}")
+        log.error("Refusing to flatten anything. See PROMOTION_CHECKLIST.md.")
         return 2
     except RuntimeError as exc:
-        print(f"FATAL: {exc}")
+        log.error(f"FATAL: {exc}")
         return 2
 
     run_date = today_iso()
+    get_logger("flatten", run_date)  # attach today's file log
 
     # Open orders first: an unfilled buy turning into a position mid-flatten,
     # or a stale sell stacking onto ours, would defeat the point.
     canceled = client.cancel_orders()
-    print(f"canceled {len(canceled or [])} open order(s)")
+    log.info(f"canceled {len(canceled or [])} open order(s)")
 
     # Cancellation is async: confirm nothing is still open before reading
     # positions, or a late fill could leave the account not flat.
@@ -159,7 +159,7 @@ def main() -> int:
         if not still_open:
             break
         if time.monotonic() >= deadline:
-            print(f"NOT FLAT: {len(still_open)} order(s) still open "
+            log.error(f"NOT FLAT: {len(still_open)} order(s) still open "
                   f"{CANCEL_WAIT_S:.0f}s after cancel — refusing to sell into "
                   f"pending orders. Re-run flatten.py.")
             return 1
@@ -173,18 +173,18 @@ def main() -> int:
         # kill switch must handle whatever the account actually holds.
         positions.append((p.symbol, abs(qty), "sell" if qty > 0 else "buy"))
     if not positions:
-        print("No open positions — already flat.")
+        log.info("No open positions — already flat.")
         return 0
 
     statuses = {ticker: close_position(client, ticker, qty, side, run_date)
                 for ticker, qty, side in sorted(positions)}
 
     if all(s == "filled" for s in statuses.values()):
-        print(f"FLAT: closed {len(statuses)} position(s).")
+        log.info(f"FLAT: closed {len(statuses)} position(s).")
         return 0
     bad = {t: s for t, s in statuses.items() if s != "filled"}
-    print(f"NOT FLAT: {len(bad)} close(s) need attention: {bad}")
-    print("Re-running flatten.py is safe: it cancels open orders and sells only "
+    log.error(f"NOT FLAT: {len(bad)} close(s) need attention: {bad}")
+    log.info("Re-running flatten.py is safe: it cancels open orders and sells only "
           "the remaining quantity.")
     return 1
 

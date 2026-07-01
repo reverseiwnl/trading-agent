@@ -1,0 +1,3 @@
+# Extra dependencies for backtest/backtest_rules.py only.
+# Install on top of the root requirements.txt.
+vectorbt>=0.26

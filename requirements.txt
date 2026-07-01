@@ -5,4 +5,5 @@ PyYAML>=6.0
 yfinance>=0.2
 pytest>=8.0
 tzdata>=2024.1   # zoneinfo data for America/Chicago on Windows
-vectorbt>=0.26   # backtesting the rules engine
+# The vectorbt backtest stack is heavy (numba/llvmlite) and only needed for
+# backtest/backtest_rules.py: pip install -r backtest/requirements.txt

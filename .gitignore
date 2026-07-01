@@ -1,5 +1,13 @@
-# Secrets — never committed.
+# Secrets — never committed. (.env.example is the committed placeholder.)
 .env
+.env.*
+!.env.example
+*.pem
+credentials*.json
+
+# Virtual environments
+.venv/
+venv/
 
 # Local-only artifacts. NOTE: data/, reports/, and signals/ are deliberately
 # TRACKED — the cloud routine commits daily state (snapshots, trades.db,

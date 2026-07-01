@@ -11,7 +11,6 @@ Usage: python src/decision_engine.py signals/signals_YYYY-MM-DD.json
 from __future__ import annotations
 
 import json
-import os
 import sqlite3
 import sys
 from collections import defaultdict
@@ -20,25 +19,16 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Literal
 
-import yaml
 from pydantic import BaseModel, Field, ValidationError, field_validator
 
+import common
+from common import CAP_EPSILON, ROOT, get_logger, load_config, utf8_console
 from trading_day import today_iso
 
-# Explicit UTF-8 everywhere: Windows defaults file I/O and console output to a
-# legacy code page, and a thesis or error string outside it must never crash or
-# corrupt a run.
-for _stream in (sys.stdout, sys.stderr):
-    if hasattr(_stream, "reconfigure"):
-        _stream.reconfigure(encoding="utf-8", errors="replace")
-
-ROOT = Path(__file__).resolve().parent.parent
-CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
-DB_PATH = ROOT / "data" / "trades.db"
-
-# Cap comparisons use a tiny dollar tolerance so an order sized exactly at a cap
-# passes, and float noise alone can never tip a rejection.
-CAP_EPSILON = 1e-6
+utf8_console()
+CONFIG = load_config()
+DB_PATH = common.DB_PATH  # module-level alias: tests monkeypatch it per module
+log = get_logger("decision_engine")
 
 
 # ---------- Schema (mirrors signals/schema.json; pydantic is the enforcer) ----------
@@ -88,14 +78,8 @@ def get_portfolio_state() -> dict:
     current_price, market_value, sector}}, intraday P&L pct vs prior close, and a
     sector map covering every ticker the engine might trade today."""
     from alpaca.trading.client import TradingClient
-    from dotenv import load_dotenv
 
-    load_dotenv(ROOT / ".env")
-    key = os.environ.get("ALPACA_API_KEY", "")
-    secret = os.environ.get("ALPACA_SECRET_KEY", "")
-    if not key or not secret:
-        raise RuntimeError("ALPACA_API_KEY / ALPACA_SECRET_KEY not set (see .env.example)")
-
+    key, secret = common.alpaca_credentials()
     client = TradingClient(key, secret, paper=True)
     account = client.get_account()
     equity = float(account.equity)
@@ -423,49 +407,62 @@ def log_run_rejection(run_date: str, raw: str, reason: str) -> None:
 # ---------- Entry point ----------
 
 def main() -> int:
+    """Validate today's signals file, apply the risk rules, log and print the
+    verdicts. Returns the process exit code (0 decided / 1 rejected / 2 fatal)."""
     # Hard gate before anything else runs: this engine only ever trades paper.
     if CONFIG.get("mode") != "paper":
-        print("FATAL: mode != paper. Refusing to run. See PROMOTION_CHECKLIST.md.")
+        log.error("FATAL: mode != paper. Refusing to run. See PROMOTION_CHECKLIST.md.")
         return 2
 
     if len(sys.argv) != 2:
-        print("usage: python src/decision_engine.py <signals.json>")
+        log.error("usage: python src/decision_engine.py <signals.json>")
         return 2
 
     run_date = today_iso()
+    get_logger("decision_engine", run_date)  # attach today's file log
     signals_path = Path(sys.argv[1])
     try:
         raw = signals_path.read_text(encoding="utf-8")
     except OSError as e:
-        print(f"REJECTED: cannot read signals file {signals_path}. NO TRADES TODAY.")
-        print(e)
+        log.error(f"REJECTED: cannot read signals file {signals_path}. NO TRADES TODAY.")
+        log.error(str(e))
         log_run_rejection(run_date, str(signals_path), f"signals file unreadable: {e}")
         return 1
     try:
         parsed = DailySignals.model_validate_json(raw)
     except ValidationError as e:
-        print("REJECTED: signals failed validation. NO TRADES TODAY.")
-        print(e)
+        log.error("REJECTED: signals failed validation. NO TRADES TODAY.")
+        log.error(str(e))
         log_run_rejection(run_date, raw, f"signals failed schema validation: {e}")
         return 1
 
     if parsed.date != run_date:
-        print("REJECTED: signals file is not dated today. NO TRADES TODAY.")
+        log.error("REJECTED: signals file is not dated today. NO TRADES TODAY.")
         log_run_rejection(run_date, raw, f"signals dated {parsed.date}, expected {run_date}")
         return 1
 
     try:
         portfolio = get_portfolio_state()
     except Exception as e:
-        print(f"FATAL: could not read portfolio state, no decisions made: {e}")
+        log.error(f"FATAL: could not read portfolio state, no decisions made: {e}")
         return 2
 
+    log.debug(f"run {run_date}: {len(parsed.signals)} signals, equity "
+              f"{portfolio['equity']:.2f}, intraday {portfolio['intraday_pnl_pct']:+.4%}, "
+              f"positions {sorted(portfolio['positions'])}")
     approved, rejected = apply_risk_rules(parsed, portfolio, pending_buy_notional(run_date),
                                           approved_buy_tickers(run_date))
     log_decisions(run_date, approved, rejected)
+    for order in approved:
+        log.debug(f"APPROVED {order['ticker']} {order['side']}: "
+                  f"{order.get('reason', order.get('thesis', ''))}")
+    for rej in rejected:
+        log.debug(f"REJECTED {rej['signal']['ticker']} {rej['signal']['action']}: "
+                  f"{rej['reason']}")
 
-    print(json.dumps({"approved": approved, "rejected": rejected}, indent=2))
-    # execute.py consumes `approved`; it re-checks the paper guard itself.
+    # stdout contract: execute.py's input is the decisions table, but humans
+    # and the routine read this JSON verbatim — keep it the last thing printed.
+    log.info(json.dumps({"approved": approved, "rejected": rejected}, indent=2))
     return 0
 
 
