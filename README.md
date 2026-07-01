@@ -1,151 +1,170 @@
 # Agentic Trading System
 
-A daily-cadence, research-driven **paper** trading agent. An LLM (Claude, via a
-scheduled cloud routine) reads fresh market data and news each morning and writes
-structured buy/sell/hold *signals*; a deterministic decision engine validates
-those signals, applies hard risk rules, and only then are orders submitted — to
-Alpaca's **paper** endpoint, never live.
+An LLM reads each morning's market data and news and proposes structured, cited
+trade signals — then a fully deterministic risk engine validates, sizes, and gates
+every one of them, so the model can *propose* but only auditable code can *dispose*.
 
-Read `CLAUDE.md` first — it is the operating contract for any Claude Code
-session. `docs/DESIGN.md` is the append-only decision log.
+> **⚠️ Research / educational project — not financial advice.**
+> This system **does not and cannot execute real-money trades.** All order flow
+> goes to [Alpaca's paper-trading environment](https://alpaca.markets/docs/trading/paper-trading/)
+> (simulated money). Every order-touching script is double-gated: it hard-exits
+> unless `config.yaml` says `mode: paper`, *and* it verifies at runtime that the
+> constructed client points at `paper-api.alpaca.markets` before submitting
+> anything. There is no live-trading code path to flip on — going live would
+> require deliberate code changes gated by a human-owned
+> [promotion checklist](PROMOTION_CHECKLIST.md). No performance claims are made;
+> the system benchmarks itself against buy-and-hold VOO precisely so it can lose
+> that comparison honestly.
 
-## What it can and cannot do
+## Quick start
 
-**This repo cannot execute real-money trades.** There is no live-trading code
-path at all:
-
-- Every Alpaca client is constructed `paper=True`, and `execute.py` /
-  `flatten.py` additionally verify at runtime that the client's base URL is
-  `https://paper-api.alpaca.markets` before anything is submitted.
-- Every entry point that could place an order hard-exits unless
-  `config.yaml` says `mode: paper`. Setting `mode: live` does **not** enable
-  live trading — it disables everything (loud refusal, exit code 2).
-- Going live would require deliberate code changes, gated by every box in
-  `PROMOTION_CHECKLIST.md` being checked by a human.
-
-Not financial advice; this system has no guaranteed edge. The VOO benchmark in
-the daily digest exists precisely so the project can tell you honestly if
-buy-and-hold is beating it.
-
-## Architecture (daily flow)
-
-```
-fetch_data.py -> [Claude research step] -> decision_engine.py -> execute.py -> report.py
-   data/            signals/                approved orders       fills         reports/
- snapshots       signals_<date>.json         in trades.db      in trades.db    digest_<date>.md
-```
-
-1. **`src/fetch_data.py`** — pulls per-ticker snapshots (price, 30 daily bars,
-   fundamentals incl. sector, recent headlines) into `data/<date>/` for the
-   watchlist + current holdings + benchmark. Every failure is recorded in the
-   snapshot's `errors` list and the run manifest; a partial pull exits nonzero.
-2. **Research step (Claude, via `ROUTINE_PROMPT.md`)** — reads the snapshots,
-   supplements with web search, writes `signals/signals_<date>.json` conforming
-   to `signals/schema.json`. This is the only "scoring" in the system, and it is
-   deliberately *not* code: the LLM proposes; deterministic code disposes.
-3. **`src/decision_engine.py`** — treats the signals file as untrusted input:
-   strict pydantic validation (schema, dates, tickers, conviction bounds), then
-   the risk rules below. Every verdict — approved or rejected, with its reason —
-   is logged to `data/trades.db`.
-4. **`src/execute.py`** — submits approved orders to the Alpaca paper endpoint
-   with idempotent client order ids, re-validates sizing against *current*
-   config/account state, polls every order to confirmation, and never assumes
-   success. (The cloud routine does not run this step: submitting approved
-   orders is a manual, reviewed act.)
-5. **`src/report.py`** — writes `reports/digest_<date>.md`: positions, P&L vs a
-   VOO buy-and-hold counterfactual, all verdicts with reasoning, execution
-   results, and any data errors.
-6. **`src/flatten.py`** — kill switch: cancel all open orders, close every
-   position at market, full audit trail.
-
-Shared plumbing lives in `src/common.py` (paths, config, credentials, logging)
-and `src/trading_day.py` (one definition of "today", America/Chicago).
-
-## How signal handling works (high level)
-
-The LLM's signal is `{ticker, action, conviction 0-1, thesis, sources,
-timestamp}`. The decision engine — all rules live in `config.yaml`, never in
-the LLM's hands — then:
-
-- sizes buys as `bankroll x max_position_pct x conviction`, where the bankroll
-  is `min(account equity, trading_budget_dollars)` ($5,000 hard budget);
-- enforces per-ticker (5%) and per-sector (20%) exposure caps, counting
-  pending/unfilled buys as exposure (a fill is never assumed);
-- rejects buys below the conviction floor (0.6), below the minimum order size,
-  past the 5-trades/day cap, on unknown sectors, or over the total budget;
-- runs a stop-loss sweep (8% below cost basis) on every run, independent of
-  signals and exempt from the trade cap;
-- freezes all new buys if the portfolio is down >3% of the bankroll intraday
-  (circuit breaker);
-- on ANY validation failure: no trade + a logged rejection. "No valid signal"
-  never means "guess".
-
-## Data sources
-
-- **Alpaca** (paper account): market data (IEX feed), news API, account state,
-  order submission. Free tier.
-- **yfinance**: fallback for bars/news; the only source of fundamentals
-  (incl. the sector used by the sector cap).
-- **Web search** (research step only): breaking news on current holdings.
-
-## Setup
+Runs against committed historical data with **no API keys and no network**:
 
 ```bash
+git clone <this repo> && cd trading-agent
 python -m venv .venv && source .venv/bin/activate   # Python 3.11+
 pip install -r requirements.txt
-cp .env.example .env                                 # add Alpaca PAPER keys
+
+pytest                          # 96 tests, all offline (fake broker, tmp DBs)
+python scripts/replay_day.py    # replay a real committed day through the
+                                # actual validation + risk-rule code, read-only
 ```
 
-Required env vars (see `.env.example`; `.env` is gitignored — never commit it):
+To run the live (paper) pipeline you'd also need free Alpaca paper keys in
+`.env` (see `.env.example`), but nothing in the quick start requires them.
 
-| Variable | Purpose |
-|---|---|
-| `ALPACA_API_KEY` | Alpaca **paper** account API key |
-| `ALPACA_SECRET_KEY` | Alpaca **paper** account secret |
+## Example: headline in → signal → sized order out
 
-Each script runs standalone with no args for "today's run":
+Everything below is real committed state from **2026-06-12** (`data/`,
+`signals/`, `reports/` are tracked in git — the audit trail is the repo).
+
+**1. In:** `fetch_data.py` pulled JNJ's snapshot, including these headlines:
+
+> *"Johnson & Johnson Says IMAAVY Showed Rapid And Durable Anemia Improvement
+> In wAIHA, A Disease With No FDA-Approved Therapies"* — Benzinga, 06-11
+>
+> *"Johnson & Johnson Fined $32M From Los Angeles Jury Over 2024 Death … Due To
+> Exposure To Asbestos-Contaminated Talc Product"* — Benzinga, 06-10
+
+**2. Research:** the LLM weighed the catalyst stream against the litigation risk
+and emitted this signal (`signals/signals_2026-06-12.json`) — note the
+falsification condition and named sources; both are required by schema:
+
+```json
+{
+  "ticker": "JNJ",
+  "action": "buy",
+  "conviction": 0.65,
+  "thesis": "Catalyst stream intact: 06-11 IMAAVY hit target in wAIHA (rapid,
+             durable anemia improvement; no FDA-approved therapies) [...] Close
+             238.31 holds above the 230 falsification line in a weak tape (beta
+             0.26). Falsified if close < 230 or talc litigation escalates beyond
+             the 06-10 $32M LA mesothelioma verdict.",
+  "sources": ["Benzinga 2026-06-11: Johnson & Johnson Hits Target With IMAAVY...", "..."]
+}
+```
+
+**3. Out:** the deterministic engine validated the file against the schema,
+checked conviction against the 0.6 floor, sized the order off the $5,000
+bankroll (`$5,000 × 5% cap × 0.65 conviction = $162.50`), verified position/
+sector/budget caps, and approved it — while the same day's five 0.5-conviction
+hold signals produced no orders. Reproduce this yourself, offline:
 
 ```bash
-python src/fetch_data.py
-python src/decision_engine.py signals/signals_<today>.json
-python src/report.py
-python src/execute.py     # manual step: submit today's approved orders
-python src/flatten.py     # kill switch: close everything
+python scripts/replay_day.py signals/signals_2026-06-12.json
+# -> approved: [{"ticker": "JNJ", "side": "buy", "notional": 162.5, ...}]
+# -> summary: 6 signals -> 1 approved, 0 rejected, 5 hold (no order)
 ```
 
-Runs are debuggable after the fact: each script tees a timestamped DEBUG log to
-`logs/<script>_<date>.log` (gitignored), decisions/executions live in
-`data/trades.db`, and the digest summarizes everything human-readably.
+Every verdict — approved or rejected, with its reason — is persisted to
+`data/trades.db` and rendered into a daily digest
+([example](reports/digest_2026-06-12.md)) alongside P&L vs a VOO buy-and-hold
+counterfactual.
+
+![Signals over the committed sample period, and the deterministic sizing rule](docs/img/pipeline_output.png)
+
+## How it works
+
+- **The LLM proposes; deterministic code disposes.** A scheduled routine has
+  Claude read the day's snapshots (prices, fundamentals, headlines) and write
+  signals conforming to a strict JSON schema: ticker, buy/sell/hold, conviction
+  0–1, a ≤500-char thesis with a falsification condition, named sources. The
+  LLM never touches the broker API, position sizing, or risk limits.
+- **The risk engine is plain, auditable rules** (`config.yaml` +
+  `src/decision_engine.py`) — no ML: pydantic schema validation of the signals
+  file as *untrusted input*; conviction-scaled sizing off a hard $5,000
+  bankroll; 5% per-ticker and 20% per-sector exposure caps that count unfilled
+  orders as exposure (a fill is never assumed); a 5-trades/day cap; an 8%
+  stop-loss sweep that runs every day regardless of signals; a circuit breaker
+  that freezes buys when the book is down >3% intraday. Any validation failure
+  means *no trade plus a logged rejection* — never a guess.
+- **Execution never assumes success**: idempotent client order IDs (a re-run
+  cannot double-submit), submission-time re-validation against current limits,
+  and polling every order to a confirmed terminal state.
+- **Honesty mechanisms**: every decision is logged with the full reasoning
+  chain that produced it; the daily digest compares cumulative P&L against a
+  deposit-matched VOO counterfactual; and a one-command kill switch
+  (`src/flatten.py`) closes everything.
+
+## Limitations
+
+- **The interesting layer is the one that can't be honestly backtested.** Any
+  historical "LLM signal" is contaminated by training-data hindsight, so only
+  the deterministic rules were backtested (2.9 years, vectorbt,
+  [full write-up](docs/backtest_results.md) — max drawdown −4.7% vs VOO's
+  −18.7%, all caps held; the P&L there is explicitly meaningless as evidence of
+  edge). The LLM layer is validated only by forward paper trading.
+- **Not validated against live capital.** Paper trading period is ongoing
+  (started 2026-06-10). Paper-period results vs VOO: **[to be added after the
+  evaluation window closes]**.
+- **Daily cadence ignores microstructure**: no intraday reaction, latency,
+  slippage, or realistic fill modeling — the backtest showed stops are a
+  *trigger, not an exit price* (worst observed exit 17% below basis on an
+  overnight gap, vs the nominal 8%).
+- **Known policy gaps, documented rather than hidden** (see
+  [backtest findings](docs/backtest_results.md)): winners can drift above the
+  5% cap (nothing trims), a stopped name can re-enter the next day, and the
+  sector cap is arithmetically unreachable until the watchlist grows.
+- **No informational edge is claimed** from reading public news; if there is
+  value, it comes from discipline and breadth, and the VOO benchmark exists to
+  test exactly that.
+
+## Architecture
+
+```
+fetch_data.py -> [LLM research step] -> decision_engine.py -> execute.py -> report.py
+   data/           signals/*.json        approved orders     confirmed      reports/
+ snapshots      (schema-validated)        in trades.db     (paper) fills   daily digest
+```
+
+| Module | Role |
+|---|---|
+| `src/fetch_data.py` | Market data + news ingestion (Alpaca IEX, yfinance fallback); per-ticker error manifest, fails loudly |
+| `src/decision_engine.py` | The compliance desk: schema validation + every risk rule; SQLite decision log |
+| `src/execute.py` | Paper-broker submission: double paper guard, idempotency, re-validation, fill confirmation |
+| `src/report.py` | Daily digest + VOO counterfactual benchmark |
+| `src/flatten.py` | Kill switch: cancel everything, close every position, full audit trail |
+| `src/common.py`, `src/trading_day.py` | Shared plumbing; one definition of "today" (America/Chicago) |
+
+Data sources: Alpaca paper API (market data, news, account state), yfinance
+(fallback + fundamentals), web search in the research step. Secrets live only
+in `.env` (gitignored); see `.env.example`.
 
 ## Tests
 
-```bash
-pytest            # no network, no keys needed; uses tmp DBs and fake clients
-```
+`pytest` — 96 tests, fully offline (fake broker client, temp databases, mocked
+data sources). They assert the risk rules at their exact boundaries *against
+the live `config.yaml` values*, so loosening a limit fails the suite; plus the
+paper guard, order idempotency, kill switch, benchmark math, and the data
+layer's fallback/error contract.
 
-The suite covers every risk rule at its boundaries (against the *live*
-`config.yaml` values, so loosening a rule fails tests), the paper guard, order
-idempotency and revalidation, the kill switch, the benchmark math, and
-fetch_data's fallback/error contract. All external APIs are mocked.
-
-To sanity-check a clone end-to-end without any keys or network:
-
-```bash
-python scripts/replay_day.py   # replays the latest committed signals file
-                               # through the real validation + risk rules, read-only
-```
-
-The vectorbt rules backtest is optional and heavy:
-`pip install -r backtest/requirements.txt`, then
-`python backtest/backtest_rules.py` (findings: `docs/backtest_results.md`).
+The optional rules backtest: `pip install -r backtest/requirements.txt`, then
+`python backtest/backtest_rules.py`.
 
 ## Operations
 
-- The cloud routine (weekdays 12:00 UTC, prompt in `ROUTINE_PROMPT.md`) runs
-  fetch → research → decide → digest, then commits the day's state (`data/`,
-  `signals/`, `reports/`, `trades.db`) back to `main` — the repo is the system
-  of record and the routine is its single writer. Pull before running anything
-  locally that writes state.
-- Safety posture: paper only. Risk limits live in `config.yaml` and are changed
-  by you, not by the agent. See `PROMOTION_CHECKLIST.md` for what must be true
-  before live trading is even discussed.
+A scheduled cloud routine (prompt: `ROUTINE_PROMPT.md`) runs the pipeline each
+weekday pre-market and commits the day's state back to the repo — the repo is
+the system of record. Submitting approved orders (`execute.py`) is deliberately
+left as a manual, human-reviewed step. `CLAUDE.md` is the standing operating
+contract for agent sessions; `docs/DESIGN.md` is the append-only decision log.
