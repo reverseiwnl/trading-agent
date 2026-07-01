@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-07-01T12:04:49.721067+00:00",
+  "price": 372.92,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-18",
+      "open": 416.4,
+      "high": 425.025,
+      "low": 415.64,
+      "close": 423.61,
+      "volume": 628464.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 429.885,
+      "high": 432.675,
+      "low": 416.49,
+      "close": 417.515,
+      "volume": 750391.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 414.135,
+      "high": 421.99,
+      "low": 411.31,
+      "close": 421.08,
+      "volume": 840531.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 424.72,
+      "high": 426.08,
+      "low": 415.78,
+      "close": 419.0,
+      "volume": 768373.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 419.48,
+      "high": 424.33,
+      "low": 416.36,
+      "close": 418.5,
+      "volume": 536551.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 416.575,
+      "high": 419.73,
+      "low": 413.075,
+      "close": 416.09,
+      "volume": 751245.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 410.9,
+      "high": 415.94,
+      "low": 409.66,
+      "close": 412.71,
+      "volume": 837631.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 372.54,
+      "high": 377.19,
+      "low": 370.82,
+      "close": 373.93,
+      "volume": 905629.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 371.83,
+      "high": 378.87,
+      "low": 364.8,
+      "close": 365.46,
+      "volume": 1182848.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 362.77,
+      "high": 364.19,
+      "low": 349.205,
+      "close": 352.415,
+      "volume": 2522776.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 357.19,
+      "high": 376.6,
+      "low": 355.45,
+      "close": 371.67,
+      "volume": 2989666.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 377.085,
+      "high": 380.48,
+      "low": 366.86,
+      "close": 368.515,
+      "volume": 1577857.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 370.93,
+      "high": 374.12,
+      "low": 367.54,
+      "close": 372.92,
+      "volume": 988755.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Apollo's Top Economist Issues Grim Warning As AI Boom Risks a 'Painful Repricing' If Returns Don't Arrive Fast Enough",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60212155/apollos-top-economist-issues-grim-warning-as-ai-boom-risks-a-painful-repricing-if-returns-dont-arrive-fast-enough",
+      "published_at": "2026-07-01T11:43:13+00:00"
+    },
+    {
+      "headline": "Google Parent Alphabet is the 'Best Chart': Strategas Chief Chartist Says Stock Tells a 'Different Story' As Rivals Look 'Ugly'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60211602/google-parent-alphabet-is-the-best-chart-strategas-chief-chartist-says-stock-tells-a-different-story-as-rivals-look-ugly",
+      "published_at": "2026-07-01T11:27:42+00:00"
+    },
+    {
+      "headline": "Jim Cramer Says Mag 7 Slump 'Hurt'— Then a Cheese Salesman Thanked Him for a $13 Million Nvidia Win",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60211265/jim-cramer-says-mag-7-slump-hurt-then-a-cheese-salesman-thanked-him-for-a-13-million-nvidia-win",
+      "published_at": "2026-07-01T11:05:52+00:00"
+    },
+    {
+      "headline": "Energy Secretary Chris Wright Says Data Center Fears Are 'Overblown'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60210334/energy-secretary-chris-wright-says-data-center-fears-are-overblown",
+      "published_at": "2026-07-01T10:22:04+00:00"
+    },
+    {
+      "headline": "Investigating Microsoft's Standing In Software Industry Compared To Competitors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60209603/investigating-microsoft-s-standing-software-industry-compared-competitors",
+      "published_at": "2026-07-01T09:58:24+00:00"
+    },
+    {
+      "headline": "Anthropic Restores Mythos 5 Access For US Organizations While Partnering With Amazon, Microsoft And Google On Jailbreak Severity Framework",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60208727/anthropic-restores-mythos-5-access-us-organizations-while-partnering-amazon-microsoft-and-google-jai",
+      "published_at": "2026-07-01T08:12:42+00:00"
+    },
+    {
+      "headline": "Microsoft to Announce Fresh Layoffs Impacting Thousands as AI Investment Surge Reshapes Workforce: Report (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60207103/microsoft-reportedly-plans-fresh-layoffs-impacting-thousands-as-ai-investment-reshapes-workforce",
+      "published_at": "2026-07-01T03:08:59+00:00"
+    },
+    {
+      "headline": "Dan Ives Says SpaceX Looks Expensive, But Elon Musk-Led SPCX Could Become 'One of the Best AI Plays'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/space/26/07/60207512/dan-ives-says-spacex-looks-expensive-but-elon-musk-led-spcx-could-become-one-of-the-best-ai-plays",
+      "published_at": "2026-07-01T05:36:29+00:00"
+    },
+    {
+      "headline": "Anthropic Says 'We're Grateful' as Trump Administration Lifts Export Controls on Claude Fable 5 and Mythos 5 After AI Security Standoff",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60207443/anthropic-says-were-grateful-as-trump-administration-lifts-export-controls-on-claude-fable-5-and-mythos-5",
+      "published_at": "2026-07-01T05:29:07+00:00"
+    },
+    {
+      "headline": "More Bark, More Beta: Corgi Debuts 31 Single-Stock ETFs Covering Nvidia, Tesla And More",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/06/60205989/more-bark-more-beta-corgi-debuts-31-single-stock-etfs-covering-nvidia-tesla-and-more",
+      "published_at": "2026-06-30T22:17:14+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

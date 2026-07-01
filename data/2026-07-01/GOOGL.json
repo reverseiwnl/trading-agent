@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-07-01T12:04:47.242801+00:00",
+  "price": 357.31,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-18",
+      "open": 395.685,
+      "high": 408.57,
+      "low": 394.62,
+      "close": 396.815,
+      "volume": 925835.0
+    },
+    {
+      "date": "2026-05-19",
+      "open": 396.8,
+      "high": 396.92,
+      "low": 386.11,
+      "close": 387.75,
+      "volume": 1014449.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 387.695,
+      "high": 393.58,
+      "low": 382.95,
+      "close": 388.86,
+      "volume": 1184514.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 385.705,
+      "high": 392.42,
+      "low": 383.125,
+      "close": 387.52,
+      "volume": 657497.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 386.765,
+      "high": 388.7,
+      "low": 381.8,
+      "close": 383.03,
+      "volume": 607993.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.21,
+      "low": 382.72,
+      "close": 388.91,
+      "volume": 950634.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Apollo's Top Economist Issues Grim Warning As AI Boom Risks a 'Painful Repricing' If Returns Don't Arrive Fast Enough",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60212155/apollos-top-economist-issues-grim-warning-as-ai-boom-risks-a-painful-repricing-if-returns-dont-arrive-fast-enough",
+      "published_at": "2026-07-01T11:43:13+00:00"
+    },
+    {
+      "headline": "Google Parent Alphabet is the 'Best Chart': Strategas Chief Chartist Says Stock Tells a 'Different Story' As Rivals Look 'Ugly'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60211602/google-parent-alphabet-is-the-best-chart-strategas-chief-chartist-says-stock-tells-a-different-story-as-rivals-look-ugly",
+      "published_at": "2026-07-01T11:27:42+00:00"
+    },
+    {
+      "headline": "Klarna Announces Swedish Court Awards $1.97B In Damages To PriceRunner Against Google In Lost Revenue",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60211567/klarna-announces-swedish-court-awards-1-97b-damages-pricerunner-against-google-lost-revenue",
+      "published_at": "2026-07-01T11:23:33+00:00"
+    },
+    {
+      "headline": "Jim Cramer Says Mag 7 Slump 'Hurt'— Then a Cheese Salesman Thanked Him for a $13 Million Nvidia Win",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60211265/jim-cramer-says-mag-7-slump-hurt-then-a-cheese-salesman-thanked-him-for-a-13-million-nvidia-win",
+      "published_at": "2026-07-01T11:05:52+00:00"
+    },
+    {
+      "headline": "Anthropic Restores Mythos 5 Access For US Organizations While Partnering With Amazon, Microsoft And Google On Jailbreak Severity Framework",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60208727/anthropic-restores-mythos-5-access-us-organizations-while-partnering-amazon-microsoft-and-google-jai",
+      "published_at": "2026-07-01T08:12:42+00:00"
+    },
+    {
+      "headline": "Dan Ives Says SpaceX Looks Expensive, But Elon Musk-Led SPCX Could Become 'One of the Best AI Plays'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/space/26/07/60207512/dan-ives-says-spacex-looks-expensive-but-elon-musk-led-spcx-could-become-one-of-the-best-ai-plays",
+      "published_at": "2026-07-01T05:36:29+00:00"
+    },
+    {
+      "headline": "Anthropic Says 'We're Grateful' as Trump Administration Lifts Export Controls on Claude Fable 5 and Mythos 5 After AI Security Standoff",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60207443/anthropic-says-were-grateful-as-trump-administration-lifts-export-controls-on-claude-fable-5-and-mythos-5",
+      "published_at": "2026-07-01T05:29:07+00:00"
+    },
+    {
+      "headline": "Gary Black Says Tesla Delivery Estimates Are 'All Over the Place' Despite Predicting 7% Surge—Ross Gerber Says Tesla Had a 'Solid' Quarter",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60207340/gary-black-says-tesla-delivery-estimates-are-all-over-the-place-despite-predicting-7-surge-ross-gerber-says-tesla-had-a-solid-quarter",
+      "published_at": "2026-07-01T04:40:37+00:00"
+    },
+    {
+      "headline": "More Bark, More Beta: Corgi Debuts 31 Single-Stock ETFs Covering Nvidia, Tesla And More",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/06/60205989/more-bark-more-beta-corgi-debuts-31-single-stock-etfs-covering-nvidia-tesla-and-more",
+      "published_at": "2026-06-30T22:17:14+00:00"
+    },
+    {
+      "headline": "Google Launches Gemini Spark For macOS With Expanded App Integrations",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60205158/google-launches-gemini-spark-macos-expanded-app-integrations",
+      "published_at": "2026-06-30T21:08:52+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
