@@ -384,6 +384,7 @@ def main() -> int:
         return 2
 
     run_date = today_iso()
+    get_logger("execute", run_date)  # attach today's file log
     orders = load_approved_orders(run_date)
     if not orders:
         log.info(f"No approved orders for {run_date} in {DB_PATH.name}. Nothing to submit.")
