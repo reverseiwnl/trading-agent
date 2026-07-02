@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-07-02T12:04:43.532970+00:00",
+  "price": 383.4,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-19",
+      "open": 429.885,
+      "high": 432.675,
+      "low": 416.49,
+      "close": 417.515,
+      "volume": 750391.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 414.135,
+      "high": 421.99,
+      "low": 411.31,
+      "close": 421.08,
+      "volume": 840531.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 424.72,
+      "high": 426.08,
+      "low": 415.78,
+      "close": 419.0,
+      "volume": 768373.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 419.48,
+      "high": 424.33,
+      "low": 416.36,
+      "close": 418.5,
+      "volume": 536551.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 416.575,
+      "high": 419.73,
+      "low": 413.075,
+      "close": 416.09,
+      "volume": 751245.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 410.9,
+      "high": 415.94,
+      "low": 409.66,
+      "close": 412.71,
+      "volume": 837631.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 372.54,
+      "high": 377.19,
+      "low": 370.82,
+      "close": 373.93,
+      "volume": 905629.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 371.83,
+      "high": 378.87,
+      "low": 364.8,
+      "close": 365.46,
+      "volume": 1182848.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 362.77,
+      "high": 364.19,
+      "low": 349.205,
+      "close": 352.415,
+      "volume": 2522776.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 357.19,
+      "high": 376.6,
+      "low": 355.45,
+      "close": 371.67,
+      "volume": 2989666.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 377.085,
+      "high": 380.48,
+      "low": 366.86,
+      "close": 368.515,
+      "volume": 1577857.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 370.93,
+      "high": 374.12,
+      "low": 367.54,
+      "close": 372.92,
+      "volume": 988755.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 380.95,
+      "high": 388.81,
+      "low": 374.91,
+      "close": 384.38,
+      "volume": 1541022.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Meta Could Crash the Neocloud Party, Analyst Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60240335/meta-could-crash-the-neocloud-party-analyst-says",
+      "published_at": "2026-07-02T11:20:22+00:00"
+    },
+    {
+      "headline": "Alex Karp Bashes OpenAI, Anthropic Token Model — 'Something Has Gone Completely Wrong'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60239308/alex-karp-bashes-openai-anthropic-token-model-something-has-gone-completely-wrong",
+      "published_at": "2026-07-02T10:24:40+00:00"
+    },
+    {
+      "headline": "Exploring The Competitive Space: Microsoft Versus Industry Peers In Software",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60238545/exploring-competitive-space-microsoft-versus-industry-peers-software",
+      "published_at": "2026-07-02T09:58:44+00:00"
+    },
+    {
+      "headline": "Dan Ives Leaves Wedbush After 8 Years, Teases New Investment Banking Venture",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60237754/dan-ives-leaves-wedbush-after-8-years-teases-new-investment-banking-venture",
+      "published_at": "2026-07-02T08:08:15+00:00"
+    },
+    {
+      "headline": "Trump Hails S&P 500's Best Quarter Since 2020 as US-Iran Indirect Talks Wrap Up",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60236867/trump-hails-sp-500s-best-quarter-since-2020-as-us-iran-indirect-talks-wrap-up",
+      "published_at": "2026-07-02T06:19:19+00:00"
+    },
+    {
+      "headline": "Sony Ends Physical Discs For Games By 2028, Why GameStop Needs eBay Or Another Growth Plan",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/gaming/26/07/60231279/sony-playstation-physical-discs-video-games-gamestop-ebay",
+      "published_at": "2026-07-01T19:44:14+00:00"
+    },
+    {
+      "headline": "Haleon Bets on Microsoft AI To Support Growth and Reach One Billion More Consumers by 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/07/60223223/haleon-bets-on-microsoft-ai-to-support-growth-and-reach-one-billion-more-consumers-by-2030",
+      "published_at": "2026-07-01T15:54:05+00:00"
+    },
+    {
+      "headline": "Kyndryl Partners With Microsoft To Integrate Kyndryl Sovereignty Solutioning With Microsoft Sovereign Cloud Tools For Cloud Architecture",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60214780/kyndryl-partners-microsoft-integrate-kyndryl-sovereignty-solutioning-microsoft-sovereign-cloud-tools",
+      "published_at": "2026-07-01T13:01:18+00:00"
+    },
+    {
+      "headline": "UPDATE: 'Meta Platforms Is Developing Plans For A Cloud Infrastructure Business That Will Sell Access To AI Computing Power And Models, Setting Up A New Vector Of Competition With Industry Leaders Like Amazon Web Services, Microsoft Azure And Google Cloud' - Bloomberg News",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60214309/update-meta-platforms-developing-plans-cloud-infrastructure-business-will-sell-access-ai-computing-p",
+      "published_at": "2026-07-01T12:47:49+00:00"
+    },
+    {
+      "headline": "Tech Giants Just Had a Nightmare Month – Bill Ackman Says He's Bullish Now",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60214271/hyperscalers-worst-month-bill-ackman-bullish-token-optimization",
+      "published_at": "2026-07-01T12:45:44+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

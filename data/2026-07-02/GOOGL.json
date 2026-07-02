@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-07-02T12:04:40.289166+00:00",
+  "price": 361.195,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-19",
+      "open": 396.8,
+      "high": 396.92,
+      "low": 386.11,
+      "close": 387.75,
+      "volume": 1014449.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 387.695,
+      "high": 393.58,
+      "low": 382.95,
+      "close": 388.86,
+      "volume": 1184514.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 385.705,
+      "high": 392.42,
+      "low": 383.125,
+      "close": 387.52,
+      "volume": 657497.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 386.765,
+      "high": 388.7,
+      "low": 381.8,
+      "close": 383.03,
+      "volume": 607993.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.21,
+      "low": 382.72,
+      "close": 388.91,
+      "volume": 950634.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Alphabet, Unum Group, JM Smucker And More: CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60240485/alphabet-unum-group-jm-smucker-and-more-cnbcs-final-trades",
+      "published_at": "2026-07-02T11:31:37+00:00"
+    },
+    {
+      "headline": "Wells Fargo Maintains Overweight on Alphabet, Lowers Price Target to $416",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60239706/wells-fargo-maintains-overweight-alphabet-lowers-price-target-416",
+      "published_at": "2026-07-02T10:44:57+00:00"
+    },
+    {
+      "headline": "Google Suffers Major Blow After EU's Top Court Upholds Record $4.7 Billion Android Antitrust Fine",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/legal/26/07/60237956/google-suffers-major-blow-after-eus-top-court-upholds-record-4-7-billion-android-antitrust-fine",
+      "published_at": "2026-07-02T08:42:56+00:00"
+    },
+    {
+      "headline": "Alphabet’s Google Loses Android Antitrust Appeal As EU Court Upholds Revised €4.1B Penalty",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/VGK",
+      "published_at": "2026-07-02T08:42:39+00:00"
+    },
+    {
+      "headline": "If You Invested $100 In Alphabet Stock 5 Years Ago, You Would Have This Much Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60235575/if-you-invested-100-alphabet-stock-5-years-ago-you-would-have-much-today",
+      "published_at": "2026-07-01T23:45:36+00:00"
+    },
+    {
+      "headline": "Google Takes One-Two Antitrust Punch: Yelp Win, $1.5 Billion Klarna Ruling",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/legal/26/07/60234402/google-takes-one-two-antitrust-punch-yelp-win-1-5-billion-klarna-ruling",
+      "published_at": "2026-07-01T21:11:30+00:00"
+    },
+    {
+      "headline": "UPDATE: Reported June 30, 2026: 'Federal Judge Gives Yelp Advantage In Google Antitrust Case After Recognizing Monopoly Ruling And Skipping Discovery On Market Power Issue' - Courthouse News",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60233816/update-reported-june-30-2026-federal-judge-gives-yelp-advantage-google-antitrust-case-after-recogniz",
+      "published_at": "2026-07-01T20:47:55+00:00"
+    },
+    {
+      "headline": "Buffett Successor Bet Big on Alphabet, Delta and Macy’s: Are the Moves Paying Off?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60233687/buffett-successor-bet-big-on-alphabet-delta-and-macys-are-the-moves-paying-off",
+      "published_at": "2026-07-01T20:40:26+00:00"
+    },
+    {
+      "headline": "Reported Earlier: 'Yelp Gets Antitrust Win Against Google on Heels of DOJ Case' - Bloomberg Law",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60233073/reported-earlier-yelp-gets-antitrust-win-against-google-heels-doj-case-bloomberg-law",
+      "published_at": "2026-07-01T20:28:00+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Market Expert Jay Woods Picks Top 2 Magnificent Seven Stocks For Rest of 2026, 2027",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60227349/exclusive-market-expert-jay-woods-picks-top-2-magnificent-seven-stocks-for-rest-of-2026-2027",
+      "published_at": "2026-07-01T17:42:11+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

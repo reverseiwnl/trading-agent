@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-07-02T12:04:38.632293+00:00",
+  "price": 294.18,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-19",
+      "open": 297.145,
+      "high": 300.51,
+      "low": 296.36,
+      "close": 299.14,
+      "volume": 1046682.0
+    },
+    {
+      "date": "2026-05-20",
+      "open": 298.18,
+      "high": 302.8,
+      "low": 298.12,
+      "close": 302.2,
+      "volume": 1610963.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 301.25,
+      "high": 305.53,
+      "low": 300.41,
+      "close": 305.07,
+      "volume": 1190868.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 306.06,
+      "high": 311.39,
+      "low": 306.06,
+      "close": 308.81,
+      "volume": 1275219.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 309.53,
+      "high": 311.82,
+      "low": 307.67,
+      "close": 308.33,
+      "volume": 1366307.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 308.41,
+      "high": 313.22,
+      "low": 308.38,
+      "close": 310.93,
+      "volume": 1681995.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 310.605,
+      "high": 312.72,
+      "low": 309.57,
+      "close": 312.45,
+      "volume": 1514315.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 311.915,
+      "high": 315.0,
+      "low": 309.54,
+      "close": 312.01,
+      "volume": 1619960.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 309.6,
+      "high": 310.94,
+      "low": 305.03,
+      "close": 306.265,
+      "volume": 1790146.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 307.36,
+      "high": 315.44,
+      "low": 306.73,
+      "close": 315.195,
+      "volume": 1291226.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 314.38,
+      "high": 316.92,
+      "low": 308.865,
+      "close": 310.22,
+      "volume": 1966854.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 313.335,
+      "high": 313.38,
+      "low": 309.675,
+      "close": 311.21,
+      "volume": 1230648.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 312.77,
+      "high": 315.14,
+      "low": 307.16,
+      "close": 307.59,
+      "volume": 2188603.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 308.615,
+      "high": 317.38,
+      "low": 301.18,
+      "close": 301.57,
+      "volume": 2762619.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 300.155,
+      "high": 300.59,
+      "low": 287.79,
+      "close": 290.36,
+      "volume": 2491376.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 290.7,
+      "high": 294.74,
+      "low": 287.38,
+      "close": 291.48,
+      "volume": 1843917.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 293.395,
+      "high": 296.995,
+      "low": 289.62,
+      "close": 295.48,
+      "volume": 1372585.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 296.075,
+      "high": 297.11,
+      "low": 289.635,
+      "close": 291.085,
+      "volume": 1456808.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 293.99,
+      "high": 297.78,
+      "low": 291.75,
+      "close": 296.53,
+      "volume": 1573337.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 295.245,
+      "high": 300.445,
+      "low": 293.99,
+      "close": 299.26,
+      "volume": 1229360.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 300.845,
+      "high": 301.95,
+      "low": 294.39,
+      "close": 296.07,
+      "volume": 1195228.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 298.44,
+      "high": 300.56,
+      "low": 295.635,
+      "close": 297.86,
+      "volume": 1278873.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 297.41,
+      "high": 302.415,
+      "low": 296.82,
+      "close": 296.85,
+      "volume": 1619228.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 297.61,
+      "high": 301.635,
+      "low": 294.27,
+      "close": 294.28,
+      "volume": 1781140.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 295.345,
+      "high": 299.675,
+      "low": 292.94,
+      "close": 293.32,
+      "volume": 2239666.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 287.5,
+      "high": 288.68,
+      "low": 273.79,
+      "close": 275.21,
+      "volume": 5858472.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 275.14,
+      "high": 285.95,
+      "low": 274.25,
+      "close": 281.31,
+      "volume": 5117781.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 286.69,
+      "high": 288.35,
+      "low": 279.85,
+      "close": 281.69,
+      "volume": 2386040.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 281.145,
+      "high": 289.9,
+      "low": 280.7,
+      "close": 289.24,
+      "volume": 1576321.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 293.44,
+      "high": 296.57,
+      "low": 289.195,
+      "close": 294.42,
+      "volume": 2428489.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Industry Comparison: Evaluating Apple Against Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60238547/industry-comparison-evaluating-apple-against-competitors-technology-hardware-storage-amp-peripherals",
+      "published_at": "2026-07-02T09:58:55+00:00"
+    },
+    {
+      "headline": "Elon Musk Calls Report on SpaceX AI Handheld Device ‘Utterly False’ After Claims of an iPhone Rival Sparks Online Buzz",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60237828/elon-musk-calls-report-on-spacex-ai-handheld-device-utterly-false-after-claims-of-an-iphone-rival-sparks-online-buzz",
+      "published_at": "2026-07-02T08:30:47+00:00"
+    },
+    {
+      "headline": "'Apple To Launch 5 New iPhone Models To Gain Market Share Amid Memory Crunch' - Nikkei Asia",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60237607/apple-launch-5-new-iphone-models-gain-market-share-amid-memory-crunch-nikkei-asia",
+      "published_at": "2026-07-02T07:56:07+00:00"
+    },
+    {
+      "headline": "Trump Hails S&P 500's Best Quarter Since 2020 as US-Iran Indirect Talks Wrap Up",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60236867/trump-hails-sp-500s-best-quarter-since-2020-as-us-iran-indirect-talks-wrap-up",
+      "published_at": "2026-07-02T06:19:19+00:00"
+    },
+    {
+      "headline": "'Apple Readies New iPad Pro, Redesigned Entry MacBook Pro for 2027'- Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60233938/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-2027-bloomberg",
+      "published_at": "2026-07-01T20:53:42+00:00"
+    },
+    {
+      "headline": "'Apple Seeks to Buy Chinese-Made Memory Chips With Lobbying Push'- Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60232602/apple-seeks-buy-chinese-made-memory-chips-lobbying-push-bloomberg",
+      "published_at": "2026-07-01T20:15:45+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Market Expert Jay Woods Picks Top 2 Magnificent Seven Stocks For Rest of 2026, 2027",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60227349/exclusive-market-expert-jay-woods-picks-top-2-magnificent-seven-stocks-for-rest-of-2026-2027",
+      "published_at": "2026-07-01T17:42:11+00:00"
+    },
+    {
+      "headline": "Michael Saylor Says 'AI-Driven Black Hole' Diverts Capital Away From Bitcoin",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60215699/michael-saylor-says-ai-driven-black-hole-diverts-capital-from-bitcoin",
+      "published_at": "2026-07-01T13:31:30+00:00"
+    },
+    {
+      "headline": "Micron, Palo Alto, Apple And A Health Care Stock On CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60212456/apple-micron-palo-alto-health-care-stock-cnbc-final-trades",
+      "published_at": "2026-07-01T11:55:08+00:00"
+    },
+    {
+      "headline": "Jim Cramer Says Mag 7 Slump 'Hurt'— Then a Cheese Salesman Thanked Him for a $13 Million Nvidia Win",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60211265/jim-cramer-says-mag-7-slump-hurt-then-a-cheese-salesman-thanked-him-for-a-13-million-nvidia-win",
+      "published_at": "2026-07-01T11:05:52+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
