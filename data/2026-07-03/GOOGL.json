@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-07-03T12:04:44.441452+00:00",
+  "price": 359.07,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-20",
+      "open": 387.695,
+      "high": 393.58,
+      "low": 382.95,
+      "close": 388.86,
+      "volume": 1184514.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 385.705,
+      "high": 392.42,
+      "low": 383.125,
+      "close": 387.52,
+      "volume": 657497.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 386.765,
+      "high": 388.7,
+      "low": 381.8,
+      "close": 383.03,
+      "volume": 607993.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.21,
+      "low": 382.72,
+      "close": 388.91,
+      "volume": 950634.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.38,
+      "high": 364.15,
+      "low": 353.485,
+      "close": 359.69,
+      "volume": 779835.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Sundar Pichai Touts Google Workspace Ad that Reimagines US Founding Fathers Using Gemini AI and Docs in America 250 Campaign: 'Love This'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60264826/sundar-pichai-touts-google-workspace-ad-that-reimagines-us-founding-fathers-using-gemini-ai-and-docs-in-america-250-campaign-love-this",
+      "published_at": "2026-07-03T08:40:38+00:00"
+    },
+    {
+      "headline": "Jim Cramer on Anthropic's Reported Samsung AI Chip Plans: 'We Really Don't Have Anything But a Rumor'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60264029/jim-cramer-on-anthropics-reported-samsung-ai-chip-plans-we-really-dont-have-anything-but-a-rumor",
+      "published_at": "2026-07-03T04:56:53+00:00"
+    },
+    {
+      "headline": "Google Cloud Took Action Against The NetNut Residential Proxy Network, Also Known As Popa; Disabled Google Accounts Used By NetNut For Malware Command And Control; GTIG Estimates Size Of NetNut Botnet At 2M Devices Globally",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60254178/google-cloud-took-action-against-netnut-residential-proxy-network-also-known-popa-disabled-google-ac",
+      "published_at": "2026-07-02T17:32:07+00:00"
+    },
+    {
+      "headline": "Why Is Reddit Stock Pulling Back on Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60253218/why-is-reddit-stock-pulling-back-on-thursday",
+      "published_at": "2026-07-02T17:03:22+00:00"
+    },
+    {
+      "headline": "CNBC Halftime Report Final Trades: Alphabet Class A, Netflix, Nike, Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/NKE",
+      "published_at": "2026-07-02T17:00:10+00:00"
+    },
+    {
+      "headline": "Trump Administration And Anthropic Have Not Discussed The Government Taking Stakes In The Firm",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60251562/trump-administration-and-anthropic-have-not-discussed-government-taking-stakes-firm",
+      "published_at": "2026-07-02T16:19:35+00:00"
+    },
+    {
+      "headline": "Ohio Rep. David Taylor Bought Up to $30K Worth of Chevron Stock",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/government/26/07/60248279/ohio-rep-david-taylor-bought-30k-worth-chevron-stock",
+      "published_at": "2026-07-02T15:00:24+00:00"
+    },
+    {
+      "headline": "Trump's AI Portfolio May Be Getting A $42 Billion Upgrade",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60245399/trumps-ai-portfolio-may-be-getting-a-42-billion-upgrade",
+      "published_at": "2026-07-02T14:01:11+00:00"
+    },
+    {
+      "headline": "'Anthropic in Talks With Samsung to Manufacture Custom AI Chip' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60245241/anthropic-talks-samsung-manufacture-custom-ai-chip-information",
+      "published_at": "2026-07-02T13:58:54+00:00"
+    },
+    {
+      "headline": "Alphabet, Unum Group, JM Smucker And More: CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60240485/alphabet-unum-group-jm-smucker-and-more-cnbcs-final-trades",
+      "published_at": "2026-07-02T11:31:37+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

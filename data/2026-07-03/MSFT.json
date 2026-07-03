@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-07-03T12:04:47.188795+00:00",
+  "price": 390.3,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-20",
+      "open": 414.135,
+      "high": 421.99,
+      "low": 411.31,
+      "close": 421.08,
+      "volume": 840531.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 424.72,
+      "high": 426.08,
+      "low": 415.78,
+      "close": 419.0,
+      "volume": 768373.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 419.48,
+      "high": 424.33,
+      "low": 416.36,
+      "close": 418.5,
+      "volume": 536551.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 416.575,
+      "high": 419.73,
+      "low": 413.075,
+      "close": 416.09,
+      "volume": 751245.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 410.9,
+      "high": 415.94,
+      "low": 409.66,
+      "close": 412.71,
+      "volume": 837631.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 372.54,
+      "high": 377.19,
+      "low": 370.82,
+      "close": 373.93,
+      "volume": 905629.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 371.83,
+      "high": 378.87,
+      "low": 364.8,
+      "close": 365.46,
+      "volume": 1182848.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 362.77,
+      "high": 364.19,
+      "low": 349.205,
+      "close": 352.415,
+      "volume": 2522776.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 357.19,
+      "high": 376.6,
+      "low": 355.45,
+      "close": 371.67,
+      "volume": 2989666.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 377.085,
+      "high": 380.48,
+      "low": 366.86,
+      "close": 368.515,
+      "volume": 1577857.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 370.93,
+      "high": 374.12,
+      "low": 367.54,
+      "close": 372.92,
+      "volume": 988755.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 380.95,
+      "high": 388.81,
+      "low": 374.91,
+      "close": 384.38,
+      "volume": 1541022.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 384.35,
+      "high": 392.2,
+      "low": 383.79,
+      "close": 389.79,
+      "volume": 1346140.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Comparing Microsoft With Industry Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60265067/comparing-microsoft-industry-competitors-software-industry",
+      "published_at": "2026-07-03T09:58:34+00:00"
+    },
+    {
+      "headline": "Here’s How Much You Would Have Made Owning Microsoft Stock In The Last 15 Years",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60260420/here-s-how-much-you-would-have-made-owning-microsoft-stock-last-15-years",
+      "published_at": "2026-07-02T20:30:55+00:00"
+    },
+    {
+      "headline": "Dow Hits Records as Money Rotates Out of AI Chips Into Blue Chips: This Week on Wall Street",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60258948/week-in-review-dow-jones-record-highs",
+      "published_at": "2026-07-02T20:01:02+00:00"
+    },
+    {
+      "headline": "'Microsoft Is Planning To Merge Its Consumer And Enterprise Copilot Chatbots In August; Microsoft Copilot Exec Jacob Andreou Is Cutting Low-Value Copilot Features' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60254447/microsoft-planning-merge-its-consumer-and-enterprise-copilot-chatbots-august-microsoft-copilot-exec-",
+      "published_at": "2026-07-02T17:40:10+00:00"
+    },
+    {
+      "headline": "From Nvidia's 'Godfather of AI' to Palantir's 'Messi of AI': Dan Ives' Stock Calls That Defined a Bull Market",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60246232/from-nvidias-godfather-of-ai-to-palantirs-messi-of-ai-dan-ives-stock-calls-that-defined-a-bull-market",
+      "published_at": "2026-07-02T14:16:50+00:00"
+    },
+    {
+      "headline": "Microsoft Investing $2.5B To Launch New Operating Business For AI-Led Frontier Transformation For Clients",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60243472/microsoft-investing-2-5b-launch-new-operating-business-ai-led-frontier-transformation-clients",
+      "published_at": "2026-07-02T13:09:33+00:00"
+    },
+    {
+      "headline": "Cognizant Introducing OpenAI's GPT-5.5 With Trusted Access For Cyber With Its Frontier AI Cyber Defense Tools",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60243254/cognizant-introducing-openai-s-gpt-5-5-trusted-access-cyber-its-frontier-ai-cyber-defense-tools",
+      "published_at": "2026-07-02T13:03:47+00:00"
+    },
+    {
+      "headline": "Coreweave Sell-off Sparks Buying Opportunity, Analyst Says Meta Fears Are Overblown",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60241786/coreweave-sell-off-sparks-buying-opportunity-analyst-says-meta-fears-are-overblown",
+      "published_at": "2026-07-02T12:09:31+00:00"
+    },
+    {
+      "headline": "Meta Could Crash the Neocloud Party, Analyst Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60240335/meta-could-crash-the-neocloud-party-analyst-says",
+      "published_at": "2026-07-02T11:20:22+00:00"
+    },
+    {
+      "headline": "Alex Karp Bashes OpenAI, Anthropic Token Model — 'Something Has Gone Completely Wrong'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60239308/alex-karp-bashes-openai-anthropic-token-model-something-has-gone-completely-wrong",
+      "published_at": "2026-07-02T10:24:40+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

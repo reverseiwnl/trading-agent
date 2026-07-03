@@ -1,0 +1,75 @@
+{
+  "date": "2026-07-03",
+  "market_context": "US equity markets are CLOSED today (Independence Day observed; July 4 falls on Saturday) - all snapshot bars end 07-02, so nothing proposed today could fill today. Tape into the holiday: Dow at record highs as money rotates out of AI chips into blue chips ('Dow Hits Records as Money Rotates Out of AI Chips Into Blue Chips', Benzinga week wrap 07-02) and 'Dow Jones Hits Record High as Chip Bloodbath Sinks Nasdaq 100' (07-02); SOXX just had its worst 2-day drop in over a year (07-02). Data pull is again PARTIAL: fundamentals failed for all 7 tickers (proxy 403), prices+news intact - so the sector cap cannot be enforced on any buy, same failure as 07-02. Portfolio is 100% cash, so the holdings-only breaking-news web sweep was not applicable. Closed market + degraded data + no fresh thesis-grade catalysts = all holds; the live JNJ buy thesis stays parked until a clean-data trading day. VOO 684.68, +0.5% over 30d.",
+  "signals": [
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "June buy thesis intact (IMAAVY data in 12 abstracts at EAN 2026 and TECVAYLI CHMP positive recommendation, both 06-26; CDC Level 1 Ebola activation 06-26 and 'White House Adds Pandemic Response Staff as Ebola Cases Rise' 07-01 add vaccine optionality), but entry has degraded: 263.04 is the exact 30d high, +14.7% over 30d vs 254 yesterday. Market closed today and fundamentals/sector data unavailable. Hold; re-propose buy on a clean-data trading day if close holds above 240.",
+      "sources": [
+        "Benzinga 2026-06-26: Johnson & Johnson Announces Additional Data On IMAAVY Throughout 12 Abstracts At EAN 2026",
+        "Benzinga 2026-06-26: J&J TECVAYLI Receives CHMP Approval Recommendation (r/r multiple myeloma)",
+        "Benzinga/Bloomberg 2026-07-01: White House Adds Pandemic Response Staff as Ebola Cases Rise",
+        "data/2026-07-03/JNJ.json price snapshot"
+      ],
+      "timestamp": "2026-07-03T12:06:04+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Memory-cost story evolving from headwind to pass-through: 'What's Behind Apple's Hardware Price Hikes as Memory Supplies Tighten?' (07-02) and 'Apple's Aggressive Price Hikes Raise Eyebrows As Wall Street Links AI Chip Shortages To Inflation' (07-02). Price hikes defend margin but test demand into the iPhone cycle; price 308.43, +2.1% over 30d, upper-mid range. No measurable edge yet. Falsified toward sell if hikes visibly dent unit demand; toward buy if margins hold at launch.",
+      "sources": [
+        "Benzinga 2026-07-02: What's Behind Apple's Hardware Price Hikes as Memory Supplies Tighten?",
+        "Benzinga 2026-07-02: Apple's Aggressive Price Hikes Raise Eyebrows As Wall Street Links AI Chip Shortages To Inflation Pressure"
+      ],
+      "timestamp": "2026-07-03T12:06:04+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Constructive but unpriced news: 'Microsoft Investing $2.5B To Launch New Operating Business For AI-Led Frontier Transformation For Clients' (07-02) and Copilot consumer/enterprise merge planned for August (The Information via Benzinga 07-02); the 07-01 Meta neocloud threat was called 'overblown' by an analyst (07-02). Price 390.30, -7.3% over 30d, lower third of range. Thesis-grade confirmation (Azure guidance or Meta cloud pricing) still missing; hold.",
+      "sources": [
+        "Benzinga 2026-07-02: Microsoft Investing $2.5B To Launch New Operating Business For AI-Led Frontier Transformation",
+        "Benzinga 2026-07-02: Coreweave Sell-off Sparks Buying Opportunity, Analyst Says Meta Fears Are Overblown"
+      ],
+      "timestamp": "2026-07-03T12:06:04+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.45,
+      "thesis": "Sector-wide de-rating, not company news: 'SOXX ETF's Worst 2-Day Drop in Over a Year' (07-02) and rotation out of AI chips into blue chips (week wrap 07-02). Company positive - new cloud/revenue-sharing program for AI startups (07-02) - is swamped by flow. Price 194.51, -13.0% over 30d, sitting near the 30d low (191.97). No fundamentals data today to judge valuation support; not catching this knife and nothing held to sell. Re-evaluate if 191.97 breaks or rotation reverses.",
+      "sources": [
+        "Benzinga 2026-07-02: SOXX ETF's Worst 2-Day Drop in Over a Year",
+        "Benzinga 2026-07-02: Dow Hits Records as Money Rotates Out of AI Chips Into Blue Chips",
+        "Benzinga 2026-07-02: Nvidia Is Making it Easier for AI Startups to Get Compute Power With a New Cloud and Revenue-Sharing Program"
+      ],
+      "timestamp": "2026-07-03T12:06:04+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "No thesis-grade news today: freshest headlines are a Gemini ad campaign ('Sundar Pichai Touts Google Workspace Ad... America 250 Campaign', 07-03) and a security action ('Google Cloud Took Action Against The NetNut Residential Proxy Network', 07-02) - neither moves the P&L. The 07-02 EU antitrust fine cascade from yesterday's run remains the unresolved overhang; price 359.07, -7.7% over 30d, has not stabilized. Hold; revisit on price stabilization with no new adverse rulings.",
+      "sources": [
+        "Benzinga 2026-07-03: Sundar Pichai Touts Google Workspace Ad that Reimagines US Founding Fathers Using Gemini AI",
+        "Benzinga 2026-07-02: Google Cloud Took Action Against The NetNut Residential Proxy Network"
+      ],
+      "timestamp": "2026-07-03T12:06:04+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.45,
+      "thesis": "Headline list again effectively empty of thesis-grade news: options whale-alert noise ('10 Health Care Stocks With Whale Alerts', 07-01), a retrospective fluff piece (06-30), and a Morgan Stanley price-target raise (06-30) that this process ignores as PT chatter. Price 424.95 sits near the top of the 30d range (376.96-427.44), +10.9% over 30d, with June's Medicare Advantage watchdog concern still unresolved. Chasing a 30d high on no news is not a trade; hold.",
+      "sources": [
+        "Benzinga 2026-07-01: 10 Health Care Stocks With Whale Alerts In Today's Session",
+        "data/2026-07-03/UNH.json headline list (no thesis-grade items)"
+      ],
+      "timestamp": "2026-07-03T12:06:04+00:00"
+    }
+  ]
+}

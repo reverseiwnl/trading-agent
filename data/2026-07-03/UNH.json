@@ -1,0 +1,272 @@
+{
+  "ticker": "UNH",
+  "as_of": "2026-07-03T12:04:49.692756+00:00",
+  "price": 424.95,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-20",
+      "open": 388.825,
+      "high": 393.15,
+      "low": 380.73,
+      "close": 383.19,
+      "volume": 335801.0
+    },
+    {
+      "date": "2026-05-21",
+      "open": 381.3,
+      "high": 386.09,
+      "low": 380.71,
+      "close": 382.57,
+      "volume": 134040.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 382.33,
+      "high": 390.4,
+      "low": 381.28,
+      "close": 388.545,
+      "volume": 143620.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.91,
+      "high": 384.91,
+      "low": 376.63,
+      "close": 376.99,
+      "volume": 162489.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 380.25,
+      "high": 384.49,
+      "low": 377.285,
+      "close": 384.15,
+      "volume": 173189.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 384.825,
+      "high": 389.185,
+      "low": 380.96,
+      "close": 382.41,
+      "volume": 179104.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 383.36,
+      "high": 385.0,
+      "low": 375.48,
+      "close": 380.28,
+      "volume": 249789.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.84,
+      "high": 383.305,
+      "low": 375.925,
+      "close": 379.85,
+      "volume": 203276.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 378.0,
+      "high": 380.0,
+      "low": 374.78,
+      "close": 377.92,
+      "volume": 154557.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 379.965,
+      "high": 387.28,
+      "low": 376.84,
+      "close": 376.96,
+      "volume": 287113.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 390.99,
+      "high": 401.2,
+      "low": 389.97,
+      "close": 396.52,
+      "volume": 350963.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 399.54,
+      "high": 403.95,
+      "low": 397.21,
+      "close": 399.59,
+      "volume": 348917.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 398.01,
+      "high": 408.62,
+      "low": 396.7,
+      "close": 406.66,
+      "volume": 251708.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 408.79,
+      "high": 412.955,
+      "low": 407.58,
+      "close": 412.68,
+      "volume": 328511.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 414.555,
+      "high": 415.95,
+      "low": 404.58,
+      "close": 407.52,
+      "volume": 283293.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 408.3,
+      "high": 409.86,
+      "low": 403.185,
+      "close": 405.27,
+      "volume": 218691.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 409.325,
+      "high": 409.325,
+      "low": 404.92,
+      "close": 408.49,
+      "volume": 291653.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 405.58,
+      "high": 414.13,
+      "low": 399.87,
+      "close": 411.2,
+      "volume": 241196.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 410.675,
+      "high": 411.705,
+      "low": 406.54,
+      "close": 407.95,
+      "volume": 205578.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 410.0,
+      "high": 411.16,
+      "low": 398.65,
+      "close": 399.57,
+      "volume": 320575.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 400.525,
+      "high": 406.19,
+      "low": 399.41,
+      "close": 401.13,
+      "volume": 246165.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 402.675,
+      "high": 409.46,
+      "low": 402.37,
+      "close": 406.525,
+      "volume": 322546.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 408.73,
+      "high": 409.67,
+      "low": 402.835,
+      "close": 409.65,
+      "volume": 280155.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 411.62,
+      "high": 413.01,
+      "low": 400.01,
+      "close": 405.89,
+      "volume": 298116.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 407.725,
+      "high": 417.535,
+      "low": 407.725,
+      "close": 415.58,
+      "volume": 276414.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 416.61,
+      "high": 427.81,
+      "low": 416.61,
+      "close": 427.44,
+      "volume": 282009.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 424.69,
+      "high": 425.01,
+      "low": 416.0,
+      "close": 419.77,
+      "volume": 198102.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 421.61,
+      "high": 422.51,
+      "low": 413.385,
+      "close": 415.42,
+      "volume": 303507.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 417.07,
+      "high": 428.01,
+      "low": 414.335,
+      "close": 426.52,
+      "volume": 221070.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 428.505,
+      "high": 430.095,
+      "low": 422.06,
+      "close": 424.95,
+      "volume": 157641.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "10 Health Care Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/07/60227091/10-health-care-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-07-01T17:35:19+00:00"
+    },
+    {
+      "headline": "If You Invested $100 In UnitedHealth Group Stock 20 Years Ago, You Would Have This Much Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60190757/if-you-invested-100-unitedhealth-group-stock-20-years-ago-you-would-have-much-today",
+      "published_at": "2026-06-30T15:00:55+00:00"
+    },
+    {
+      "headline": "Morgan Stanley Maintains Overweight on UnitedHealth Group, Raises Price Target to $468",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/06/60184746/morgan-stanley-maintains-overweight-unitedhealth-group-raises-price-target-468",
+      "published_at": "2026-06-30T13:07:24+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
