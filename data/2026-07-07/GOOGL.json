@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-07-07T13:18:53.936466+00:00",
+  "price": 366.34,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-21",
+      "open": 385.705,
+      "high": 392.42,
+      "low": 383.125,
+      "close": 387.52,
+      "volume": 657497.0
+    },
+    {
+      "date": "2026-05-22",
+      "open": 386.765,
+      "high": 388.7,
+      "low": 381.8,
+      "close": 383.03,
+      "volume": 607993.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.21,
+      "low": 382.72,
+      "close": 388.91,
+      "volume": 950634.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.38,
+      "high": 364.15,
+      "low": 353.485,
+      "close": 359.69,
+      "volume": 779835.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 361.27,
+      "high": 367.905,
+      "low": 357.395,
+      "close": 366.34,
+      "volume": 801620.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Cognizant Expands Collaboration With Google Cloud Over Gemini Enterprise",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60303995/cognizant-expands-collaboration-google-cloud-over-gemini-enterprise",
+      "published_at": "2026-07-07T13:10:05+00:00"
+    },
+    {
+      "headline": "Musk's SpaceX Wins Goldman Buy Rating: Here's Why The Stock Could Climb 30%",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60303994/spacex-spcx-goldman-buy-rating-205-price-target",
+      "published_at": "2026-07-07T13:10:04+00:00"
+    },
+    {
+      "headline": "Accenture, Google Cloud Announce Suite Of Agentic Tools Over AI Transformation",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60303389/accenture-google-cloud-announce-suite-agentic-tools-over-ai-transformation",
+      "published_at": "2026-07-07T13:00:16+00:00"
+    },
+    {
+      "headline": "Apple, Meta, Alphabet And A Financial Stock On CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60300568/apple-meta-alphabet-and-a-financial-stock-on-cnbc-final-trades",
+      "published_at": "2026-07-07T11:38:56+00:00"
+    },
+    {
+      "headline": "Google-Parent Alphabet Just Helped Turn This German Nuclear Fusion Startup Into a $2.4 Billion Company",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/private-markets/26/07/60296832/google-parent-alphabet-just-helped-turn-this-german-nuclear-fusion-startup-into-a-2-4-billion-company",
+      "published_at": "2026-07-07T07:22:49+00:00"
+    },
+    {
+      "headline": "'China’s Alibaba bans Anthropic AI for employees after ‘distillation attack’ accusation'- CNBC",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60293715/china-s-alibaba-bans-anthropic-ai-employees-after-distillation-attack-accusation-cnbc",
+      "published_at": "2026-07-06T20:54:57+00:00"
+    },
+    {
+      "headline": "'U.S. Cyber Defense Agency CISA Is Using Anthropic To Audit Government Code; CISA Has Already Found Many Bugs Using The AI Tool, Sources Say' - Reuters Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60292030/u-s-cyber-defense-agency-cisa-using-anthropic-audit-government-code-cisa-has-already-found-many-bugs",
+      "published_at": "2026-07-06T20:05:03+00:00"
+    },
+    {
+      "headline": "Samsung 147% Stock Gain Helps Chairman Double Net Worth In 2026",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/asia/26/07/60290901/samsung-147-stock-gain-helps-chairman-double-net-worth-in-2026",
+      "published_at": "2026-07-06T19:32:05+00:00"
+    },
+    {
+      "headline": "'U.S. Supreme Court Declines To Block Texas Law Requiring Age Verification And Parental Consent To Download Apps' - Reuters News",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60288659/u-s-supreme-court-declines-block-texas-law-requiring-age-verification-and-parental-consent-download-",
+      "published_at": "2026-07-06T18:02:25+00:00"
+    },
+    {
+      "headline": "CNBC Halftime Report Final Trades: Apple, Meta Platforms, Alphabet Class A, Apollo Global Management",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/AAPL",
+      "published_at": "2026-07-06T17:00:51+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
