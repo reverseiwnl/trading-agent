@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-07-08T12:04:42.445994+00:00",
+  "price": 196.97,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-22",
+      "open": 220.98,
+      "high": 220.98,
+      "low": 214.9,
+      "close": 215.34,
+      "volume": 4838641.0
+    },
+    {
+      "date": "2026-05-26",
+      "open": 216.64,
+      "high": 218.17,
+      "low": 212.0,
+      "close": 214.785,
+      "volume": 4935639.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 214.12,
+      "high": 214.15,
+      "low": 208.79,
+      "close": 212.575,
+      "volume": 3280775.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 211.26,
+      "high": 215.5,
+      "low": 211.255,
+      "close": 214.27,
+      "volume": 4856752.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 214.55,
+      "high": 217.8,
+      "low": 211.145,
+      "close": 211.155,
+      "volume": 5876800.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 215.81,
+      "high": 224.86,
+      "low": 215.75,
+      "close": 224.42,
+      "volume": 6738901.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 227.205,
+      "high": 232.28,
+      "low": 221.36,
+      "close": 222.82,
+      "volume": 7100206.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 221.75,
+      "high": 222.78,
+      "low": 214.54,
+      "close": 214.86,
+      "volume": 4741903.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 213.775,
+      "high": 221.59,
+      "low": 210.97,
+      "close": 218.64,
+      "volume": 5374242.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 214.575,
+      "high": 214.81,
+      "low": 204.35,
+      "close": 205.17,
+      "volume": 8060300.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 209.645,
+      "high": 210.36,
+      "low": 206.02,
+      "close": 208.66,
+      "volume": 3893430.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 210.74,
+      "high": 211.37,
+      "low": 199.34,
+      "close": 208.2,
+      "volume": 5608889.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 204.305,
+      "high": 207.185,
+      "low": 199.93,
+      "close": 200.41,
+      "volume": 4910869.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 201.33,
+      "high": 205.64,
+      "low": 199.54,
+      "close": 204.86,
+      "volume": 5648208.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 204.5,
+      "high": 207.06,
+      "low": 203.46,
+      "close": 205.17,
+      "volume": 3923011.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 208.875,
+      "high": 212.71,
+      "low": 208.35,
+      "close": 212.46,
+      "volume": 4594335.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 211.115,
+      "high": 211.365,
+      "low": 207.31,
+      "close": 207.37,
+      "volume": 4089180.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 208.3,
+      "high": 209.2,
+      "low": 203.47,
+      "close": 204.7,
+      "volume": 3697942.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 207.4,
+      "high": 211.385,
+      "low": 206.5,
+      "close": 210.38,
+      "volume": 4026083.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 211.45,
+      "high": 213.98,
+      "low": 207.72,
+      "close": 208.59,
+      "volume": 5739735.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 202.05,
+      "high": 203.75,
+      "low": 200.0,
+      "close": 200.07,
+      "volume": 3965353.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 200.13,
+      "high": 201.57,
+      "low": 196.6,
+      "close": 198.94,
+      "volume": 3243387.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 200.07,
+      "high": 200.79,
+      "low": 192.17,
+      "close": 195.89,
+      "volume": 3897568.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 193.11,
+      "high": 195.55,
+      "low": 191.24,
+      "close": 191.97,
+      "volume": 4202530.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 193.785,
+      "high": 196.16,
+      "low": 189.82,
+      "close": 194.92,
+      "volume": 3680689.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 197.12,
+      "high": 200.63,
+      "low": 195.11,
+      "close": 199.93,
+      "volume": 5774896.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 196.05,
+      "high": 199.85,
+      "low": 193.46,
+      "close": 197.54,
+      "volume": 6075573.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 197.13,
+      "high": 200.055,
+      "low": 192.35,
+      "close": 194.51,
+      "volume": 5880254.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 194.37,
+      "high": 197.53,
+      "low": 194.0,
+      "close": 195.59,
+      "volume": 4538784.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 192.25,
+      "high": 198.385,
+      "low": 191.15,
+      "close": 196.97,
+      "volume": 4767383.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Is NVDA Stock a Buy? BofA Says Tech Giant’s Massive Moat Is Completely 'Unappreciated,' Sees 78% Upside",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60326448/is-nvda-stock-a-buy-bofa-says-tech-giants-massive-moat-is-completely-unappreciated-sees-78-upside",
+      "published_at": "2026-07-08T10:46:14+00:00"
+    },
+    {
+      "headline": "Investigating NVIDIA's Standing In Semiconductors &amp; Semiconductor Equipment Industry Compared To Competitors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60325125/investigating-nvidia-s-standing-semiconductors-amp-semiconductor-equipment-industry-compared-competi",
+      "published_at": "2026-07-08T09:58:10+00:00"
+    },
+    {
+      "headline": "'Nvidia’s New Hedge Against Chip Competitors? Partner with Them' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60324241/nvidia-s-new-hedge-against-chip-competitors-partner-them-information",
+      "published_at": "2026-07-08T07:59:50+00:00"
+    },
+    {
+      "headline": "Chamath Palihapitiya Says Meta 'Completely Fumbled It' on AI: Why Mark Zuckerberg Missed Big Tech's Next Major Leap",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60324218/chamath-palihapitiya-says-meta-completely-fumbled-it-on-ai-why-mark-zuckerberg-missed-big-techs-next-major-leap",
+      "published_at": "2026-07-08T07:52:47+00:00"
+    },
+    {
+      "headline": "Samsung Begins Mass Production of High-Speed AI SSD for Nvidia Vera Rubin, Strengthening Its Position in AI Memory Market",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60323075/samsung-begins-mass-production-of-high-speed-ai-ssd-for-nvidias-vera-rubin-platform",
+      "published_at": "2026-07-08T03:12:45+00:00"
+    },
+    {
+      "headline": "Ross Gerber Says Chip Sell Off 'a Gift' for Those That Want to Retire Even as SK Hynix US Debut Nears: 'Captured by Very Short-Term Thinking'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60323028/ross-gerber-says-chip-sell-off-a-gift-for-those-that-want-to-retire-even-as-sk-hynix-us-debut-nears-captured-by-very-short-term-thinking",
+      "published_at": "2026-07-08T02:47:29+00:00"
+    },
+    {
+      "headline": "Samsung Selloff Sends Warning To US Investors; Amazon Enters AI Debt Binge",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60316637/samsung-selloff-sends-warning-to-us-investors-amazon-enters-ai-debt-binge-iran-hits-a-ship",
+      "published_at": "2026-07-07T18:18:01+00:00"
+    },
+    {
+      "headline": "Certara, Silo Pharma Advance AI Agent Strategies with Nvidia Initiatives",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/07/60316675/certara-silo-pharma-advance-ai-agent-strategies-with-nvidia-initiatives",
+      "published_at": "2026-07-07T18:18:56+00:00"
+    },
+    {
+      "headline": "Why Is Super Micro Computer Stock Falling on Tuesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60316222/why-is-super-micro-computer-stock-falling-on-tuesday",
+      "published_at": "2026-07-07T18:00:57+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/07/60315511/10-information-technology-stocks-whale-activity-today-s-session",
+      "published_at": "2026-07-07T17:35:09+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
