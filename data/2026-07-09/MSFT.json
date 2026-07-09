@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-07-09T12:05:38.768159+00:00",
+  "price": 376.74,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-26",
+      "open": 416.575,
+      "high": 419.73,
+      "low": 413.075,
+      "close": 416.09,
+      "volume": 751245.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 410.9,
+      "high": 415.94,
+      "low": 409.66,
+      "close": 412.71,
+      "volume": 837631.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 372.54,
+      "high": 377.19,
+      "low": 370.82,
+      "close": 373.93,
+      "volume": 905629.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 371.83,
+      "high": 378.87,
+      "low": 364.8,
+      "close": 365.46,
+      "volume": 1182848.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 362.77,
+      "high": 364.19,
+      "low": 349.205,
+      "close": 352.415,
+      "volume": 2522776.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 357.19,
+      "high": 376.6,
+      "low": 355.45,
+      "close": 371.67,
+      "volume": 2989666.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 377.085,
+      "high": 380.48,
+      "low": 366.86,
+      "close": 368.515,
+      "volume": 1577857.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 370.93,
+      "high": 374.12,
+      "low": 367.54,
+      "close": 372.92,
+      "volume": 988755.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 380.95,
+      "high": 388.81,
+      "low": 374.91,
+      "close": 384.38,
+      "volume": 1541022.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 384.35,
+      "high": 392.2,
+      "low": 383.79,
+      "close": 389.79,
+      "volume": 1346140.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 387.075,
+      "high": 388.995,
+      "low": 381.335,
+      "close": 386.81,
+      "volume": 1115599.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 392.46,
+      "high": 395.52,
+      "low": 388.24,
+      "close": 388.74,
+      "volume": 1269848.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 383.77,
+      "high": 385.205,
+      "low": 381.34,
+      "close": 383.11,
+      "volume": 1124752.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Microsoft in the Spotlight After Reports Show Company Is Swapping Out Anthropic, OpenAI for In-House AI",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60353287/microsoft-in-the-spotlight-after-reports-show-company-is-swapping-out-anthropic-openai-for-in-house-ai",
+      "published_at": "2026-07-09T11:46:16+00:00"
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang Says Software Engineers Would Rather Build AI Agents Than Write Python Code",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60351886/nvidia-ceo-jensen-huang-says-software-engineers-would-rather-build-ai-agents-than-write-python-code",
+      "published_at": "2026-07-09T10:39:32+00:00"
+    },
+    {
+      "headline": "'Starbucks Taps AI to Reduce Reliance on Microsoft, IBM Software' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60351836/starbucks-taps-ai-reduce-reliance-microsoft-ibm-software-bloomberg",
+      "published_at": "2026-07-09T10:32:29+00:00"
+    },
+    {
+      "headline": "Charlie Bilello Says 'Diversification Matters Again' as Magnificent 7 Hit Cheapest Valuation in Over a Decade",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60351458/charlie-bilello-says-diversification-matters-again-as-magnificent-7-hit-cheapest-valuation-in-over-a-decade",
+      "published_at": "2026-07-09T10:12:44+00:00"
+    },
+    {
+      "headline": "Assessing Microsoft's Performance Against Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60350868/assessing-microsoft-s-performance-against-competitors-software-industry",
+      "published_at": "2026-07-09T09:58:22+00:00"
+    },
+    {
+      "headline": "Tech Stock Volatility Hits 23-Year High as Nasdaq Swings Outpace S&P 500",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60350353/tech-stock-volatility-hits-23-year-high-as-nasdaq-swings-outpace-sp-500",
+      "published_at": "2026-07-09T08:58:38+00:00"
+    },
+    {
+      "headline": "Why Is Arista Networks (ANET) Stock Trending Overnight?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60349185/why-is-arista-networks-anet-stock-trending-overnight",
+      "published_at": "2026-07-09T04:53:59+00:00"
+    },
+    {
+      "headline": "OpenAI Unveils GPT-Live As Competition Heats Up Around AI Voice Assistants",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/private-markets/26/07/60346806/openai-unveils-gpt-live-as-competition-heats-up-around-ai-voice-assistants",
+      "published_at": "2026-07-08T20:37:30+00:00"
+    },
+    {
+      "headline": "Semiconductors Below Support; Fed Minutes Ahead; Trump Says Iran Ceasefire Is Over, But Will He Back Off?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60341954/semiconductors-below-support-fed-minutes-ahead-trump-says-iran-ceasefire-is-over-but-will-he-back-off",
+      "published_at": "2026-07-08T17:50:02+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/07/60341361/10-information-technology-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-07-08T17:35:08+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

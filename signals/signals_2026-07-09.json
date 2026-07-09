@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-09",
+  "market_context": "Risk-off tape: 'Oil Stocks Rally, S&P 500 Plunges As Iran Ceasefire Sinks' (07-08) and 'Tech Stock Volatility Hits 23-Year High as Nasdaq Swings Outpace S&P 500' (07-09), with Fed minutes ahead and semis below support (07-08). VOO 685.04, -0.7% over 30d. Data pull PARTIAL for the 6th consecutive run: fundamentals failed for all 7 tickers (proxy 403), prices+news intact, so sector caps remain unenforceable and any buy would be rejected sector-unknown. Portfolio is 100% cash; the holdings-only breaking-news web sweep was not applicable. Every ticker's headline list was non-empty today. Macro two-sidedness (geopolitics + Fed) plus the data-quality gate keeps everything at hold.",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Quiet, second-order tape: supplier Luxshare fell 5% in its HK debut after a $3.1B IPO (07-09) and 'Apple Raised Prices, Samsung Raised Profits' (07-08) argues pricing is sticking; DMA gatekeeper loss (07-08) still caps Services upside. Price 313.33, near the 315.20 30d high, +1.6% over 30d. Falsified toward sell if DMA remedies hit Services revenue; toward buy if margin guidance confirms price hikes are holding.",
+      "sources": [
+        "benzinga: Apple Supplier Luxshare Falls 5% in Hong Kong Trading Debut after $3.1 Billion IPO (2026-07-09)",
+        "benzinga: Apple Raised Prices, Samsung Raised Profits — Micron Predicted Both (2026-07-08)",
+        "data/2026-07-09/AAPL.json"
+      ],
+      "timestamp": "2026-07-09T12:20:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Two-sided Waymo day: autonomous mode activated in Las Vegas with Denver, San Diego, Tampa to follow (07-08), but NHTSA warned AV companies over a 'clear pattern' of first-responder interference (07-09). Jay Woods' break-up-value piece (07-08) is opinion, not catalyst. Price 361.76, -7.0% over 30d, lower half of range; no fundamentals this run. Falsified toward buy if Waymo expansion survives NHTSA scrutiny with Cloud strength; toward sell on formal AV enforcement.",
+      "sources": [
+        "benzinga: NHTSA Warns Autonomous Vehicle Companies Over 'Clear Pattern' of First Responder Interference (2026-07-09)",
+        "benzinga: Waymo autonomous mode activated in four new cities (2026-07-08)",
+        "data/2026-07-09/GOOGL.json"
+      ],
+      "timestamp": "2026-07-09T12:20:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Catalyst streak intact — FDA approved the dual-energy THERMOCOOL SMARTTOUCH SF catheter platform (07-08) and Q2 earnings are imminent with analysts revising forecasts higher (07-06). Close 263.26, +14.3% over 30d, above the 240 falsification line. Morgan Stanley/Citi PT raises are price-target chatter, ignored per policy. Buy re-entry stays parked: fundamentals missing a 6th straight run means sector-unknown rejection, and pre-earnings entry adds gap risk. Falsified if close < 240.",
+      "sources": [
+        "benzinga: Johnson & Johnson Receives FDA Approval For Its Dual Energy THERMOCOOL SMARTTOUCH SF Catheter Platform (2026-07-08)",
+        "benzinga: Johnson & Johnson Likely To Report Higher Q2 Earnings (2026-07-06)",
+        "data/2026-07-09/JNJ.json"
+      ],
+      "timestamp": "2026-07-09T12:20:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "The in-house-AI story matured into coverage ('Microsoft in the Spotlight After Reports Show Company Is Swapping Out Anthropic, OpenAI for In-House AI', 07-09) — margin-positive if real — but Bloomberg's 'Starbucks Taps AI to Reduce Reliance on Microsoft, IBM Software' (07-09) is the first concrete demand-erosion datapoint. Price 376.74, -7.9% over 30d, lower third of range. Falsified toward sell if more enterprises follow Starbucks or Azure prints soft; toward buy if margin guidance rises.",
+      "sources": [
+        "benzinga: Microsoft in the Spotlight After Reports Show Company Is Swapping Out Anthropic, OpenAI for In-House AI (2026-07-09)",
+        "benzinga: 'Starbucks Taps AI to Reduce Reliance on Microsoft, IBM Software' - Bloomberg (2026-07-09)",
+        "data/2026-07-09/MSFT.json"
+      ],
+      "timestamp": "2026-07-09T12:20:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Narrative day, not catalyst day: Futurum's TSMC-dependence piece ('Every Token Ultimately Pays an Invisible Royalty', 07-09) frames supply-chain risk, and 'Tech Stock Volatility Hits 23-Year High' (07-09) keeps the tape hostile after Tuesday's chip rout. 'Compelling value' analyst color is price-target chatter, ignored. Price 203.91, -5.0% over 30d, above the 191.97 30d low; no position to protect. Re-evaluate if 192 breaks or a hard Vera Rubin/TSMC datapoint lands.",
+      "sources": [
+        "benzinga: Futurum's Shay Boloor Explains Why Nvidia, AMD, Apple and Broadcom All Depend on TSMC (2026-07-09)",
+        "benzinga: Tech Stock Volatility Hits 23-Year High as Nasdaq Swings Outpace S&P 500 (2026-07-09)",
+        "data/2026-07-09/NVDA.json"
+      ],
+      "timestamp": "2026-07-09T12:20:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "No new catalyst since the WSJ-sourced 'Obamacare Premiums Could Jump 14% in 2027' rate-hike story (07-08), which cuts both ways: pricing power vs confirmed medical-cost pressure. HSBC's hold/PT note (07-06) is chatter, ignored per policy. Close 425.60, +12.9% over 30d, just off the 428.05 range high — chasing a stretched managed-care rally on a two-sided story fails the falsifiability bar. Falsified toward buy on a concrete cost-trend or guidance catalyst; toward sell if the rally retraces hard.",
+      "sources": [
+        "benzinga: Obamacare Premiums Could Jump 14% in 2027 As Insurers Warn Rising Medical Costs are Driving Rates Higher (2026-07-08)",
+        "data/2026-07-09/UNH.json"
+      ],
+      "timestamp": "2026-07-09T12:20:00+00:00"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-07-09T12:05:33.888262+00:00",
+  "price": 313.33,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-26",
+      "open": 309.53,
+      "high": 311.82,
+      "low": 307.67,
+      "close": 308.33,
+      "volume": 1366307.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 308.41,
+      "high": 313.22,
+      "low": 308.38,
+      "close": 310.93,
+      "volume": 1681995.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 310.605,
+      "high": 312.72,
+      "low": 309.57,
+      "close": 312.45,
+      "volume": 1514315.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 311.915,
+      "high": 315.0,
+      "low": 309.54,
+      "close": 312.01,
+      "volume": 1619960.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 309.6,
+      "high": 310.94,
+      "low": 305.03,
+      "close": 306.265,
+      "volume": 1790146.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 307.36,
+      "high": 315.44,
+      "low": 306.73,
+      "close": 315.195,
+      "volume": 1291226.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 314.38,
+      "high": 316.92,
+      "low": 308.865,
+      "close": 310.22,
+      "volume": 1966854.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 313.335,
+      "high": 313.38,
+      "low": 309.675,
+      "close": 311.21,
+      "volume": 1230648.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 312.77,
+      "high": 315.14,
+      "low": 307.16,
+      "close": 307.59,
+      "volume": 2188603.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 308.615,
+      "high": 317.38,
+      "low": 301.18,
+      "close": 301.57,
+      "volume": 2762619.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 300.155,
+      "high": 300.59,
+      "low": 287.79,
+      "close": 290.36,
+      "volume": 2491376.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 290.7,
+      "high": 294.74,
+      "low": 287.38,
+      "close": 291.48,
+      "volume": 1843917.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 293.395,
+      "high": 296.995,
+      "low": 289.62,
+      "close": 295.48,
+      "volume": 1372585.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 296.075,
+      "high": 297.11,
+      "low": 289.635,
+      "close": 291.085,
+      "volume": 1456808.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 293.99,
+      "high": 297.78,
+      "low": 291.75,
+      "close": 296.53,
+      "volume": 1573337.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 295.245,
+      "high": 300.445,
+      "low": 293.99,
+      "close": 299.26,
+      "volume": 1229360.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 300.845,
+      "high": 301.95,
+      "low": 294.39,
+      "close": 296.07,
+      "volume": 1195228.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 298.44,
+      "high": 300.56,
+      "low": 295.635,
+      "close": 297.86,
+      "volume": 1278873.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 297.41,
+      "high": 302.415,
+      "low": 296.82,
+      "close": 296.85,
+      "volume": 1619228.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 297.61,
+      "high": 301.635,
+      "low": 294.27,
+      "close": 294.28,
+      "volume": 1781140.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 295.345,
+      "high": 299.675,
+      "low": 292.94,
+      "close": 293.32,
+      "volume": 2239666.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 287.5,
+      "high": 288.68,
+      "low": 273.79,
+      "close": 275.21,
+      "volume": 5858472.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 275.14,
+      "high": 285.95,
+      "low": 274.25,
+      "close": 281.31,
+      "volume": 5117781.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 286.69,
+      "high": 288.35,
+      "low": 279.85,
+      "close": 281.69,
+      "volume": 2386040.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 281.145,
+      "high": 289.9,
+      "low": 280.7,
+      "close": 289.24,
+      "volume": 1576321.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 293.44,
+      "high": 296.57,
+      "low": 289.195,
+      "close": 294.42,
+      "volume": 2428489.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 294.085,
+      "high": 309.415,
+      "low": 293.89,
+      "close": 308.235,
+      "volume": 3813037.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 307.54,
+      "high": 314.19,
+      "low": 307.02,
+      "close": 312.73,
+      "volume": 1434853.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 315.29,
+      "high": 315.47,
+      "low": 310.18,
+      "close": 310.69,
+      "volume": 1573402.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 311.91,
+      "high": 314.805,
+      "low": 307.11,
+      "close": 313.33,
+      "volume": 1549372.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Why Is Broadcom Stock Gaining Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60352018/why-is-broadcom-stock-gaining-thursday",
+      "published_at": "2026-07-09T10:46:16+00:00"
+    },
+    {
+      "headline": "Charlie Bilello Says 'Diversification Matters Again' as Magnificent 7 Hit Cheapest Valuation in Over a Decade",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60351458/charlie-bilello-says-diversification-matters-again-as-magnificent-7-hit-cheapest-valuation-in-over-a-decade",
+      "published_at": "2026-07-09T10:12:44+00:00"
+    },
+    {
+      "headline": "Futurum's Shay Boloor Explains Why Nvidia, AMD, Apple and Broadcom All Depend on TSMC: 'Every Token Ultimately Pays an Invisible Royalty'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60350514/futurums-shay-boloor-explains-why-nvidia-amd-apple-and-broadcom-all-depend-on-tsmc-every-token-ultimately-pays-an-invisible-royalty",
+      "published_at": "2026-07-09T09:13:24+00:00"
+    },
+    {
+      "headline": "Tech Stock Volatility Hits 23-Year High as Nasdaq Swings Outpace S&P 500",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60350353/tech-stock-volatility-hits-23-year-high-as-nasdaq-swings-outpace-sp-500",
+      "published_at": "2026-07-09T08:58:38+00:00"
+    },
+    {
+      "headline": "Apple Supplier Luxshare Falls 5% in Hong Kong Trading Debut after $3.1 Billion IPO",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/ipos/26/07/60349809/apple-supplier-luxshare-falls-5-in-hong-kong-trading-debut-after-3-1-billion-ipo",
+      "published_at": "2026-07-09T07:09:46+00:00"
+    },
+    {
+      "headline": "Apple Raised Prices, Samsung Raised Profits — Micron Predicted Both",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60342595/apple-raised-prices-samsung-raised-profits-micron-predicted-both",
+      "published_at": "2026-07-08T18:10:07+00:00"
+    },
+    {
+      "headline": "Semiconductors Below Support; Fed Minutes Ahead; Trump Says Iran Ceasefire Is Over, But Will He Back Off?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60341954/semiconductors-below-support-fed-minutes-ahead-trump-says-iran-ceasefire-is-over-but-will-he-back-off",
+      "published_at": "2026-07-08T17:50:02+00:00"
+    },
+    {
+      "headline": "Watching Apple; Hearing Investor Business Daily SwingTrader Buys Stock",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/AAPL",
+      "published_at": "2026-07-08T17:43:39+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/07/60341361/10-information-technology-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-07-08T17:35:08+00:00"
+    },
+    {
+      "headline": "Nvidia Cheaper Than Apple, Microsoft, Meta? Analyst Sees 'Compelling Value'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60339506/nvidia-cheaper-than-apple-microsoft-meta-analyst-sees-compelling-value",
+      "published_at": "2026-07-08T16:42:28+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

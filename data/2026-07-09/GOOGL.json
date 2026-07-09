@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-07-09T12:05:35.554256+00:00",
+  "price": 361.76,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-26",
+      "open": 384.51,
+      "high": 389.21,
+      "low": 382.72,
+      "close": 388.91,
+      "volume": 950634.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.38,
+      "high": 364.15,
+      "low": 353.485,
+      "close": 359.69,
+      "volume": 779835.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 361.27,
+      "high": 367.905,
+      "low": 357.395,
+      "close": 366.34,
+      "volume": 801620.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 369.07,
+      "high": 373.14,
+      "low": 365.51,
+      "close": 366.985,
+      "volume": 635044.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 365.02,
+      "high": 367.65,
+      "low": 358.02,
+      "close": 361.76,
+      "volume": 648403.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "NHTSA Warns Autonomous Vehicle Companies Over 'Clear Pattern' of First Responder Interference",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60351872/nhtsa-warns-autonomous-vehicle-companies-over-clear-pattern-of-first-responder-interference",
+      "published_at": "2026-07-09T10:36:49+00:00"
+    },
+    {
+      "headline": "Bill Ackman Says Next $1 Trillion Company Will Come From Israel – ‘Imagine if Silicon Valley Was a Country’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60348086/bill-ackman-says-next-1-trillion-company-will-come-from-israel-imagine-if-silicon-valley-was-a-country",
+      "published_at": "2026-07-08T22:47:32+00:00"
+    },
+    {
+      "headline": "U.S. Auto Safety Agency Tells Self-Driving Car Companies To Address \"Clear Pattern\" Of Driverless Vehicles Interfering With Law Enforcement, Other First Responders",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/legal/26/07/60345435/u-s-auto-safety-agency-tells-self-driving-car-companies-to-address-clear-pattern-of-driverless-vehicles-interfering-with-law-enforcement-other-first-responders",
+      "published_at": "2026-07-08T19:52:15+00:00"
+    },
+    {
+      "headline": "Tesla Robotaxis Could Be Blocked From New Jersey — And Elon Musk's Own Strategy Is Why",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/large-cap/26/07/60345509/tesla-robotaxis-could-be-blocked-from-new-jersey-and-elon-musks-own-strategy-is-why",
+      "published_at": "2026-07-08T19:55:11+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Alphabet’s Empire Could Be Worth More In Pieces, Jay Woods Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60342126/exclusive-alphabet-empire-could-be-worth-more-in-pieces-jay-woods-says",
+      "published_at": "2026-07-08T17:55:18+00:00"
+    },
+    {
+      "headline": "Google Launches Video Remix In Google Photos Powered By Gemini Omni Model; Video Remix Starts Rolling Out Today To Eligible Google AI Plus, Pro And Ultra Subscribers In Select Countries",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60340376/google-launches-video-remix-google-photos-powered-gemini-omni-model-video-remix-starts-rolling-out-t",
+      "published_at": "2026-07-08T17:07:35+00:00"
+    },
+    {
+      "headline": "Nvidia Cheaper Than Apple, Microsoft, Meta? Analyst Sees 'Compelling Value'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60339506/nvidia-cheaper-than-apple-microsoft-meta-analyst-sees-compelling-value",
+      "published_at": "2026-07-08T16:42:28+00:00"
+    },
+    {
+      "headline": "Waymo Posts On X \"Autonomous mode activated in four new cities! Starting today you’ll see our vehicles with no human at the wheel in Las Vegas—with Denver, San Diego, and Tampa to follow. Want to be one of the first to ride when we start serving these cities? Download the Waymo app and we’ll let you know when you’re in.\"",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60332918/waymo-posts-x-autonomous-mode-activated-four-new-cities-starting-today-you-ll-see-our-vehicles-no-hu",
+      "published_at": "2026-07-08T14:07:15+00:00"
+    },
+    {
+      "headline": "Apple Takes a Big Hit in Europe As Court Upholds App Store Crackdown Under Digital Markets Act",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/legal/26/07/60331040/apple-takes-a-big-hit-in-europe-as-court-upholds-app-store-crackdown-under-digital-markets-act",
+      "published_at": "2026-07-08T13:35:14+00:00"
+    },
+    {
+      "headline": "Google Signs Agreement With Thryve.Earth For 260,000 Tons Of Carbon Removal In Indonesia",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60330089/google-signs-agreement-thryve-earth-260-000-tons-carbon-removal-indonesia",
+      "published_at": "2026-07-08T13:04:37+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-07-09T12:05:40.084402+00:00",
+  "price": 203.91,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-26",
+      "open": 216.64,
+      "high": 218.17,
+      "low": 212.0,
+      "close": 214.785,
+      "volume": 4935639.0
+    },
+    {
+      "date": "2026-05-27",
+      "open": 214.12,
+      "high": 214.15,
+      "low": 208.79,
+      "close": 212.575,
+      "volume": 3280775.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 211.26,
+      "high": 215.5,
+      "low": 211.255,
+      "close": 214.27,
+      "volume": 4856752.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 214.55,
+      "high": 217.8,
+      "low": 211.145,
+      "close": 211.155,
+      "volume": 5876800.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 215.81,
+      "high": 224.86,
+      "low": 215.75,
+      "close": 224.42,
+      "volume": 6738901.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 227.205,
+      "high": 232.28,
+      "low": 221.36,
+      "close": 222.82,
+      "volume": 7100206.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 221.75,
+      "high": 222.78,
+      "low": 214.54,
+      "close": 214.86,
+      "volume": 4741903.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 213.775,
+      "high": 221.59,
+      "low": 210.97,
+      "close": 218.64,
+      "volume": 5374242.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 214.575,
+      "high": 214.81,
+      "low": 204.35,
+      "close": 205.17,
+      "volume": 8060300.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 209.645,
+      "high": 210.36,
+      "low": 206.02,
+      "close": 208.66,
+      "volume": 3893430.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 210.74,
+      "high": 211.37,
+      "low": 199.34,
+      "close": 208.2,
+      "volume": 5608889.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 204.305,
+      "high": 207.185,
+      "low": 199.93,
+      "close": 200.41,
+      "volume": 4910869.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 201.33,
+      "high": 205.64,
+      "low": 199.54,
+      "close": 204.86,
+      "volume": 5648208.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 204.5,
+      "high": 207.06,
+      "low": 203.46,
+      "close": 205.17,
+      "volume": 3923011.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 208.875,
+      "high": 212.71,
+      "low": 208.35,
+      "close": 212.46,
+      "volume": 4594335.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 211.115,
+      "high": 211.365,
+      "low": 207.31,
+      "close": 207.37,
+      "volume": 4089180.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 208.3,
+      "high": 209.2,
+      "low": 203.47,
+      "close": 204.7,
+      "volume": 3697942.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 207.4,
+      "high": 211.385,
+      "low": 206.5,
+      "close": 210.38,
+      "volume": 4026083.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 211.45,
+      "high": 213.98,
+      "low": 207.72,
+      "close": 208.59,
+      "volume": 5739735.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 202.05,
+      "high": 203.75,
+      "low": 200.0,
+      "close": 200.07,
+      "volume": 3965353.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 200.13,
+      "high": 201.57,
+      "low": 196.6,
+      "close": 198.94,
+      "volume": 3243387.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 200.07,
+      "high": 200.79,
+      "low": 192.17,
+      "close": 195.89,
+      "volume": 3897568.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 193.11,
+      "high": 195.55,
+      "low": 191.24,
+      "close": 191.97,
+      "volume": 4202530.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 193.785,
+      "high": 196.16,
+      "low": 189.82,
+      "close": 194.92,
+      "volume": 3680689.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 197.12,
+      "high": 200.63,
+      "low": 195.11,
+      "close": 199.93,
+      "volume": 5774896.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 196.05,
+      "high": 199.85,
+      "low": 193.46,
+      "close": 197.54,
+      "volume": 6075573.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 197.13,
+      "high": 200.055,
+      "low": 192.35,
+      "close": 194.51,
+      "volume": 5880254.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 194.37,
+      "high": 197.53,
+      "low": 194.0,
+      "close": 195.59,
+      "volume": 4538784.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 192.25,
+      "high": 198.385,
+      "low": 191.15,
+      "close": 196.97,
+      "volume": 4767383.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 195.23,
+      "high": 205.13,
+      "low": 195.23,
+      "close": 204.07,
+      "volume": 5480997.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Nvidia, Vertex Pharmaceuticals And More On CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60353274/nvidia-vertex-pharmaceuticals-and-more-on-cnbcs-final-trades",
+      "published_at": "2026-07-09T11:45:15+00:00"
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang Says Software Engineers Would Rather Build AI Agents Than Write Python Code",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60351886/nvidia-ceo-jensen-huang-says-software-engineers-would-rather-build-ai-agents-than-write-python-code",
+      "published_at": "2026-07-09T10:39:32+00:00"
+    },
+    {
+      "headline": "Charlie Bilello Says 'Diversification Matters Again' as Magnificent 7 Hit Cheapest Valuation in Over a Decade",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60351458/charlie-bilello-says-diversification-matters-again-as-magnificent-7-hit-cheapest-valuation-in-over-a-decade",
+      "published_at": "2026-07-09T10:12:44+00:00"
+    },
+    {
+      "headline": "Inquiry Into NVIDIA's Competitor Dynamics In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60350866/inquiry-nvidia-s-competitor-dynamics-semiconductors-amp-semiconductor-equipment-industry",
+      "published_at": "2026-07-09T09:58:10+00:00"
+    },
+    {
+      "headline": "What's Going on With NVIDIA Stock Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60350622/whats-going-on-with-nvidia-stock-thursday-6",
+      "published_at": "2026-07-09T09:39:19+00:00"
+    },
+    {
+      "headline": "Futurum's Shay Boloor Explains Why Nvidia, AMD, Apple and Broadcom All Depend on TSMC: 'Every Token Ultimately Pays an Invisible Royalty'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60350514/futurums-shay-boloor-explains-why-nvidia-amd-apple-and-broadcom-all-depend-on-tsmc-every-token-ultimately-pays-an-invisible-royalty",
+      "published_at": "2026-07-09T09:13:24+00:00"
+    },
+    {
+      "headline": "Tech Stock Volatility Hits 23-Year High as Nasdaq Swings Outpace S&P 500",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60350353/tech-stock-volatility-hits-23-year-high-as-nasdaq-swings-outpace-sp-500",
+      "published_at": "2026-07-09T08:58:38+00:00"
+    },
+    {
+      "headline": "Micron vs. SK Hynix: Futurum's Shay Boloor Picks MU Over Nvidia's 'Biggest' Provider, Citing 'Wonky' Korean Markets",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60349558/micron-vs-sk-hynix-futurums-shay-boloor-picks-mu-over-nvidias-biggest-provider-citing-wonky-korean-markets",
+      "published_at": "2026-07-09T06:30:23+00:00"
+    },
+    {
+      "headline": "Gary Black Bearish On SpaceX Stock, Says He Holds No SPCX As He Spotlights Jeremy Grantham's Stark Warning: 'In 50 Years… You Will Be Laughing at It'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60348965/gary-black-bearish-on-spacex-stock-holds-no-spcx",
+      "published_at": "2026-07-09T02:55:47+00:00"
+    },
+    {
+      "headline": "Nvidia, Alibaba, Levi Strauss, MDA Space and Broadcom: Why These 5 Stocks Are on Investors' Radars Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60348701/nvidia-alibaba-levi-strauss-mda-space-and-broadcom-why-these-5-stocks-are-on-investors-radars-today",
+      "published_at": "2026-07-09T01:35:23+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
