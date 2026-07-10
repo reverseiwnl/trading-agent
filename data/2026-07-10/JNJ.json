@@ -1,0 +1,284 @@
+{
+  "ticker": "JNJ",
+  "as_of": "2026-07-10T12:22:09.421726+00:00",
+  "price": 259.05,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-27",
+      "open": 229.41,
+      "high": 232.75,
+      "low": 229.22,
+      "close": 231.28,
+      "volume": 217694.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 231.15,
+      "high": 231.865,
+      "low": 229.87,
+      "close": 230.8,
+      "volume": 314611.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 231.175,
+      "high": 231.2,
+      "low": 224.585,
+      "close": 225.23,
+      "volume": 289363.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 223.285,
+      "high": 224.41,
+      "low": 220.84,
+      "close": 223.5,
+      "volume": 409646.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 222.89,
+      "high": 225.29,
+      "low": 221.47,
+      "close": 222.91,
+      "volume": 225278.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 222.55,
+      "high": 224.85,
+      "low": 222.54,
+      "close": 223.61,
+      "volume": 238590.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 227.67,
+      "high": 228.63,
+      "low": 225.98,
+      "close": 228.27,
+      "volume": 224474.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 229.85,
+      "high": 235.215,
+      "low": 229.55,
+      "close": 232.71,
+      "volume": 326310.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 233.135,
+      "high": 234.93,
+      "low": 230.66,
+      "close": 232.15,
+      "volume": 256806.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 232.63,
+      "high": 237.625,
+      "low": 230.66,
+      "close": 237.0,
+      "volume": 325263.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 238.42,
+      "high": 240.88,
+      "low": 237.43,
+      "close": 238.52,
+      "volume": 352737.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 239.8,
+      "high": 241.55,
+      "low": 238.18,
+      "close": 238.31,
+      "volume": 262713.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 238.98,
+      "high": 240.9,
+      "low": 237.83,
+      "close": 240.84,
+      "volume": 241223.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 239.01,
+      "high": 239.01,
+      "low": 233.675,
+      "close": 235.78,
+      "volume": 261626.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 236.03,
+      "high": 236.125,
+      "low": 231.14,
+      "close": 235.25,
+      "volume": 327750.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 233.585,
+      "high": 233.95,
+      "low": 230.845,
+      "close": 233.92,
+      "volume": 372902.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 231.75,
+      "high": 232.68,
+      "low": 227.635,
+      "close": 228.345,
+      "volume": 348977.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 228.39,
+      "high": 231.45,
+      "low": 227.715,
+      "close": 231.34,
+      "volume": 339851.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 236.375,
+      "high": 239.79,
+      "low": 234.42,
+      "close": 239.2,
+      "volume": 426872.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 240.33,
+      "high": 243.03,
+      "low": 238.75,
+      "close": 241.0,
+      "volume": 317781.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 241.49,
+      "high": 248.14,
+      "low": 241.305,
+      "close": 244.78,
+      "volume": 358988.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 248.55,
+      "high": 255.08,
+      "low": 247.92,
+      "close": 254.36,
+      "volume": 511996.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 253.66,
+      "high": 258.565,
+      "low": 253.245,
+      "close": 258.42,
+      "volume": 344870.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 259.09,
+      "high": 259.73,
+      "low": 253.28,
+      "close": 253.97,
+      "volume": 214839.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 253.64,
+      "high": 254.165,
+      "low": 251.15,
+      "close": 254.03,
+      "volume": 210407.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 255.445,
+      "high": 263.04,
+      "low": 254.53,
+      "close": 263.04,
+      "volume": 245792.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 261.105,
+      "high": 261.105,
+      "low": 256.11,
+      "close": 259.28,
+      "volume": 305492.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 264.98,
+      "high": 269.395,
+      "low": 264.36,
+      "close": 267.16,
+      "volume": 523890.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 267.175,
+      "high": 267.8,
+      "low": 263.15,
+      "close": 263.26,
+      "volume": 347594.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 260.475,
+      "high": 263.44,
+      "low": 258.17,
+      "close": 259.05,
+      "volume": 267929.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "9 Health Care Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/07/60368131/9-health-care-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-07-09T17:35:08+00:00"
+    },
+    {
+      "headline": "Morgan Stanley Maintains Overweight on Johnson & Johnson, Raises Price Target to $284",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60340024/morgan-stanley-maintains-overweight-johnson-johnson-raises-price-target-284",
+      "published_at": "2026-07-08T16:58:38+00:00"
+    },
+    {
+      "headline": "Citigroup Maintains Buy on Johnson & Johnson, Raises Price Target to $298",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60337269/citigroup-maintains-buy-johnson-johnson-raises-price-target-298",
+      "published_at": "2026-07-08T15:41:23+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Receives FDA Approval For Its Dual Energy THERMOCOOL SMARTTOUCH SF Catheter Platform",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60327773/johnson-johnson-receives-fda-approval-its-dual-energy-thermocool-smarttouch-sf-catheter-platform",
+      "published_at": "2026-07-08T11:46:48+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Likely To Report Higher Q2 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/07/60274155/johnson-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call-4",
+      "published_at": "2026-07-06T11:11:04+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

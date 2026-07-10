@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-07-10T12:22:10.846612+00:00",
+  "price": 387.13,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-27",
+      "open": 410.9,
+      "high": 415.94,
+      "low": 409.66,
+      "close": 412.71,
+      "volume": 837631.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 372.54,
+      "high": 377.19,
+      "low": 370.82,
+      "close": 373.93,
+      "volume": 905629.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 371.83,
+      "high": 378.87,
+      "low": 364.8,
+      "close": 365.46,
+      "volume": 1182848.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 362.77,
+      "high": 364.19,
+      "low": 349.205,
+      "close": 352.415,
+      "volume": 2522776.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 357.19,
+      "high": 376.6,
+      "low": 355.45,
+      "close": 371.67,
+      "volume": 2989666.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 377.085,
+      "high": 380.48,
+      "low": 366.86,
+      "close": 368.515,
+      "volume": 1577857.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 370.93,
+      "high": 374.12,
+      "low": 367.54,
+      "close": 372.92,
+      "volume": 988755.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 380.95,
+      "high": 388.81,
+      "low": 374.91,
+      "close": 384.38,
+      "volume": 1541022.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 384.35,
+      "high": 392.2,
+      "low": 383.79,
+      "close": 389.79,
+      "volume": 1346140.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 387.075,
+      "high": 388.995,
+      "low": 381.335,
+      "close": 386.81,
+      "volume": 1115599.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 392.46,
+      "high": 395.52,
+      "low": 388.24,
+      "close": 388.74,
+      "volume": 1269848.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 383.77,
+      "high": 385.205,
+      "low": 381.34,
+      "close": 383.11,
+      "volume": 1124752.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 374.47,
+      "high": 384.64,
+      "low": 373.475,
+      "close": 384.24,
+      "volume": 1217629.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "UK Government Designates Four Major Global Cloud Services And Technology Providers Amazon, Google, Microsoft And Oracle As Critical Third Parties",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60378092/uk-government-designates-four-major-global-cloud-services-and-technology-providers-amazon-google-mic",
+      "published_at": "2026-07-10T10:17:14+00:00"
+    },
+    {
+      "headline": "Comparative Study: Microsoft And Industry Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60377606/comparative-study-microsoft-and-industry-competitors-software-industry",
+      "published_at": "2026-07-10T09:58:27+00:00"
+    },
+    {
+      "headline": "Fed Chair Kevin Warsh Bets on AI, Taps Marc Andreessen and Xbox CEO Asha Sharma to Help 'Inform' Future Fed Policy",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60375922/fed-chair-kevin-warsh-bets-on-ai-taps-marc-andreessen-and-xbox-ceo-asha-sharma-to-help-inform-future-fed-policy",
+      "published_at": "2026-07-10T05:31:31+00:00"
+    },
+    {
+      "headline": "ChatGPT Goes From Assistant To Employee As OpenAI Launches Workplace AI Agent",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60373541/chatgpt-goes-from-assistant-to-employee-as-openai-launches-workplace-ai-agent",
+      "published_at": "2026-07-09T20:18:53+00:00"
+    },
+    {
+      "headline": "SK Hynix 7X Oversubscription Boosts Semi Stocks; Earnings Season Ahead; Oil Pulls Back After Iran Attacks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60369943/sk-hynix-7x-oversubscription-boosts-semi-stocks-earnings-season-ahead-oil-pulls-back-after-iran-attacks",
+      "published_at": "2026-07-09T18:24:40+00:00"
+    },
+    {
+      "headline": "Starbucks Stock Rises Amid In-House Software Push",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60368889/starbucks-stock-rises-amid-in-house-software-push",
+      "published_at": "2026-07-09T17:53:46+00:00"
+    },
+    {
+      "headline": "OpenAI Rolling Out Sol, Terra, Luna GPT-5.6 Family Of Models In ChatGPT, Codex, API",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60367104/openai-rolling-out-sol-terra-luna-gpt-5-6-family-models-chatgpt-codex-api",
+      "published_at": "2026-07-09T17:09:59+00:00"
+    },
+    {
+      "headline": "BlackRock Just Took The Fight To QQQ — The Nasdaq‑100 ETF War Is On",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60363916/nasdaq%e2%80%91100-etf-blackrock-qqq-challenge",
+      "published_at": "2026-07-09T15:42:44+00:00"
+    },
+    {
+      "headline": "'OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC'- CNBC",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60360084/openai-s-newest-ai-model-54-more-token-efficient-agentic-coding-altman-tells-cnbc-cnbc",
+      "published_at": "2026-07-09T14:18:36+00:00"
+    },
+    {
+      "headline": "OpenAI's Altman Says Rise In Cost Of Compute, Memory Definitely A Headwind",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60359676/openai-s-altman-says-rise-cost-compute-memory-definitely-headwind",
+      "published_at": "2026-07-09T14:12:21+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

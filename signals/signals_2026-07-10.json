@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-10",
+  "market_context": "Constructive semis tape: 'SK Hynix 7X Oversubscription Boosts Semi Stocks; Earnings Season Ahead; Oil Pulls Back After Iran Attacks' (07-09) and 'Semiconductor ETFs Draw Record $7.1 Billion as Investors Buy the AI Chip Dip' (07-10); 'ETF Inflows Hit Record $1 Trillion In H1' (07-08). VOO 690.66, +0.1% over 30d. Data pull PARTIAL for the 7th consecutive run: fundamentals failed for all 7 tickers (proxy 403), prices+news intact \u2014 sector caps remain unenforceable, so any buy would be rejected sector-unknown. Portfolio is 100% cash; the holdings-only breaking-news web sweep was not applicable. Every ticker's headline list was non-empty today. Earnings season imminent adds event risk; all holds.",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Second-order tape only: 'Record Companies Push to Label AI Songs on Streaming Platforms' (WSJ via Benzinga, 07-10) touches Apple Music but is not a revenue event, and a Khosla-backed startup ran the largest-ever AI model on an iPhone (07-09) \u2014 directional positive, unquantified. Price 316.16 sits AT the 30d high (+1.7% 30d) with no fresh fundamental catalyst. Falsified toward buy if on-device AI shows up in guidance; toward sell if DMA remedies hit Services.",
+      "sources": [
+        "benzinga: 'Record Companies Push to Label AI Songs on Streaming Platforms' - WSJ Exclusive (2026-07-10)",
+        "benzinga: 'Khosla-Backed Startup Claims Breakthrough With Largest-Ever AI Model on an iPhone' - The Information (2026-07-09)",
+        "data/2026-07-10/AAPL.json (close 316.16 = 30d high; 30d +1.7%)"
+      ],
+      "timestamp": "2026-07-10T12:35:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "New regulatory-risk headline: 'OpenAI And Google Sell AI Models To Blacklisted China Groups' - FT (07-10), on top of NHTSA's AV warning covering Waymo (07-09). Keybanc's $445 PT raise (07-10) is price-target chatter, ignored per policy. Price 357.97, -7.7% over 30d, lower half of range; no fundamentals this run to judge valuation. Falsified toward sell on formal export-control or AV enforcement; toward buy if Cloud strength confirms with the China story contained.",
+      "sources": [
+        "benzinga: 'OpenAI And Google Sell AI Models To Blacklisted China Groups' - FT (2026-07-10)",
+        "benzinga: NHTSA Warns Autonomous Vehicle Companies Over 'Clear Pattern' of First Responder Interference (2026-07-09)",
+        "data/2026-07-10/GOOGL.json (close 358.88 on 07-09; 30d -7.7%)"
+      ],
+      "timestamp": "2026-07-10T12:35:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "June thesis unfalsified: close 259.05, +12.0% over 30d, above the 240 line. Latest hard catalyst is the FDA approval of the dual-energy THERMOCOOL SMARTTOUCH SF catheter (07-08); Q2 earnings imminent with estimates rising (07-06). MS/Citi PT raises (07-08) are chatter, ignored. Buy re-entry stays parked: 7th straight partial run means sector-unknown rejection, and pre-earnings entry adds gap risk. Falsified if close < 240 or talc litigation escalates.",
+      "sources": [
+        "benzinga: Johnson & Johnson Receives FDA Approval For Its Dual Energy THERMOCOOL SMARTTOUCH SF Catheter Platform (2026-07-08)",
+        "benzinga: Johnson & Johnson Likely To Report Higher Q2 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call (2026-07-06)",
+        "data/2026-07-10/JNJ.json (close 259.05; 30d +12.0%)",
+        "trades.db decision log 2026-07-02: JNJ buy rejected sector-unknown under partial data"
+      ],
+      "timestamp": "2026-07-10T12:35:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Regulatory watch item: UK designated Amazon, Google, Microsoft and Oracle cloud services as critical third parties (07-10) \u2014 oversight burden, not yet a P&L event. Altman's 'rise in cost of compute, memory definitely a headwind' (07-09) cuts against the whole AI-capex complex, Azure included. Price 387.13, -6.9% over 30d, lower third of range. Still waiting on Azure guidance before acting either way. Falsified toward sell on a soft Azure print; toward buy if margin guidance rises.",
+      "sources": [
+        "benzinga: UK Government Designates Four Major Global Cloud Services And Technology Providers Amazon, Google, Microsoft And Oracle As Critical Third Parties (2026-07-10)",
+        "benzinga: OpenAI's Altman Says Rise In Cost Of Compute, Memory Definitely A Headwind (2026-07-09)",
+        "data/2026-07-10/MSFT.json (close 384.24 on 07-09; 30d -6.9%)"
+      ],
+      "timestamp": "2026-07-10T12:35:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Two-sided and unresolved: supply-side confirmation via 'Micron Increases US Investment Plan to $250 Billion' (07-10) and record $7.1B semiconductor ETF dip-buying (07-10), against competitive noise \u2014 ARK says AMD chips 'can already be more performant per dollar' (07-10) after this week's DeepSeek chip story. Price 202.70, -4.6% over 30d, above the 191.97 floor; no position to protect. Re-evaluate if 192 breaks or a hard Vera Rubin/TSMC datapoint lands.",
+      "sources": [
+        "benzinga: Micron Increases US Investment Plan to $250 Billion, Accelerates Domestic Chip Push as AI Race Heats Up (2026-07-10)",
+        "benzinga: Semiconductor ETFs Draw Record $7.1 Billion as Investors Buy the AI Chip Dip (2026-07-10)",
+        "benzinga: Cathie Wood's ARK Says AMD Chips 'Can Already Be More Performant Per Dollar' Than Nvidia (2026-07-10)",
+        "data/2026-07-10/NVDA.json (close 202.695; 30d -4.6%)"
+      ],
+      "timestamp": "2026-07-10T12:35:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "No new fundamental catalyst: RBC's Outperform/$463 PT (07-09) is price-target chatter, ignored per policy; the standing story remains 'Obamacare Premiums Could Jump 14% in 2027' (07-08), which is two-sided \u2014 pricing power vs confirmed medical-cost pressure. Close 431.66 is a fresh 30d high (+12.4% 30d); chasing a stretched managed-care rally on a two-sided story fails the falsifiability bar. Falsified toward buy on a concrete cost-trend or guidance catalyst; toward sell on a hard retrace.",
+      "sources": [
+        "benzinga: Obamacare Premiums Could Jump 14% in 2027 As Insurers Warn Rising Medical Costs are Driving Rates Higher (2026-07-08)",
+        "benzinga: RBC Capital Maintains Outperform on UnitedHealth Group, Raises Price Target to $463 (2026-07-09) [chatter, noted not acted on]",
+        "data/2026-07-10/UNH.json (close 431.655 = 30d high; 30d +12.4%)"
+      ],
+      "timestamp": "2026-07-10T12:35:00+00:00"
+    }
+  ]
+}

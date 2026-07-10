@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-07-10T12:22:08.047067+00:00",
+  "price": 357.97,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-27",
+      "open": 386.645,
+      "high": 393.76,
+      "low": 385.9,
+      "close": 388.84,
+      "volume": 1035586.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 387.885,
+      "high": 391.845,
+      "low": 385.29,
+      "close": 390.15,
+      "volume": 966796.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 385.105,
+      "high": 385.13,
+      "low": 378.49,
+      "close": 380.38,
+      "volume": 1127452.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.17,
+      "high": 378.56,
+      "low": 373.575,
+      "close": 376.26,
+      "volume": 607860.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 366.65,
+      "high": 373.5,
+      "low": 358.51,
+      "close": 361.84,
+      "volume": 1835061.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.38,
+      "high": 364.15,
+      "low": 353.485,
+      "close": 359.69,
+      "volume": 779835.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 361.27,
+      "high": 367.905,
+      "low": 357.395,
+      "close": 366.34,
+      "volume": 801620.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 369.07,
+      "high": 373.14,
+      "low": 365.51,
+      "close": 366.985,
+      "volume": 635044.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 365.02,
+      "high": 367.65,
+      "low": 358.02,
+      "close": 361.76,
+      "volume": 648403.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 355.135,
+      "high": 359.615,
+      "low": 351.105,
+      "close": 358.88,
+      "volume": 887524.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Keybanc Maintains Overweight on Alphabet, Raises Price Target to $445",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60380133/keybanc-maintains-overweight-alphabet-raises-price-target-445",
+      "published_at": "2026-07-10T12:15:30+00:00"
+    },
+    {
+      "headline": "Cathie Wood's ARK Says AMD Chips 'Can Already Be More Performant Per Dollar' Than Nvidia",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60376902/cathie-woods-ark-says-amd-chips-can-already-be-more-performant-per-dollar-than-nvidia",
+      "published_at": "2026-07-10T08:03:24+00:00"
+    },
+    {
+      "headline": "'OpenAI And Google Sell AI Models To Blacklisted China Groups' - FT",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60376401/openai-and-google-sell-ai-models-blacklisted-china-groups-ft",
+      "published_at": "2026-07-10T06:47:12+00:00"
+    },
+    {
+      "headline": "'Cursor Is Developing An AI Agent To Compete With Claude Cowork' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60372773/cursor-developing-ai-agent-compete-claude-cowork-information",
+      "published_at": "2026-07-09T19:58:49+00:00"
+    },
+    {
+      "headline": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks – Some Might Surprise You",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60369075/nancy-pelosi-donald-trump-bet-on-the-same-10-stocks-some-might-surprise-you",
+      "published_at": "2026-07-09T18:00:20+00:00"
+    },
+    {
+      "headline": "7 Communication Services Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/07/60368132/7-communication-services-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-07-09T17:35:08+00:00"
+    },
+    {
+      "headline": "Nvidia, Alphabet May Have a 5-Year Problem — S&P 493 Margins Aren't Budging",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60364179/nvidia-alphabet-may-have-a-5-year-problem-sp-493-margins-arent-budging",
+      "published_at": "2026-07-09T15:48:54+00:00"
+    },
+    {
+      "headline": "Nvidia-Backed Starcloud's CEO Says SpaceX IPO Could Be ‘Most Undervalued IPO of All Time’ and Tear Through $10 Trillion",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/space/26/07/60356648/nvidia-backed-starclouds-ceo-says-spacex-ipo-could-be-most-undervalued-ipo-of-all-time-and-tear-through-10-trillion",
+      "published_at": "2026-07-09T13:26:02+00:00"
+    },
+    {
+      "headline": "NHTSA Warns Autonomous Vehicle Companies Over 'Clear Pattern' of First Responder Interference",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60351872/nhtsa-warns-autonomous-vehicle-companies-over-clear-pattern-of-first-responder-interference",
+      "published_at": "2026-07-09T10:36:49+00:00"
+    },
+    {
+      "headline": "Bill Ackman Says Next $1 Trillion Company Will Come From Israel – ‘Imagine if Silicon Valley Was a Country’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60348086/bill-ackman-says-next-1-trillion-company-will-come-from-israel-imagine-if-silicon-valley-was-a-country",
+      "published_at": "2026-07-08T22:47:32+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

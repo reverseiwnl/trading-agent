@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-07-10T12:22:06.340038+00:00",
+  "price": 316.16,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-27",
+      "open": 308.41,
+      "high": 313.22,
+      "low": 308.38,
+      "close": 310.93,
+      "volume": 1681995.0
+    },
+    {
+      "date": "2026-05-28",
+      "open": 310.605,
+      "high": 312.72,
+      "low": 309.57,
+      "close": 312.45,
+      "volume": 1514315.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 311.915,
+      "high": 315.0,
+      "low": 309.54,
+      "close": 312.01,
+      "volume": 1619960.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 309.6,
+      "high": 310.94,
+      "low": 305.03,
+      "close": 306.265,
+      "volume": 1790146.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 307.36,
+      "high": 315.44,
+      "low": 306.73,
+      "close": 315.195,
+      "volume": 1291226.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 314.38,
+      "high": 316.92,
+      "low": 308.865,
+      "close": 310.22,
+      "volume": 1966854.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 313.335,
+      "high": 313.38,
+      "low": 309.675,
+      "close": 311.21,
+      "volume": 1230648.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 312.77,
+      "high": 315.14,
+      "low": 307.16,
+      "close": 307.59,
+      "volume": 2188603.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 308.615,
+      "high": 317.38,
+      "low": 301.18,
+      "close": 301.57,
+      "volume": 2762619.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 300.155,
+      "high": 300.59,
+      "low": 287.79,
+      "close": 290.36,
+      "volume": 2491376.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 290.7,
+      "high": 294.74,
+      "low": 287.38,
+      "close": 291.48,
+      "volume": 1843917.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 293.395,
+      "high": 296.995,
+      "low": 289.62,
+      "close": 295.48,
+      "volume": 1372585.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 296.075,
+      "high": 297.11,
+      "low": 289.635,
+      "close": 291.085,
+      "volume": 1456808.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 293.99,
+      "high": 297.78,
+      "low": 291.75,
+      "close": 296.53,
+      "volume": 1573337.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 295.245,
+      "high": 300.445,
+      "low": 293.99,
+      "close": 299.26,
+      "volume": 1229360.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 300.845,
+      "high": 301.95,
+      "low": 294.39,
+      "close": 296.07,
+      "volume": 1195228.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 298.44,
+      "high": 300.56,
+      "low": 295.635,
+      "close": 297.86,
+      "volume": 1278873.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 297.41,
+      "high": 302.415,
+      "low": 296.82,
+      "close": 296.85,
+      "volume": 1619228.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 297.61,
+      "high": 301.635,
+      "low": 294.27,
+      "close": 294.28,
+      "volume": 1781140.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 295.345,
+      "high": 299.675,
+      "low": 292.94,
+      "close": 293.32,
+      "volume": 2239666.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 287.5,
+      "high": 288.68,
+      "low": 273.79,
+      "close": 275.21,
+      "volume": 5858472.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 275.14,
+      "high": 285.95,
+      "low": 274.25,
+      "close": 281.31,
+      "volume": 5117781.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 286.69,
+      "high": 288.35,
+      "low": 279.85,
+      "close": 281.69,
+      "volume": 2386040.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 281.145,
+      "high": 289.9,
+      "low": 280.7,
+      "close": 289.24,
+      "volume": 1576321.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 293.44,
+      "high": 296.57,
+      "low": 289.195,
+      "close": 294.42,
+      "volume": 2428489.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 294.085,
+      "high": 309.415,
+      "low": 293.89,
+      "close": 308.235,
+      "volume": 3813037.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 307.54,
+      "high": 314.19,
+      "low": 307.02,
+      "close": 312.73,
+      "volume": 1434853.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 315.29,
+      "high": 315.47,
+      "low": 310.18,
+      "close": 310.69,
+      "volume": 1573402.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 311.91,
+      "high": 314.805,
+      "low": 307.11,
+      "close": 313.33,
+      "volume": 1549372.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 310.45,
+      "high": 316.53,
+      "low": 308.19,
+      "close": 316.16,
+      "volume": 1441032.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "'Record Companies Push to Label AI Songs on Streaming Platforms' - WSJ Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/content/60379237/record-companies-push-label-ai-songs-streaming-platforms-wsj-exclusive",
+      "published_at": "2026-07-10T11:30:27+00:00"
+    },
+    {
+      "headline": "Howard Lutnick Tells Samsung and SK Hynix They Have 'No Choice' but to Build US AI Memory Fabs— and Micron's CEO May Not Be Happy",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60378886/howard-lutnick-tells-samsung-and-sk-hynix-they-have-no-choice-but-to-build-us-ai-memory-fabs-and-microns-ceo-may-not-be-happy",
+      "published_at": "2026-07-10T11:14:36+00:00"
+    },
+    {
+      "headline": "Making Fun of Trump Pays Off for Colbert & Kimmel: Late Night Hosts Score Record Emmy Nominations",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/entertainment/26/07/60374844/making-fun-of-trump-pays-off-for-colbert-kimmel-late-night-hosts-score-record-emmy-nominations",
+      "published_at": "2026-07-09T21:47:50+00:00"
+    },
+    {
+      "headline": "SK Hynix 7X Oversubscription Boosts Semi Stocks; Earnings Season Ahead; Oil Pulls Back After Iran Attacks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60369943/sk-hynix-7x-oversubscription-boosts-semi-stocks-earnings-season-ahead-oil-pulls-back-after-iran-attacks",
+      "published_at": "2026-07-09T18:24:40+00:00"
+    },
+    {
+      "headline": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks – Some Might Surprise You",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60369075/nancy-pelosi-donald-trump-bet-on-the-same-10-stocks-some-might-surprise-you",
+      "published_at": "2026-07-09T18:00:20+00:00"
+    },
+    {
+      "headline": "This Senator Just Sold Up To $165K In Apple Stock",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/government/26/07/60362118/senator-just-sold-165k-apple-stock",
+      "published_at": "2026-07-09T15:00:06+00:00"
+    },
+    {
+      "headline": "'Khosla-Backed Startup Claims Breakthrough With Largest-Ever AI Model on an iPhone' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60355779/khosla-backed-startup-claims-breakthrough-largest-ever-ai-model-iphone-information",
+      "published_at": "2026-07-09T13:04:39+00:00"
+    },
+    {
+      "headline": "SpaceX Could Become a 'Landmark Historical' Collapse, Warns Top Investor: 'In The End, The Reality Will Come Out'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60355676/spacex-could-become-a-landmark-historical-collapse-warns-top-investor-in-the-end-the-reality-will-come-out",
+      "published_at": "2026-07-09T13:01:19+00:00"
+    },
+    {
+      "headline": "Why Is Broadcom Stock Gaining Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60352018/why-is-broadcom-stock-gaining-thursday",
+      "published_at": "2026-07-09T10:46:16+00:00"
+    },
+    {
+      "headline": "Charlie Bilello Says 'Diversification Matters Again' as Magnificent 7 Hit Cheapest Valuation in Over a Decade",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60351458/charlie-bilello-says-diversification-matters-again-as-magnificent-7-hit-cheapest-valuation-in-over-a-decade",
+      "published_at": "2026-07-09T10:12:44+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
