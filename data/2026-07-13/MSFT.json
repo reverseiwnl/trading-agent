@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-07-13T12:05:45.498730+00:00",
+  "price": 385.09,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-28",
+      "open": 413.015,
+      "high": 429.44,
+      "low": 412.895,
+      "close": 426.97,
+      "volume": 1334177.0
+    },
+    {
+      "date": "2026-05-29",
+      "open": 432.685,
+      "high": 450.3,
+      "low": 432.48,
+      "close": 449.44,
+      "volume": 1509935.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 464.84,
+      "high": 466.27,
+      "low": 458.3,
+      "close": 460.48,
+      "volume": 1577919.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 372.54,
+      "high": 377.19,
+      "low": 370.82,
+      "close": 373.93,
+      "volume": 905629.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 371.83,
+      "high": 378.87,
+      "low": 364.8,
+      "close": 365.46,
+      "volume": 1182848.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 362.77,
+      "high": 364.19,
+      "low": 349.205,
+      "close": 352.415,
+      "volume": 2522776.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 357.19,
+      "high": 376.6,
+      "low": 355.45,
+      "close": 371.67,
+      "volume": 2989666.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 377.085,
+      "high": 380.48,
+      "low": 366.86,
+      "close": 368.515,
+      "volume": 1577857.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 370.93,
+      "high": 374.12,
+      "low": 367.54,
+      "close": 372.92,
+      "volume": 988755.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 380.95,
+      "high": 388.81,
+      "low": 374.91,
+      "close": 384.38,
+      "volume": 1541022.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 384.35,
+      "high": 392.2,
+      "low": 383.79,
+      "close": 389.79,
+      "volume": 1346140.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 387.075,
+      "high": 388.995,
+      "low": 381.335,
+      "close": 386.81,
+      "volume": 1115599.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 392.46,
+      "high": 395.52,
+      "low": 388.24,
+      "close": 388.74,
+      "volume": 1269848.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 383.77,
+      "high": 385.205,
+      "low": 381.34,
+      "close": 383.11,
+      "volume": 1124752.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 374.47,
+      "high": 384.64,
+      "low": 373.475,
+      "close": 384.24,
+      "volume": 1217629.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 387.64,
+      "high": 391.8,
+      "low": 381.54,
+      "close": 385.09,
+      "volume": 969305.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Mark Zuckerberg’s Meta Just Supercharged Its Biggest AI Bet Yet, Expanding Its Hyperion Data Center Into a $50 Billion-Plus Project",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60410281/mark-zuckerbergs-meta-just-supercharged-its-biggest-ai-bet-yet-expanding-its-hyperion-data-center-into-a-50-billion-plus-project",
+      "published_at": "2026-07-13T11:37:00+00:00"
+    },
+    {
+      "headline": "Microsoft CEO Satya Nadella Says Businesses 'Pay for Intelligence Twice,' Warns AI Can Cost Companies Proprietary Knowledge",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60407194/microsoft-ceo-satya-nadella-says-businesses-pay-for-intelligence-twice-warns-ai-can-cost-companies-proprietary-knowledge",
+      "published_at": "2026-07-13T07:53:01+00:00"
+    },
+    {
+      "headline": "Nvidia, Micron, Broadcom, Applied Materials Set to Generate $430 Billion in Free Cash Flow as Tech Giants Bleed Cash",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60406621/nvidia-micron-broadcom-and-applied-materials-set-to-generate-430-billion-in-free-cash-flow",
+      "published_at": "2026-07-13T06:09:27+00:00"
+    },
+    {
+      "headline": "Citi Analysts Name Three Tech Stocks to Buy Ahead of Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60405605/citi-analysts-name-three-tech-stocks-to-buy-ahead-of-earnings",
+      "published_at": "2026-07-12T20:51:27+00:00"
+    },
+    {
+      "headline": "Consumer Tech News (July 6-10): Micron Plans $250B US Expansion, Apple Signs $30B Broadcom Deal & More",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60405076/consumer-tech-news-july-6-10-micron-plans-250b-us-expansion-apple-signs-30b-broadcom-deal-more",
+      "published_at": "2026-07-12T11:31:11+00:00"
+    },
+    {
+      "headline": "Marc Andreessen Says AI Is 'Already a Better Doctor Than 99.99% of Human Doctors'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60404885/marc-andreessen-says-ai-is-already-a-better-doctor-than-99-99-of-human-doctors",
+      "published_at": "2026-07-12T07:33:21+00:00"
+    },
+    {
+      "headline": "Benzinga Bulls and Bears: Penguin Solutions, Draftkings, Palantir — And Stocks End Week With Solid Gains",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60403984/benzinga-bulls-and-bears-penguin-solutions-draftkings-palantir-and-stocks-end-week-with-solid-gains",
+      "published_at": "2026-07-11T12:01:31+00:00"
+    },
+    {
+      "headline": "'OpenAI Is Burning It Down With One Mag 7 After Another'— Apple's Trade Secret Lawsuit Has Tech Analysts Talking and Elon Musk Saying That 'Sounds Pretty Bad'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60403807/openai-is-burning-it-down-with-one-mag-7-after-another-apples-trade-secret-lawsuit-has-tech-analysts-talking-and-elon-musk-saying-that-sounds-pretty-bad",
+      "published_at": "2026-07-11T08:03:13+00:00"
+    },
+    {
+      "headline": "Elizabeth Warren Calls UAE Chip Export Rule 'Corrupt' as Commerce Department Eases Controls on Trump-Linked Stablecoin Deal",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/macro-economic-events/26/07/60402915/elizabeth-warren-calls-uae-chip-export-rule-corrupt-as-commerce-department-eases-controls-on-trump-linked-stablecoin-deal",
+      "published_at": "2026-07-11T04:57:39+00:00"
+    },
+    {
+      "headline": "Apple Says Tang Yew Tan Allegedly Using Apple Trade Secrets As OpenAI Chief Hardware Officer; Chang Liu Allegedly Stole Dozens Of Confidential Hardware Files After Joining OpenAI; Alleges OpenAI Instructing Job Candidates To Bring Apple Prototypes And Design Artifacts To Interviews, Asked Suppliers Highly Specific Questions On Apple Manufacturing Processes & Components That Only Insiders Would Know To Ask, Persuaded Apple Partner To Perform Co's Metal-Finishing Techniques For OpenAI Hardware Development",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60401302/apple-says-tang-yew-tan-allegedly-using-apple-trade-secrets-openai-chief-hardware-officer-chang-liu-",
+      "published_at": "2026-07-10T20:34:06+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

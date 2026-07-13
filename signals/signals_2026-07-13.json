@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-13",
+  "market_context": "Monday tape neutral: 'Dow Gains 150 Points But Records Weekly Loss: Investor Sentiment Improves, Fear & Greed Index Remains In Neutral Zone' (07-13), while 'S&P 500 Index Forms Highly Bullish Pattern as Analysts Warn of Earnings Bubble' (07-12) cuts both ways. VOO 693.90, at the top of its 30d range. Data pull PARTIAL for the 7th consecutive run: fundamentals failed for all 7 tickers (proxy 403), prices+news intact \u2014 sector caps remain unenforceable, so any buy would be rejected sector-unknown. Portfolio is 100% cash, so the holdings-only breaking-news web sweep was not applicable. Every ticker's headline list was non-empty today. JNJ and UNH Q2 earnings are imminent, adding event risk. Note: no routine run happened on Friday 07-10 (gap in the record). All holds.",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Apple sued OpenAI alleging hardware trade-secret theft by ex-employees (07-13) \u2014 a distraction and IP-risk story, not a demand datapoint; the weekly recap's $30B Broadcom deal (07-12) is capex color without terms. Price 315.32, top of the 30d range, +4.6% over 30d; no fundamentals this run. Falsified toward sell if discovery shows roadmap leakage or China weakness resurfaces; toward buy if margin guidance confirms pricing power.",
+      "sources": [
+        "benzinga: Apple Stock Trending After Suing OpenAI for Allegedly Stealing Hardware Trade Secrets (2026-07-13)",
+        "benzinga: Consumer Tech News (July 6-10): Micron Plans $250B US Expansion, Apple Signs $30B Broadcom Deal & More (2026-07-12)",
+        "data/2026-07-13/AAPL.json (price 315.32)"
+      ],
+      "timestamp": "2026-07-13T12:20:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Two-sided: Berkshire's Alphabet stake framed as Greg Abel expanding the playbook (07-10) is a genuine accumulation datapoint, but 'OpenAI, Google AI Models Being Sold to Pentagon-Blacklisted Chinese Tech Giants' (07-10) raises export-control risk. Price 357.17 at the 30d low, -8% over 30d; no fundamentals this run to judge valuation. Falsified toward buy if Cloud guidance confirms value at the low; toward sell on formal export-control action.",
+      "sources": [
+        "benzinga: EXCLUSIVE: Berkshire's Alphabet, UnitedHealth Buys Show CEO Greg Abel Is Expanding the Playbook, Expert Says (2026-07-10)",
+        "benzinga: OpenAI, Google AI Models Being Sold to Pentagon-Blacklisted Chinese Tech Giants: Report (2026-07-10)",
+        "data/2026-07-13/GOOGL.json (price 357.17, 30d low)"
+      ],
+      "timestamp": "2026-07-13T12:20:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "All fresh headlines are price-target chatter (BofA neutral $263 on 07-10; MS/Citi raises 07-08), ignored per policy; the last hard catalyst remains the 07-08 FDA approval of the THERMOCOOL SMARTTOUCH SF catheter platform. Close 256.93, above the 240 falsification line but fading from 267.16 (07-07) into imminent Q2 earnings. Buy re-entry stays parked: 7th straight run without fundamentals means sector-unknown rejection, and pre-earnings entry adds gap risk. Falsified if close < 240.",
+      "sources": [
+        "benzinga: Johnson & Johnson Receives FDA Approval For Its Dual Energy THERMOCOOL SMARTTOUCH SF Catheter Platform (2026-07-08)",
+        "benzinga: B of A Securities Maintains Neutral on Johnson & Johnson, Raises Price Target to $263 (2026-07-10, chatter \u2014 noted, not acted on)",
+        "data/2026-07-13/JNJ.json (close 256.93)"
+      ],
+      "timestamp": "2026-07-13T12:20:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Nadella's 'businesses pay for intelligence twice' remarks (07-13) are strategy color, not a demand datapoint; Citi's pre-earnings tech buy list (07-12) is chatter, ignored per policy. Price 385.09, basing in the lower third of the 30d range after the June slide; still no Azure datapoint to resolve last week's in-house-AI (margin+) vs Starbucks-style demand erosion split. Falsified toward sell if Azure prints soft; toward buy if margin guidance rises on the cost-cut story.",
+      "sources": [
+        "benzinga: Microsoft CEO Satya Nadella Says Businesses 'Pay for Intelligence Twice,' Warns AI Can Cost Companies Proprietary Knowledge (2026-07-13)",
+        "benzinga: Citi Analysts Name Three Tech Stocks to Buy Ahead of Earnings (2026-07-12, chatter \u2014 noted, not acted on)",
+        "data/2026-07-13/MSFT.json (price 385.09)"
+      ],
+      "timestamp": "2026-07-13T12:20:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "First hard positive datapoint in weeks: 'Taiwan Semiconductor's AI Boom Rolls On: June Revenue Jumps 68%' (07-13) confirms upstream AI demand, and the $430B free-cash-flow piece (07-13) is supportive analysis, not a catalyst. Price 210.99 after a +8% two-session rebound off 202.70 \u2014 chasing a Friday pop on one supplier datapoint fails the two-source conviction bar. Falsified toward buy on a second independent demand datapoint; toward sell if 192 breaks.",
+      "sources": [
+        "benzinga: Taiwan Semiconductor's AI Boom Rolls On: June Revenue Jumps 68% (2026-07-13)",
+        "benzinga: Nvidia, Micron, Broadcom, Applied Materials Set to Generate $430 Billion in Free Cash Flow as Tech Giants Bleed Cash (2026-07-13)",
+        "data/2026-07-13/NVDA.json (price 210.99)"
+      ],
+      "timestamp": "2026-07-13T12:20:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Berkshire's UnitedHealth accumulation (07-10) is a real quality endorsement, but 'Bearish Chart Pattern Raises Stakes for Q2 Earnings' (07-12) flags event risk this week, and RBC/HSBC PT notes are chatter, ignored per policy. Close 424.57, +9% over 30d, off the 431.66 high. Initiating into a Q2 print with no fundamentals data fails the caution bar. Falsified toward buy on an in-line Q2 with intact cost-trend guidance; toward sell if medical-cost trend deteriorates.",
+      "sources": [
+        "benzinga: EXCLUSIVE: Berkshire's Alphabet, UnitedHealth Buys Show CEO Greg Abel Is Expanding the Playbook, Expert Says (2026-07-10)",
+        "benzinga: UnitedHealth Watch: Bearish Chart Pattern Raises Stakes for Q2 Earnings (2026-07-12)",
+        "data/2026-07-13/UNH.json (close 424.57)"
+      ],
+      "timestamp": "2026-07-13T12:20:00+00:00"
+    }
+  ]
+}
