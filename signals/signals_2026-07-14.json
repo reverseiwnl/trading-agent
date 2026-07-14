@@ -1,0 +1,82 @@
+{
+  "date": "2026-07-14",
+  "market_context": "Risk-off Tuesday: 'Nasdaq Dips Over 400 Points Amid Renewed US-Iran Tensions: Greed Index Remains In Fear Zone' (07-14) and 'Critical 4 Hours Ahead, Korea And Iran Drive Selling In US Stocks' (07-13). VOO 688.60, mid 30d range 667-698. Data pull PARTIAL for the 8th consecutive run: fundamentals failed for all 7 tickers (proxy 403), prices+headlines intact — sector caps remain unenforceable, so any buy would be rejected sector-unknown. Portfolio 100% cash; holdings-only web sweep not applicable. Every ticker's headline list was non-empty today. JNJ and UNH Q2 prints imminent this week. All holds.",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Split tape: 'Keybanc Downgrades Apple to Underweight, $250 PT' vs 'Apple Defies Smartphone Slump With Record Market Share' (both 07-14); the market-share print is the only hard datapoint and it is positive. Price 317.34 at the top of the 30d range (275-317). Epic app-store fee battle re-escalating (07-13) is a fee-revenue risk. Falsified toward buy if a second independent demand datapoint confirms share gains; toward sell if App Store fee ruling goes against Apple.",
+      "sources": [
+        "data/2026-07-14/AAPL.json: 'Apple Defies Smartphone Slump With Record Market Share' (2026-07-14)",
+        "data/2026-07-14/AAPL.json: 'Epic vs. Apple Enters New Phase as Court Battle Over App Store Fees Escalates' (2026-07-13)"
+      ],
+      "timestamp": "2026-07-14T12:15:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "'Behind Google's TPU Ground War to Lure Nvidia's Most Loyal Customers' (The Information, 07-13) and Gemini-in-Chrome UK desktop expansion (07-14) are real product momentum, but price 352.50 is near the 30d low (335.79) after -7% over 30d, and Meta's 75% AI price undercut (07-13) pressures monetization. No fundamentals this run to judge the pullback's valuation case. Falsified toward buy on a Cloud/TPU revenue datapoint; toward sell if search/ads share loss shows up in a hard number.",
+      "sources": [
+        "data/2026-07-14/GOOGL.json: 'Behind Google's TPU Ground War to Lure Nvidia's Most Loyal Customers' - The Information (2026-07-13)",
+        "data/2026-07-14/GOOGL.json: 'Google Expands Gemini In Chrome To Desktop Users In The U.K.' (2026-07-14)"
+      ],
+      "timestamp": "2026-07-14T12:15:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Today's fresh headlines are all price-target chatter (TD Cowen $300, RBC $287, both 07-13), ignored per policy; the last hard catalyst remains the 07-08 FDA approval of the THERMOCOOL SMARTTOUCH SF catheter platform. Price 257.86, well above the 240 falsification line, into an imminent Q2 print. Buy re-entry stays parked: 8th straight run without fundamentals means sector-unknown rejection, and pre-earnings entry adds gap risk. Falsified if close < 240 or Q2 guidance cuts.",
+      "sources": [
+        "data/2026-07-14/JNJ.json: 'Johnson & Johnson Receives FDA Approval For Its Dual Energy THERMOCOOL SMARTTOUCH SF Catheter Platform' (2026-07-08)",
+        "data/2026-07-14/JNJ.json: headline list 07-08..07-13 (PT chatter only, ignored per policy)"
+      ],
+      "timestamp": "2026-07-14T12:15:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "No hard datapoint again: 'Microsoft Made a Lot of Headlines Last Week' (07-14) is recap, and the Nadella 'pay twice' discourse (07-14 follow-on) is strategy color. Rival capex noise (Meta's $50B+ Hyperion expansion, 07-13) cuts both ways for Azure. Price 390.60 in the lower third of the 30d range (352-460) after the June slide; still no Azure demand datapoint to resolve the margin-vs-demand split. Falsified toward sell if Azure prints soft; toward buy on a hard Azure or margin datapoint.",
+      "sources": [
+        "data/2026-07-14/MSFT.json: 'Microsoft Made a Lot of Headlines Last Week — Here's What Investors Need To Know' (2026-07-14)",
+        "data/2026-07-14/MSFT.json: 'Mark Zuckerberg's Meta Just Supercharged Its Biggest AI Bet Yet... $50 Billion-Plus Project' (2026-07-13)"
+      ],
+      "timestamp": "2026-07-14T12:15:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Two-sided hard news: 'Nvidia halves Asia buyer list in China chip crackdown' (FT, 07-14) is a real revenue-scope negative; 'Hedge Funds Snap Up US Semiconductor Stocks at Fastest Pace in 3.5 Years' (07-14) is positioning, not demand; Keybanc's $330 PT is chatter, ignored. Price 203.49, mid 30d range, giving back the TSMC pop into a fear tape. Falsified toward sell if 192 breaks or China screening widens; toward buy on a second demand datapoint beyond TSMC June revenue.",
+      "sources": [
+        "data/2026-07-14/NVDA.json: ''Nvidia halves Asia buyer list in China chip crackdown' - FT' (2026-07-14)",
+        "data/2026-07-14/NVDA.json: 'Hedge Funds Snap Up US Semiconductor Stocks at Fastest Pace in 3.5 Years' (2026-07-14)"
+      ],
+      "timestamp": "2026-07-14T12:15:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Fresh headlines are PT chatter (Keybanc $475 on 07-14, WF $485 on 07-13), ignored per policy. Tension holds: Berkshire accumulation (07-10) endorses quality, but 'Bearish Chart Pattern Raises Stakes for Q2 Earnings' (07-12) plus the medical-cost rate-hike story (WSJ, 07-08) flag event risk into this week's print. Price 429.05 near the 30d high. No initiating pre-print with no fundamentals. Falsified toward buy on in-line Q2 with intact cost guidance; toward sell if cost trend deteriorates.",
+      "sources": [
+        "data/2026-07-14/UNH.json: 'UnitedHealth Watch: Bearish Chart Pattern Raises Stakes for Q2 Earnings' (2026-07-12)",
+        "data/2026-07-14/UNH.json: 'Reported Earlier, Obamacare Insurers Seek Big Rate Hikes, Again - WSJ Exclusive' (2026-07-08)"
+      ],
+      "timestamp": "2026-07-14T12:15:00+00:00"
+    },
+    {
+      "ticker": "VOO",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Benchmark tracking only, not traded. 'S&P 500 Index Forms Highly Bullish Pattern as Analysts Warn of Earnings Bubble' (07-12) still cuts both ways; today's tape is risk-off on Iran headlines. VOO 688.60, mid 30d range 667-698. Falsification not applicable — held as the performance benchmark per config.",
+      "sources": [
+        "data/2026-07-14/VOO.json: 'S&P 500 Index Forms Highly Bullish Pattern as Analysts Warn of Earnings Bubble' (2026-07-12)"
+      ],
+      "timestamp": "2026-07-14T12:15:00+00:00"
+    }
+  ]
+}

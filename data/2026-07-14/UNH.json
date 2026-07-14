@@ -1,0 +1,302 @@
+{
+  "ticker": "UNH",
+  "as_of": "2026-07-14T12:05:03.822523+00:00",
+  "price": 429.045,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-05-29",
+      "open": 383.36,
+      "high": 385.0,
+      "low": 375.48,
+      "close": 380.28,
+      "volume": 249789.0
+    },
+    {
+      "date": "2026-06-01",
+      "open": 376.84,
+      "high": 383.305,
+      "low": 375.925,
+      "close": 379.85,
+      "volume": 203276.0
+    },
+    {
+      "date": "2026-06-02",
+      "open": 378.0,
+      "high": 380.0,
+      "low": 374.78,
+      "close": 377.92,
+      "volume": 154557.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 379.965,
+      "high": 387.28,
+      "low": 376.84,
+      "close": 376.96,
+      "volume": 287113.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 390.99,
+      "high": 401.2,
+      "low": 389.97,
+      "close": 396.52,
+      "volume": 350963.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 399.54,
+      "high": 403.95,
+      "low": 397.21,
+      "close": 399.59,
+      "volume": 348917.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 398.01,
+      "high": 408.62,
+      "low": 396.7,
+      "close": 406.66,
+      "volume": 251708.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 408.79,
+      "high": 412.955,
+      "low": 407.58,
+      "close": 412.68,
+      "volume": 328511.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 414.555,
+      "high": 415.95,
+      "low": 404.58,
+      "close": 407.52,
+      "volume": 283293.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 408.3,
+      "high": 409.86,
+      "low": 403.185,
+      "close": 405.27,
+      "volume": 218691.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 409.325,
+      "high": 409.325,
+      "low": 404.92,
+      "close": 408.49,
+      "volume": 291653.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 405.58,
+      "high": 414.13,
+      "low": 399.87,
+      "close": 411.2,
+      "volume": 241196.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 410.675,
+      "high": 411.705,
+      "low": 406.54,
+      "close": 407.95,
+      "volume": 205578.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 410.0,
+      "high": 411.16,
+      "low": 398.65,
+      "close": 399.57,
+      "volume": 320575.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 400.525,
+      "high": 406.19,
+      "low": 399.41,
+      "close": 401.13,
+      "volume": 246165.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 402.675,
+      "high": 409.46,
+      "low": 402.37,
+      "close": 406.525,
+      "volume": 322546.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 408.73,
+      "high": 409.67,
+      "low": 402.835,
+      "close": 409.65,
+      "volume": 280155.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 411.62,
+      "high": 413.01,
+      "low": 400.01,
+      "close": 405.89,
+      "volume": 298116.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 407.725,
+      "high": 417.535,
+      "low": 407.725,
+      "close": 415.58,
+      "volume": 276414.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 416.61,
+      "high": 427.81,
+      "low": 416.61,
+      "close": 427.44,
+      "volume": 282009.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 424.69,
+      "high": 425.01,
+      "low": 416.0,
+      "close": 419.77,
+      "volume": 198102.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 421.61,
+      "high": 422.51,
+      "low": 413.385,
+      "close": 415.42,
+      "volume": 303507.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 417.07,
+      "high": 428.01,
+      "low": 414.335,
+      "close": 426.52,
+      "volume": 221070.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 428.505,
+      "high": 430.095,
+      "low": 422.06,
+      "close": 424.95,
+      "volume": 157641.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 423.02,
+      "high": 424.435,
+      "low": 415.2,
+      "close": 418.11,
+      "volume": 173166.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 424.18,
+      "high": 428.49,
+      "low": 422.185,
+      "close": 428.05,
+      "volume": 165379.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 426.895,
+      "high": 430.07,
+      "low": 423.9,
+      "close": 425.6,
+      "volume": 171142.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 425.805,
+      "high": 434.19,
+      "low": 425.805,
+      "close": 431.655,
+      "volume": 133570.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 432.46,
+      "high": 432.75,
+      "low": 423.8,
+      "close": 424.57,
+      "volume": 127371.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 427.365,
+      "high": 431.47,
+      "low": 425.535,
+      "close": 429.045,
+      "volume": 123243.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Keybanc Maintains Overweight on UnitedHealth Group, Raises Price Target to $475",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60437773/keybanc-maintains-overweight-unitedhealth-group-raises-price-target-475",
+      "published_at": "2026-07-14T11:52:43+00:00"
+    },
+    {
+      "headline": "Wells Fargo Maintains Overweight on UnitedHealth Group, Raises Price Target to $485",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60416351/wells-fargo-maintains-overweight-unitedhealth-group-raises-price-target-485",
+      "published_at": "2026-07-13T14:22:11+00:00"
+    },
+    {
+      "headline": "TSMC Could Swing $150 Billion as Options Market Prices Big Moves for This Week’s Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/07/60411633/tsmc-could-swing-150-billion-as-options-market-prices-big-moves-for-this-weeks-earnings",
+      "published_at": "2026-07-13T12:22:03+00:00"
+    },
+    {
+      "headline": "UnitedHealth Watch: Bearish Chart Pattern Raises Stakes for Q2 Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60405504/unitedhealth-watch-bearish-chart-pattern-raises-stakes-for-q2-earnings",
+      "published_at": "2026-07-12T18:46:22+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Berkshire’s Alphabet, UnitedHealth Buys Show CEO Greg Abel Is Expanding the Playbook, Expert Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60394052/exclusive-berkshires-alphabet-unitedhealth-buys-show-ceo-greg-abel-is-expanding-the-playbook-expert-says",
+      "published_at": "2026-07-10T17:01:09+00:00"
+    },
+    {
+      "headline": "RBC Capital Maintains Outperform on UnitedHealth Group, Raises Price Target to $463",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60368118/rbc-capital-maintains-outperform-unitedhealth-group-raises-price-target-463",
+      "published_at": "2026-07-09T17:34:52+00:00"
+    },
+    {
+      "headline": "Obamacare Premiums Could Jump 14% in 2027 As Insurers Warn Rising Medical Costs are Driving Rates Higher",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/financing/26/07/60327735/obamacare-premiums-could-jump-14-in-2027-as-insurers-warn-rising-medical-costs-are-driving-rates-higher",
+      "published_at": "2026-07-08T11:45:32+00:00"
+    },
+    {
+      "headline": "Reported Earlier, 'Obamacare Insurers Seek Big Rate Hikes, Again' - WSJ Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60326563/reported-earlier-obamacare-insurers-seek-big-rate-hikes-again-wsj-exclusive",
+      "published_at": "2026-07-08T10:52:15+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
