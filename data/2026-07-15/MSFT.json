@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-07-15T19:58:44.779589+00:00",
+  "price": 395.255,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-02",
+      "open": 447.065,
+      "high": 453.49,
+      "low": 440.48,
+      "close": 441.35,
+      "volume": 1104583.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 438.45,
+      "high": 440.22,
+      "low": 424.28,
+      "close": 427.58,
+      "volume": 1265267.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 435.81,
+      "high": 436.05,
+      "low": 426.44,
+      "close": 428.09,
+      "volume": 820194.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 428.005,
+      "high": 429.385,
+      "low": 414.46,
+      "close": 416.635,
+      "volume": 860710.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 372.54,
+      "high": 377.19,
+      "low": 370.82,
+      "close": 373.93,
+      "volume": 905629.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 371.83,
+      "high": 378.87,
+      "low": 364.8,
+      "close": 365.46,
+      "volume": 1182848.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 362.77,
+      "high": 364.19,
+      "low": 349.205,
+      "close": 352.415,
+      "volume": 2522776.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 357.19,
+      "high": 376.6,
+      "low": 355.45,
+      "close": 371.67,
+      "volume": 2989666.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 377.085,
+      "high": 380.48,
+      "low": 366.86,
+      "close": 368.515,
+      "volume": 1577857.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 370.93,
+      "high": 374.12,
+      "low": 367.54,
+      "close": 372.92,
+      "volume": 988755.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 380.95,
+      "high": 388.81,
+      "low": 374.91,
+      "close": 384.38,
+      "volume": 1541022.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 384.35,
+      "high": 392.2,
+      "low": 383.79,
+      "close": 389.79,
+      "volume": 1346140.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 387.075,
+      "high": 388.995,
+      "low": 381.335,
+      "close": 386.81,
+      "volume": 1115599.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 392.46,
+      "high": 395.52,
+      "low": 388.24,
+      "close": 388.74,
+      "volume": 1269848.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 383.77,
+      "high": 385.205,
+      "low": 381.34,
+      "close": 383.11,
+      "volume": 1124752.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 374.47,
+      "high": 384.64,
+      "low": 373.475,
+      "close": 384.24,
+      "volume": 1217629.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 387.64,
+      "high": 391.8,
+      "low": 381.54,
+      "close": 385.09,
+      "volume": 969305.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 387.91,
+      "high": 393.65,
+      "low": 384.19,
+      "close": 390.985,
+      "volume": 1253350.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 382.505,
+      "high": 388.15,
+      "low": 378.71,
+      "close": 384.94,
+      "volume": 1113317.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 387.655,
+      "high": 398.95,
+      "low": 386.535,
+      "close": 395.25,
+      "volume": 1538012.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "'Microsoft’s New Security Chief Replaces Top Execs to Force an AI Overhaul' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60482021/microsoft-s-new-security-chief-replaces-top-execs-force-ai-overhaul-information",
+      "published_at": "2026-07-15T18:36:37+00:00"
+    },
+    {
+      "headline": "SEI Enters Active Multifactor ETF Race With New US Equity Fund, Expands Quant Factor Investing",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60481416/sei-enters-active-multifactor-etf-race-with-new-us-equity-fund-expands-quant-factor-investing",
+      "published_at": "2026-07-15T18:22:46+00:00"
+    },
+    {
+      "headline": "Evercore ISI Group Maintains Outperform on Microsoft, Raises Price Target to $525",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60481240/evercore-isi-group-maintains-outperform-microsoft-raises-price-target-525",
+      "published_at": "2026-07-15T18:18:02+00:00"
+    },
+    {
+      "headline": "Mizuho Maintains Outperform on Microsoft, Lowers Price Target to $490",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60481173/mizuho-maintains-outperform-microsoft-lowers-price-target-490",
+      "published_at": "2026-07-15T18:16:08+00:00"
+    },
+    {
+      "headline": "57 Economists Wrong On Inflation; ASML Earnings Bring Optimism To AI Trade",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60479835/57-economists-wrong-on-inflation-asml-earnings-bring-optimism-to-ai-trade",
+      "published_at": "2026-07-15T17:38:47+00:00"
+    },
+    {
+      "headline": "JPMorgan, Goldman Sachs, BlackRock, Vanguard Tokenize Real Stocks for the First Time",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60479088/jpmorgan-goldman-sachs-blackrock-vanguard-tokenize-real-stocks-for-the-first-time",
+      "published_at": "2026-07-15T17:17:14+00:00"
+    },
+    {
+      "headline": "3M Expands AI Push with Microsoft Azure Data Center Partnership",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/large-cap/26/07/60477720/3m-expands-ai-push-with-microsoft-azure-data-center-partnership",
+      "published_at": "2026-07-15T16:41:52+00:00"
+    },
+    {
+      "headline": "Anthropic Claude Traffic Skyrockets 500% to Outpace Smaller AI Rivals",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/private-markets/26/07/60477358/anthropic-claude-traffic-skyrockets-500-to-outpace-smaller-ai-rivals",
+      "published_at": "2026-07-15T16:32:34+00:00"
+    },
+    {
+      "headline": "Citigroup Maintains Buy on Microsoft, Lowers Price Target to $570",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60474793/citigroup-maintains-buy-microsoft-lowers-price-target-570",
+      "published_at": "2026-07-15T15:32:32+00:00"
+    },
+    {
+      "headline": "'Big Short' Investor Steve Eisman Says AI Has 'No Moats,' Which Is 'Not A Recipe For Longevity'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60472881/big-short-investor-steve-eisman-says-ai-has-no-moats-which-is-not-a-recipe-for-longevity",
+      "published_at": "2026-07-15T14:47:14+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

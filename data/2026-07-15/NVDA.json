@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-07-15T19:58:46.357237+00:00",
+  "price": 212.475,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-02",
+      "open": 227.205,
+      "high": 232.28,
+      "low": 221.36,
+      "close": 222.82,
+      "volume": 7100206.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 221.75,
+      "high": 222.78,
+      "low": 214.54,
+      "close": 214.86,
+      "volume": 4741903.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 213.775,
+      "high": 221.59,
+      "low": 210.97,
+      "close": 218.64,
+      "volume": 5374242.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 214.575,
+      "high": 214.81,
+      "low": 204.35,
+      "close": 205.17,
+      "volume": 8060300.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 209.645,
+      "high": 210.36,
+      "low": 206.02,
+      "close": 208.66,
+      "volume": 3893430.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 210.74,
+      "high": 211.37,
+      "low": 199.34,
+      "close": 208.2,
+      "volume": 5608889.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 204.305,
+      "high": 207.185,
+      "low": 199.93,
+      "close": 200.41,
+      "volume": 4910869.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 201.33,
+      "high": 205.64,
+      "low": 199.54,
+      "close": 204.86,
+      "volume": 5648208.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 204.5,
+      "high": 207.06,
+      "low": 203.46,
+      "close": 205.17,
+      "volume": 3923011.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 208.875,
+      "high": 212.71,
+      "low": 208.35,
+      "close": 212.46,
+      "volume": 4594335.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 211.115,
+      "high": 211.365,
+      "low": 207.31,
+      "close": 207.37,
+      "volume": 4089180.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 208.3,
+      "high": 209.2,
+      "low": 203.47,
+      "close": 204.7,
+      "volume": 3697942.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 207.4,
+      "high": 211.385,
+      "low": 206.5,
+      "close": 210.38,
+      "volume": 4026083.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 211.45,
+      "high": 213.98,
+      "low": 207.72,
+      "close": 208.59,
+      "volume": 5739735.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 202.05,
+      "high": 203.75,
+      "low": 200.0,
+      "close": 200.07,
+      "volume": 3965353.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 200.13,
+      "high": 201.57,
+      "low": 196.6,
+      "close": 198.94,
+      "volume": 3243387.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 200.07,
+      "high": 200.79,
+      "low": 192.17,
+      "close": 195.89,
+      "volume": 3897568.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 193.11,
+      "high": 195.55,
+      "low": 191.24,
+      "close": 191.97,
+      "volume": 4202530.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 193.785,
+      "high": 196.16,
+      "low": 189.82,
+      "close": 194.92,
+      "volume": 3680689.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 197.12,
+      "high": 200.63,
+      "low": 195.11,
+      "close": 199.93,
+      "volume": 5774896.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 196.05,
+      "high": 199.85,
+      "low": 193.46,
+      "close": 197.54,
+      "volume": 6075573.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 197.13,
+      "high": 200.055,
+      "low": 192.35,
+      "close": 194.51,
+      "volume": 5880254.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 194.37,
+      "high": 197.53,
+      "low": 194.0,
+      "close": 195.59,
+      "volume": 4538784.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 192.25,
+      "high": 198.385,
+      "low": 191.15,
+      "close": 196.97,
+      "volume": 4767383.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 195.23,
+      "high": 205.13,
+      "low": 195.23,
+      "close": 204.07,
+      "volume": 5480997.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 204.46,
+      "high": 204.58,
+      "low": 198.98,
+      "close": 202.695,
+      "volume": 4867367.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 202.11,
+      "high": 210.99,
+      "low": 202.07,
+      "close": 210.99,
+      "volume": 7548841.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 208.595,
+      "high": 210.54,
+      "low": 203.355,
+      "close": 203.485,
+      "volume": 3818565.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 208.25,
+      "high": 212.55,
+      "low": 203.84,
+      "close": 211.79,
+      "volume": 3673407.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 211.96,
+      "high": 213.775,
+      "low": 206.04,
+      "close": 212.53,
+      "volume": 4112344.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "'Nvidia, Kawasaki Heavy to build robot-equipped AI shipyard in Japan' - Nikkei Asia",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60481563/nvidia-kawasaki-heavy-build-robot-equipped-ai-shipyard-japan-nikkei-asia",
+      "published_at": "2026-07-15T18:26:22+00:00"
+    },
+    {
+      "headline": "SEI Enters Active Multifactor ETF Race With New US Equity Fund, Expands Quant Factor Investing",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60481416/sei-enters-active-multifactor-etf-race-with-new-us-equity-fund-expands-quant-factor-investing",
+      "published_at": "2026-07-15T18:22:46+00:00"
+    },
+    {
+      "headline": "Taiwan Semiconductor Manufacturing Q2 Preview: Analysts Expect Record Revenue, Could Stock Hit New All-Time Highs?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/previews/26/07/60480445/taiwan-semiconductor-manufacturing-q2-preview-analysts-expect-record-revenue-could-stock-hit-new-all-time-highs",
+      "published_at": "2026-07-15T17:54:36+00:00"
+    },
+    {
+      "headline": "57 Economists Wrong On Inflation; ASML Earnings Bring Optimism To AI Trade",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60479835/57-economists-wrong-on-inflation-asml-earnings-bring-optimism-to-ai-trade",
+      "published_at": "2026-07-15T17:38:47+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/07/60479697/10-information-technology-stocks-whale-activity-today-s-session",
+      "published_at": "2026-07-15T17:35:20+00:00"
+    },
+    {
+      "headline": "AMD’s MI450 Could Finally Challenge Nvidia at the Rack Level",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60478921/amds-mi450-could-finally-challenge-nvidia-at-the-rack-level",
+      "published_at": "2026-07-15T17:12:39+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: SK Hynix Is Where AI Infrastructure, Chips, Memory Converge, Says Direxion as It Launches Leveraged ETF",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60475216/exclusive-sk-hynix-is-where-ai-infrastructure-chips-memory-converge-says-direxion-as-it-launches-leveraged-etf",
+      "published_at": "2026-07-15T15:40:04+00:00"
+    },
+    {
+      "headline": "'Big Short' Investor Steve Eisman Says AI Has 'No Moats,' Which Is 'Not A Recipe For Longevity'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60472881/big-short-investor-steve-eisman-says-ai-has-no-moats-which-is-not-a-recipe-for-longevity",
+      "published_at": "2026-07-15T14:47:14+00:00"
+    },
+    {
+      "headline": "Apple Intelligence Finally Cleared for China: Here's Which Stocks Are Popping on the News",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60470681/apple-intelligence-finally-cleared-for-china-heres-which-stocks-are-popping-on-the-news",
+      "published_at": "2026-07-15T14:08:31+00:00"
+    },
+    {
+      "headline": "Morgan Stanley, JPMorgan, Invesco and a Key Tech Stock on CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60468386/morgan-stanley-jpmorgan-invesco-and-a-key-tech-stock-on-cnbcs-final-trades",
+      "published_at": "2026-07-15T13:23:12+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

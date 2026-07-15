@@ -1,0 +1,290 @@
+{
+  "ticker": "VOO",
+  "as_of": "2026-07-15T19:58:49.763770+00:00",
+  "price": 693.495,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-02",
+      "open": 696.26,
+      "high": 699.09,
+      "low": 695.91,
+      "close": 698.31,
+      "volume": 69512.0
+    },
+    {
+      "date": "2026-06-03",
+      "open": 697.11,
+      "high": 697.57,
+      "low": 692.96,
+      "close": 693.19,
+      "volume": 34479.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 691.31,
+      "high": 697.14,
+      "low": 690.98,
+      "close": 696.125,
+      "volume": 28712.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 691.65,
+      "high": 691.99,
+      "low": 676.575,
+      "close": 677.91,
+      "volume": 60026.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 683.415,
+      "high": 685.12,
+      "low": 678.725,
+      "close": 679.77,
+      "volume": 54319.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 683.56,
+      "high": 686.69,
+      "low": 664.51,
+      "close": 677.69,
+      "volume": 167933.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 674.27,
+      "high": 678.6,
+      "low": 667.0,
+      "close": 667.09,
+      "volume": 56395.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 670.02,
+      "high": 680.265,
+      "low": 666.27,
+      "close": 678.49,
+      "volume": 146979.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 681.1,
+      "high": 684.34,
+      "low": 675.98,
+      "close": 682.16,
+      "volume": 115690.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 691.275,
+      "high": 695.73,
+      "low": 691.275,
+      "close": 693.99,
+      "volume": 57033.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 693.84,
+      "high": 694.545,
+      "low": 689.44,
+      "close": 690.01,
+      "volume": 69905.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 690.76,
+      "high": 691.46,
+      "low": 679.72,
+      "close": 681.26,
+      "volume": 106821.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 689.245,
+      "high": 689.55,
+      "low": 685.71,
+      "close": 688.13,
+      "volume": 86479.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 689.145,
+      "high": 691.44,
+      "low": 685.0,
+      "close": 685.77,
+      "volume": 169548.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 676.355,
+      "high": 681.4,
+      "low": 675.07,
+      "close": 676.61,
+      "volume": 116531.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 677.655,
+      "high": 681.96,
+      "low": 673.8,
+      "close": 675.42,
+      "volume": 125125.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 681.06,
+      "high": 681.495,
+      "low": 672.95,
+      "close": 675.97,
+      "volume": 114455.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 669.84,
+      "high": 676.76,
+      "low": 669.02,
+      "close": 669.99,
+      "volume": 85519.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 676.87,
+      "high": 681.475,
+      "low": 673.01,
+      "close": 681.16,
+      "volume": 43835.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 681.47,
+      "high": 687.355,
+      "low": 681.315,
+      "close": 686.065,
+      "volume": 64285.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 684.72,
+      "high": 688.78,
+      "low": 682.52,
+      "close": 685.49,
+      "volume": 110747.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 686.955,
+      "high": 690.275,
+      "low": 680.575,
+      "close": 684.68,
+      "volume": 33064.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 688.1,
+      "high": 691.52,
+      "low": 687.52,
+      "close": 690.58,
+      "volume": 38635.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 689.605,
+      "high": 689.99,
+      "low": 685.0,
+      "close": 686.79,
+      "volume": 43556.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 683.3,
+      "high": 685.83,
+      "low": 679.955,
+      "close": 685.04,
+      "volume": 26637.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 686.85,
+      "high": 691.1,
+      "low": 685.63,
+      "close": 690.66,
+      "volume": 37395.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 691.275,
+      "high": 694.195,
+      "low": 687.76,
+      "close": 693.9,
+      "volume": 53338.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 691.91,
+      "high": 692.785,
+      "low": 687.625,
+      "close": 688.595,
+      "volume": 65912.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 690.25,
+      "high": 691.935,
+      "low": 688.625,
+      "close": 691.12,
+      "volume": 37146.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 693.31,
+      "high": 694.5,
+      "low": 689.65,
+      "close": 693.41,
+      "volume": 39842.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Memory-Chip Selloff Drags Nasdaq 100 Lower, SanDisk Sinks 13%: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60478486/memory-chip-selloff-wednesday-nasdaq-100-sandisk-plunges-wednesday-market-news",
+      "published_at": "2026-07-15T17:01:58+00:00"
+    },
+    {
+      "headline": "Is The Rise Of AI Fatigue Beginning To Drive S&P 500 Lower?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60462632/is-rise-of-ai-fatigue-beginning-to-drive-sp500-lower",
+      "published_at": "2026-07-15T10:19:47+00:00"
+    },
+    {
+      "headline": "Looking Beyond the S&P 500? This Vanguard Tech ETF Has Averaged 25% Annual Returns",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60407289/looking-beyond-the-sp-500-this-vanguard-tech-etf-has-averaged-25-annual-returns",
+      "published_at": "2026-07-13T08:09:15+00:00"
+    },
+    {
+      "headline": "S&P 500 Index Forms Highly Bullish Pattern as Analysts Warn of Earnings Bubble",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60405549/sp-500-index-forms-highly-bullish-pattern-as-analysts-warn-of-earnings-bubble",
+      "published_at": "2026-07-12T19:31:09+00:00"
+    },
+    {
+      "headline": "New 'Ex-Elon' ETFs Would Strip Musk's Tesla And SpaceX From Major Indexes",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60394461/new-ex-elon-etfs-would-strip-musks-tesla-and-spacex-from-major-indexes",
+      "published_at": "2026-07-10T17:13:46+00:00"
+    },
+    {
+      "headline": "ETF Investors Are Finally Getting Paid To Diversify Away From The Magnificent Seven",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60381758/etf-investors-are-finally-getting-paid-to-diversify-away-from-the-magnificent-seven",
+      "published_at": "2026-07-10T13:28:57+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

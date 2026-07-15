@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-15",
+  "market_context": "Risk-on tech tape ('Nasdaq Gains Over 200 Points Following Inflation Report', 07-15) fighting a memory-chip selloff ('SanDisk Sinks 13%', 07-15) and AI-fatigue chatter; VOO 693.50, near the top of its 30d range. Data pull PARTIAL for the 8th consecutive run: fundamentals failed for all 7 tickers (proxy 403), prices+news intact — sector caps remain unenforceable, so any buy would be rejected sector-unknown. Every ticker's headline list was non-empty today. Portfolio is 100% cash, so the holdings-only breaking-news web sweep was not applicable. Earnings dominate: JNJ beat-and-raised this morning yet closed down ~2.6% (sell-the-news); UNH prints Thursday 07-17; TSMC/ASML this week set the AI-demand tone. All holds on a one-source (Benzinga snapshot) day.",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Two hard positives — 'Apple Intelligence Finally Cleared for China' and a 52-week high (both 07-15) — offset by The Information's report that the Baltra AI server chip slipped past its 2026 ship target, forcing NVIDIA reliance. Price 327.39, top of the 30d range after a +4% day; chasing a high on a one-source day fails the entry bar. Falsified toward buy on a second independent China-rollout datapoint; toward sell if Baltra delay widens or China approval stalls in practice.",
+      "sources": [
+        "benzinga: Apple Intelligence Finally Cleared for China: Here's Which Stocks Are Popping on the News (2026-07-15)",
+        "benzinga: Apple Stock Hits 52-Week High - Here's Why (2026-07-15)",
+        "benzinga/The Information: Apple Hunts for AI Chip Acquisitions; Baltra AI server chip delayed (2026-07-15)",
+        "data/2026-07-15/AAPL.json (price 327.39)"
+      ],
+      "timestamp": "2026-07-15T20:10:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Buffett claiming the Alphabet stake ('I Initiated It', 07-15) is a quality endorsement, but Play-store economics are live risk: 'Google to Allow Third-Party Stores in Its App Store Next Week' (Bloomberg, 07-15) plus FT's 'Brussels prepares fresh Google fines'. Price 371.06, near the 30d high after a 3-session +5% run. Falsified toward sell on quantified Play take-rate erosion or a formal EU fine; toward buy if third-party stores land without revenue impact.",
+      "sources": [
+        "benzinga: Warren Buffett Takes Credit for Berkshire's Alphabet Stock Buy: 'I Initiated It' (2026-07-15)",
+        "benzinga/Bloomberg: Google to Allow Third-Party Stores in Its App Store Next Week (2026-07-15)",
+        "benzinga/Financial Times: Brussels prepares fresh Google fines as Big Tech enforcement increases (2026-07-15)",
+        "data/2026-07-15/GOOGL.json (price 371.06)"
+      ],
+      "timestamp": "2026-07-15T20:10:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "Q2 beat-and-raise this morning: adj EPS $2.90 vs $2.85 est, sales $25.31B beat, FY26 EPS guidance lifted to $11.60-$11.75 ('Finds Growth Beyond Legacy Drugs, Lifts 2026 Outlook', 07-15) — yet the stock fell ~2.6% to 247.11, third straight down day. A beat met by selling is not buy evidence on a one-source day, and sector-unknown data would get a buy rejected anyway. Falsified toward buy if price stabilizes above 250 with a second source confirming guidance quality; toward sell below 240.",
+      "sources": [
+        "benzinga: Johnson & Johnson Q2 Adj. EPS $2.90 Beats $2.85 Estimate, Sales $25.310B Beat $25.047B Estimate (2026-07-15)",
+        "benzinga: Johnson & Johnson Raises FY2026 Adj EPS Guidance to $11.60-$11.75 (2026-07-15)",
+        "benzinga: Johnson & Johnson Finds Growth Beyond Legacy Drugs, Lifts 2026 Outlook (2026-07-15)",
+        "data/2026-07-15/JNJ.json (price 247.66, close 247.11)"
+      ],
+      "timestamp": "2026-07-15T20:10:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "'Microsoft's New Security Chief Replaces Top Execs to Force an AI Overhaul' (The Information, 07-15) is an org-risk story; '3M Expands AI Push with Microsoft Azure Data Center Partnership' (07-15) is a real but small Azure datapoint. Evercore/Mizuho/Citi PT moves are chatter, ignored per policy. Price 395.25, mid 30d range, +2.7% today; no hard Azure print yet. Falsified toward buy on a broad Azure growth datapoint; toward sell if the exec shake-up disrupts enterprise sales.",
+      "sources": [
+        "benzinga/The Information: Microsoft's New Security Chief Replaces Top Execs to Force an AI Overhaul (2026-07-15)",
+        "benzinga: 3M Expands AI Push with Microsoft Azure Data Center Partnership (2026-07-15)",
+        "data/2026-07-15/MSFT.json (price 395.25)"
+      ],
+      "timestamp": "2026-07-15T20:10:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Demand stays firm — 'Nvidia, Kawasaki Heavy to build robot-equipped AI shipyard in Japan' (Nikkei, 07-15), TSMC Q2 preview flags record revenue — but 'AMD's MI450 Could Finally Challenge Nvidia at the Rack Level' (07-15) is the first credible rack-scale competition headline, echoed by Eisman's 'no moats' take. Price 212.48, mid 30d range, holding the rebound. Falsified toward buy if TSMC's actual Q2 print confirms AI demand (second source); toward sell if MI450 lands named hyperscaler wins.",
+      "sources": [
+        "benzinga/Nikkei Asia: Nvidia, Kawasaki Heavy to build robot-equipped AI shipyard in Japan (2026-07-15)",
+        "benzinga: AMD's MI450 Could Finally Challenge Nvidia at the Rack Level (2026-07-15)",
+        "benzinga: Taiwan Semiconductor Manufacturing Q2 Preview: Analysts Expect Record Revenue (2026-07-15)",
+        "data/2026-07-15/NVDA.json (price 212.48)"
+      ],
+      "timestamp": "2026-07-15T20:10:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Q2 prints Thursday ('UnitedHealth Stock in the Spotlight Ahead of Q2 Earnings Thursday', 07-15) — initiating two days pre-print is pure event risk. Sector read-through negative: 'Elevance Health's Small Outlook Boost Disappoints, Stock Sinks' (07-15); FTC's CVS Caremark settlement pressures PBMs. PT raises are chatter, ignored. Price 417.67, -2.7% from 07-13 into the print. Falsified toward buy on in-line Q2 with intact cost-trend guidance; toward sell if MLR deteriorates.",
+      "sources": [
+        "benzinga: UnitedHealth Stock in the Spotlight Ahead of Q2 Earnings Thursday (2026-07-15)",
+        "benzinga: Elevance Health's Small Outlook Boost Disappoints, Stock Sinks (2026-07-15)",
+        "benzinga: FTC Says CVS Caremark Settlement Could Save Consumers Upto $13 Billion (2026-07-15)",
+        "data/2026-07-15/UNH.json (price 417.67)"
+      ],
+      "timestamp": "2026-07-15T20:10:00+00:00"
+    }
+  ]
+}
