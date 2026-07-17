@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-07-17T12:05:12.129244+00:00",
+  "price": 355.22,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-03",
+      "open": 362.03,
+      "high": 366.44,
+      "low": 358.13,
+      "close": 359.37,
+      "volume": 1602297.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 358.78,
+      "high": 373.23,
+      "low": 358.29,
+      "close": 372.34,
+      "volume": 1508985.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 366.315,
+      "high": 372.065,
+      "low": 364.15,
+      "close": 368.98,
+      "volume": 1525880.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.38,
+      "high": 364.15,
+      "low": 353.485,
+      "close": 359.69,
+      "volume": 779835.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 361.27,
+      "high": 367.905,
+      "low": 357.395,
+      "close": 366.34,
+      "volume": 801620.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 369.07,
+      "high": 373.14,
+      "low": 365.51,
+      "close": 366.985,
+      "volume": 635044.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 365.02,
+      "high": 367.65,
+      "low": 358.02,
+      "close": 361.76,
+      "volume": 648403.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 355.135,
+      "high": 359.615,
+      "low": 351.105,
+      "close": 358.88,
+      "volume": 887524.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 357.8,
+      "high": 357.8,
+      "low": 352.79,
+      "close": 357.17,
+      "volume": 608752.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 356.6,
+      "high": 357.97,
+      "low": 351.87,
+      "close": 352.54,
+      "volume": 623138.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 351.195,
+      "high": 360.14,
+      "low": 351.19,
+      "close": 359.55,
+      "volume": 697435.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 357.885,
+      "high": 373.65,
+      "low": 357.885,
+      "close": 370.98,
+      "volume": 1134849.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 373.325,
+      "high": 375.18,
+      "low": 352.365,
+      "close": 354.31,
+      "volume": 1442304.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "San Francisco Mayor Calls for Stricter Robotaxi Rules After Waymo Traffic Chaos: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60517671/san-francisco-mayor-calls-for-stricter-robotaxi-rules-after-waymo-traffic-chaos-report",
+      "published_at": "2026-07-17T09:36:47+00:00"
+    },
+    {
+      "headline": "Sundar Pichai Says 'Great' to see Intel Using Gemini Enterprise as Chipmaker Expands Google Cloud Partnership for AI-Powered Chip Design",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60516795/intel-google-cloud-gemini-enterprise-chip-design-partnership",
+      "published_at": "2026-07-17T06:51:40+00:00"
+    },
+    {
+      "headline": "Ross Gerber Slams 'Bubble Talk' as Earnings Season Begins: 'AI Is No Fad' and 'Valuations Are Quite Nice'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60516221/ross-gerber-says-ai-is-no-fad-as-tech-selloff-deepens",
+      "published_at": "2026-07-17T04:56:10+00:00"
+    },
+    {
+      "headline": "Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic: Report (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60490610/microsoft-wants-sales-team-to-push-its-own-ai-models-instead-of-rivals-openai-google-and-anthropic-report",
+      "published_at": "2026-07-16T10:24:56+00:00"
+    },
+    {
+      "headline": "Manulife Adds High-Conviction Large-Cap ETF to Capitalize on Momentum",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60513801/manulife-adds-high-conviction-large-cap-etf-to-capitalize-on-momentum",
+      "published_at": "2026-07-16T20:33:10+00:00"
+    },
+    {
+      "headline": "Alphabet Stock Sinks on Reports of Google Gemini Delays",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60512118/alphabet-stock-sinks-on-reports-of-google-gemini-delays",
+      "published_at": "2026-07-16T19:50:15+00:00"
+    },
+    {
+      "headline": "'Google Gemini Launch Delayed as Tech Falls Short of Internal Goals' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60508525/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg",
+      "published_at": "2026-07-16T18:11:27+00:00"
+    },
+    {
+      "headline": "Google Stock News: Analyst Predicts Massive 70% Cloud Growth Ahead of Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/07/60507287/google-stock-news-analyst-predicts-massive-70-cloud-growth-ahead-of-earnings",
+      "published_at": "2026-07-16T17:41:57+00:00"
+    },
+    {
+      "headline": "8 Communication Services Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/07/60507051/8-communication-services-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-07-16T17:35:22+00:00"
+    },
+    {
+      "headline": "Elon Musk Just Agreed With Google — And Microsoft's CEO Did Too",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60505346/elon-musk-agreed-with-google-microsoft-ceo-too",
+      "published_at": "2026-07-16T16:52:45+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

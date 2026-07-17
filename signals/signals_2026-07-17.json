@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-17",
+  "market_context": "Risk-off tape: 'Nasdaq Tumbles 1.5% Amid Selloff In Chip Stocks: Investor Sentiment Weakens, Greed Index Moves To Fear Zone' (07-17) after Korea/SK Hynix memory chaos knocked semis despite TSMC's record Q2. VOO 690.19, just off its 30d high. Data pull PARTIAL for the 9th consecutive run: fundamentals failed for all 7 tickers (proxy 403), prices+news intact \u2014 sector caps remain unenforceable, so any buy would be rejected sector-unknown. Every ticker's headline list was non-empty today. Portfolio is 100% cash; the holdings-only breaking-news web sweep was not applicable. Earnings so far are good (JNJ beat-and-raise 07-15, UNH upbeat Q2 07-16, TSMC record 07-16) yet semis sold off anyway \u2014 beats being sold is a caution flag, not an entry signal. All holds on a one-source (Benzinga snapshot) day.",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "'Apple targets dozens of OpenAI employees with legal letters' (FT via 07-17 snapshot) plus 'Apple's AI Catch-Up Plan May Include Buying Chip Companies' (07-16) show AI strategy in flux while price sits at 332.85, the top of its 30d range (275-333). Chasing a 52-week high on a one-source day with no fundamentals fails the entry bar. Falsify toward buy on a second independent source confirming China AI momentum; toward sell if the OpenAI legal fight escalates into talent/product delays.",
+      "sources": [
+        "benzinga/FT: 'Apple targets dozens of OpenAI employees with legal letters' (2026-07-17)",
+        "benzinga: Apple's AI Catch-Up Plan May Include Buying Chip Companies (2026-07-16)",
+        "data/2026-07-17/AAPL.json"
+      ],
+      "timestamp": "2026-07-17T12:20:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "'Alphabet Stock Sinks on Reports of Google Gemini Delays' + Bloomberg's 'Google Gemini Launch Delayed as Tech Falls Short of Internal Goals' (both 07-16) are the first concrete product-execution cracks; price fell 370.98->354.31, mid 30d range. Waymo regulatory noise (SF mayor, 07-17) is minor. Not a sell: cloud momentum intact (Intel/Gemini Enterprise, 07-17). Falsify toward sell if the delay slips a quarter or ad/cloud prints soften; toward buy if launch lands on a revised near-term date.",
+      "sources": [
+        "benzinga/Bloomberg: 'Google Gemini Launch Delayed as Tech Falls Short of Internal Goals' (2026-07-16)",
+        "benzinga: Alphabet Stock Sinks on Reports of Google Gemini Delays (2026-07-16)",
+        "data/2026-07-17/GOOGL.json"
+      ],
+      "timestamp": "2026-07-17T12:20:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "Post-earnings tape improved: 'Johnson & Johnson Posts Upbeat Q2: IM Momentum Building Into 2027' (07-16) and the DePuy Synthes spinal-implant tuck-in (07-16) support the beat-and-raise, and price stabilized 246.98->249.54 after the sell-the-news dip. But the wall of PT raises is chatter, ignored per policy, and a buy would be rejected sector-unknown (no fundamentals, 9th run). Falsify toward buy on price holding >250 with a non-Benzinga source; toward sell below 240.",
+      "sources": [
+        "benzinga: Johnson & Johnson Posts Upbeat Q2: IM Momentum Building Into 2027 (2026-07-16)",
+        "benzinga: J&J unit DePuy Synthes acquires Expanding Innovations (2026-07-16)",
+        "data/2026-07-17/JNJ.json"
+      ],
+      "timestamp": "2026-07-17T12:20:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "'Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals OpenAI, Google and Anthropic' (07-16) signals a first-party pivot with uncertain Azure revenue mix effects; The Information's AI bug-finder item (07-17) is early-stage. Price 393.92, mid 30d range (352-428), whipsawing with the chip tape. No hard Azure datapoint either way. Falsify toward buy on a concrete Azure growth print; toward sell if the first-party pivot visibly strains the OpenAI partnership.",
+      "sources": [
+        "benzinga: Microsoft Wants Sales Team to Push Its Own AI Models Instead of Rivals (2026-07-16)",
+        "benzinga/The Information: 'Microsoft Preps Mythos-Like AI Bug Finder' (2026-07-17)",
+        "data/2026-07-17/MSFT.json"
+      ],
+      "timestamp": "2026-07-17T12:20:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Demand signals stay firm \u2014 'Nvidia's Jensen Huang Announces AI Factory' in Tokyo (07-17), QumulusAI joining the cloud-partner network (07-17) \u2014 but the sector is selling good news: 'Korea Drives Semi Stocks Lower Despite Solid Taiwan Semi Earnings' (07-16). Price 207.12, mid 30d range. Buying a semi into a fear-zone tape on one source fails the bar. Falsify toward buy if semis stabilize and a second source confirms demand; toward sell on named hyperscaler defections to AMD.",
+      "sources": [
+        "benzinga: Nvidia's Jensen Huang Announces AI Factory... in Tokyo (2026-07-17)",
+        "benzinga: Korea Drives Semi Stocks Lower Despite Solid Taiwan Semi Earnings (2026-07-16)",
+        "data/2026-07-17/NVDA.json"
+      ],
+      "timestamp": "2026-07-17T12:20:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "Q2 landed well: 'Gold Falls Over 1%; UnitedHealth Posts Upbeat Earnings' and 'UnitedHealth Hits 15-Month High' (both 07-16), with MA losses flagged but absorbed ('Rally Sparks Bullish Case for Healthcare ETFs Despite Medicare Advantage Losses', 07-16). Price 423.28 after a +15mo-high spike \u2014 post-print chase risk, one-source day, and a buy would be rejected sector-unknown anyway. Falsify toward buy on a second source confirming MLR trend; toward sell if MA loss guidance worsens.",
+      "sources": [
+        "benzinga: Gold Falls Over 1%; UnitedHealth Posts Upbeat Earnings (2026-07-16)",
+        "benzinga: UnitedHealth Hits 15-Month High (2026-07-16)",
+        "data/2026-07-17/UNH.json"
+      ],
+      "timestamp": "2026-07-17T12:20:00+00:00"
+    }
+  ]
+}

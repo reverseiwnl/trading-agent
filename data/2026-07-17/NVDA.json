@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-07-17T12:05:18.758903+00:00",
+  "price": 207.12,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-03",
+      "open": 221.75,
+      "high": 222.78,
+      "low": 214.54,
+      "close": 214.86,
+      "volume": 4741903.0
+    },
+    {
+      "date": "2026-06-04",
+      "open": 213.775,
+      "high": 221.59,
+      "low": 210.97,
+      "close": 218.64,
+      "volume": 5374242.0
+    },
+    {
+      "date": "2026-06-05",
+      "open": 214.575,
+      "high": 214.81,
+      "low": 204.35,
+      "close": 205.17,
+      "volume": 8060300.0
+    },
+    {
+      "date": "2026-06-08",
+      "open": 209.645,
+      "high": 210.36,
+      "low": 206.02,
+      "close": 208.66,
+      "volume": 3893430.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 210.74,
+      "high": 211.37,
+      "low": 199.34,
+      "close": 208.2,
+      "volume": 5608889.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 204.305,
+      "high": 207.185,
+      "low": 199.93,
+      "close": 200.41,
+      "volume": 4910869.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 201.33,
+      "high": 205.64,
+      "low": 199.54,
+      "close": 204.86,
+      "volume": 5648208.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 204.5,
+      "high": 207.06,
+      "low": 203.46,
+      "close": 205.17,
+      "volume": 3923011.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 208.875,
+      "high": 212.71,
+      "low": 208.35,
+      "close": 212.46,
+      "volume": 4594335.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 211.115,
+      "high": 211.365,
+      "low": 207.31,
+      "close": 207.37,
+      "volume": 4089180.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 208.3,
+      "high": 209.2,
+      "low": 203.47,
+      "close": 204.7,
+      "volume": 3697942.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 207.4,
+      "high": 211.385,
+      "low": 206.5,
+      "close": 210.38,
+      "volume": 4026083.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 211.45,
+      "high": 213.98,
+      "low": 207.72,
+      "close": 208.59,
+      "volume": 5739735.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 202.05,
+      "high": 203.75,
+      "low": 200.0,
+      "close": 200.07,
+      "volume": 3965353.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 200.13,
+      "high": 201.57,
+      "low": 196.6,
+      "close": 198.94,
+      "volume": 3243387.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 200.07,
+      "high": 200.79,
+      "low": 192.17,
+      "close": 195.89,
+      "volume": 3897568.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 193.11,
+      "high": 195.55,
+      "low": 191.24,
+      "close": 191.97,
+      "volume": 4202530.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 193.785,
+      "high": 196.16,
+      "low": 189.82,
+      "close": 194.92,
+      "volume": 3680689.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 197.12,
+      "high": 200.63,
+      "low": 195.11,
+      "close": 199.93,
+      "volume": 5774896.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 196.05,
+      "high": 199.85,
+      "low": 193.46,
+      "close": 197.54,
+      "volume": 6075573.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 197.13,
+      "high": 200.055,
+      "low": 192.35,
+      "close": 194.51,
+      "volume": 5880254.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 194.37,
+      "high": 197.53,
+      "low": 194.0,
+      "close": 195.59,
+      "volume": 4538784.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 192.25,
+      "high": 198.385,
+      "low": 191.15,
+      "close": 196.97,
+      "volume": 4767383.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 195.23,
+      "high": 205.13,
+      "low": 195.23,
+      "close": 204.07,
+      "volume": 5480997.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 204.46,
+      "high": 204.58,
+      "low": 198.98,
+      "close": 202.695,
+      "volume": 4867367.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 202.11,
+      "high": 210.99,
+      "low": 202.07,
+      "close": 210.99,
+      "volume": 7548841.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 208.595,
+      "high": 210.54,
+      "low": 203.355,
+      "close": 203.485,
+      "volume": 3818565.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 208.25,
+      "high": 212.55,
+      "low": 203.84,
+      "close": 211.79,
+      "volume": 3673407.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 211.96,
+      "high": 213.775,
+      "low": 206.04,
+      "close": 212.5,
+      "volume": 4218423.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 210.26,
+      "high": 211.03,
+      "low": 205.85,
+      "close": 207.46,
+      "volume": 4036020.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "QumulusAI Approved To Join Nvidia Cloud Partner Within Nvidia Partner Network",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60519394/qumulusai-approved-join-nvidia-cloud-partner-within-nvidia-partner-network",
+      "published_at": "2026-07-17T11:31:16+00:00"
+    },
+    {
+      "headline": "Nebius Extends Slide as Competition Fears Overshadow Rapid Capacity Growth",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60518726/nebius-extends-slide-competition-fears-overshadow-capacity-growth",
+      "published_at": "2026-07-17T10:42:44+00:00"
+    },
+    {
+      "headline": "Performance Comparison: NVIDIA And Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60517779/performance-comparison-nvidia-and-competitors-semiconductors-amp-semiconductor-equipment-industry",
+      "published_at": "2026-07-17T09:58:20+00:00"
+    },
+    {
+      "headline": "Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60517210/nvidias-jensen-huang-announces-ai-factory-then-hands-out-red-bean-buns-to-fans-in-tokyo",
+      "published_at": "2026-07-17T08:31:46+00:00"
+    },
+    {
+      "headline": "Xi Jinping Rejects AI 'Solo Performance' by One Country as China's Kimi K3 Lands to Challenge OpenAI, Anthropic",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60516823/xi-jinping-rejects-ai-solo-performance-by-one-country-as-chinas-kimi-k3-lands-to-challenge-openai-anthropic",
+      "published_at": "2026-07-17T07:04:06+00:00"
+    },
+    {
+      "headline": "Ross Gerber Slams 'Bubble Talk' as Earnings Season Begins: 'AI Is No Fad' and 'Valuations Are Quite Nice'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60516221/ross-gerber-says-ai-is-no-fad-as-tech-selloff-deepens",
+      "published_at": "2026-07-17T04:56:10+00:00"
+    },
+    {
+      "headline": "Korea Drives Semi Stocks Lower Despite Solid Taiwan Semi Earnings; Apple Boosts China AI Models",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60508815/korea-drives-semi-stocks-lower-despite-solid-taiwan-semi-earnings-apple-boosts-china-ai-models",
+      "published_at": "2026-07-16T18:18:31+00:00"
+    },
+    {
+      "headline": "AMD's $600 Target Isn't Really About AMD",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60505004/amd-stock-600-price-target-is-not-about-amd",
+      "published_at": "2026-07-16T16:43:59+00:00"
+    },
+    {
+      "headline": "Jim Cramer Blames SK Hynix Chaos for TSMC Fall Despite 'Insanely Good' Q2 Earnings: 'A Casino of Emotions'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60493174/jim-cramer-blames-sk-hynix-chaos-for-tsmc-fall-despite-insanely-good-q2-earnings-a-casino-of-emotions",
+      "published_at": "2026-07-16T12:03:59+00:00"
+    },
+    {
+      "headline": "Reported July 15, USITC Institutes Section 337 Investigation Into Certain Dynamic Random Access Memory Devices",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60491103/reported-july-15-usitc-institutes-section-337-investigation-certain-dynamic-random-access-memory-dev",
+      "published_at": "2026-07-16T10:52:46+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
