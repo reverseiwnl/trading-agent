@@ -1,0 +1,88 @@
+{
+  "date": "2026-07-21",
+  "market_context": "Risk-on rebound: 'Chip Rebound Lifts Nasdaq 100, Micron Rallies 5%' (07-20) and 'Stock Market Today: ... Futures Rise as Tech Stocks Lead the Rally' (07-21) reverse last week's fear-zone tape; VOO 687.21, near its 30d high (694). Data pull PARTIAL for the 10th consecutive run: fundamentals failed for all 7 tickers (proxy 403), prices+news intact - sector caps remain unenforceable, so any buy would be rejected sector-unknown. Every ticker's headline list was non-empty today. Portfolio is 100% cash; the holdings-only breaking-news web sweep was not applicable. Rally is one day old and led by the same semis that were sold on good earnings last week; single-source (Benzinga snapshot) day. All holds.",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "'Apple To Launch Upgrade Device Leasing Program To Spur Sales... Partnering With Klarna' launching July 28 (07-21) is a real demand lever, but 'AAPL Stock Hits Historic 11x Sales Valuation Ahead of Tim Cook's Final Earnings Call' (07-21) flags stretched valuation plus CEO-transition event risk. Price 327.93, near top of 30d range (275-334). Falsify toward buy on a second source confirming leasing uptake post-07-28; toward sell if the earnings call guides iPhone gross margin down.",
+      "sources": [
+        "benzinga: Apple To Launch Upgrade Device Leasing Program To Spur Sales; Partnering With Klarna (2026-07-21)",
+        "benzinga: AAPL Stock Hits Historic 11x Sales Valuation Ahead of Tim Cook's Final Earnings Call (2026-07-21)",
+        "data/2026-07-21/AAPL.json"
+      ],
+      "timestamp": "2026-07-21T15:55:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Alphabet-specific news is thin today: the lead headline is second-hand - 'Intel Stock Surges 5%: Memory Upgrade and Google AI Deal Fuel Rally' (07-21), which confirms Gemini enterprise traction but monetizes Intel, not GOOGL. Price 348.99, down on the day and low-mid 30d range (336-373) after last week's Gemini-delay drop; no update on the delay either way. Falsify toward buy on a revised near-term Gemini launch date; toward sell if the delay slips a quarter or ad/cloud prints soften.",
+      "sources": [
+        "benzinga: Intel Stock Surges 5%: Memory Upgrade and Google AI Deal Fuel Rally (2026-07-21)",
+        "data/2026-07-21/GOOGL.json"
+      ],
+      "timestamp": "2026-07-21T15:55:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "Post-earnings strength holding: price 251.20 (248.85 prior), reclaiming the >250 level my 07-17 falsify-toward-buy asked for - but the second condition (a non-Benzinga source) is still unmet, and today's headline list is dominated by PT chatter (ignored per policy). Substantive items remain last week's: 'Johnson & Johnson Posts Upbeat Q2: IM Momentum Building Into 2027' and the DePuy Synthes spinal tuck-in (both 07-16). Falsify toward buy on independent confirmation >250; toward sell below 240.",
+      "sources": [
+        "benzinga: Johnson & Johnson Posts Upbeat Q2: IM Momentum Building Into 2027 (2026-07-16)",
+        "benzinga: DePuy Synthes Acquires Expanding Innovations (2026-07-16)",
+        "data/2026-07-21/JNJ.json"
+      ],
+      "timestamp": "2026-07-21T15:55:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "'Microsoft Expands Collaboration With Mistral To Launch Mistral's Frontier Models Across Microsoft Platform' (07-21) extends the multi-model Azure strategy, but 'Why Fund Managers Now Fear AI Capex More Than Iran, Tariffs, or a Recession' (07-21) is exactly the sentiment overhang that has been whipsawing the stock. Price 399.90, mid 30d range (352-412), down on an up-tape day. No hard Azure datapoint. Falsify toward buy on a concrete Azure growth print; toward sell if AI capex guidance is cut.",
+      "sources": [
+        "benzinga: Microsoft Expands Collaboration With Mistral To Launch Frontier Models Across Microsoft Platform (2026-07-21)",
+        "benzinga: Why Fund Managers Now Fear AI Capex More Than Iran, Tariffs, or a Recession (2026-07-21)",
+        "data/2026-07-21/MSFT.json"
+      ],
+      "timestamp": "2026-07-21T15:55:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Demand story broadening: 'This Chinese AI Model Became So Popular It Stopped Taking New Users - Nvidia, Micron Could Be the Real Winners' (07-21) plus 'Marvell Stock Jumps As AI Infrastructure Spending Boom Powers Semiconductor Rally' (07-21). But price 206.39 is one green day off a fear-zone selloff, upper-mid 30d range (192-212), single-source day. Falsify toward buy if the rebound holds a week with a second source; toward sell on named hyperscaler defections to AMD.",
+      "sources": [
+        "benzinga: This Chinese AI Model Became So Popular It Stopped Taking New Users - Nvidia, Micron Could Be the Real Winners (2026-07-21)",
+        "benzinga: Marvell Stock Jumps As AI Infrastructure Spending Boom Powers Semiconductor Rally (2026-07-21)",
+        "data/2026-07-21/NVDA.json"
+      ],
+      "timestamp": "2026-07-21T15:55:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Price 432.25 is the 30d high (+2.5% today, range 400-432), but today's headline list is almost entirely PT-raise chatter, ignored per policy. The substantive item cuts the other way: '2.6 Million People Lost Their Medicare Advantage Plan This Year' (07-20) keeps MA churn/margin risk live even after the upbeat Q2 (07-16). Buying a fresh 30d high on chatter momentum fails the entry bar. Falsify toward buy on a second source confirming the MLR trend; toward sell if MA loss guidance worsens.",
+      "sources": [
+        "benzinga: 2.6 Million People Lost Their Medicare Advantage Plan This Year (2026-07-20)",
+        "benzinga: UnitedHealth Rally Sparks Bullish Case for Healthcare ETFs Despite Medicare Advantage Losses (2026-07-16)",
+        "data/2026-07-21/UNH.json"
+      ],
+      "timestamp": "2026-07-21T15:55:00+00:00"
+    },
+    {
+      "ticker": "VOO",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "Benchmark tracker, not a trade candidate. 'Chip Rebound Lifts Nasdaq 100, Micron Rallies 5%: Stock Market Today' (07-20) and today's continued tech-led rally put VOO at 687.21, near its 30d high (667-694). 'Known Worries And Unknown Unknowns' (07-20) notes breadth still narrow. Held as the P&L counterfactual only; falsify toward concern if the index breaks below the 667 low of the last 30 days on broadening AI-capex fear.",
+      "sources": [
+        "benzinga: Chip Rebound Lifts Nasdaq 100, Micron Rallies 5%: Stock Market Today (2026-07-20)",
+        "data/2026-07-21/VOO.json"
+      ],
+      "timestamp": "2026-07-21T15:55:00+00:00"
+    }
+  ]
+}

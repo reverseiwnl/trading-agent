@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-07-21T15:40:28.668805+00:00",
+  "price": 349.175,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.38,
+      "high": 364.15,
+      "low": 353.485,
+      "close": 359.69,
+      "volume": 779835.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 361.27,
+      "high": 367.905,
+      "low": 357.395,
+      "close": 366.34,
+      "volume": 801620.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 369.07,
+      "high": 373.14,
+      "low": 365.51,
+      "close": 366.985,
+      "volume": 635044.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 365.02,
+      "high": 367.65,
+      "low": 358.02,
+      "close": 361.76,
+      "volume": 648403.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 355.135,
+      "high": 359.615,
+      "low": 351.105,
+      "close": 358.88,
+      "volume": 887524.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 357.8,
+      "high": 357.8,
+      "low": 352.79,
+      "close": 357.17,
+      "volume": 608752.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 356.6,
+      "high": 357.97,
+      "low": 351.87,
+      "close": 352.54,
+      "volume": 623138.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 351.195,
+      "high": 360.14,
+      "low": 351.19,
+      "close": 359.55,
+      "volume": 697435.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 357.885,
+      "high": 373.65,
+      "low": 357.885,
+      "close": 370.98,
+      "volume": 1134849.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 373.325,
+      "high": 375.18,
+      "low": 352.365,
+      "close": 354.31,
+      "volume": 1442304.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 345.99,
+      "high": 348.47,
+      "low": 341.38,
+      "close": 346.765,
+      "volume": 869439.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 351.005,
+      "high": 359.65,
+      "low": 350.74,
+      "close": 352.11,
+      "volume": 1147351.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 350.985,
+      "high": 350.985,
+      "low": 347.69,
+      "close": 348.99,
+      "volume": 366835.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Intel Stock Surges 5%: Memory Upgrade and Google AI Deal Fuel Rally",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60581151/intel-stock-surges-5-memory-upgrade-and-google-ai-deal-fuel-rally",
+      "published_at": "2026-07-21T14:36:15+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60569710/sp500-july-21-open-up-or-down-polymarket-iran-ceasefire-oil-earnings-ai",
+      "published_at": "2026-07-21T08:29:06+00:00"
+    },
+    {
+      "headline": "If You Invested $100 In Alphabet Stock 10 Years Ago, You Would Have This Much Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60565652/if-you-invested-100-alphabet-stock-10-years-ago-you-would-have-much-today",
+      "published_at": "2026-07-20T20:15:20+00:00"
+    },
+    {
+      "headline": "Microsoft Is A Value Stock? Morningstar Says Yes — Here's Why",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60561958/microsoft-is-a-value-stock-morningstar-says-yes-heres-why",
+      "published_at": "2026-07-20T18:20:53+00:00"
+    },
+    {
+      "headline": "Big Tech Is Minting Mountains of Cash — But Amazon’s Is Vanishing",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60559005/big-tech-is-minting-mountains-of-cash-but-amazons-is-vanishing",
+      "published_at": "2026-07-20T16:47:04+00:00"
+    },
+    {
+      "headline": "Why Is Alphabet Stock Gaining Monday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60557742/why-is-alphabet-stock-gaining-monday",
+      "published_at": "2026-07-20T16:09:46+00:00"
+    },
+    {
+      "headline": "Winners And Losers From Moonshot—Wall Street Fears Overblown—US May Ban Chinese Models",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60557342/winners-and-losers-from-moonshot-wall-street-fears-overblown-us-may-ban-chinese-models",
+      "published_at": "2026-07-20T15:59:25+00:00"
+    },
+    {
+      "headline": "Intel Could Swing $61.4 Billion in Value After Earnings This Week",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/07/60553797/intel-could-swing-61-4-billion-in-value-after-earnings-this-week",
+      "published_at": "2026-07-20T14:29:05+00:00"
+    },
+    {
+      "headline": "Why Is Intel Stock Soaring Monday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60553155/why-is-intel-stock-soaring-monday",
+      "published_at": "2026-07-20T14:15:49+00:00"
+    },
+    {
+      "headline": "Alibaba's AliExpress Hit With Record $628 Million Fine For Failing To Curb Illegal, Unsafe Product Listings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60550713/alibabas-aliexpress-hit-with-record-628-million-fine-for-failing-to-curb-illegal-unsafe-product-listings",
+      "published_at": "2026-07-20T13:32:09+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

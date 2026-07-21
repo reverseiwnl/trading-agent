@@ -1,0 +1,314 @@
+{
+  "ticker": "JNJ",
+  "as_of": "2026-07-21T15:40:30.837232+00:00",
+  "price": 251.04,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-08",
+      "open": 233.135,
+      "high": 234.93,
+      "low": 230.66,
+      "close": 232.15,
+      "volume": 256806.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 232.63,
+      "high": 237.625,
+      "low": 230.66,
+      "close": 237.0,
+      "volume": 325263.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 238.42,
+      "high": 240.88,
+      "low": 237.43,
+      "close": 238.52,
+      "volume": 352737.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 239.8,
+      "high": 241.55,
+      "low": 238.18,
+      "close": 238.31,
+      "volume": 262713.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 238.98,
+      "high": 240.9,
+      "low": 237.83,
+      "close": 240.84,
+      "volume": 241223.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 239.01,
+      "high": 239.01,
+      "low": 233.675,
+      "close": 235.78,
+      "volume": 261626.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 236.03,
+      "high": 236.125,
+      "low": 231.14,
+      "close": 235.25,
+      "volume": 327750.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 233.585,
+      "high": 233.95,
+      "low": 230.845,
+      "close": 233.92,
+      "volume": 372902.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 231.75,
+      "high": 232.68,
+      "low": 227.635,
+      "close": 228.345,
+      "volume": 348977.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 228.39,
+      "high": 231.45,
+      "low": 227.715,
+      "close": 231.34,
+      "volume": 339851.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 236.375,
+      "high": 239.79,
+      "low": 234.42,
+      "close": 239.2,
+      "volume": 426872.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 240.33,
+      "high": 243.03,
+      "low": 238.75,
+      "close": 241.0,
+      "volume": 317781.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 241.49,
+      "high": 248.14,
+      "low": 241.305,
+      "close": 244.78,
+      "volume": 358988.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 248.55,
+      "high": 255.08,
+      "low": 247.92,
+      "close": 254.36,
+      "volume": 511996.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 253.66,
+      "high": 258.565,
+      "low": 253.245,
+      "close": 258.42,
+      "volume": 344870.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 259.09,
+      "high": 259.73,
+      "low": 253.28,
+      "close": 253.97,
+      "volume": 214839.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 253.64,
+      "high": 254.165,
+      "low": 251.15,
+      "close": 254.03,
+      "volume": 210407.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 255.445,
+      "high": 263.04,
+      "low": 254.53,
+      "close": 263.04,
+      "volume": 245792.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 261.105,
+      "high": 261.105,
+      "low": 256.11,
+      "close": 259.28,
+      "volume": 305492.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 264.98,
+      "high": 269.395,
+      "low": 264.36,
+      "close": 267.16,
+      "volume": 523890.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 267.175,
+      "high": 267.8,
+      "low": 263.15,
+      "close": 263.26,
+      "volume": 347594.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 260.475,
+      "high": 263.44,
+      "low": 258.17,
+      "close": 259.05,
+      "volume": 267929.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 260.49,
+      "high": 260.82,
+      "low": 255.565,
+      "close": 256.93,
+      "volume": 191772.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 257.67,
+      "high": 259.33,
+      "low": 256.2,
+      "close": 257.86,
+      "volume": 227537.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 255.435,
+      "high": 256.075,
+      "low": 252.23,
+      "close": 253.77,
+      "volume": 317395.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 249.19,
+      "high": 256.24,
+      "low": 246.08,
+      "close": 246.98,
+      "volume": 572884.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 248.9,
+      "high": 253.4,
+      "low": 246.455,
+      "close": 249.545,
+      "volume": 1111606.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 253.075,
+      "high": 255.41,
+      "low": 251.96,
+      "close": 253.015,
+      "volume": 419433.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 252.04,
+      "high": 253.94,
+      "low": 248.655,
+      "close": 248.85,
+      "volume": 286839.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 246.85,
+      "high": 251.285,
+      "low": 245.885,
+      "close": 251.195,
+      "volume": 166374.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Guggenheim Reiterates Buy on Johnson & Johnson, Maintains $270 Price Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60520836/guggenheim-reiterates-buy-johnson-johnson-maintains-270-price-target",
+      "published_at": "2026-07-17T12:34:51+00:00"
+    },
+    {
+      "headline": "Raymond James Maintains Outperform on Johnson & Johnson, Raises Price Target to $265",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60508561/raymond-james-maintains-outperform-johnson-johnson-raises-price-target-265",
+      "published_at": "2026-07-16T18:12:04+00:00"
+    },
+    {
+      "headline": "UnitedHealth Rally Sparks Bullish Case for Healthcare ETFs Despite Medicare Advantage Losses",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60506630/unitedhealth-rally-sparks-bullish-case-for-healthcare-etfs-despite-medicare-advantage-losses",
+      "published_at": "2026-07-16T17:24:17+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Posts Upbeat Q2: IM Momentum Building Into 2027, Says Bullish Analyst",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60503658/johnson-johnson-posts-upbeat-q2-im-momentum-building-into-2027-says-bullish-analyst",
+      "published_at": "2026-07-16T16:11:37+00:00"
+    },
+    {
+      "headline": "RBC Capital Reiterates Outperform on Johnson & Johnson, Maintains $287 Price Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60501064/rbc-capital-reiterates-outperform-johnson-johnson-maintains-287-price-target",
+      "published_at": "2026-07-16T15:04:39+00:00"
+    },
+    {
+      "headline": "New Jersey Rep. Thomas Kean Sold Over $26K Worth of Alphabet Stock: Here’s What You Should Know",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/government/26/07/60500741/new-jersey-rep-thomas-kean-sold-over-26k-worth-alphabet-stock-here-s-what-you-should-know",
+      "published_at": "2026-07-16T15:00:22+00:00"
+    },
+    {
+      "headline": "Wells Fargo Maintains Overweight on Johnson & Johnson, Raises Price Target to $272",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60500367/wells-fargo-maintains-overweight-johnson-johnson-raises-price-target-272",
+      "published_at": "2026-07-16T14:53:47+00:00"
+    },
+    {
+      "headline": "Morgan Stanley Maintains Overweight on Johnson & Johnson, Raises Price Target to $294",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60495700/morgan-stanley-maintains-overweight-johnson-johnson-raises-price-target-294",
+      "published_at": "2026-07-16T13:25:45+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Unit DePuy Synthes Acquires Expanding Innovations, A Maker Of Expandable Implant Technology For Spinal Surgery; Financial Terms Not Disclosed",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60493451/johnson-johnson-unit-depuy-synthes-acquires-expanding-innovations-maker-expandable-implant-technolog",
+      "published_at": "2026-07-16T12:14:45+00:00"
+    },
+    {
+      "headline": "Full Transcript: Johnson & Johnson Q2 2026 Earnings Call",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60488172/full-transcript-johnson-johnson-q2-2026-earnings-call",
+      "published_at": "2026-07-16T05:55:47+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

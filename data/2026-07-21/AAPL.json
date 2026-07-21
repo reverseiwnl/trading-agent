@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-07-21T15:40:26.643640+00:00",
+  "price": 328.14,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-08",
+      "open": 308.615,
+      "high": 317.38,
+      "low": 301.18,
+      "close": 301.57,
+      "volume": 2762619.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 300.155,
+      "high": 300.59,
+      "low": 287.79,
+      "close": 290.36,
+      "volume": 2491376.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 290.7,
+      "high": 294.74,
+      "low": 287.38,
+      "close": 291.48,
+      "volume": 1843917.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 293.395,
+      "high": 296.995,
+      "low": 289.62,
+      "close": 295.48,
+      "volume": 1372585.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 296.075,
+      "high": 297.11,
+      "low": 289.635,
+      "close": 291.085,
+      "volume": 1456808.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 293.99,
+      "high": 297.78,
+      "low": 291.75,
+      "close": 296.53,
+      "volume": 1573337.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 295.245,
+      "high": 300.445,
+      "low": 293.99,
+      "close": 299.26,
+      "volume": 1229360.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 300.845,
+      "high": 301.95,
+      "low": 294.39,
+      "close": 296.07,
+      "volume": 1195228.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 298.44,
+      "high": 300.56,
+      "low": 295.635,
+      "close": 297.86,
+      "volume": 1278873.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 297.41,
+      "high": 302.415,
+      "low": 296.82,
+      "close": 296.85,
+      "volume": 1619228.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 297.61,
+      "high": 301.635,
+      "low": 294.27,
+      "close": 294.28,
+      "volume": 1781140.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 295.345,
+      "high": 299.675,
+      "low": 292.94,
+      "close": 293.32,
+      "volume": 2239666.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 287.5,
+      "high": 288.68,
+      "low": 273.79,
+      "close": 275.21,
+      "volume": 5858472.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 275.14,
+      "high": 285.95,
+      "low": 274.25,
+      "close": 281.31,
+      "volume": 5117781.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 286.69,
+      "high": 288.35,
+      "low": 279.85,
+      "close": 281.69,
+      "volume": 2386040.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 281.145,
+      "high": 289.9,
+      "low": 280.7,
+      "close": 289.24,
+      "volume": 1576321.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 293.44,
+      "high": 296.57,
+      "low": 289.195,
+      "close": 294.42,
+      "volume": 2428489.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 294.085,
+      "high": 309.415,
+      "low": 293.89,
+      "close": 308.235,
+      "volume": 3813037.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 307.54,
+      "high": 314.19,
+      "low": 307.02,
+      "close": 312.73,
+      "volume": 1434853.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 315.29,
+      "high": 315.47,
+      "low": 310.18,
+      "close": 310.69,
+      "volume": 1573402.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 311.91,
+      "high": 314.805,
+      "low": 307.11,
+      "close": 313.33,
+      "volume": 1549372.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 310.45,
+      "high": 316.53,
+      "low": 308.19,
+      "close": 316.16,
+      "volume": 1441032.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 314.72,
+      "high": 316.91,
+      "low": 312.17,
+      "close": 315.32,
+      "volume": 1326282.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 317.005,
+      "high": 323.395,
+      "low": 315.79,
+      "close": 317.47,
+      "volume": 1374655.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 313.76,
+      "high": 316.145,
+      "low": 311.955,
+      "close": 314.93,
+      "volume": 1213545.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 317.46,
+      "high": 328.705,
+      "low": 317.4,
+      "close": 327.58,
+      "volume": 1721273.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 328.135,
+      "high": 334.65,
+      "low": 326.885,
+      "close": 333.23,
+      "volume": 2365368.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 331.98,
+      "high": 334.98,
+      "low": 329.025,
+      "close": 333.75,
+      "volume": 2248743.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 332.235,
+      "high": 333.63,
+      "low": 323.73,
+      "close": 326.65,
+      "volume": 2314409.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 323.345,
+      "high": 328.51,
+      "low": 322.24,
+      "close": 327.925,
+      "volume": 657790.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Apple To Launch Upgrade Device Leasing Program To Spur Sales; Apple Plans To Launch Device Leasing Program On July 28 In U.S.; Apple Is Partnering With Klarna On New Apple Upgrade Program",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60583141/apple-launch-upgrade-device-leasing-program-spur-sales-apple-plans-launch-device-leasing-program-jul",
+      "published_at": "2026-07-21T15:14:48+00:00"
+    },
+    {
+      "headline": "AAPL Stock Hits Historic 11x Sales Valuation Ahead of Tim Cook's Final Earnings Call as Apple CEO",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60571024/aapl-stock-hits-historic-11x-sales-peak-ahead-of-tim-cooks-final-earnings-call-as-apple-ceo",
+      "published_at": "2026-07-21T10:26:29+00:00"
+    },
+    {
+      "headline": "AAPL, HPQ, SNDK, WDC: Gene Munster Says 'Memory Hog' AI Will Trigger a Massive 2027 Upgrade Cycle",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60568845/aapl-hpq-sndk-wdc-gene-munster-says-memory-hog-ai-will-trigger-a-massive-2027-upgrade-cycle",
+      "published_at": "2026-07-21T06:01:41+00:00"
+    },
+    {
+      "headline": "If You Invested $100 In Apple Stock 10 Years Ago, You Would Have This Much Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60566069/if-you-invested-100-apple-stock-10-years-ago-you-would-have-much-today",
+      "published_at": "2026-07-20T20:30:28+00:00"
+    },
+    {
+      "headline": "Apple Stock Hits All-Time Highs: ‘End Of An Era’ with Tim Cook's Final Quarter, Analyst Says Focus on iPhone, Gross Margins",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60560356/apple-stock-hits-all-time-highs-end-of-an-era-with-tim-cooks-final-quarter-analyst-says-focus-on-iphone-gross-margins",
+      "published_at": "2026-07-20T17:34:29+00:00"
+    },
+    {
+      "headline": "Tech Selloff: Expert Says ‘Get Your Shopping List Ready' – Stocks ‘Took the Elevator Up and the Elevator Shaft Down’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60558626/tech-selloff-expert-says-get-your-shopping-list-ready-stocks-took-the-elevator-up-and-the-elevator-shaft-down",
+      "published_at": "2026-07-20T16:35:30+00:00"
+    },
+    {
+      "headline": "Winners And Losers From Moonshot—Wall Street Fears Overblown—US May Ban Chinese Models",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60557342/winners-and-losers-from-moonshot-wall-street-fears-overblown-us-may-ban-chinese-models",
+      "published_at": "2026-07-20T15:59:25+00:00"
+    },
+    {
+      "headline": "Scott Galloway Predicts Sam Altman Is Out as OpenAI CEO Within 6 Months: 'He's an Innovator, Not an Operator'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60557060/scott-galloway-predicts-sam-altman-is-out-as-openai-ceo-within-6-months-hes-an-innovator-not-an-operator",
+      "published_at": "2026-07-20T15:51:00+00:00"
+    },
+    {
+      "headline": "What Is Going On With Apple Stock On Monday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60554902/what-is-going-on-with-apple-stock-on-monday",
+      "published_at": "2026-07-20T14:53:51+00:00"
+    },
+    {
+      "headline": "Intel's Most Overlooked Edge Over TSMC Starts With Pat Gelsinger's 'Great Depression' Warning",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60552332/intels-most-overlooked-edge-over-tsmc-starts-with-pat-gelsingers-great-depression-warning",
+      "published_at": "2026-07-20T13:57:23+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

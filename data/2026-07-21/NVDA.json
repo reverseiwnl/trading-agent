@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-07-21T15:40:35.484132+00:00",
+  "price": 206.495,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-08",
+      "open": 209.645,
+      "high": 210.36,
+      "low": 206.02,
+      "close": 208.66,
+      "volume": 3893430.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 210.74,
+      "high": 211.37,
+      "low": 199.34,
+      "close": 208.2,
+      "volume": 5608889.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 204.305,
+      "high": 207.185,
+      "low": 199.93,
+      "close": 200.41,
+      "volume": 4910869.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 201.33,
+      "high": 205.64,
+      "low": 199.54,
+      "close": 204.86,
+      "volume": 5648208.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 204.5,
+      "high": 207.06,
+      "low": 203.46,
+      "close": 205.17,
+      "volume": 3923011.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 208.875,
+      "high": 212.71,
+      "low": 208.35,
+      "close": 212.46,
+      "volume": 4594335.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 211.115,
+      "high": 211.365,
+      "low": 207.31,
+      "close": 207.37,
+      "volume": 4089180.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 208.3,
+      "high": 209.2,
+      "low": 203.47,
+      "close": 204.7,
+      "volume": 3697942.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 207.4,
+      "high": 211.385,
+      "low": 206.5,
+      "close": 210.38,
+      "volume": 4026083.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 211.45,
+      "high": 213.98,
+      "low": 207.72,
+      "close": 208.59,
+      "volume": 5739735.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 202.05,
+      "high": 203.75,
+      "low": 200.0,
+      "close": 200.07,
+      "volume": 3965353.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 200.13,
+      "high": 201.57,
+      "low": 196.6,
+      "close": 198.94,
+      "volume": 3243387.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 200.07,
+      "high": 200.79,
+      "low": 192.17,
+      "close": 195.89,
+      "volume": 3897568.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 193.11,
+      "high": 195.55,
+      "low": 191.24,
+      "close": 191.97,
+      "volume": 4202530.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 193.785,
+      "high": 196.16,
+      "low": 189.82,
+      "close": 194.92,
+      "volume": 3680689.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 197.12,
+      "high": 200.63,
+      "low": 195.11,
+      "close": 199.93,
+      "volume": 5774896.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 196.05,
+      "high": 199.85,
+      "low": 193.46,
+      "close": 197.54,
+      "volume": 6075573.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 197.13,
+      "high": 200.055,
+      "low": 192.35,
+      "close": 194.51,
+      "volume": 5880254.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 194.37,
+      "high": 197.53,
+      "low": 194.0,
+      "close": 195.59,
+      "volume": 4538784.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 192.25,
+      "high": 198.385,
+      "low": 191.15,
+      "close": 196.97,
+      "volume": 4767383.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 195.23,
+      "high": 205.13,
+      "low": 195.23,
+      "close": 204.07,
+      "volume": 5480997.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 204.46,
+      "high": 204.58,
+      "low": 198.98,
+      "close": 202.695,
+      "volume": 4867367.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 202.11,
+      "high": 210.99,
+      "low": 202.07,
+      "close": 210.99,
+      "volume": 7548841.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 208.595,
+      "high": 210.54,
+      "low": 203.355,
+      "close": 203.485,
+      "volume": 3818565.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 208.25,
+      "high": 212.55,
+      "low": 203.84,
+      "close": 211.79,
+      "volume": 3673407.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 211.96,
+      "high": 213.775,
+      "low": 206.04,
+      "close": 212.5,
+      "volume": 4218423.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 210.26,
+      "high": 211.03,
+      "low": 205.85,
+      "close": 207.46,
+      "volume": 4036020.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 202.74,
+      "high": 206.63,
+      "low": 197.98,
+      "close": 202.8,
+      "volume": 4558491.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 205.605,
+      "high": 207.71,
+      "low": 202.29,
+      "close": 203.33,
+      "volume": 3550006.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 207.5,
+      "high": 208.61,
+      "low": 204.01,
+      "close": 206.39,
+      "volume": 1326748.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Marvell Stock Jumps As AI Infrastructure Spending Boom Powers Semiconductor Rally",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60581055/marvell-stock-ai-spending-boom-powers-semiconductor-rally",
+      "published_at": "2026-07-21T14:34:14+00:00"
+    },
+    {
+      "headline": "What Is Going On With Arm Stock On Tuesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60579405/what-is-going-on-with-arm-stock-on-tuesday",
+      "published_at": "2026-07-21T14:08:58+00:00"
+    },
+    {
+      "headline": "Nvidia Stock Hasn't Been This Cheap In 10 Years: Is This A Screaming Buy?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60578958/nvidia-stock-cheap-buy",
+      "published_at": "2026-07-21T14:02:59+00:00"
+    },
+    {
+      "headline": "Intel Earnings Could Raise the Stakes: Is the Turnaround Story Done?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60578824/intel-earnings-could-raise-the-stakes-is-the-turnaround-story-done",
+      "published_at": "2026-07-21T14:00:53+00:00"
+    },
+    {
+      "headline": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Tech Stocks Lead the Rally—Nebius, Archer, IREN in Focus (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60570908/stock-market-today-dow-jones-nasdaq-100-futures-rise-as-tech-stocks-lead-the-rally-nebius-archer-iren-in-focus",
+      "published_at": "2026-07-21T12:28:13+00:00"
+    },
+    {
+      "headline": "Jim Cramer's 'Finsuicide' Warning Says Chinese AI Accessing US Data Is a Bigger Threat Than Investors Realize: 'I Do Not Think That It Is a Total Coincidence...'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60573968/jim-cramers-finsuicide-warning-says-chinese-ai-accessing-us-data-is-a-bigger-threat-than-investors-realize-i-do-not-think-that-it-is-a-total-coincidence",
+      "published_at": "2026-07-21T12:11:44+00:00"
+    },
+    {
+      "headline": "What’s Going on With Iren Stock on Tuesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60572520/whats-going-on-with-iren-stock-on-tuesday",
+      "published_at": "2026-07-21T11:23:13+00:00"
+    },
+    {
+      "headline": "What's Going on With NVIDIA Stock Tuesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60572383/whats-going-on-with-nvidia-stock-tuesday-5",
+      "published_at": "2026-07-21T11:16:09+00:00"
+    },
+    {
+      "headline": "Why Is AMD Stock Soaring Tuesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60571798/why-is-amd-stock-soaring-tuesday",
+      "published_at": "2026-07-21T11:00:09+00:00"
+    },
+    {
+      "headline": "This Chinese AI Model Became So Popular It Stopped Taking New Users— and Analysts Say Nvidia, Micron Could Be the Real Winners",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60571681/this-chinese-ai-model-became-so-popular-it-stopped-taking-new-users-and-analysts-say-nvidia-micron-could-be-the-real-winners",
+      "published_at": "2026-07-21T10:55:21+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
