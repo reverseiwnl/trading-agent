@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-07-22T12:05:14.608212+00:00",
+  "price": 347.115,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-08",
+      "open": 365.17,
+      "high": 366.01,
+      "low": 360.56,
+      "close": 363.44,
+      "volume": 870747.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.38,
+      "high": 364.15,
+      "low": 353.485,
+      "close": 359.69,
+      "volume": 779835.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 361.27,
+      "high": 367.905,
+      "low": 357.395,
+      "close": 366.34,
+      "volume": 801620.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 369.07,
+      "high": 373.14,
+      "low": 365.51,
+      "close": 366.985,
+      "volume": 635044.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 365.02,
+      "high": 367.65,
+      "low": 358.02,
+      "close": 361.76,
+      "volume": 648403.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 355.135,
+      "high": 359.615,
+      "low": 351.105,
+      "close": 358.88,
+      "volume": 887524.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 357.8,
+      "high": 357.8,
+      "low": 352.79,
+      "close": 357.17,
+      "volume": 608752.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 356.6,
+      "high": 357.97,
+      "low": 351.87,
+      "close": 352.54,
+      "volume": 623138.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 351.195,
+      "high": 360.14,
+      "low": 351.19,
+      "close": 359.55,
+      "volume": 697435.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 357.885,
+      "high": 373.65,
+      "low": 357.885,
+      "close": 370.98,
+      "volume": 1134849.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 373.325,
+      "high": 375.18,
+      "low": 352.365,
+      "close": 354.31,
+      "volume": 1442304.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 345.99,
+      "high": 348.47,
+      "low": 341.38,
+      "close": 346.765,
+      "volume": 869439.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 351.005,
+      "high": 359.65,
+      "low": 350.74,
+      "close": 352.11,
+      "volume": 1147351.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 350.985,
+      "high": 350.985,
+      "low": 347.02,
+      "close": 347.115,
+      "volume": 766723.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Earnings Scheduled For July 22, 2026",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/earnings/26/07/60602326/earnings-scheduled-july-22-2026",
+      "published_at": "2026-07-22T11:11:30+00:00"
+    },
+    {
+      "headline": "Stock Market Today: S&P 500, Nasdaq 100 Futures Fall As Chip Stocks Cool Down and Tesla, Alphabet Gear Up for Earnings— Super Micro, Adtran, Capital One in Focus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60600025/stock-market-today-sp-500-nasdaq-100-futures-fall-as-chip-stocks-cool-down-and-tesla-alphabet-gear-up-for-earnings-super-micro-adtran-capital-one-in-focus",
+      "published_at": "2026-07-22T09:33:40+00:00"
+    },
+    {
+      "headline": "Elizabeth Warren Says 'AI Companies Don’t Get to Call All the Shots,' Demands More Oversight of Big Tech Data Centers",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60599996/elizabeth-warren-says-ai-companies-dont-get-to-call-all-the-shots-demands-more-oversight-of-big-tech-data-centers",
+      "published_at": "2026-07-22T09:28:27+00:00"
+    },
+    {
+      "headline": "BlackRock, Ford and Alphabet Team Up To Tackle America's Skilled Labor Crisis— Here's What To Know",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60599793/blackrock-ford-and-alphabet-team-up-to-tackle-americas-skilled-labor-crisis-heres-what-to-know",
+      "published_at": "2026-07-22T09:01:48+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60599715/sp500-july-22-open-up-or-down-polymarket-oil-fed-earnings-ai-stocks",
+      "published_at": "2026-07-22T08:44:03+00:00"
+    },
+    {
+      "headline": "Mark Cuban Says AI Data Centers Could Become Pickleball Courts— and Warns Venture Capital Is 'All In' on a Bet That May Not Pay Off",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60599433/mark-cuban-says-ai-data-centers-could-become-pickleball-courts-and-warns-venture-capital-is-all-in-on-a-bet-that-may-not-pay-off",
+      "published_at": "2026-07-22T07:39:57+00:00"
+    },
+    {
+      "headline": "ACCC Issues Draft Determination Proposing To Authorise Google And Epic Games' Settlement On Play Store Fees And Alternative Payment Options Until 30 September 2032, Seeking Submissions By 7 August 2026",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/GOOGL",
+      "published_at": "2026-07-22T07:27:51+00:00"
+    },
+    {
+      "headline": "Trump's Ally Hints at Blocking Netflix, Amazon, ESPN From 2030 World Cup Rights",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/07/60596032/trumps-ally-hints-at-blocking-netflix-amazon-espn-from-2030-world-cup-rights",
+      "published_at": "2026-07-21T20:53:50+00:00"
+    },
+    {
+      "headline": "SpaceX Millionaires Fuel Mark Cuban's Stock Ownership Case—and These ETFs Stand to Benefit",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60592484/spacex-millionaires-fuel-mark-cubans-stock-ownership-case-and-these-etfs-stand-to-benefit",
+      "published_at": "2026-07-21T19:15:50+00:00"
+    },
+    {
+      "headline": "Wells Fargo Maintains Overweight on Alphabet, Raises Price Target to $438",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60590204/wells-fargo-maintains-overweight-alphabet-raises-price-target-438",
+      "published_at": "2026-07-21T18:12:01+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

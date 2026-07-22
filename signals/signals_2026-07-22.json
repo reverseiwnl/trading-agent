@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-22",
+  "market_context": "Pause after a two-day rebound: 'Stock Market Today: S&P 500, Nasdaq 100 Futures Fall As Chip Stocks Cool Down and Tesla, Alphabet Gear Up for Earnings' (07-22) vs yesterday's 'Micron Leads Memory-Stock Rally, Nasdaq 100 Tops 29,000' (07-21). VOO 687.73, near its 30d high (667-694). Data pull PARTIAL for the 11th consecutive run: fundamentals failed for all 7 tickers (proxy 403); prices+news intact, so sector caps remain unenforceable and any buy would be rejected sector-unknown. Every ticker's headline list was non-empty today. Portfolio is 100% cash; the holdings-only breaking-news web sweep was not applicable. Single-source (Benzinga snapshot) day, GOOGL reports tonight - no entries into an earnings print. All holds.",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Klarna deal confirmed a second day ('Klarna Lands Apple Deal to Power New Device Leasing Program', 07-21) with launch July 28, but 'AAPL Stock Hits Historic 11x Sales Valuation Ahead of Tim Cook's Final Earnings Call' (07-21) keeps valuation and CEO-transition risk live. Price 327.66, near top of 30d range (275-334). Falsify toward buy on post-07-28 leasing uptake from a non-Benzinga source; toward sell if the earnings call guides iPhone margin down.",
+      "sources": ["data/2026-07-22/AAPL.json (Benzinga headlines 07-21)", "Alpaca price snapshot 2026-07-22"],
+      "timestamp": "2026-07-22T12:06:25+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "Earnings tonight: 'Tesla, Alphabet Gear Up for Earnings' and 'Earnings Scheduled For July 22, 2026' (both 07-22) - no new position into a binary print, per policy. ACCC draft OK of the Google/Epic Play Store settlement (07-22) trims one regulatory tail. Price 347.12, low-mid 30d range (336-373), Gemini-delay overhang unresolved. Falsify toward buy if the print clears with cloud accelerating and a near-term Gemini date; toward sell if ads soften or the delay slips a quarter.",
+      "sources": ["data/2026-07-22/GOOGL.json (Benzinga headlines 07-22)", "Alpaca price snapshot 2026-07-22"],
+      "timestamp": "2026-07-22T12:06:25+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "'Johnson & Johnson Receives FDA De Novo Authorization For Its OTTAVA Robotic Surgical System' (07-22) is the first substantive non-PT item since the upbeat Q2 (07-16), but 'Trump Sets August 1 Start for Generic Drug Tariff Clock... 200% Duties' (07-22) adds a sector tail. Price 250.66, holding >250, yet the standing second condition - a non-Benzinga confirming source - is still unmet on a single-source day. Falsify toward buy on independent OTTAVA/Q2 confirmation >250; toward sell below 240.",
+      "sources": ["data/2026-07-22/JNJ.json (Benzinga headlines 07-22)", "Alpaca price snapshot 2026-07-22"],
+      "timestamp": "2026-07-22T12:06:25+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "'Manulife, Microsoft Expand Partnership... Microsoft 365 E7 Frontier Suite' (07-22) is a real enterprise-AI datapoint but small; 'Elizabeth Warren... Demands More Oversight of Big Tech Data Centers' (07-22) keeps the AI-capex/regulatory overhang that has capped the stock. Price 396.79, mid 30d range (352-412), still no hard Azure growth print. Falsify toward buy on a concrete Azure number or multi-source enterprise-AI traction; toward sell if AI capex guidance is cut.",
+      "sources": ["data/2026-07-22/MSFT.json (Benzinga headlines 07-22)", "Alpaca price snapshot 2026-07-22"],
+      "timestamp": "2026-07-22T12:06:25+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "'Wistron And NVIDIA Open $700M... Fort Worth Facility To Produce GB300 And Upcoming Vera Rubin Superchips' (07-22) is concrete supply-side progress, but the tape is cooling - 'Futures Fall As Chip Stocks Cool Down' (07-22) after a two-day semi rally. Price 207.18, upper 30d range (192-212); my 07-21 falsify-toward-buy asked the rebound to hold a week with a second source - neither met yet. Falsify toward buy then; toward sell on named hyperscaler defections to AMD.",
+      "sources": ["data/2026-07-22/NVDA.json (Benzinga headlines 07-22)", "Alpaca price snapshot 2026-07-22"],
+      "timestamp": "2026-07-22T12:06:25+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Price 436.94 prints a fresh 30d high (range 400-436) but today's list is again dominated by PT-raise chatter (JPM 516, Mizuho 493 - ignored per policy) plus CNBC 'Final Trades' mentions. The substantive item is still adverse: '2.6 Million People Lost Their Medicare Advantage Plan This Year' (07-20). Chasing a momentum high on chatter fails the entry bar. Falsify toward buy on a second source confirming the MLR trend; toward sell if MA loss guidance worsens.",
+      "sources": ["data/2026-07-22/UNH.json (Benzinga headlines 07-20/07-21)", "Alpaca price snapshot 2026-07-22"],
+      "timestamp": "2026-07-22T12:06:25+00:00"
+    },
+    {
+      "ticker": "VOO",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "Benchmark tracker, not a trade candidate. 'Micron Leads Memory-Stock Rally, Nasdaq 100 Tops 29,000' (07-21) capped the rebound; today futures fade with chips cooling into Tesla/Alphabet earnings (07-22). VOO 687.73, near the 30d high (667-694); 'Known Worries And Unknown Unknowns' (07-20) still flags narrow breadth. Held as the P&L counterfactual only; falsify toward concern on a close below the 667 30d low on broadening AI-capex fear.",
+      "sources": ["data/2026-07-22/VOO.json (Benzinga headlines 07-20/07-21)", "Alpaca price snapshot 2026-07-22"],
+      "timestamp": "2026-07-22T12:06:25+00:00"
+    }
+  ]
+}

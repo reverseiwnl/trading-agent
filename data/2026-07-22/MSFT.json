@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-07-22T12:05:18.014595+00:00",
+  "price": 396.79,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-08",
+      "open": 414.2,
+      "high": 416.89,
+      "low": 408.6,
+      "close": 411.76,
+      "volume": 771640.0
+    },
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 372.54,
+      "high": 377.19,
+      "low": 370.82,
+      "close": 373.93,
+      "volume": 905629.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 371.83,
+      "high": 378.87,
+      "low": 364.8,
+      "close": 365.46,
+      "volume": 1182848.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 362.77,
+      "high": 364.19,
+      "low": 349.205,
+      "close": 352.415,
+      "volume": 2522776.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 357.19,
+      "high": 376.6,
+      "low": 355.45,
+      "close": 371.67,
+      "volume": 2989666.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 377.085,
+      "high": 380.48,
+      "low": 366.86,
+      "close": 368.515,
+      "volume": 1577857.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 370.93,
+      "high": 374.12,
+      "low": 367.54,
+      "close": 372.92,
+      "volume": 988755.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 380.95,
+      "high": 388.81,
+      "low": 374.91,
+      "close": 384.38,
+      "volume": 1541022.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 384.35,
+      "high": 392.2,
+      "low": 383.79,
+      "close": 389.79,
+      "volume": 1346140.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 387.075,
+      "high": 388.995,
+      "low": 381.335,
+      "close": 386.81,
+      "volume": 1115599.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 392.46,
+      "high": 395.52,
+      "low": 388.24,
+      "close": 388.74,
+      "volume": 1269848.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 383.77,
+      "high": 385.205,
+      "low": 381.34,
+      "close": 383.11,
+      "volume": 1124752.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 374.47,
+      "high": 384.64,
+      "low": 373.475,
+      "close": 384.24,
+      "volume": 1217629.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 387.64,
+      "high": 391.8,
+      "low": 381.54,
+      "close": 385.09,
+      "volume": 969305.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 387.91,
+      "high": 393.65,
+      "low": 384.19,
+      "close": 390.985,
+      "volume": 1253350.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 382.505,
+      "high": 388.15,
+      "low": 378.71,
+      "close": 384.94,
+      "volume": 1113317.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 387.655,
+      "high": 398.95,
+      "low": 386.535,
+      "close": 395.61,
+      "volume": 1577874.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 398.2,
+      "high": 405.98,
+      "low": 392.15,
+      "close": 401.12,
+      "volume": 1244751.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 395.05,
+      "high": 398.39,
+      "low": 389.42,
+      "close": 394.015,
+      "volume": 980663.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 390.62,
+      "high": 403.15,
+      "low": 389.74,
+      "close": 402.48,
+      "volume": 1299062.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 399.015,
+      "high": 401.45,
+      "low": 396.36,
+      "close": 397.575,
+      "volume": 994373.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Manulife, Microsoft Expand Partnership Over Manulife's Adoption Of Microsoft 365 E7 Frontier Suite To Become AI-Powered Firm",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60603441/manulife-microsoft-expand-partnership-over-manulife-s-adoption-microsoft-365-e7-frontier-suite-becom",
+      "published_at": "2026-07-22T12:02:13+00:00"
+    },
+    {
+      "headline": "Elizabeth Warren Says 'AI Companies Don’t Get to Call All the Shots,' Demands More Oversight of Big Tech Data Centers",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60599996/elizabeth-warren-says-ai-companies-dont-get-to-call-all-the-shots-demands-more-oversight-of-big-tech-data-centers",
+      "published_at": "2026-07-22T09:28:27+00:00"
+    },
+    {
+      "headline": "Samsung Lays Off Hundreds of US Employees While Relocating Headquarters to Texas: Report (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60542448/samsung-lays-off-hundreds-of-us-employees-while-relocating-headquarters-to-texas-report",
+      "published_at": "2026-07-19T06:34:15+00:00"
+    },
+    {
+      "headline": "Mark Cuban Says AI Data Centers Could Become Pickleball Courts— and Warns Venture Capital Is 'All In' on a Bet That May Not Pay Off",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60599433/mark-cuban-says-ai-data-centers-could-become-pickleball-courts-and-warns-venture-capital-is-all-in-on-a-bet-that-may-not-pay-off",
+      "published_at": "2026-07-22T07:39:57+00:00"
+    },
+    {
+      "headline": "OpenAI Appoints Bank Of New Mellon CEO Robin Vince, Nubank Chairman David Velez To Its Board",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60595068/openai-appoints-bank-new-mellon-ceo-robin-vince-nubank-chairman-david-velez-its-board",
+      "published_at": "2026-07-21T20:27:47+00:00"
+    },
+    {
+      "headline": "OpenAI And Hugging Face Partner To Address Security Incident During Model Evaluation; Implementing Stricter Controls On Infrastructure And Strengthening Model Alignment Safeguards; Sharing Preliminary Findings At This Stage To Help Defenders Understand What Happened Related To The Cybersecurity Incident",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60594227/openai-and-hugging-face-partner-address-security-incident-during-model-evaluation-implementing-stric",
+      "published_at": "2026-07-21T20:07:11+00:00"
+    },
+    {
+      "headline": "SpaceX Millionaires Fuel Mark Cuban's Stock Ownership Case—and These ETFs Stand to Benefit",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60592484/spacex-millionaires-fuel-mark-cubans-stock-ownership-case-and-these-etfs-stand-to-benefit",
+      "published_at": "2026-07-21T19:15:50+00:00"
+    },
+    {
+      "headline": "3M Flags Consumer Electronics Weakness As Memory Costs Bite",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/large-cap/26/07/60589623/3m-flags-consumer-electronics-weakness-as-memory-costs-bite",
+      "published_at": "2026-07-21T17:56:19+00:00"
+    },
+    {
+      "headline": "Buying In Semiconductors On Iran Ceasefire Soap Opera, Earnings Hopium, And Korea",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60589483/buying-in-semiconductors-on-iran-ceasefire-soap-opera-earnings-hopium-and-korea",
+      "published_at": "2026-07-21T17:50:00+00:00"
+    },
+    {
+      "headline": "Micron Leads Memory-Stock Rally, Nasdaq 100 Tops 29,000: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60589094/chips-power-micron-rallies-12-percent-nasdaq-100-markets-tuesday",
+      "published_at": "2026-07-21T17:40:08+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
