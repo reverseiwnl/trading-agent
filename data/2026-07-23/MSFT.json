@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-07-23T12:05:17.935750+00:00",
+  "price": 390.27,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-09",
+      "open": 409.03,
+      "high": 411.93,
+      "low": 398.49,
+      "close": 403.11,
+      "volume": 1042767.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 372.54,
+      "high": 377.19,
+      "low": 370.82,
+      "close": 373.93,
+      "volume": 905629.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 371.83,
+      "high": 378.87,
+      "low": 364.8,
+      "close": 365.46,
+      "volume": 1182848.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 362.77,
+      "high": 364.19,
+      "low": 349.205,
+      "close": 352.415,
+      "volume": 2522776.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 357.19,
+      "high": 376.6,
+      "low": 355.45,
+      "close": 371.67,
+      "volume": 2989666.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 377.085,
+      "high": 380.48,
+      "low": 366.86,
+      "close": 368.515,
+      "volume": 1577857.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 370.93,
+      "high": 374.12,
+      "low": 367.54,
+      "close": 372.92,
+      "volume": 988755.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 380.95,
+      "high": 388.81,
+      "low": 374.91,
+      "close": 384.38,
+      "volume": 1541022.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 384.35,
+      "high": 392.2,
+      "low": 383.79,
+      "close": 389.79,
+      "volume": 1346140.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 387.075,
+      "high": 388.995,
+      "low": 381.335,
+      "close": 386.81,
+      "volume": 1115599.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 392.46,
+      "high": 395.52,
+      "low": 388.24,
+      "close": 388.74,
+      "volume": 1269848.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 383.77,
+      "high": 385.205,
+      "low": 381.34,
+      "close": 383.11,
+      "volume": 1124752.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 374.47,
+      "high": 384.64,
+      "low": 373.475,
+      "close": 384.24,
+      "volume": 1217629.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 387.64,
+      "high": 391.8,
+      "low": 381.54,
+      "close": 385.09,
+      "volume": 969305.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 387.91,
+      "high": 393.65,
+      "low": 384.19,
+      "close": 390.985,
+      "volume": 1253350.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 382.505,
+      "high": 388.15,
+      "low": 378.71,
+      "close": 384.94,
+      "volume": 1113317.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 387.655,
+      "high": 398.95,
+      "low": 386.535,
+      "close": 395.61,
+      "volume": 1577874.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 398.2,
+      "high": 405.98,
+      "low": 392.15,
+      "close": 401.12,
+      "volume": 1244751.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 395.05,
+      "high": 398.39,
+      "low": 389.42,
+      "close": 394.015,
+      "volume": 980663.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 390.62,
+      "high": 403.15,
+      "low": 389.74,
+      "close": 402.48,
+      "volume": 1299062.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 399.015,
+      "high": 401.45,
+      "low": 396.36,
+      "close": 397.575,
+      "volume": 994373.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 399.58,
+      "high": 400.89,
+      "low": 386.98,
+      "close": 390.275,
+      "volume": 1163738.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Alphabet Spending Too Much on AI? Wall Street Sees Both Opportunity and Risk After Earnings: 'The Cloud Number Is the Most Important Number'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60628671/alphabet-ai-spending-cloud-growth-wall-street",
+      "published_at": "2026-07-23T06:08:19+00:00"
+    },
+    {
+      "headline": "AI ETFs Just Got More Selective: Defiance's AIHY Bets Only on AI Hyperscale Winners",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60625703/ai-etfs-just-got-more-selective-defiances-aihy-bets-only-on-ai-hyperscale-winners",
+      "published_at": "2026-07-22T20:58:35+00:00"
+    },
+    {
+      "headline": "Analysts Say Microsoft Stock Is Deeply Undervalued Ahead of Q4 Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60620160/analysts-say-microsoft-stock-is-deeply-undervalued-ahead-of-q4-earnings",
+      "published_at": "2026-07-22T18:45:27+00:00"
+    },
+    {
+      "headline": "Chip Stocks Retreat As Yemen’s Houthis Enter The War; Alphabet, Tesla Earnings Ahead",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60622342/chip-stocks-retreat-as-yemens-houthis-enter-the-war-alphabet-tesla-earnings-ahead",
+      "published_at": "2026-07-22T19:52:19+00:00"
+    },
+    {
+      "headline": "Twitter Founder Jack Dorsey is Making a New Slack — Should Salesforce Investors Be Worried?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60618174/twitter-founder-jack-dorsey-is-making-a-new-slack-should-salesforce-investors-be-worried",
+      "published_at": "2026-07-22T17:52:15+00:00"
+    },
+    {
+      "headline": "Bernstein Reiterates Outperform on Microsoft, Maintains $646 Price Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60614805/bernstein-reiterates-outperform-microsoft-maintains-646-price-target",
+      "published_at": "2026-07-22T16:23:50+00:00"
+    },
+    {
+      "headline": "Oppenheimer Reiterates Outperform on Microsoft, Maintains $515 Price Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60614644/oppenheimer-reiterates-outperform-microsoft-maintains-515-price-target",
+      "published_at": "2026-07-22T16:20:46+00:00"
+    },
+    {
+      "headline": "Truist Securities Reiterates Buy on Microsoft, Maintains $575 Price Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60614542/truist-securities-reiterates-buy-microsoft-maintains-575-price-target",
+      "published_at": "2026-07-22T16:17:53+00:00"
+    },
+    {
+      "headline": "Moody’s Stock Gains on Q2 Earnings Beat: Robust Debt Issuance, AI Growth Drive Target Raise",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60614448/moodys-stock-gains-on-q2-earnings-beat-robust-debt-issuance-ai-growth-drive-target-raise",
+      "published_at": "2026-07-22T16:15:41+00:00"
+    },
+    {
+      "headline": "OpenAI Commits To Provide $4M In Codex Access To ~2K Genesis Researchers At National Laboratories And Universities; Committing To $3M For API Support; To Offer Participating Researchers Up To $10M In API Usage For $2.5M Spent",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60613132/openai-commits-provide-4m-codex-access-2k-genesis-researchers-national-laboratories-and-universities",
+      "published_at": "2026-07-22T15:43:10+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

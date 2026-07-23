@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-07-23T12:05:14.450932+00:00",
+  "price": 329.71,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-09",
+      "open": 367.535,
+      "high": 372.07,
+      "low": 357.39,
+      "close": 364.05,
+      "volume": 951632.0
+    },
+    {
+      "date": "2026-06-10",
+      "open": 362.825,
+      "high": 368.52,
+      "low": 355.27,
+      "close": 356.33,
+      "volume": 1136001.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 356.51,
+      "high": 358.78,
+      "low": 346.37,
+      "close": 357.87,
+      "volume": 1012774.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 362.585,
+      "high": 366.57,
+      "low": 354.96,
+      "close": 359.65,
+      "volume": 887508.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 367.765,
+      "high": 372.98,
+      "low": 366.635,
+      "close": 369.22,
+      "volume": 847700.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.38,
+      "high": 364.15,
+      "low": 353.485,
+      "close": 359.69,
+      "volume": 779835.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 361.27,
+      "high": 367.905,
+      "low": 357.395,
+      "close": 366.34,
+      "volume": 801620.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 369.07,
+      "high": 373.14,
+      "low": 365.51,
+      "close": 366.985,
+      "volume": 635044.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 365.02,
+      "high": 367.65,
+      "low": 358.02,
+      "close": 361.76,
+      "volume": 648403.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 355.135,
+      "high": 359.615,
+      "low": 351.105,
+      "close": 358.88,
+      "volume": 887524.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 357.8,
+      "high": 357.8,
+      "low": 352.79,
+      "close": 357.17,
+      "volume": 608752.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 356.6,
+      "high": 357.97,
+      "low": 351.87,
+      "close": 352.54,
+      "volume": 623138.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 351.195,
+      "high": 360.14,
+      "low": 351.19,
+      "close": 359.55,
+      "volume": 697435.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 357.885,
+      "high": 373.65,
+      "low": 357.885,
+      "close": 370.98,
+      "volume": 1134849.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 373.325,
+      "high": 375.18,
+      "low": 352.365,
+      "close": 354.31,
+      "volume": 1442304.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 345.99,
+      "high": 348.47,
+      "low": 341.38,
+      "close": 346.765,
+      "volume": 869439.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 351.005,
+      "high": 359.65,
+      "low": 350.74,
+      "close": 352.11,
+      "volume": 1147351.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 350.985,
+      "high": 350.985,
+      "low": 347.02,
+      "close": 347.115,
+      "volume": 766723.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 348.155,
+      "high": 349.925,
+      "low": 341.79,
+      "close": 342.06,
+      "volume": 1361767.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "As Wall Street Frets Over Alphabet's AI Spending Binge, Mark Cuban Says Google Is Simply Doing What Worked in 1998: 'We Needed to Have More Than Anyone Else… and We Did'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60633691/as-wall-street-frets-over-alphabets-ai-spending-binge-mark-cuban-says-google-is-simply-doing-what-worked-in-1998-we-needed-to-have-more-than-anyone-else-and-we-did",
+      "published_at": "2026-07-23T11:58:19+00:00"
+    },
+    {
+      "headline": "Tesla Could 'Eventually Drop a Bomb on Waymo,' Gene Munster Says, After AI Chief Signals Statewide Robotaxi Launches",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60633225/tesla-could-eventually-drop-a-bomb-on-waymo-gene-munster-says-after-ai-chief-signals-statewide-robotaxi-launches",
+      "published_at": "2026-07-23T11:38:34+00:00"
+    },
+    {
+      "headline": "Alphabet Raises AI Spending But Still Can't Meet Demand: 'We're Still in a Supply Constraint Environment'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60630322/alphabet-raises-ai-spending-but-still-cant-meet-demand-were-still-in-a-supply-constraint-environment",
+      "published_at": "2026-07-23T09:55:57+00:00"
+    },
+    {
+      "headline": "Pivotal Research Maintains Buy on Alphabet, Raises Price Target to $475",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60630298/pivotal-research-maintains-buy-alphabet-raises-price-target-475",
+      "published_at": "2026-07-23T09:49:06+00:00"
+    },
+    {
+      "headline": "Sundar Pichai Just Said Something About Google’s Gemini 4—and Sam Altman, Elon Musk Should Care",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60630083/sundar-pichai-just-said-something-about-googles-gemini-4-and-sam-altman-elon-musk-should-care",
+      "published_at": "2026-07-23T09:26:35+00:00"
+    },
+    {
+      "headline": "Alphabet's $112 Billion Quarterly Profit Looked Like an AI and Search Victory, but SpaceX and Anthropic Actually Powered the Historic Windfall",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60629802/alphabets-112-billion-quarterly-profit-looked-like-an-ai-and-search-victory-but-spacex-and-anthropic-actually-powered-the-historic-windfall",
+      "published_at": "2026-07-23T08:52:19+00:00"
+    },
+    {
+      "headline": "Intel And AMD Eye Multi-Year Server Chip Deals With Chinese Customers amid AI Boom: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60629604/intel-and-amd-eye-multi-year-server-chip-deals-with-chinese-customers-amid-ai-boom-report",
+      "published_at": "2026-07-23T08:20:08+00:00"
+    },
+    {
+      "headline": "Alphabet, Tesla And 3 Stocks To Watch Heading Into Thursday",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60629162/alphabet-tesla-and-3-stocks-to-watch-heading-into-thursday-2",
+      "published_at": "2026-07-23T07:13:50+00:00"
+    },
+    {
+      "headline": "IBM's Q2 Deal Slippage Is a 'Temporary Speed Bump,' Says Michael Lee as CEO Arvind Krishna Says Delayed Deals Are Closing",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60629046/ibms-q2-deal-slippage-is-a-temporary-speed-bump-says-michael-lee-as-ceo-arvind-krishna-says-delayed-deals-are-closing",
+      "published_at": "2026-07-23T07:08:33+00:00"
+    },
+    {
+      "headline": "Alphabet Spending Too Much on AI? Wall Street Sees Both Opportunity and Risk After Earnings: 'The Cloud Number Is the Most Important Number'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60628671/alphabet-ai-spending-cloud-growth-wall-street",
+      "published_at": "2026-07-23T06:08:19+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

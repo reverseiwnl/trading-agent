@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-23",
+  "market_context": "Post-Alphabet-earnings session: 'Stock Market Today: Nasdaq 100 Falls as Crude Rallies to $88' (07-22) with 'Chip Stocks Retreat As Yemen's Houthis Enter The War' (07-22) adding a geopolitical/oil tail. VOO 687.15, near its 30d high (667-694). Data pull PARTIAL for the 12th consecutive run: fundamentals failed for all 7 tickers (proxy 403); prices+news intact, so sector caps remain unenforceable and any buy would be rejected sector-unknown. Every ticker's headline list was non-empty today. Portfolio is 100% cash; the holdings-only breaking-news web sweep was not applicable. Single-source (Benzinga snapshot) day again; conviction capped below 0.7 throughout. All holds.",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "'Apple Plans Overhaul of MacBooks, iMac in Push to Meet AI Demand' (Bloomberg via Benzinga, 07-22) and 'Apple Could Seize a Quarter of the Foldable Phone Market in Year One' (07-23) are constructive but pre-revenue; valuation/CEO-transition risk remains. Price 323.23, upper 30d range (275-334), fading two days. Falsify toward buy on post-07-28 Klarna leasing uptake or foldable preorder data from a non-Benzinga source; toward sell if earnings guide iPhone margin down.",
+      "sources": [
+        "data/2026-07-23/AAPL.json headlines 07-22/07-23 (Benzinga; Bloomberg-sourced item)"
+      ],
+      "timestamp": "2026-07-23T12:07:45+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "Print is in and mixed: 'Alphabet's $112 Billion Quarterly Profit... but SpaceX and Anthropic Actually Powered the Historic Windfall' and 'Raises AI Spending But Still Can't Meet Demand' (both 07-23). Price 329.71, below the prior 30d low (335.79); my 07-22 buy condition (clean print, cloud accelerating) is NOT met - profit quality is non-operating. No knife-catch on a single-source day. Falsify toward buy on non-Benzinga cloud confirmation with price >336; toward sell on ad softness.",
+      "sources": [
+        "data/2026-07-23/GOOGL.json headlines 07-23 (Benzinga)"
+      ],
+      "timestamp": "2026-07-23T12:07:45+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "OTTAVA has two same-snapshot items ('FDA Approves... Table-Integrated OTTAVA Robotic Surgery System' and 'FDA De Novo Authorization', both 07-22) and price followed, 250.66 to 255.69. But both are Benzinga - the standing second condition (independent non-Benzinga confirmation) is unmet, and 'Trump Sets August 1 Start for Generic Drug Tariff Clock... 200% Duties' (07-22) is a live sector tail. Falsify toward buy on independent OTTAVA confirmation with price >250; toward sell below 240.",
+      "sources": [
+        "data/2026-07-23/JNJ.json headlines 07-22 (Benzinga)"
+      ],
+      "timestamp": "2026-07-23T12:07:45+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "Today's list is PT-reiteration chatter (Bernstein/Oppenheimer/Truist - ignored per policy) plus 'Analysts Say Microsoft Stock Is Deeply Undervalued Ahead of Q4 Earnings' (07-22), which is opinion, not data. Alphabet's capex-heavy print ('The Cloud Number Is the Most Important Number', 07-23) makes MSFT's own report a binary; price 390.27 faded from 397.57, mid-upper 30d range (352-403). No entry ahead of a print. Falsify toward buy on a hard Azure number; toward sell if AI capex guidance is cut.",
+      "sources": [
+        "data/2026-07-23/MSFT.json headlines 07-22/07-23 (Benzinga)"
+      ],
+      "timestamp": "2026-07-23T12:07:45+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Price 212.59 prints a fresh 30d high (192-212.5); supply tailwinds persist ('Why Micron, Sandisk, and SK Hynix Are Surging', 'Memory Shortages May Persist Through 2027', both 07-23) but policy risk rises: 'Scott Bessent... Warns Chinese AI Firms of Sanctions' (07-23) and 'Chip Stocks Retreat As Yemen's Houthis Enter The War' (07-22). Standing buy condition (rebound holds a week + second independent source) unmet on a Benzinga-only day. Falsify toward sell on named hyperscaler defections to AMD.",
+      "sources": [
+        "data/2026-07-23/NVDA.json headlines 07-22/07-23 (Benzinga)"
+      ],
+      "timestamp": "2026-07-23T12:07:45+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "Headline list is chatter-dominated: CNBC 'Final Trades' items, 'Live On CNBC, Steve Weiss Announces Bought More UnitedHealth Group' (07-22), and PT raises (JPM/Mizuho) - all ignored per policy. Last substantive item is still adverse: '2.6 Million People Lost Their Medicare Advantage Plan This Year' (07-20). Price 431.32, one day off the 30d high (400-436); nothing new to act on. Falsify toward buy on a second source confirming MLR improvement; toward sell if MA loss guidance worsens.",
+      "sources": [
+        "data/2026-07-23/UNH.json headlines 07-20/07-22 (Benzinga)"
+      ],
+      "timestamp": "2026-07-23T12:07:45+00:00"
+    },
+    {
+      "ticker": "VOO",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "Benchmark tracker, not a trade candidate. 'Stock Market Today: Nasdaq 100 Falls as Crude Rallies to $88' (07-22) after 'SPY, QQQ And SOXL Power ETF Trading To New Record' (07-22); Houthis entering the war adds an oil/geopolitical tail. VOO 687.15, near the 30d high (667-694) with 'Known Worries And Unknown Unknowns' (07-20) still flagging narrow breadth. Held as the P&L counterfactual only; falsify toward concern on a close below 667 on broadening AI-capex or oil fear.",
+      "sources": [
+        "data/2026-07-23/VOO.json headlines 07-20/07-22 (Benzinga)"
+      ],
+      "timestamp": "2026-07-23T12:07:45+00:00"
+    }
+  ]
+}
