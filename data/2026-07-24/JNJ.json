@@ -1,0 +1,284 @@
+{
+  "ticker": "JNJ",
+  "as_of": "2026-07-24T12:05:22.670207+00:00",
+  "price": 259.38,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-10",
+      "open": 238.42,
+      "high": 240.88,
+      "low": 237.43,
+      "close": 238.52,
+      "volume": 352737.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 239.8,
+      "high": 241.55,
+      "low": 238.18,
+      "close": 238.31,
+      "volume": 262713.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 238.98,
+      "high": 240.9,
+      "low": 237.83,
+      "close": 240.84,
+      "volume": 241223.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 239.01,
+      "high": 239.01,
+      "low": 233.675,
+      "close": 235.78,
+      "volume": 261626.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 236.03,
+      "high": 236.125,
+      "low": 231.14,
+      "close": 235.25,
+      "volume": 327750.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 233.585,
+      "high": 233.95,
+      "low": 230.845,
+      "close": 233.92,
+      "volume": 372902.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 231.75,
+      "high": 232.68,
+      "low": 227.635,
+      "close": 228.345,
+      "volume": 348977.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 228.39,
+      "high": 231.45,
+      "low": 227.715,
+      "close": 231.34,
+      "volume": 339851.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 236.375,
+      "high": 239.79,
+      "low": 234.42,
+      "close": 239.2,
+      "volume": 426872.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 240.33,
+      "high": 243.03,
+      "low": 238.75,
+      "close": 241.0,
+      "volume": 317781.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 241.49,
+      "high": 248.14,
+      "low": 241.305,
+      "close": 244.78,
+      "volume": 358988.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 248.55,
+      "high": 255.08,
+      "low": 247.92,
+      "close": 254.36,
+      "volume": 511996.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 253.66,
+      "high": 258.565,
+      "low": 253.245,
+      "close": 258.42,
+      "volume": 344870.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 259.09,
+      "high": 259.73,
+      "low": 253.28,
+      "close": 253.97,
+      "volume": 214839.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 253.64,
+      "high": 254.165,
+      "low": 251.15,
+      "close": 254.03,
+      "volume": 210407.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 255.445,
+      "high": 263.04,
+      "low": 254.53,
+      "close": 263.04,
+      "volume": 245792.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 261.105,
+      "high": 261.105,
+      "low": 256.11,
+      "close": 259.28,
+      "volume": 305492.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 264.98,
+      "high": 269.395,
+      "low": 264.36,
+      "close": 267.16,
+      "volume": 523890.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 267.175,
+      "high": 267.8,
+      "low": 263.15,
+      "close": 263.26,
+      "volume": 347594.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 260.475,
+      "high": 263.44,
+      "low": 258.17,
+      "close": 259.05,
+      "volume": 267929.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 260.49,
+      "high": 260.82,
+      "low": 255.565,
+      "close": 256.93,
+      "volume": 191772.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 257.67,
+      "high": 259.33,
+      "low": 256.2,
+      "close": 257.86,
+      "volume": 227537.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 255.435,
+      "high": 256.075,
+      "low": 252.23,
+      "close": 253.77,
+      "volume": 317395.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 249.19,
+      "high": 256.24,
+      "low": 246.08,
+      "close": 246.98,
+      "volume": 572884.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 248.9,
+      "high": 253.4,
+      "low": 246.455,
+      "close": 249.545,
+      "volume": 1111606.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 253.075,
+      "high": 255.41,
+      "low": 251.96,
+      "close": 253.015,
+      "volume": 419433.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 252.04,
+      "high": 253.94,
+      "low": 248.655,
+      "close": 248.85,
+      "volume": 286839.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 246.85,
+      "high": 251.285,
+      "low": 245.885,
+      "close": 250.66,
+      "volume": 463468.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 252.25,
+      "high": 256.18,
+      "low": 251.42,
+      "close": 255.69,
+      "volume": 391759.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 254.87,
+      "high": 260.15,
+      "low": 254.51,
+      "close": 259.38,
+      "volume": 603799.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Johnson & Johnson Announces Topline Results From Phase 3 MonumenTAL-6 Study Evaluating TECVAYLI + TALVEY In Adult Patients With Multiple Myeloma; Study Demonstrated Statistically Significant And Clinically Meaningful Improvements In Progression-Free Survival And Overall Survival",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60635024/johnson-johnson-announces-topline-results-phase-3-monumental-6-study-evaluating-tecvayli-talvey-adul",
+      "published_at": "2026-07-23T12:39:55+00:00"
+    },
+    {
+      "headline": "FDA Approves Johnson & Johnson Table-Integrated OTTAVA Robotic Surgery System",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/fda/26/07/60616434/fda-approves-johnson-johnson-table-integrated-ottava-robotic-surgery-system",
+      "published_at": "2026-07-22T17:08:03+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Receives FDA De Novo Authorization For Its OTTAVA Robotic Surgical System",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60602426/johnson-johnson-receives-fda-de-novo-authorization-its-ottava-robotic-surgical-system",
+      "published_at": "2026-07-22T11:16:43+00:00"
+    },
+    {
+      "headline": "Trump Sets August 1 Start for Generic Drug Tariff Clock, Warns of 200% Duties: Companies Must 'Build Plant and Equipment' in US",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/07/60598187/trump-generic-drug-tariffs-200-percent-august-1",
+      "published_at": "2026-07-22T02:13:10+00:00"
+    },
+    {
+      "headline": "Guggenheim Reiterates Buy on Johnson & Johnson, Maintains $270 Price Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60520836/guggenheim-reiterates-buy-johnson-johnson-maintains-270-price-target",
+      "published_at": "2026-07-17T12:34:51+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

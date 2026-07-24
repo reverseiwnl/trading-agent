@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-07-24T12:05:26.090820+00:00",
+  "price": 208.76,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-10",
+      "open": 204.305,
+      "high": 207.185,
+      "low": 199.93,
+      "close": 200.41,
+      "volume": 4910869.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 201.33,
+      "high": 205.64,
+      "low": 199.54,
+      "close": 204.86,
+      "volume": 5648208.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 204.5,
+      "high": 207.06,
+      "low": 203.46,
+      "close": 205.17,
+      "volume": 3923011.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 208.875,
+      "high": 212.71,
+      "low": 208.35,
+      "close": 212.46,
+      "volume": 4594335.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 211.115,
+      "high": 211.365,
+      "low": 207.31,
+      "close": 207.37,
+      "volume": 4089180.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 208.3,
+      "high": 209.2,
+      "low": 203.47,
+      "close": 204.7,
+      "volume": 3697942.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 207.4,
+      "high": 211.385,
+      "low": 206.5,
+      "close": 210.38,
+      "volume": 4026083.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 211.45,
+      "high": 213.98,
+      "low": 207.72,
+      "close": 208.59,
+      "volume": 5739735.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 202.05,
+      "high": 203.75,
+      "low": 200.0,
+      "close": 200.07,
+      "volume": 3965353.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 200.13,
+      "high": 201.57,
+      "low": 196.6,
+      "close": 198.94,
+      "volume": 3243387.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 200.07,
+      "high": 200.79,
+      "low": 192.17,
+      "close": 195.89,
+      "volume": 3897568.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 193.11,
+      "high": 195.55,
+      "low": 191.24,
+      "close": 191.97,
+      "volume": 4202530.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 193.785,
+      "high": 196.16,
+      "low": 189.82,
+      "close": 194.92,
+      "volume": 3680689.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 197.12,
+      "high": 200.63,
+      "low": 195.11,
+      "close": 199.93,
+      "volume": 5774896.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 196.05,
+      "high": 199.85,
+      "low": 193.46,
+      "close": 197.54,
+      "volume": 6075573.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 197.13,
+      "high": 200.055,
+      "low": 192.35,
+      "close": 194.51,
+      "volume": 5880254.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 194.37,
+      "high": 197.53,
+      "low": 194.0,
+      "close": 195.59,
+      "volume": 4538784.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 192.25,
+      "high": 198.385,
+      "low": 191.15,
+      "close": 196.97,
+      "volume": 4767383.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 195.23,
+      "high": 205.13,
+      "low": 195.23,
+      "close": 204.07,
+      "volume": 5480997.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 204.46,
+      "high": 204.58,
+      "low": 198.98,
+      "close": 202.695,
+      "volume": 4867367.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 202.11,
+      "high": 210.99,
+      "low": 202.07,
+      "close": 210.99,
+      "volume": 7548841.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 208.595,
+      "high": 210.54,
+      "low": 203.355,
+      "close": 203.485,
+      "volume": 3818565.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 208.25,
+      "high": 212.55,
+      "low": 203.84,
+      "close": 211.79,
+      "volume": 3673407.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 211.96,
+      "high": 213.775,
+      "low": 206.04,
+      "close": 212.5,
+      "volume": 4218423.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 210.26,
+      "high": 211.03,
+      "low": 205.85,
+      "close": 207.46,
+      "volume": 4036020.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 202.74,
+      "high": 206.63,
+      "low": 197.98,
+      "close": 202.8,
+      "volume": 4558491.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 205.605,
+      "high": 207.71,
+      "low": 202.29,
+      "close": 203.33,
+      "volume": 3550006.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 207.5,
+      "high": 208.61,
+      "low": 204.01,
+      "close": 207.24,
+      "volume": 3037338.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 205.875,
+      "high": 214.39,
+      "low": 205.01,
+      "close": 212.07,
+      "volume": 5839269.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 209.43,
+      "high": 210.85,
+      "low": 205.96,
+      "close": 208.76,
+      "volume": 4289878.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "AMD's Anthropic and OpenAI Deals Power $2 Trillion AI Ambitions",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60662818/amds-anthropic-and-openai-deals-power-2-trillion-ai-ambitions",
+      "published_at": "2026-07-24T11:12:03+00:00"
+    },
+    {
+      "headline": "Why Wall Street Says Intel's Rich Valuation May Still Be Worth Paying",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60661219/why-wall-street-says-intels-rich-valuation-may-still-be-worth-paying",
+      "published_at": "2026-07-24T09:42:56+00:00"
+    },
+    {
+      "headline": "Mark Cuban Predicts Humanoid Robots Will Flop on 'Latency, Processing Power, Dexterity,' and Specialized Robots Will Win Instead: 'Logistics Have Already....'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60662101/mark-cuban-predicts-humanoid-robots-will-flop-on-latency-processing-power-dexterity-and-specialized-robots-will-win-instead-logistics-have-already",
+      "published_at": "2026-07-24T10:29:48+00:00"
+    },
+    {
+      "headline": "Performance Comparison: NVIDIA And Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60661365/performance-comparison-nvidia-and-competitors-semiconductors-amp-semiconductor-equipment-industry",
+      "published_at": "2026-07-24T09:58:25+00:00"
+    },
+    {
+      "headline": "Elon Musk's Pitch for AI Firms To Peer Review Each Other's Models Surfaces Just as OpenAI's Own Agent Went Rogue: 'The Most Immediate Thing...'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60660899/elon-musks-pitch-for-ai-firms-to-peer-review-each-others-models-surfaces-just-as-openais-own-agent-went-rogue-the-most-immediate-thing",
+      "published_at": "2026-07-24T09:01:38+00:00"
+    },
+    {
+      "headline": "Intel's CEO Just Made a Bold AI Prediction. Here's Why NVDA Investors Should Pay Attention",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60660778/intels-ceo-just-made-a-bold-ai-prediction-heres-why-nvda-investors-should-pay-attention",
+      "published_at": "2026-07-24T08:39:59+00:00"
+    },
+    {
+      "headline": "Reported Earlier, NVIDIA And KAIST Launch Joint AI Research Lab In Seoul, Committing $300M Over Five Years To Advance Agentic AI For Korea",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60660383/reported-earlier-nvidia-and-kaist-launch-joint-ai-research-lab-seoul-committing-300m-over-five-years",
+      "published_at": "2026-07-24T07:23:34+00:00"
+    },
+    {
+      "headline": "Nvidia Partnership Gets Amkor Technology (AMKR) Stock Trending: Here's What You Should Know",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60659435/amkor-stock-nvidia-partnership-what-to-know",
+      "published_at": "2026-07-24T03:41:55+00:00"
+    },
+    {
+      "headline": "New Senator Makes 700+ Stock Trades, Ditches Old Oil Company for Magnificent Seven",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/07/60657916/new-senator-makes-700-stock-trades-ditches-old-oil-company-for-magnificent-seven",
+      "published_at": "2026-07-23T21:18:51+00:00"
+    },
+    {
+      "headline": "Amkor Technology Collaborating With Nvidia To Develop Advanced Semiconductor Packaging, Test Technologies For AI, Accelerated Computing Platforms",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60657470/amkor-technology-collaborating-nvidia-develop-advanced-semiconductor-packaging-test-technologies-ai-",
+      "published_at": "2026-07-23T21:01:19+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

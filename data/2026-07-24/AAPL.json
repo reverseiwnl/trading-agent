@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-07-24T12:05:19.296466+00:00",
+  "price": 321.575,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-10",
+      "open": 290.7,
+      "high": 294.74,
+      "low": 287.38,
+      "close": 291.48,
+      "volume": 1843917.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 293.395,
+      "high": 296.995,
+      "low": 289.62,
+      "close": 295.48,
+      "volume": 1372585.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 296.075,
+      "high": 297.11,
+      "low": 289.635,
+      "close": 291.085,
+      "volume": 1456808.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 293.99,
+      "high": 297.78,
+      "low": 291.75,
+      "close": 296.53,
+      "volume": 1573337.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 295.245,
+      "high": 300.445,
+      "low": 293.99,
+      "close": 299.26,
+      "volume": 1229360.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 300.845,
+      "high": 301.95,
+      "low": 294.39,
+      "close": 296.07,
+      "volume": 1195228.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 298.44,
+      "high": 300.56,
+      "low": 295.635,
+      "close": 297.86,
+      "volume": 1278873.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 297.41,
+      "high": 302.415,
+      "low": 296.82,
+      "close": 296.85,
+      "volume": 1619228.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 297.61,
+      "high": 301.635,
+      "low": 294.27,
+      "close": 294.28,
+      "volume": 1781140.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 295.345,
+      "high": 299.675,
+      "low": 292.94,
+      "close": 293.32,
+      "volume": 2239666.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 287.5,
+      "high": 288.68,
+      "low": 273.79,
+      "close": 275.21,
+      "volume": 5858472.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 275.14,
+      "high": 285.95,
+      "low": 274.25,
+      "close": 281.31,
+      "volume": 5117781.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 286.69,
+      "high": 288.35,
+      "low": 279.85,
+      "close": 281.69,
+      "volume": 2386040.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 281.145,
+      "high": 289.9,
+      "low": 280.7,
+      "close": 289.24,
+      "volume": 1576321.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 293.44,
+      "high": 296.57,
+      "low": 289.195,
+      "close": 294.42,
+      "volume": 2428489.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 294.085,
+      "high": 309.415,
+      "low": 293.89,
+      "close": 308.235,
+      "volume": 3813037.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 307.54,
+      "high": 314.19,
+      "low": 307.02,
+      "close": 312.73,
+      "volume": 1434853.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 315.29,
+      "high": 315.47,
+      "low": 310.18,
+      "close": 310.69,
+      "volume": 1573402.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 311.91,
+      "high": 314.805,
+      "low": 307.11,
+      "close": 313.33,
+      "volume": 1549372.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 310.45,
+      "high": 316.53,
+      "low": 308.19,
+      "close": 316.16,
+      "volume": 1441032.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 314.72,
+      "high": 316.91,
+      "low": 312.17,
+      "close": 315.32,
+      "volume": 1326282.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 317.005,
+      "high": 323.395,
+      "low": 315.79,
+      "close": 317.47,
+      "volume": 1374655.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 313.76,
+      "high": 316.145,
+      "low": 311.955,
+      "close": 314.93,
+      "volume": 1213545.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 317.46,
+      "high": 328.705,
+      "low": 317.4,
+      "close": 327.58,
+      "volume": 1721273.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 328.135,
+      "high": 334.65,
+      "low": 326.885,
+      "close": 333.23,
+      "volume": 2365368.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 331.98,
+      "high": 334.98,
+      "low": 329.025,
+      "close": 333.75,
+      "volume": 2248743.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 332.235,
+      "high": 333.63,
+      "low": 323.73,
+      "close": 326.65,
+      "volume": 2314409.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 323.345,
+      "high": 329.565,
+      "low": 322.24,
+      "close": 327.66,
+      "volume": 1409246.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 327.98,
+      "high": 328.865,
+      "low": 323.365,
+      "close": 325.86,
+      "volume": 1552861.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.815,
+      "high": 323.25,
+      "low": 319.365,
+      "close": 321.575,
+      "volume": 1362559.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Apple Stock Trades Above Every Major Moving Average Heading Into Q3",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60663633/apple-stock-trades-above-every-major-moving-average-heading-into-q3",
+      "published_at": "2026-07-24T11:49:36+00:00"
+    },
+    {
+      "headline": "Why Wall Street Says Intel's Rich Valuation May Still Be Worth Paying",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60661219/why-wall-street-says-intels-rich-valuation-may-still-be-worth-paying",
+      "published_at": "2026-07-24T09:42:56+00:00"
+    },
+    {
+      "headline": "Micron Stock Climbs Over 3% In Pre-Market: What's Going On?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/06/60008042/micron-stock-climbs-over-3-in-pre-market-whats-going-on",
+      "published_at": "2026-06-22T09:46:09+00:00"
+    },
+    {
+      "headline": "New Senator Makes 700+ Stock Trades, Ditches Old Oil Company for Magnificent Seven",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/07/60657916/new-senator-makes-700-stock-trades-ditches-old-oil-company-for-magnificent-seven",
+      "published_at": "2026-07-23T21:18:51+00:00"
+    },
+    {
+      "headline": "NVIDIA's Next Breakout? Market Veteran Sees Plenty of Fuel Left in the AI Leader",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60653023/nvidias-next-breakout-market-veteran-sees-plenty-of-fuel-left-in-the-ai-leader",
+      "published_at": "2026-07-23T19:13:27+00:00"
+    },
+    {
+      "headline": "Why Is Walt Disney Stock Falling Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60652375/why-is-walt-disney-stock-falling-thursday",
+      "published_at": "2026-07-23T18:53:57+00:00"
+    },
+    {
+      "headline": "Morgan Stanley Maintains Overweight on Apple, Raises Price Target to $364",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60649958/morgan-stanley-maintains-overweight-apple-raises-price-target-364",
+      "published_at": "2026-07-23T17:45:54+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/07/60649592/10-information-technology-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-07-23T17:35:35+00:00"
+    },
+    {
+      "headline": "STMicroelectronics Stock Sinks 18%: Weak Sales Outlook Drowns Out AI Growth Story",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60648317/stmicroelectronics-stock-sinks-18-weak-sales-outlook-drowns-out-ai-growth-story",
+      "published_at": "2026-07-23T17:02:57+00:00"
+    },
+    {
+      "headline": "Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60646424/market-selling-as-houthis-open-a-new-front-google-ai-cash-burn-tesla-humanoid-spending",
+      "published_at": "2026-07-23T16:12:01+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

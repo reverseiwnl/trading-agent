@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-07-24T12:05:24.367544+00:00",
+  "price": 381.57,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-10",
+      "open": 398.215,
+      "high": 404.99,
+      "low": 397.32,
+      "close": 397.41,
+      "volume": 811363.0
+    },
+    {
+      "date": "2026-06-11",
+      "open": 394.74,
+      "high": 396.78,
+      "low": 384.0,
+      "close": 390.255,
+      "volume": 1282778.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 391.575,
+      "high": 391.585,
+      "low": 382.29,
+      "close": 390.67,
+      "volume": 1076764.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 396.64,
+      "high": 401.75,
+      "low": 392.93,
+      "close": 400.05,
+      "volume": 864287.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 395.295,
+      "high": 396.56,
+      "low": 390.715,
+      "close": 393.97,
+      "volume": 1019208.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 389.59,
+      "high": 390.25,
+      "low": 377.38,
+      "close": 379.05,
+      "volume": 1048923.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 377.915,
+      "high": 381.36,
+      "low": 373.32,
+      "close": 379.08,
+      "volume": 1164213.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 375.175,
+      "high": 381.51,
+      "low": 367.07,
+      "close": 367.21,
+      "volume": 1364587.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 372.54,
+      "high": 377.19,
+      "low": 370.82,
+      "close": 373.93,
+      "volume": 905629.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 371.83,
+      "high": 378.87,
+      "low": 364.8,
+      "close": 365.46,
+      "volume": 1182848.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 362.77,
+      "high": 364.19,
+      "low": 349.205,
+      "close": 352.415,
+      "volume": 2522776.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 357.19,
+      "high": 376.6,
+      "low": 355.45,
+      "close": 371.67,
+      "volume": 2989666.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 377.085,
+      "high": 380.48,
+      "low": 366.86,
+      "close": 368.515,
+      "volume": 1577857.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 370.93,
+      "high": 374.12,
+      "low": 367.54,
+      "close": 372.92,
+      "volume": 988755.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 380.95,
+      "high": 388.81,
+      "low": 374.91,
+      "close": 384.38,
+      "volume": 1541022.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 384.35,
+      "high": 392.2,
+      "low": 383.79,
+      "close": 389.79,
+      "volume": 1346140.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 387.075,
+      "high": 388.995,
+      "low": 381.335,
+      "close": 386.81,
+      "volume": 1115599.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 392.46,
+      "high": 395.52,
+      "low": 388.24,
+      "close": 388.74,
+      "volume": 1269848.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 383.77,
+      "high": 385.205,
+      "low": 381.34,
+      "close": 383.11,
+      "volume": 1124752.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 374.47,
+      "high": 384.64,
+      "low": 373.475,
+      "close": 384.24,
+      "volume": 1217629.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 387.64,
+      "high": 391.8,
+      "low": 381.54,
+      "close": 385.09,
+      "volume": 969305.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 387.91,
+      "high": 393.65,
+      "low": 384.19,
+      "close": 390.985,
+      "volume": 1253350.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 382.505,
+      "high": 388.15,
+      "low": 378.71,
+      "close": 384.94,
+      "volume": 1113317.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 387.655,
+      "high": 398.95,
+      "low": 386.535,
+      "close": 395.61,
+      "volume": 1577874.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 398.2,
+      "high": 405.98,
+      "low": 392.15,
+      "close": 401.12,
+      "volume": 1244751.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 395.05,
+      "high": 398.39,
+      "low": 389.42,
+      "close": 394.015,
+      "volume": 980663.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 390.62,
+      "high": 403.15,
+      "low": 389.74,
+      "close": 402.48,
+      "volume": 1299062.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 399.015,
+      "high": 401.45,
+      "low": 396.36,
+      "close": 397.575,
+      "volume": 994373.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 399.58,
+      "high": 400.89,
+      "low": 386.98,
+      "close": 390.275,
+      "volume": 1163738.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 389.87,
+      "high": 391.71,
+      "low": 377.4,
+      "close": 381.55,
+      "volume": 1350874.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Why Wall Street Says Intel's Rich Valuation May Still Be Worth Paying",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60661219/why-wall-street-says-intels-rich-valuation-may-still-be-worth-paying",
+      "published_at": "2026-07-24T09:42:56+00:00"
+    },
+    {
+      "headline": "AMD Stock Could Surge 48% as Daniel Newman Calls It a 'Top Conviction'—Patrick Moorhead Sees $200 Billion Server CPU Market",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60660114/amd-stock-could-surge-48-as-daniel-newman-calls-it-a-top-conviction-patrick-moorhead-sees-200-billion-server-cpu-market",
+      "published_at": "2026-07-24T06:50:10+00:00"
+    },
+    {
+      "headline": "RingCentral Partners With OpenAI Over AI Adoption Throughout RingCentral Operations",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60655434/ringcentral-partners-openai-over-ai-adoption-throughout-ringcentral-operations",
+      "published_at": "2026-07-23T20:14:22+00:00"
+    },
+    {
+      "headline": "Big Tech's Off-Balance-Sheet AI Debt Reportedly Tops $1.65 Trillion: Ed Zitron Says It 'Should Be a Shareholder Riot'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60654488/big-techs-off-balance-sheet-ai-debt-reportedly-tops-1-65-trillion-ed-zitron-says-it-should-be-a-shareholder-riot",
+      "published_at": "2026-07-23T20:03:23+00:00"
+    },
+    {
+      "headline": "Trump Official Buys ETF Version of 'Keep Your Enemies Closer'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/07/60653896/trump-official-buys-democratic-trades-etf-nanc-pelosi",
+      "published_at": "2026-07-23T19:46:47+00:00"
+    },
+    {
+      "headline": "Brent Tops $100, Alphabet, Tesla Sink Nasdaq 100: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60648881/brent-tops-100-alphabet-tesla-sink-nasdaq-100-stock-market-today",
+      "published_at": "2026-07-23T17:16:10+00:00"
+    },
+    {
+      "headline": "OpenAI Rolls Out Health In ChatGPT To U.S. Users",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60648666/openai-rolls-out-health-chatgpt-u-s-users",
+      "published_at": "2026-07-23T17:11:43+00:00"
+    },
+    {
+      "headline": "'Microsoft Is Replacing OpenAI Image Models in PowerPoint, Bing' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60647935/microsoft-replacing-openai-image-models-powerpoint-bing-bloomberg",
+      "published_at": "2026-07-23T16:54:20+00:00"
+    },
+    {
+      "headline": "Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60646424/market-selling-as-houthis-open-a-new-front-google-ai-cash-burn-tesla-humanoid-spending",
+      "published_at": "2026-07-23T16:12:01+00:00"
+    },
+    {
+      "headline": "SpaceX Stock’s Hidden Risk Isn’t Rockets — It’s AI Spending",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60646239/spacex-stocks-hidden-risk-isnt-rockets-its-ai-spending",
+      "published_at": "2026-07-23T16:08:22+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
