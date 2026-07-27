@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-07-27T12:06:44.566354+00:00",
+  "price": 206.87,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-11",
+      "open": 201.33,
+      "high": 205.64,
+      "low": 199.54,
+      "close": 204.86,
+      "volume": 5648208.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 204.5,
+      "high": 207.06,
+      "low": 203.46,
+      "close": 205.17,
+      "volume": 3923011.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 208.875,
+      "high": 212.71,
+      "low": 208.35,
+      "close": 212.46,
+      "volume": 4594335.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 211.115,
+      "high": 211.365,
+      "low": 207.31,
+      "close": 207.37,
+      "volume": 4089180.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 208.3,
+      "high": 209.2,
+      "low": 203.47,
+      "close": 204.7,
+      "volume": 3697942.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 207.4,
+      "high": 211.385,
+      "low": 206.5,
+      "close": 210.38,
+      "volume": 4026083.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 211.45,
+      "high": 213.98,
+      "low": 207.72,
+      "close": 208.59,
+      "volume": 5739735.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 202.05,
+      "high": 203.75,
+      "low": 200.0,
+      "close": 200.07,
+      "volume": 3965353.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 200.13,
+      "high": 201.57,
+      "low": 196.6,
+      "close": 198.94,
+      "volume": 3243387.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 200.07,
+      "high": 200.79,
+      "low": 192.17,
+      "close": 195.89,
+      "volume": 3897568.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 193.11,
+      "high": 195.55,
+      "low": 191.24,
+      "close": 191.97,
+      "volume": 4202530.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 193.785,
+      "high": 196.16,
+      "low": 189.82,
+      "close": 194.92,
+      "volume": 3680689.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 197.12,
+      "high": 200.63,
+      "low": 195.11,
+      "close": 199.93,
+      "volume": 5774896.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 196.05,
+      "high": 199.85,
+      "low": 193.46,
+      "close": 197.54,
+      "volume": 6075573.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 197.13,
+      "high": 200.055,
+      "low": 192.35,
+      "close": 194.51,
+      "volume": 5880254.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 194.37,
+      "high": 197.53,
+      "low": 194.0,
+      "close": 195.59,
+      "volume": 4538784.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 192.25,
+      "high": 198.385,
+      "low": 191.15,
+      "close": 196.97,
+      "volume": 4767383.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 195.23,
+      "high": 205.13,
+      "low": 195.23,
+      "close": 204.07,
+      "volume": 5480997.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 204.46,
+      "high": 204.58,
+      "low": 198.98,
+      "close": 202.695,
+      "volume": 4867367.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 202.11,
+      "high": 210.99,
+      "low": 202.07,
+      "close": 210.99,
+      "volume": 7548841.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 208.595,
+      "high": 210.54,
+      "low": 203.355,
+      "close": 203.485,
+      "volume": 3818565.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 208.25,
+      "high": 212.55,
+      "low": 203.84,
+      "close": 211.79,
+      "volume": 3673407.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 211.96,
+      "high": 213.775,
+      "low": 206.04,
+      "close": 212.5,
+      "volume": 4218423.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 210.26,
+      "high": 211.03,
+      "low": 205.85,
+      "close": 207.46,
+      "volume": 4036020.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 202.74,
+      "high": 206.63,
+      "low": 197.98,
+      "close": 202.8,
+      "volume": 4558491.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 205.605,
+      "high": 207.71,
+      "low": 202.29,
+      "close": 203.33,
+      "volume": 3550006.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 207.5,
+      "high": 208.61,
+      "low": 204.01,
+      "close": 207.24,
+      "volume": 3037338.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 205.875,
+      "high": 214.39,
+      "low": 205.01,
+      "close": 212.07,
+      "volume": 5839269.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 209.43,
+      "high": 210.85,
+      "low": 205.96,
+      "close": 208.76,
+      "volume": 4289878.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 207.49,
+      "high": 211.89,
+      "low": 204.83,
+      "close": 207.07,
+      "volume": 4442598.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Top Wall Street Forecasters Revamp Amkor Technology Expectations Ahead Of Q2 Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/07/60690789/top-wall-street-forecasters-revamp-amkor-technology-expectations-ahead-of-q2-earnings",
+      "published_at": "2026-07-27T11:35:22+00:00"
+    },
+    {
+      "headline": "Jim Chanos Says Nvidia Is Effectively Financing Its Own AI Chip Sales in Reported OpenAI Deal",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60689552/jim-chanos-says-nvidia-is-effectively-financing-its-own-ai-chip-sales-in-reported-openai-deal",
+      "published_at": "2026-07-27T10:33:41+00:00"
+    },
+    {
+      "headline": "Exploring The Competitive Space: NVIDIA Versus Industry Peers In Semiconductors &amp; Semiconductor Equipment",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60688692/exploring-competitive-space-nvidia-versus-industry-peers-semiconductors-amp-semiconductor-equipment",
+      "published_at": "2026-07-27T09:58:15+00:00"
+    },
+    {
+      "headline": "Michael Burry Says Wall Street Has Turned on Big Tech's AI Spending: 'The Market Has Voted'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60688494/michael-burry-says-wall-street-has-turned-on-big-techs-ai-spending-the-market-has-voted",
+      "published_at": "2026-07-27T09:27:57+00:00"
+    },
+    {
+      "headline": "Kevin O'Leary Says 'Fear of China, Not Politics' Will Bring North America Together as AI, Energy and Critical Minerals Competition Intensifies",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60688030/kevin-oleary-says-fear-of-china-not-politics-will-bring-north-america-together-as-ai-energy-and-critical-minerals-competition-intensifies",
+      "published_at": "2026-07-27T07:53:23+00:00"
+    },
+    {
+      "headline": "'Nvidia In Talks With OpenAI To Guarantee $250 Billion Financing For Data Center' - WSJ",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60687785/nvidia-talks-openai-guarantee-250-billion-financing-data-center-wsj",
+      "published_at": "2026-07-27T07:02:37+00:00"
+    },
+    {
+      "headline": "Sundar Pichai Backs Jensen Huang's Open-Weight AI Push as OpenAI Joins Letter, Anthropic and Amazon Remain Notably Absent",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60687389/sundar-pichai-jensen-huang-open-weight-ai-openai",
+      "published_at": "2026-07-27T06:02:06+00:00"
+    },
+    {
+      "headline": "Reported Sunday, NVIDIA Expands Agent Toolkit With PhysicsNeMo And CUDA-X Libraries To Power Autonomous AI Engineers For Chip Design",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/NVDA",
+      "published_at": "2026-07-27T05:36:30+00:00"
+    },
+    {
+      "headline": "Reported Sunday, Silvaco To Combine Physics-Based Simulation Expertise With NVIDIA Accelerated Computing, CUDA-X And PhysicsNeMo Technologies",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/NVDA",
+      "published_at": "2026-07-27T05:34:55+00:00"
+    },
+    {
+      "headline": "Nvidia Deepens South Korea AI Push With $1 Billion NAVER Investment",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60686999/nvidia-naver-ai-investment-south-korea",
+      "published_at": "2026-07-27T03:45:31+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

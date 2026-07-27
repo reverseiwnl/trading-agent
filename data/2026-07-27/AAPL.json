@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-07-27T12:06:37.332554+00:00",
+  "price": 333.48,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-11",
+      "open": 293.395,
+      "high": 296.995,
+      "low": 289.62,
+      "close": 295.48,
+      "volume": 1372585.0
+    },
+    {
+      "date": "2026-06-12",
+      "open": 296.075,
+      "high": 297.11,
+      "low": 289.635,
+      "close": 291.085,
+      "volume": 1456808.0
+    },
+    {
+      "date": "2026-06-15",
+      "open": 293.99,
+      "high": 297.78,
+      "low": 291.75,
+      "close": 296.53,
+      "volume": 1573337.0
+    },
+    {
+      "date": "2026-06-16",
+      "open": 295.245,
+      "high": 300.445,
+      "low": 293.99,
+      "close": 299.26,
+      "volume": 1229360.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 300.845,
+      "high": 301.95,
+      "low": 294.39,
+      "close": 296.07,
+      "volume": 1195228.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 298.44,
+      "high": 300.56,
+      "low": 295.635,
+      "close": 297.86,
+      "volume": 1278873.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 297.41,
+      "high": 302.415,
+      "low": 296.82,
+      "close": 296.85,
+      "volume": 1619228.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 297.61,
+      "high": 301.635,
+      "low": 294.27,
+      "close": 294.28,
+      "volume": 1781140.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 295.345,
+      "high": 299.675,
+      "low": 292.94,
+      "close": 293.32,
+      "volume": 2239666.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 287.5,
+      "high": 288.68,
+      "low": 273.79,
+      "close": 275.21,
+      "volume": 5858472.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 275.14,
+      "high": 285.95,
+      "low": 274.25,
+      "close": 281.31,
+      "volume": 5117781.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 286.69,
+      "high": 288.35,
+      "low": 279.85,
+      "close": 281.69,
+      "volume": 2386040.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 281.145,
+      "high": 289.9,
+      "low": 280.7,
+      "close": 289.24,
+      "volume": 1576321.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 293.44,
+      "high": 296.57,
+      "low": 289.195,
+      "close": 294.42,
+      "volume": 2428489.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 294.085,
+      "high": 309.415,
+      "low": 293.89,
+      "close": 308.235,
+      "volume": 3813037.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 307.54,
+      "high": 314.19,
+      "low": 307.02,
+      "close": 312.73,
+      "volume": 1434853.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 315.29,
+      "high": 315.47,
+      "low": 310.18,
+      "close": 310.69,
+      "volume": 1573402.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 311.91,
+      "high": 314.805,
+      "low": 307.11,
+      "close": 313.33,
+      "volume": 1549372.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 310.45,
+      "high": 316.53,
+      "low": 308.19,
+      "close": 316.16,
+      "volume": 1441032.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 314.72,
+      "high": 316.91,
+      "low": 312.17,
+      "close": 315.32,
+      "volume": 1326282.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 317.005,
+      "high": 323.395,
+      "low": 315.79,
+      "close": 317.47,
+      "volume": 1374655.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 313.76,
+      "high": 316.145,
+      "low": 311.955,
+      "close": 314.93,
+      "volume": 1213545.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 317.46,
+      "high": 328.705,
+      "low": 317.4,
+      "close": 327.58,
+      "volume": 1721273.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 328.135,
+      "high": 334.65,
+      "low": 326.885,
+      "close": 333.23,
+      "volume": 2365368.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 331.98,
+      "high": 334.98,
+      "low": 329.025,
+      "close": 333.75,
+      "volume": 2248743.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 332.235,
+      "high": 333.63,
+      "low": 323.73,
+      "close": 326.65,
+      "volume": 2314409.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 323.345,
+      "high": 329.565,
+      "low": 322.24,
+      "close": 327.66,
+      "volume": 1409246.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 327.98,
+      "high": 328.865,
+      "low": 323.365,
+      "close": 325.86,
+      "volume": 1552861.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.815,
+      "high": 323.25,
+      "low": 319.365,
+      "close": 321.575,
+      "volume": 1362559.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 321.86,
+      "high": 334.35,
+      "low": 321.66,
+      "close": 333.05,
+      "volume": 1772167.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Apple Is Making an Existential AI Bet—One Analyst Thinks It's Wrong",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60688648/apple-is-making-an-existential-ai-bet-one-analyst-thinks-its-wrong",
+      "published_at": "2026-07-27T09:49:38+00:00"
+    },
+    {
+      "headline": "Stock Market Today: S&P 500, Dow Jones Futures Rise as US-Iran Halt Retaliatory Strikes—Microchip Technology, AMD, Nucor in Focus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60688523/stock-market-today-sp-500-dow-jones-futures-rise-as-us-iran-halt-retaliatory-strikes-microchip-technology-amd-nucor-in-focus",
+      "published_at": "2026-07-27T09:35:49+00:00"
+    },
+    {
+      "headline": "Michael Burry Says Wall Street Has Turned on Big Tech's AI Spending: 'The Market Has Voted'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60688494/michael-burry-says-wall-street-has-turned-on-big-techs-ai-spending-the-market-has-voted",
+      "published_at": "2026-07-27T09:27:57+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60687326/stock-market-will-sp-500-open-up-or-down-today-11",
+      "published_at": "2026-07-27T05:51:54+00:00"
+    },
+    {
+      "headline": "Apple to Launch a Foldable iPhone Before 2027? Here's What the Prediction Market is Saying",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60687207/apple-to-launch-a-foldable-iphone-before-2027-heres-what-the-prediction-market-is-saying",
+      "published_at": "2026-07-27T05:31:17+00:00"
+    },
+    {
+      "headline": "Top Four Magnificent 7 Stocks to Watch This Week: Apple, Microsoft, Meta, Amazon",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60686454/top-four-magnificent-7-stocks-to-watch-this-week-apple-microsoft-meta-amazon",
+      "published_at": "2026-07-26T22:53:43+00:00"
+    },
+    {
+      "headline": "Top Three Catalysts for VOO, QQQ and DIA ETFs This Week",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60686327/top-three-catalysts-for-voo-qqq-and-dia-etfs-this-week",
+      "published_at": "2026-07-26T19:55:16+00:00"
+    },
+    {
+      "headline": "Top Three ETFs to Watch This Week: TQQQ, MAGS, SCHD",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/07/60686287/top-three-etfs-to-watch-this-week-tqqq-mags-schd",
+      "published_at": "2026-07-26T19:25:34+00:00"
+    },
+    {
+      "headline": "Earnings Volatility Watch: 12 Stocks With Double-Digit Implied Moves This Week",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60685935/earnings-volatility-watch-12-stocks-with-double-digit-implied-moves-this-week",
+      "published_at": "2026-07-26T12:30:23+00:00"
+    },
+    {
+      "headline": "Apple Hits Record Highs, Eyes Foldable Market Share, Tim Cook's Final Earnings Call and More: This Week in Appleverse",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60685866/apple-hits-record-highs-eyes-foldable-market-share-and-preps-for-tim-cooks-final-earnings-call-this-week-in-appleverse",
+      "published_at": "2026-07-26T11:00:19+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
