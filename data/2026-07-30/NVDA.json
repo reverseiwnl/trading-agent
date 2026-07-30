@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-07-30T12:05:34.190268+00:00",
+  "price": 189.46,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-16",
+      "open": 211.115,
+      "high": 211.365,
+      "low": 207.31,
+      "close": 207.37,
+      "volume": 4089180.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 208.3,
+      "high": 209.2,
+      "low": 203.47,
+      "close": 204.7,
+      "volume": 3697942.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 207.4,
+      "high": 211.385,
+      "low": 206.5,
+      "close": 210.38,
+      "volume": 4026083.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 211.45,
+      "high": 213.98,
+      "low": 207.72,
+      "close": 208.59,
+      "volume": 5739735.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 202.05,
+      "high": 203.75,
+      "low": 200.0,
+      "close": 200.07,
+      "volume": 3965353.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 200.13,
+      "high": 201.57,
+      "low": 196.6,
+      "close": 198.94,
+      "volume": 3243387.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 200.07,
+      "high": 200.79,
+      "low": 192.17,
+      "close": 195.89,
+      "volume": 3897568.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 193.11,
+      "high": 195.55,
+      "low": 191.24,
+      "close": 191.97,
+      "volume": 4202530.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 193.785,
+      "high": 196.16,
+      "low": 189.82,
+      "close": 194.92,
+      "volume": 3680689.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 197.12,
+      "high": 200.63,
+      "low": 195.11,
+      "close": 199.93,
+      "volume": 5774896.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 196.05,
+      "high": 199.85,
+      "low": 193.46,
+      "close": 197.54,
+      "volume": 6075573.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 197.13,
+      "high": 200.055,
+      "low": 192.35,
+      "close": 194.51,
+      "volume": 5880254.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 194.37,
+      "high": 197.53,
+      "low": 194.0,
+      "close": 195.59,
+      "volume": 4538784.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 192.25,
+      "high": 198.385,
+      "low": 191.15,
+      "close": 196.97,
+      "volume": 4767383.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 195.23,
+      "high": 205.13,
+      "low": 195.23,
+      "close": 204.07,
+      "volume": 5480997.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 204.46,
+      "high": 204.58,
+      "low": 198.98,
+      "close": 202.695,
+      "volume": 4867367.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 202.11,
+      "high": 210.99,
+      "low": 202.07,
+      "close": 210.99,
+      "volume": 7548841.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 208.595,
+      "high": 210.54,
+      "low": 203.355,
+      "close": 203.485,
+      "volume": 3818565.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 208.25,
+      "high": 212.55,
+      "low": 203.84,
+      "close": 211.79,
+      "volume": 3673407.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 211.96,
+      "high": 213.775,
+      "low": 206.04,
+      "close": 212.5,
+      "volume": 4218423.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 210.26,
+      "high": 211.03,
+      "low": 205.85,
+      "close": 207.46,
+      "volume": 4036020.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 202.74,
+      "high": 206.63,
+      "low": 197.98,
+      "close": 202.8,
+      "volume": 4558491.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 205.605,
+      "high": 207.71,
+      "low": 202.29,
+      "close": 203.33,
+      "volume": 3550006.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 207.5,
+      "high": 208.61,
+      "low": 204.01,
+      "close": 207.24,
+      "volume": 3037338.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 205.875,
+      "high": 214.39,
+      "low": 205.01,
+      "close": 212.07,
+      "volume": 5839269.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 209.43,
+      "high": 210.85,
+      "low": 205.96,
+      "close": 208.76,
+      "volume": 4289878.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 207.49,
+      "high": 211.89,
+      "low": 204.83,
+      "close": 207.07,
+      "volume": 4442598.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 208.155,
+      "high": 208.64,
+      "low": 195.45,
+      "close": 196.555,
+      "volume": 6702548.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 194.95,
+      "high": 198.69,
+      "low": 192.76,
+      "close": 197.05,
+      "volume": 5832667.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 195.84,
+      "high": 197.055,
+      "low": 190.035,
+      "close": 190.1,
+      "volume": 6151282.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "NVIDIA CEO's AI Expansion Play Wins Fans—But Financing Risks Raise Eyebrows",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60792589/nvidia-ceos-ai-expansion-play-wins-fans-but-financing-risks-raise-eyebrows",
+      "published_at": "2026-07-30T11:02:06+00:00"
+    },
+    {
+      "headline": "Chip Stocks Are Crashing— but This Analyst Says AI Chip Demand Still Outpaces Supply Until At Least 2028: 'You Just Don't Have The..'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60790759/wolfe-research-says-ai-chip-oversupply-remains-years-away-flags-financing-as-next-bottleneck",
+      "published_at": "2026-07-30T10:30:29+00:00"
+    },
+    {
+      "headline": "Inquiry Into NVIDIA's Competitor Dynamics In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60789318/inquiry-nvidia-s-competitor-dynamics-semiconductors-amp-semiconductor-equipment-industry",
+      "published_at": "2026-07-30T09:58:21+00:00"
+    },
+    {
+      "headline": "Forget the Apple Phase-Out: Patrick Moorhead Says Qualcomm Boasts a 'Rocking' Auto Business and Data Center Tech 'Different From NVIDIA'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60788275/forget-the-apple-phase-out-patrick-moorhead-says-qualcomm-boasts-a-rocking-auto-business-and-data-center-tech-different-from-nvidia",
+      "published_at": "2026-07-30T08:17:14+00:00"
+    },
+    {
+      "headline": "Mohamed El-Erian Warns AI Financing Strains Are 'Much Broader' Than Any Single Company, Market Commentator Warns 'Time Bomb' Could Affect Economy",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60787848/mohamed-el-erian-ai-financing-strains-economic-time-bomb",
+      "published_at": "2026-07-30T07:30:07+00:00"
+    },
+    {
+      "headline": "SK Hynix Slump Marks 'Short-Term Bottom' in AI Stocks Fueled by Forced Liquidations, Says Dan Niles",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60787722/sk-hynix-slump-marks-short-term-bottom-in-ai-stocks-fueled-by-forced-liquidations-says-dan-niles",
+      "published_at": "2026-07-30T07:11:24+00:00"
+    },
+    {
+      "headline": "Mark Zuckerberg Says Can't Rely on Open Source AI Models Right Now: 'We Think That There's Some Risk…'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60786995/mark-zuckerberg-open-source-ai-models-risk-meta-stock-pops",
+      "published_at": "2026-07-30T05:30:51+00:00"
+    },
+    {
+      "headline": "China Says US Humanoid Robot Ban 'Severely Damages' Relations—Here's How It Could Affect Elon Musk's Optimus: 'China Makes Half…'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60786771/china-says-us-humanoid-robot-ban-severely-damages-relations-heres-how-it-could-affect-elon-musks-optimus-china-makes-half",
+      "published_at": "2026-07-30T04:45:33+00:00"
+    },
+    {
+      "headline": "Congressman Makes First Stock Trade in Office: Here’s The Magnificent Seven Name He Sold",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/07/60785517/congressman-makes-first-stock-trade-in-office-heres-the-magnificent-seven-name-he-sold",
+      "published_at": "2026-07-29T22:50:19+00:00"
+    },
+    {
+      "headline": "Warsh Says Five-Year Inflation Fight Won’t End Fast as 30-Year Tops 5.2%: What Do Prediction Markets Say?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60781954/warsh-says-five-year-inflation-fight-wont-end-fast-as-30-year-tops-5-2-what-do-prediction-markets-say",
+      "published_at": "2026-07-29T20:30:22+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

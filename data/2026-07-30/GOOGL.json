@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-07-30T12:05:28.995249+00:00",
+  "price": 333.36,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-16",
+      "open": 369.6,
+      "high": 375.74,
+      "low": 367.075,
+      "close": 373.37,
+      "volume": 1091582.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 369.435,
+      "high": 372.175,
+      "low": 362.09,
+      "close": 363.86,
+      "volume": 932816.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.38,
+      "high": 364.15,
+      "low": 353.485,
+      "close": 359.69,
+      "volume": 779835.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 361.27,
+      "high": 367.905,
+      "low": 357.395,
+      "close": 366.34,
+      "volume": 801620.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 369.07,
+      "high": 373.14,
+      "low": 365.51,
+      "close": 366.985,
+      "volume": 635044.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 365.02,
+      "high": 367.65,
+      "low": 358.02,
+      "close": 361.76,
+      "volume": 648403.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 355.135,
+      "high": 359.615,
+      "low": 351.105,
+      "close": 358.88,
+      "volume": 887524.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 357.8,
+      "high": 357.8,
+      "low": 352.79,
+      "close": 357.17,
+      "volume": 608752.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 356.6,
+      "high": 357.97,
+      "low": 351.87,
+      "close": 352.54,
+      "volume": 623138.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 351.195,
+      "high": 360.14,
+      "low": 351.19,
+      "close": 359.55,
+      "volume": 697435.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 357.885,
+      "high": 373.65,
+      "low": 357.885,
+      "close": 370.98,
+      "volume": 1134849.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 373.325,
+      "high": 375.18,
+      "low": 352.365,
+      "close": 354.31,
+      "volume": 1442304.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 345.99,
+      "high": 348.47,
+      "low": 341.38,
+      "close": 346.765,
+      "volume": 869439.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 351.005,
+      "high": 359.65,
+      "low": 350.74,
+      "close": 352.11,
+      "volume": 1147351.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 350.985,
+      "high": 350.985,
+      "low": 347.02,
+      "close": 347.115,
+      "volume": 766723.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 348.155,
+      "high": 349.925,
+      "low": 341.79,
+      "close": 342.06,
+      "volume": 1361767.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.0,
+      "high": 324.42,
+      "low": 314.96,
+      "close": 317.73,
+      "volume": 2504211.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 318.125,
+      "high": 324.17,
+      "low": 317.36,
+      "close": 319.725,
+      "volume": 1147202.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 325.245,
+      "high": 330.41,
+      "low": 324.45,
+      "close": 326.38,
+      "volume": 1188475.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 327.98,
+      "high": 335.88,
+      "low": 324.455,
+      "close": 333.78,
+      "volume": 1056354.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 334.665,
+      "high": 342.49,
+      "low": 331.63,
+      "close": 336.49,
+      "volume": 954025.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Forget the Apple Phase-Out: Patrick Moorhead Says Qualcomm Boasts a 'Rocking' Auto Business and Data Center Tech 'Different From NVIDIA'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60788275/forget-the-apple-phase-out-patrick-moorhead-says-qualcomm-boasts-a-rocking-auto-business-and-data-center-tech-different-from-nvidia",
+      "published_at": "2026-07-30T08:17:14+00:00"
+    },
+    {
+      "headline": "Gary Black Pegs TSLA's Fair Value at $312, Says 'Don't Fall in Love With the Stock'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60787487/gary-black-pegs-tsla-fair-value-at-312",
+      "published_at": "2026-07-30T06:44:56+00:00"
+    },
+    {
+      "headline": "Mark Zuckerberg Says Personal AI Agents Could Soon Help Billions Manage Their Lives—and Meta is Going All In: ‘Almost Inevitable’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60786649/mark-zuckerberg-personal-ai-agents-meta-stock-falls-after-hours",
+      "published_at": "2026-07-30T03:44:57+00:00"
+    },
+    {
+      "headline": "Cathie Wood Keeps Buying the Dip on SpaceX, Adds $20 Million of TSMC as Chip Stocks Slide",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/07/60786575/cathie-wood-keeps-buying-the-dip-on-spacex-adds-20-million-of-tsmc-as-chip-stocks-slide",
+      "published_at": "2026-07-30T03:07:51+00:00"
+    },
+    {
+      "headline": "Steve Eisman Says He'd Be 'Petrified' Running OpenAI or Anthropic as Cheap Chinese Models Threaten Price War",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60778791/steve-eisman-says-hed-be-petrified-running-openai-or-anthropic-as-cheap-chinese-models-threaten-price-war",
+      "published_at": "2026-07-29T20:05:20+00:00"
+    },
+    {
+      "headline": "QUICK SPARK: Google, Amazon, Nvidia Among 2026's Top 10 Most-Shorted Stocks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60771518/quick-spark-google-amazon-nvidia-among-2026s-top-10-most-shorted-stocks",
+      "published_at": "2026-07-29T17:25:23+00:00"
+    },
+    {
+      "headline": "Microsoft Short Interest Hits Highest Level Since 2015 as Bears Dig in Ahead of Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60766912/microsoft-short-interest-hits-highest-level-since-2015-as-bears-dig-in-ahead-of-earnings",
+      "published_at": "2026-07-29T15:34:55+00:00"
+    },
+    {
+      "headline": "SpaceX Stock Now Has $26 Billion in Short Bets — 35% of its Entire Float",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60766052/spacex-stock-now-has-26-billion-in-short-bets-35-of-its-entire-float",
+      "published_at": "2026-07-29T15:15:18+00:00"
+    },
+    {
+      "headline": "QUICK SPARK: Direxion Debuts Income ETFs Tied to Nvidia, Tesla, Meta, and More",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/07/60764026/quick-spark-direxion-debuts-income-etfs-tied-to-nvidia-tesla-meta-and-more",
+      "published_at": "2026-07-29T14:40:46+00:00"
+    },
+    {
+      "headline": "Elon Musk Says ‘I Did Try to Warn Them’ After Volvo Drops Luminar LiDAR From the EX90 and ES90 EVs Following Supplier Troubles",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60755018/elon-musk-says-i-did-try-to-warn-them-after-volvo-drops-luminar-lidar-from-the-ex90-and-es90-evs-following-supplier-troubles",
+      "published_at": "2026-07-29T11:17:03+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

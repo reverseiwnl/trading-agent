@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-07-30T12:05:26.760018+00:00",
+  "price": 338.43,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-16",
+      "open": 295.245,
+      "high": 300.445,
+      "low": 293.99,
+      "close": 299.26,
+      "volume": 1229360.0
+    },
+    {
+      "date": "2026-06-17",
+      "open": 300.845,
+      "high": 301.95,
+      "low": 294.39,
+      "close": 296.07,
+      "volume": 1195228.0
+    },
+    {
+      "date": "2026-06-18",
+      "open": 298.44,
+      "high": 300.56,
+      "low": 295.635,
+      "close": 297.86,
+      "volume": 1278873.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 297.41,
+      "high": 302.415,
+      "low": 296.82,
+      "close": 296.85,
+      "volume": 1619228.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 297.61,
+      "high": 301.635,
+      "low": 294.27,
+      "close": 294.28,
+      "volume": 1781140.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 295.345,
+      "high": 299.675,
+      "low": 292.94,
+      "close": 293.32,
+      "volume": 2239666.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 287.5,
+      "high": 288.68,
+      "low": 273.79,
+      "close": 275.21,
+      "volume": 5858472.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 275.14,
+      "high": 285.95,
+      "low": 274.25,
+      "close": 281.31,
+      "volume": 5117781.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 286.69,
+      "high": 288.35,
+      "low": 279.85,
+      "close": 281.69,
+      "volume": 2386040.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 281.145,
+      "high": 289.9,
+      "low": 280.7,
+      "close": 289.24,
+      "volume": 1576321.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 293.44,
+      "high": 296.57,
+      "low": 289.195,
+      "close": 294.42,
+      "volume": 2428489.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 294.085,
+      "high": 309.415,
+      "low": 293.89,
+      "close": 308.235,
+      "volume": 3813037.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 307.54,
+      "high": 314.19,
+      "low": 307.02,
+      "close": 312.73,
+      "volume": 1434853.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 315.29,
+      "high": 315.47,
+      "low": 310.18,
+      "close": 310.69,
+      "volume": 1573402.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 311.91,
+      "high": 314.805,
+      "low": 307.11,
+      "close": 313.33,
+      "volume": 1549372.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 310.45,
+      "high": 316.53,
+      "low": 308.19,
+      "close": 316.16,
+      "volume": 1441032.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 314.72,
+      "high": 316.91,
+      "low": 312.17,
+      "close": 315.32,
+      "volume": 1326282.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 317.005,
+      "high": 323.395,
+      "low": 315.79,
+      "close": 317.47,
+      "volume": 1374655.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 313.76,
+      "high": 316.145,
+      "low": 311.955,
+      "close": 314.93,
+      "volume": 1213545.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 317.46,
+      "high": 328.705,
+      "low": 317.4,
+      "close": 327.58,
+      "volume": 1721273.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 328.135,
+      "high": 334.65,
+      "low": 326.885,
+      "close": 333.23,
+      "volume": 2365368.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 331.98,
+      "high": 334.98,
+      "low": 329.025,
+      "close": 333.75,
+      "volume": 2248743.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 332.235,
+      "high": 333.63,
+      "low": 323.73,
+      "close": 326.65,
+      "volume": 2314409.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 323.345,
+      "high": 329.565,
+      "low": 322.24,
+      "close": 327.66,
+      "volume": 1409246.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 327.98,
+      "high": 328.865,
+      "low": 323.365,
+      "close": 325.86,
+      "volume": 1552861.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.815,
+      "high": 323.25,
+      "low": 319.365,
+      "close": 321.575,
+      "volume": 1362559.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 321.86,
+      "high": 334.35,
+      "low": 321.66,
+      "close": 333.05,
+      "volume": 1772167.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 335.73,
+      "high": 339.55,
+      "low": 334.035,
+      "close": 336.93,
+      "volume": 1578038.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 340.02,
+      "high": 342.87,
+      "low": 335.63,
+      "close": 340.005,
+      "volume": 1872000.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 340.42,
+      "high": 344.555,
+      "low": 337.38,
+      "close": 338.23,
+      "volume": 1917728.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Rising Memory Costs Are Hurting Smartphones, Qualcomm Warns",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60791225/rising-memory-costs-are-hurting-smartphones-qualcomm-warns",
+      "published_at": "2026-07-30T10:33:43+00:00"
+    },
+    {
+      "headline": "Chuck Schumer, Other Senators Reportedly Warn Apple CEO Tim Cook Against Buying Chinese Memory Chips: 'Would Be a Mistake'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60789256/chuck-schumer-other-senators-reportedly-warn-apple-ceo-tim-cook-against-buying-chinese-memory-chips-would-be-a-mistake",
+      "published_at": "2026-07-30T09:54:59+00:00"
+    },
+    {
+      "headline": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Federal Reserve Holds Interest Rates—Meta, Microsoft, Apple in Focus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60788808/stock-market-today-sp-500-nasdaq-100-futures-gain-as-federal-reserve-holds-interest-rates-meta-microsoft-apple-in-focus",
+      "published_at": "2026-07-30T09:15:47+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60788305/sp500-july-30-open-up-or-down-polymarket-fed-bond-yields-big-tech-earnings-oil",
+      "published_at": "2026-07-30T08:19:16+00:00"
+    },
+    {
+      "headline": "Forget the Apple Phase-Out: Patrick Moorhead Says Qualcomm Boasts a 'Rocking' Auto Business and Data Center Tech 'Different From NVIDIA'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60788275/forget-the-apple-phase-out-patrick-moorhead-says-qualcomm-boasts-a-rocking-auto-business-and-data-center-tech-different-from-nvidia",
+      "published_at": "2026-07-30T08:17:14+00:00"
+    },
+    {
+      "headline": "A Phone? Glasses? A Pin?  Prediction Markets Buzzing About Jony Ive and OpenAI's First Device",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/07/60787623/a-phone-glasses-a-pin-prediction-markets-buzzing-about-jony-ive-and-openais-first-device",
+      "published_at": "2026-07-30T06:53:16+00:00"
+    },
+    {
+      "headline": "Dow Records Worst Session Since April 2025; Investor Sentiment Weakens, Greed Index Remains In ‘Fear’ Zone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60787300/dow-records-worst-session-since-april-2025-investor-sentiment-weakens-greed-index-remains-in-fear-zone",
+      "published_at": "2026-07-30T06:20:05+00:00"
+    },
+    {
+      "headline": "Apple, Microsoft And 3 Stocks To Watch Heading Into Thursday",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60787028/apple-microsoft-and-3-stocks-to-watch-heading-into-thursday-2",
+      "published_at": "2026-07-30T05:34:13+00:00"
+    },
+    {
+      "headline": "Apple Could Swing $170 Billion In Value After Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/07/60777143/apple-could-swing-170-billion-in-value-after-earnings",
+      "published_at": "2026-07-29T19:31:13+00:00"
+    },
+    {
+      "headline": "Apple Q3 Preview: Stock Hits All-Time Highs, Will Earnings Justify the Momentum?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/previews/26/07/60775030/apple-q3-preview-stock-hits-all-time-highs-will-earnings-justify-the-momentum",
+      "published_at": "2026-07-29T18:45:39+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
