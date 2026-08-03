@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-08-03T12:08:40.440357+00:00",
+  "price": 311.67,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-18",
+      "open": 298.44,
+      "high": 300.56,
+      "low": 295.635,
+      "close": 297.86,
+      "volume": 1278873.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 297.41,
+      "high": 302.415,
+      "low": 296.82,
+      "close": 296.85,
+      "volume": 1619228.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 297.61,
+      "high": 301.635,
+      "low": 294.27,
+      "close": 294.28,
+      "volume": 1781140.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 295.345,
+      "high": 299.675,
+      "low": 292.94,
+      "close": 293.32,
+      "volume": 2239666.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 287.5,
+      "high": 288.68,
+      "low": 273.79,
+      "close": 275.21,
+      "volume": 5858472.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 275.14,
+      "high": 285.95,
+      "low": 274.25,
+      "close": 281.31,
+      "volume": 5117781.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 286.69,
+      "high": 288.35,
+      "low": 279.85,
+      "close": 281.69,
+      "volume": 2386040.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 281.145,
+      "high": 289.9,
+      "low": 280.7,
+      "close": 289.24,
+      "volume": 1576321.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 293.44,
+      "high": 296.57,
+      "low": 289.195,
+      "close": 294.42,
+      "volume": 2428489.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 294.085,
+      "high": 309.415,
+      "low": 293.89,
+      "close": 308.235,
+      "volume": 3813037.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 307.54,
+      "high": 314.19,
+      "low": 307.02,
+      "close": 312.73,
+      "volume": 1434853.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 315.29,
+      "high": 315.47,
+      "low": 310.18,
+      "close": 310.69,
+      "volume": 1573402.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 311.91,
+      "high": 314.805,
+      "low": 307.11,
+      "close": 313.33,
+      "volume": 1549372.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 310.45,
+      "high": 316.53,
+      "low": 308.19,
+      "close": 316.16,
+      "volume": 1441032.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 314.72,
+      "high": 316.91,
+      "low": 312.17,
+      "close": 315.32,
+      "volume": 1326282.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 317.005,
+      "high": 323.395,
+      "low": 315.79,
+      "close": 317.47,
+      "volume": 1374655.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 313.76,
+      "high": 316.145,
+      "low": 311.955,
+      "close": 314.93,
+      "volume": 1213545.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 317.46,
+      "high": 328.705,
+      "low": 317.4,
+      "close": 327.58,
+      "volume": 1721273.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 328.135,
+      "high": 334.65,
+      "low": 326.885,
+      "close": 333.23,
+      "volume": 2365368.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 331.98,
+      "high": 334.98,
+      "low": 329.025,
+      "close": 333.75,
+      "volume": 2248743.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 332.235,
+      "high": 333.63,
+      "low": 323.73,
+      "close": 326.65,
+      "volume": 2314409.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 323.345,
+      "high": 329.565,
+      "low": 322.24,
+      "close": 327.66,
+      "volume": 1409246.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 327.98,
+      "high": 328.865,
+      "low": 323.365,
+      "close": 325.86,
+      "volume": 1552861.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.815,
+      "high": 323.25,
+      "low": 319.365,
+      "close": 321.575,
+      "volume": 1362559.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 321.86,
+      "high": 334.35,
+      "low": 321.66,
+      "close": 333.05,
+      "volume": 1772167.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 335.73,
+      "high": 339.55,
+      "low": 334.035,
+      "close": 336.93,
+      "volume": 1578038.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 340.02,
+      "high": 342.87,
+      "low": 335.63,
+      "close": 340.005,
+      "volume": 1872000.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 340.42,
+      "high": 344.555,
+      "low": 337.38,
+      "close": 338.23,
+      "volume": 1917728.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 332.83,
+      "high": 334.41,
+      "low": 329.6,
+      "close": 333.07,
+      "volume": 2368789.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 304.765,
+      "high": 310.64,
+      "low": 300.01,
+      "close": 308.725,
+      "volume": 4898226.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Investigating Apple's Standing In Technology Hardware, Storage &amp; Peripherals Industry Compared To Competitors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60865462/investigating-apple-s-standing-technology-hardware-storage-amp-peripherals-industry-compared-competi",
+      "published_at": "2026-08-03T09:58:36+00:00"
+    },
+    {
+      "headline": "5 Stocks In The Spotlight From Wall Street's Most Accurate Analysts Last Month",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/08/60865298/5-stocks-in-the-spotlight-from-wall-streets-most-accurate-analysts-last-month-3",
+      "published_at": "2026-08-03T09:45:24+00:00"
+    },
+    {
+      "headline": "Nasdaq Jumps 1% as Amazon Shares Surge: Investor Sentiment Improves, But Greed Index Remains in 'Fear' Zone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/08/60863538/nasdaq-jumps-1-as-amazon-shares-surge-investor-sentiment-improves-but-greed-index-remains-in-fear-zone",
+      "published_at": "2026-08-03T06:21:44+00:00"
+    },
+    {
+      "headline": "Wall Street Questioned the AI Boom, Earnings Are Delivering: Here Are the ETFs You Should Watch Closely",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60863456/ai-spending-pays-off-as-big-tech-delivers-historic-earnings-beats-etfs-to-watch",
+      "published_at": "2026-08-03T05:58:00+00:00"
+    },
+    {
+      "headline": "RSP ETF Beating VOO, SPY as S&P 500 Equal Weight Fund Nears $100 Billion Milestone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/08/60862370/rsp-etf-is-beating-voo-spy-as-sp-500-equal-weight-fund-nears-100-billion-milestone",
+      "published_at": "2026-08-02T22:25:14+00:00"
+    },
+    {
+      "headline": "Earnings Volatility Watch: SanDisk and Nine Other Stocks Could Swing Up To 17.5% This Week",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/08/60861965/earnings-volatility-watch-sandisk-implied-moves-august-2026",
+      "published_at": "2026-08-02T13:45:00+00:00"
+    },
+    {
+      "headline": "Consumer Tech (July 27-31): AI Boom Drives Tech Earnings As Apple, Amazon Lead Markets & More",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60861868/consumer-tech-july-27-31-ai-boom-drives-tech-earnings-as-apple-amazon-lead-markets-more",
+      "published_at": "2026-08-02T12:00:30+00:00"
+    },
+    {
+      "headline": "Gene Munster Sees AAPL Stock Slump as Temporary, Steve Jobs' Critique of Microsoft and More: This Week in Appleverse",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60861817/apple-weekly-roundup-q3-results-stock-outlook",
+      "published_at": "2026-08-02T11:00:36+00:00"
+    },
+    {
+      "headline": "DRAM Jumps After Situational Awareness Rescue as Analysts Caution Memory Stocks May Fall Further",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/08/60861246/dram-jumps-after-situational-awareness-rescue-as-analysts-caution-memory-stocks-may-fall-further",
+      "published_at": "2026-08-01T21:13:52+00:00"
+    },
+    {
+      "headline": "Steve Jobs Once Told Bill Gates Microsoft Had 'Absolutely No Taste' and the Tech Boss Fired Back, Saying the iPad Was Just a 'Nice Reader' — Years Later, One of Them Was Very Wrong",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60860313/steve-jobs-once-told-bill-gates-microsoft-had-absolutely-no-taste-and-the-tech-boss-fired-back-saying-the-ipad-was-just-a-nice-reader-years-later-one-of-them-was-very-wrong",
+      "published_at": "2026-08-01T19:30:26+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

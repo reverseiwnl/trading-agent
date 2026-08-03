@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-08-03T12:08:43.096219+00:00",
+  "price": 355.13,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-18",
+      "open": 365.69,
+      "high": 369.46,
+      "low": 358.74,
+      "close": 367.93,
+      "volume": 950553.0
+    },
+    {
+      "date": "2026-06-22",
+      "open": 357.93,
+      "high": 358.71,
+      "low": 341.78,
+      "close": 349.5,
+      "volume": 2073229.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 340.36,
+      "high": 349.235,
+      "low": 340.36,
+      "close": 346.25,
+      "volume": 1191215.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.38,
+      "high": 364.15,
+      "low": 353.485,
+      "close": 359.69,
+      "volume": 779835.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 361.27,
+      "high": 367.905,
+      "low": 357.395,
+      "close": 366.34,
+      "volume": 801620.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 369.07,
+      "high": 373.14,
+      "low": 365.51,
+      "close": 366.985,
+      "volume": 635044.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 365.02,
+      "high": 367.65,
+      "low": 358.02,
+      "close": 361.76,
+      "volume": 648403.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 355.135,
+      "high": 359.615,
+      "low": 351.105,
+      "close": 358.88,
+      "volume": 887524.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 357.8,
+      "high": 357.8,
+      "low": 352.79,
+      "close": 357.17,
+      "volume": 608752.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 356.6,
+      "high": 357.97,
+      "low": 351.87,
+      "close": 352.54,
+      "volume": 623138.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 351.195,
+      "high": 360.14,
+      "low": 351.19,
+      "close": 359.55,
+      "volume": 697435.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 357.885,
+      "high": 373.65,
+      "low": 357.885,
+      "close": 370.98,
+      "volume": 1134849.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 373.325,
+      "high": 375.18,
+      "low": 352.365,
+      "close": 354.31,
+      "volume": 1442304.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 345.99,
+      "high": 348.47,
+      "low": 341.38,
+      "close": 346.765,
+      "volume": 869439.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 351.005,
+      "high": 359.65,
+      "low": 350.74,
+      "close": 352.11,
+      "volume": 1147351.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 350.985,
+      "high": 350.985,
+      "low": 347.02,
+      "close": 347.115,
+      "volume": 766723.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 348.155,
+      "high": 349.925,
+      "low": 341.79,
+      "close": 342.06,
+      "volume": 1361767.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.0,
+      "high": 324.42,
+      "low": 314.96,
+      "close": 317.73,
+      "volume": 2504211.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 318.125,
+      "high": 324.17,
+      "low": 317.36,
+      "close": 319.725,
+      "volume": 1147202.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 325.245,
+      "high": 330.41,
+      "low": 324.45,
+      "close": 326.38,
+      "volume": 1188475.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 327.98,
+      "high": 335.88,
+      "low": 324.455,
+      "close": 333.78,
+      "volume": 1056354.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 334.665,
+      "high": 342.49,
+      "low": 331.63,
+      "close": 336.49,
+      "volume": 954025.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 334.575,
+      "high": 336.48,
+      "low": 330.395,
+      "close": 333.64,
+      "volume": 1082401.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 341.03,
+      "high": 358.54,
+      "low": 340.355,
+      "close": 356.06,
+      "volume": 1661583.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "This One-Year-Old Start Up Built a CUDA Rival in Just 10 Hours — Is Nvidia's Moat Under Threat?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60868781/this-one-year-old-start-up-built-a-cuda-rival-in-just-10-hours-is-nvidias-moat-under-threat",
+      "published_at": "2026-08-03T11:52:33+00:00"
+    },
+    {
+      "headline": "Alphabet's Google Pauses New Earth AI Image Generator One Day After Launch as Fake Images Raise Misinformation Fears",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60865094/alphabets-google-pauses-new-earth-ai-image-generator-one-day-after-launch-as-fake-images-raise-misinformation-fears",
+      "published_at": "2026-08-03T09:22:23+00:00"
+    },
+    {
+      "headline": "AMD Q2 Earnings Preview: Can Lisa Su's AI Strategy Prove the Structural Shift Is Real?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/08/60864974/amd-q2-earnings-preview-can-lisa-su-prove-the-structural-shift-is-real",
+      "published_at": "2026-08-03T09:04:33+00:00"
+    },
+    {
+      "headline": "Steve Hanke Says AI Won't Replace Workers Because It's 'Incredibly Costly:' 'Businesses Will Not Be Firing…'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60864779/steve-hanke-ai-costly-replace-workers",
+      "published_at": "2026-08-03T08:38:31+00:00"
+    },
+    {
+      "headline": "IBM’s Arvind Krishna Predicts Quantum Computing Will Become a Meaningful Business by 2028: 'We Are Now Pretty Convinced...'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60863473/ibms-arvind-krishna-predicts-quantum-computing-will-become-a-meaningful-business-by-2028",
+      "published_at": "2026-08-03T05:58:44+00:00"
+    },
+    {
+      "headline": "Wall Street Questioned the AI Boom, Earnings Are Delivering: Here Are the ETFs You Should Watch Closely",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60863456/ai-spending-pays-off-as-big-tech-delivers-historic-earnings-beats-etfs-to-watch",
+      "published_at": "2026-08-03T05:58:00+00:00"
+    },
+    {
+      "headline": "SpaceX Buying Tesla's Robots and Cabs Would Allow Tesla to Be an 'EV Company' Again, Says Ross Gerber: Analyst Dwells on Elon Musk's China 'Issue'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60863224/spacex-tesla-robots-robotaxis-ross-gerber-elon-musk",
+      "published_at": "2026-08-03T05:07:06+00:00"
+    },
+    {
+      "headline": "RSP ETF Beating VOO, SPY as S&P 500 Equal Weight Fund Nears $100 Billion Milestone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/08/60862370/rsp-etf-is-beating-voo-spy-as-sp-500-equal-weight-fund-nears-100-billion-milestone",
+      "published_at": "2026-08-02T22:25:14+00:00"
+    },
+    {
+      "headline": "Consumer Tech (July 27-31): AI Boom Drives Tech Earnings As Apple, Amazon Lead Markets & More",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60861868/consumer-tech-july-27-31-ai-boom-drives-tech-earnings-as-apple-amazon-lead-markets-more",
+      "published_at": "2026-08-02T12:00:30+00:00"
+    },
+    {
+      "headline": "Wonder Boy Blowup Sparks Massive Semiconductor Rally; Kospi Up 18%; Amazon Helps, Apple Disappoints",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/07/60851764/wonder-boy-blowup-sparks-massive-semiconductor-rally-korea-up-18-amazon-helps-apple-disappoints",
+      "published_at": "2026-07-31T18:12:25+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
