@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-08-04T12:10:56.075404+00:00",
+  "price": 303.54,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-22",
+      "open": 297.41,
+      "high": 302.415,
+      "low": 296.82,
+      "close": 296.85,
+      "volume": 1619228.0
+    },
+    {
+      "date": "2026-06-23",
+      "open": 297.61,
+      "high": 301.635,
+      "low": 294.27,
+      "close": 294.28,
+      "volume": 1781140.0
+    },
+    {
+      "date": "2026-06-24",
+      "open": 295.345,
+      "high": 299.675,
+      "low": 292.94,
+      "close": 293.32,
+      "volume": 2239666.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 287.5,
+      "high": 288.68,
+      "low": 273.79,
+      "close": 275.21,
+      "volume": 5858472.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 275.14,
+      "high": 285.95,
+      "low": 274.25,
+      "close": 281.31,
+      "volume": 5117781.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 286.69,
+      "high": 288.35,
+      "low": 279.85,
+      "close": 281.69,
+      "volume": 2386040.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 281.145,
+      "high": 289.9,
+      "low": 280.7,
+      "close": 289.24,
+      "volume": 1576321.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 293.44,
+      "high": 296.57,
+      "low": 289.195,
+      "close": 294.42,
+      "volume": 2428489.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 294.085,
+      "high": 309.415,
+      "low": 293.89,
+      "close": 308.235,
+      "volume": 3813037.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 307.54,
+      "high": 314.19,
+      "low": 307.02,
+      "close": 312.73,
+      "volume": 1434853.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 315.29,
+      "high": 315.47,
+      "low": 310.18,
+      "close": 310.69,
+      "volume": 1573402.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 311.91,
+      "high": 314.805,
+      "low": 307.11,
+      "close": 313.33,
+      "volume": 1549372.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 310.45,
+      "high": 316.53,
+      "low": 308.19,
+      "close": 316.16,
+      "volume": 1441032.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 314.72,
+      "high": 316.91,
+      "low": 312.17,
+      "close": 315.32,
+      "volume": 1326282.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 317.005,
+      "high": 323.395,
+      "low": 315.79,
+      "close": 317.47,
+      "volume": 1374655.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 313.76,
+      "high": 316.145,
+      "low": 311.955,
+      "close": 314.93,
+      "volume": 1213545.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 317.46,
+      "high": 328.705,
+      "low": 317.4,
+      "close": 327.58,
+      "volume": 1721273.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 328.135,
+      "high": 334.65,
+      "low": 326.885,
+      "close": 333.23,
+      "volume": 2365368.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 331.98,
+      "high": 334.98,
+      "low": 329.025,
+      "close": 333.75,
+      "volume": 2248743.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 332.235,
+      "high": 333.63,
+      "low": 323.73,
+      "close": 326.65,
+      "volume": 2314409.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 323.345,
+      "high": 329.565,
+      "low": 322.24,
+      "close": 327.66,
+      "volume": 1409246.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 327.98,
+      "high": 328.865,
+      "low": 323.365,
+      "close": 325.86,
+      "volume": 1552861.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.815,
+      "high": 323.25,
+      "low": 319.365,
+      "close": 321.575,
+      "volume": 1362559.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 321.86,
+      "high": 334.35,
+      "low": 321.66,
+      "close": 333.05,
+      "volume": 1772167.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 335.73,
+      "high": 339.55,
+      "low": 334.035,
+      "close": 336.93,
+      "volume": 1578038.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 340.02,
+      "high": 342.87,
+      "low": 335.63,
+      "close": 340.005,
+      "volume": 1872000.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 340.42,
+      "high": 344.555,
+      "low": 337.38,
+      "close": 338.23,
+      "volume": 1917728.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 332.83,
+      "high": 334.41,
+      "low": 329.6,
+      "close": 333.07,
+      "volume": 2368789.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 304.765,
+      "high": 310.64,
+      "low": 300.01,
+      "close": 308.725,
+      "volume": 4898226.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 309.765,
+      "high": 311.77,
+      "low": 302.56,
+      "close": 303.41,
+      "volume": 3242233.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "HP, Asus, Acer Quietly Embrace Limited CXMT Chips Amid Tight DRAM Supply, as They Fear Upsetting Memory Giants: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60901057/hp-asus-acer-quietly-embrace-limited-cxmt-chips-amid-tight-dram-supply-as-they-fear-upsetting-memory-giants-report",
+      "published_at": "2026-08-04T11:14:40+00:00"
+    },
+    {
+      "headline": "Exploring The Competitive Space: Apple Versus Industry Peers In Technology Hardware, Storage &amp; Peripherals",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60897317/exploring-competitive-space-apple-versus-industry-peers-technology-hardware-storage-amp-peripherals",
+      "published_at": "2026-08-04T09:58:25+00:00"
+    },
+    {
+      "headline": "Will Elon Musk's Bullish Starlink Bet Help SPCX Recover? Billionaire Charts Ambitious Connectivity Plan Ahead of SpaceX Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/space/26/08/60897203/will-elon-musks-bullish-starlink-bet-help-spcx-recover-billionaire-charts-ambitious-connectivity-plan-ahead-of-spacex-earnings",
+      "published_at": "2026-08-04T09:48:16+00:00"
+    },
+    {
+      "headline": "Snap's $2,195 Glasses Will See 'Mass Market Adoption' By End of Decade, Says CEO Evan Spiegel: 'Designed For a Future in Which AI Does More Work'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/08/60896086/snap-evan-spiegel-ai-smart-glasses-mass-adoption",
+      "published_at": "2026-08-04T07:20:15+00:00"
+    },
+    {
+      "headline": "Spotify Earnings Prediction Market Preview: What Will Its New Co-CEOs Say?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/60893295/spotify-earnings-prediction-market-preview-what-will-its-new-co-ceos-say",
+      "published_at": "2026-08-03T21:30:21+00:00"
+    },
+    {
+      "headline": "Congressman Who Spent Millions on Magnificent Seven Stocks Just Bought Another Tech Giant",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/08/60892017/congressman-who-spent-millions-on-magnificent-seven-stocks-just-bought-another-tech-giant",
+      "published_at": "2026-08-03T20:57:07+00:00"
+    },
+    {
+      "headline": "Yen Intervention And Falling Oil Help Stocks, But Selling In Korea Throws A Monkey Wrench",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/08/60881262/yen-intervention-and-falling-oil-help-stocks-but-selling-in-korea-throws-a-monkey-wrench",
+      "published_at": "2026-08-03T16:45:22+00:00"
+    },
+    {
+      "headline": "Reported Earlier: 'Apple launches legal challenge to UK attempt to access encrypted user data' - Financial Times",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60880737/reported-earlier-apple-launches-legal-challenge-uk-attempt-access-encrypted-user-data-financial-time",
+      "published_at": "2026-08-03T16:29:16+00:00"
+    },
+    {
+      "headline": "What Is Going On With Nebius Stock On Monday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60879696/what-is-going-on-nebius-stock-on-monday",
+      "published_at": "2026-08-03T16:03:31+00:00"
+    },
+    {
+      "headline": "CoreWeave Stock Jumps as AI Data-Center Demand Skyrockets Ahead of Q2 Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60878111/coreweave-stock-jumps-as-ai-data-center-demand-skyrockets-ahead-of-q2-earnings",
+      "published_at": "2026-08-03T15:29:30+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
