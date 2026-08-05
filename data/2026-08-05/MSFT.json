@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-08-05T20:14:08.287776+00:00",
+  "price": 487.46,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-24",
+      "open": 371.83,
+      "high": 378.87,
+      "low": 364.8,
+      "close": 365.46,
+      "volume": 1182848.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 362.77,
+      "high": 364.19,
+      "low": 349.205,
+      "close": 352.415,
+      "volume": 2522776.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 357.19,
+      "high": 376.6,
+      "low": 355.45,
+      "close": 371.67,
+      "volume": 2989666.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 377.085,
+      "high": 380.48,
+      "low": 366.86,
+      "close": 368.515,
+      "volume": 1577857.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 370.93,
+      "high": 374.12,
+      "low": 367.54,
+      "close": 372.92,
+      "volume": 988755.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 380.95,
+      "high": 388.81,
+      "low": 374.91,
+      "close": 384.38,
+      "volume": 1541022.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 384.35,
+      "high": 392.2,
+      "low": 383.79,
+      "close": 389.79,
+      "volume": 1346140.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 387.075,
+      "high": 388.995,
+      "low": 381.335,
+      "close": 386.81,
+      "volume": 1115599.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 392.46,
+      "high": 395.52,
+      "low": 388.24,
+      "close": 388.74,
+      "volume": 1269848.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 383.77,
+      "high": 385.205,
+      "low": 381.34,
+      "close": 383.11,
+      "volume": 1124752.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 374.47,
+      "high": 384.64,
+      "low": 373.475,
+      "close": 384.24,
+      "volume": 1217629.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 387.64,
+      "high": 391.8,
+      "low": 381.54,
+      "close": 385.09,
+      "volume": 969305.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 387.91,
+      "high": 393.65,
+      "low": 384.19,
+      "close": 390.985,
+      "volume": 1253350.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 382.505,
+      "high": 388.15,
+      "low": 378.71,
+      "close": 384.94,
+      "volume": 1113317.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 387.655,
+      "high": 398.95,
+      "low": 386.535,
+      "close": 395.61,
+      "volume": 1577874.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 398.2,
+      "high": 405.98,
+      "low": 392.15,
+      "close": 401.12,
+      "volume": 1244751.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 395.05,
+      "high": 398.39,
+      "low": 389.42,
+      "close": 394.015,
+      "volume": 980663.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 390.62,
+      "high": 403.15,
+      "low": 389.74,
+      "close": 402.48,
+      "volume": 1299062.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 399.015,
+      "high": 401.45,
+      "low": 396.36,
+      "close": 397.575,
+      "volume": 994373.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 399.58,
+      "high": 400.89,
+      "low": 386.98,
+      "close": 390.275,
+      "volume": 1163738.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 389.87,
+      "high": 391.71,
+      "low": 377.4,
+      "close": 381.55,
+      "volume": 1350874.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 387.535,
+      "high": 388.67,
+      "low": 380.77,
+      "close": 381.81,
+      "volume": 1125568.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 389.7,
+      "high": 394.2,
+      "low": 388.1,
+      "close": 389.15,
+      "volume": 1029575.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 393.24,
+      "high": 400.24,
+      "low": 391.43,
+      "close": 393.44,
+      "volume": 1262651.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 393.35,
+      "high": 401.24,
+      "low": 388.745,
+      "close": 391.0,
+      "volume": 1558652.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 438.47,
+      "high": 458.68,
+      "low": 432.44,
+      "close": 451.545,
+      "volume": 4738445.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 450.095,
+      "high": 466.825,
+      "low": 449.87,
+      "close": 464.7,
+      "volume": 2203754.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 476.4,
+      "high": 491.62,
+      "low": 475.17,
+      "close": 487.575,
+      "volume": 2343253.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 480.755,
+      "high": 499.34,
+      "low": 479.39,
+      "close": 492.83,
+      "volume": 1496436.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 496.725,
+      "high": 498.14,
+      "low": 485.71,
+      "close": 487.46,
+      "volume": 901959.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "'Meta Releases Coding Agent to Compete With OpenAI and Anthropic; The company, pressed by investors to generate revenue from AI, says its offering will cost less than popular alternatives' - WSJ",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60967383/meta-releases-coding-agent-compete-openai-and-anthropic-company-pressed-investors-generate-revenue-a",
+      "published_at": "2026-08-05T19:46:58+00:00"
+    },
+    {
+      "headline": "'Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60964105/microsoft-s-ai-sales-mostly-come-openai-disclosures-show-bloomberg",
+      "published_at": "2026-08-05T18:17:28+00:00"
+    },
+    {
+      "headline": "SpaceX Chooses Nvidia; Short Squeeze Drives Market Rally, But Extreme Positive Sentiment Flashes Warning",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/08/60961514/spacex-chooses-nvidia-short-squeeze-drives-market-rally-but-extreme-positive-sentiment-flashes-warning",
+      "published_at": "2026-08-05T17:17:26+00:00"
+    },
+    {
+      "headline": "CNBC Halftime Report Final Trades: Wynn Resorts, Microsoft, Arista Networks, Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/MSFT",
+      "published_at": "2026-08-05T17:00:47+00:00"
+    },
+    {
+      "headline": "SpaceX Lockup Expiry Could Send a Gentle Jolt Through QQQ, Nasdaq ETFs",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/08/60959460/spacex-lockup-expiry-could-send-a-gentle-jolt-through-qqq-nasdaq-etfs",
+      "published_at": "2026-08-05T16:31:31+00:00"
+    },
+    {
+      "headline": "Tigress Financial Maintains Buy on Microsoft, Raises Price Target to $690",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60958924/tigress-financial-maintains-buy-microsoft-raises-price-target-690",
+      "published_at": "2026-08-05T16:19:00+00:00"
+    },
+    {
+      "headline": "Congressional Trading Report: Sen. Shelley M Capito Sold Over $19K In Microsoft Stock",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/government/26/08/60954977/congressional-trading-report-sen-shelley-m-capito-sold-over-19k-microsoft-stock",
+      "published_at": "2026-08-05T15:00:17+00:00"
+    },
+    {
+      "headline": "QUICK SPARK: QQQ Pulls In Nearly $5 Billion in a Day as Investors Pile Into Big Tech",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/08/60948333/quick-spark-qqq-nearly-5-billion-in-one-day-investors-big-tech",
+      "published_at": "2026-08-05T13:18:06+00:00"
+    },
+    {
+      "headline": "Ross Gerber Says July Tech Correction Was About Taking Leopold Aschenbrenner's Money and Offers a Lesson: 'Experience Matters'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60937324/ross-gerber-tech-correction-leopold-aschenbrenner-experience",
+      "published_at": "2026-08-05T03:52:54+00:00"
+    },
+    {
+      "headline": "Third-Party Cyber Evaluations Involving OpenAI Models; On Aug 3, UK AISI Told During Routine Cyber Evaluation, Models From OpenAI, Another Lab Went Beyond Scope Of Testing In Some Cases; Irregular Has Not Identified Impact Beyond Affected Site’s Own Data, Its Audit Is Ongoing; Of 19 Events Identified In UK AISI Evaluation, Two Involved An OpenAI Model, Gpt‑5.6 Sol; Other Instances Were Models From Another Lab",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60935349/third-party-cyber-evaluations-involving-openai-models-aug-3-uk-aisi-told-during-routine-cyber-evalua",
+      "published_at": "2026-08-04T21:36:32+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

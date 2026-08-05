@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-08-05T20:14:04.664698+00:00",
+  "price": 362.385,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-24",
+      "open": 349.01,
+      "high": 353.42,
+      "low": 341.945,
+      "close": 345.28,
+      "volume": 1965788.0
+    },
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.38,
+      "high": 364.15,
+      "low": 353.485,
+      "close": 359.69,
+      "volume": 779835.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 361.27,
+      "high": 367.905,
+      "low": 357.395,
+      "close": 366.34,
+      "volume": 801620.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 369.07,
+      "high": 373.14,
+      "low": 365.51,
+      "close": 366.985,
+      "volume": 635044.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 365.02,
+      "high": 367.65,
+      "low": 358.02,
+      "close": 361.76,
+      "volume": 648403.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 355.135,
+      "high": 359.615,
+      "low": 351.105,
+      "close": 358.88,
+      "volume": 887524.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 357.8,
+      "high": 357.8,
+      "low": 352.79,
+      "close": 357.17,
+      "volume": 608752.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 356.6,
+      "high": 357.97,
+      "low": 351.87,
+      "close": 352.54,
+      "volume": 623138.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 351.195,
+      "high": 360.14,
+      "low": 351.19,
+      "close": 359.55,
+      "volume": 697435.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 357.885,
+      "high": 373.65,
+      "low": 357.885,
+      "close": 370.98,
+      "volume": 1134849.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 373.325,
+      "high": 375.18,
+      "low": 352.365,
+      "close": 354.31,
+      "volume": 1442304.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 345.99,
+      "high": 348.47,
+      "low": 341.38,
+      "close": 346.765,
+      "volume": 869439.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 351.005,
+      "high": 359.65,
+      "low": 350.74,
+      "close": 352.11,
+      "volume": 1147351.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 350.985,
+      "high": 350.985,
+      "low": 347.02,
+      "close": 347.115,
+      "volume": 766723.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 348.155,
+      "high": 349.925,
+      "low": 341.79,
+      "close": 342.06,
+      "volume": 1361767.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.0,
+      "high": 324.42,
+      "low": 314.96,
+      "close": 317.73,
+      "volume": 2504211.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 318.125,
+      "high": 324.17,
+      "low": 317.36,
+      "close": 319.725,
+      "volume": 1147202.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 325.245,
+      "high": 330.41,
+      "low": 324.45,
+      "close": 326.38,
+      "volume": 1188475.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 327.98,
+      "high": 335.88,
+      "low": 324.455,
+      "close": 333.78,
+      "volume": 1056354.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 334.665,
+      "high": 342.49,
+      "low": 331.63,
+      "close": 336.49,
+      "volume": 954025.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 334.575,
+      "high": 336.48,
+      "low": 330.395,
+      "close": 333.64,
+      "volume": 1082401.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 341.03,
+      "high": 358.54,
+      "low": 340.355,
+      "close": 356.06,
+      "volume": 1661583.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 365.445,
+      "high": 376.675,
+      "low": 363.44,
+      "close": 373.51,
+      "volume": 1475833.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 367.5,
+      "high": 380.43,
+      "low": 367.5,
+      "close": 377.675,
+      "volume": 1510470.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 383.045,
+      "high": 384.44,
+      "low": 356.83,
+      "close": 362.385,
+      "volume": 2139432.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "'Meta Releases Coding Agent to Compete With OpenAI and Anthropic; The company, pressed by investors to generate revenue from AI, says its offering will cost less than popular alternatives' - WSJ",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60967383/meta-releases-coding-agent-compete-openai-and-anthropic-company-pressed-investors-generate-revenue-a",
+      "published_at": "2026-08-05T19:46:58+00:00"
+    },
+    {
+      "headline": "Gold Jumps 4%, Dow Jones Smashes Record Highs: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/08/60964006/gold-jumps-4-percent-dow-tops-record-highs-markets-wednesday",
+      "published_at": "2026-08-05T18:14:20+00:00"
+    },
+    {
+      "headline": "Watching Alphabet; Hearing Investor Business Daily SwingTrader sells stock",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/GOOGL",
+      "published_at": "2026-08-05T17:47:29+00:00"
+    },
+    {
+      "headline": "Broadcom, Marvell And Nvidia Could Feel the Impact of US Ban on Chinese AI Components",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/08/60961422/broadcom-marvell-nvidia-face-risk-china-ai-component-ban",
+      "published_at": "2026-08-05T17:14:56+00:00"
+    },
+    {
+      "headline": "Alphabet Stock Dives as Key AI Leadership Exits",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/08/60960312/alphabet-stock-dives-as-key-ai-leadership-exits",
+      "published_at": "2026-08-05T16:50:55+00:00"
+    },
+    {
+      "headline": "Demis Hassabis Appointed As Alphabet's Chief Scientist, Chair Of Google DeepMind",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60958827/demis-hassabis-appointed-alphabet-s-chief-scientist-chair-google-deepmind",
+      "published_at": "2026-08-05T16:16:58+00:00"
+    },
+    {
+      "headline": "Google DeepMind Chief Demis Hassabis Relinquishes CEO Role; Hassabis Will Become Alphabet Chief Scientist, Chair Of Google DeepMind; Jeff Dean And Three Veteran AI Staffers Depart Google To Found Startup; Google DeepMind CTO Koray Kavukcuoglu To Become New Division Head",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/GOOGL",
+      "published_at": "2026-08-05T16:07:04+00:00"
+    },
+    {
+      "headline": "'Google’s Chief Scientist Is Leaving After 27 Years—to Start His Own AI Company; Google DeepMind CTO Koray Kavukcuoglu To Become New Division Head' - Wall Street Journal",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60958294/google-s-chief-scientist-leaving-after-27-years-start-his-own-ai-company-google-deepmind-cto-koray-k",
+      "published_at": "2026-08-05T16:06:16+00:00"
+    },
+    {
+      "headline": "'Anthropic confirms it's building an in-house chip team for Claude' - Business Insider Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60947405/anthropic-confirms-it-s-building-house-chip-team-claude-business-insider-exclusive",
+      "published_at": "2026-08-05T12:53:12+00:00"
+    },
+    {
+      "headline": "'Google is in talks for a $1.5 billion-plus deal with AI coding agent startup Mechanize' - Business Insider",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/m/26/08/60946370/google-talks-1-5-billion-plus-deal-ai-coding-agent-startup-mechanize-business-insider",
+      "published_at": "2026-08-05T12:21:24+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
