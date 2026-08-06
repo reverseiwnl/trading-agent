@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-08-06T15:56:45.297503+00:00",
+  "price": 359.295,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-25",
+      "open": 336.46,
+      "high": 345.54,
+      "low": 335.89,
+      "close": 343.54,
+      "volume": 2175780.0
+    },
+    {
+      "date": "2026-06-26",
+      "open": 342.65,
+      "high": 346.36,
+      "low": 334.36,
+      "close": 335.79,
+      "volume": 1728279.0
+    },
+    {
+      "date": "2026-06-29",
+      "open": 341.66,
+      "high": 354.34,
+      "low": 340.94,
+      "close": 353.485,
+      "volume": 1251260.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.38,
+      "high": 364.15,
+      "low": 353.485,
+      "close": 359.69,
+      "volume": 779835.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 361.27,
+      "high": 367.905,
+      "low": 357.395,
+      "close": 366.34,
+      "volume": 801620.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 369.07,
+      "high": 373.14,
+      "low": 365.51,
+      "close": 366.985,
+      "volume": 635044.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 365.02,
+      "high": 367.65,
+      "low": 358.02,
+      "close": 361.76,
+      "volume": 648403.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 355.135,
+      "high": 359.615,
+      "low": 351.105,
+      "close": 358.88,
+      "volume": 887524.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 357.8,
+      "high": 357.8,
+      "low": 352.79,
+      "close": 357.17,
+      "volume": 608752.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 356.6,
+      "high": 357.97,
+      "low": 351.87,
+      "close": 352.54,
+      "volume": 623138.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 351.195,
+      "high": 360.14,
+      "low": 351.19,
+      "close": 359.55,
+      "volume": 697435.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 357.885,
+      "high": 373.65,
+      "low": 357.885,
+      "close": 370.98,
+      "volume": 1134849.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 373.325,
+      "high": 375.18,
+      "low": 352.365,
+      "close": 354.31,
+      "volume": 1442304.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 345.99,
+      "high": 348.47,
+      "low": 341.38,
+      "close": 346.765,
+      "volume": 869439.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 351.005,
+      "high": 359.65,
+      "low": 350.74,
+      "close": 352.11,
+      "volume": 1147351.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 350.985,
+      "high": 350.985,
+      "low": 347.02,
+      "close": 347.115,
+      "volume": 766723.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 348.155,
+      "high": 349.925,
+      "low": 341.79,
+      "close": 342.06,
+      "volume": 1361767.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.0,
+      "high": 324.42,
+      "low": 314.96,
+      "close": 317.73,
+      "volume": 2504211.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 318.125,
+      "high": 324.17,
+      "low": 317.36,
+      "close": 319.725,
+      "volume": 1147202.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 325.245,
+      "high": 330.41,
+      "low": 324.45,
+      "close": 326.38,
+      "volume": 1188475.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 327.98,
+      "high": 335.88,
+      "low": 324.455,
+      "close": 333.78,
+      "volume": 1056354.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 334.665,
+      "high": 342.49,
+      "low": 331.63,
+      "close": 336.49,
+      "volume": 954025.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 334.575,
+      "high": 336.48,
+      "low": 330.395,
+      "close": 333.64,
+      "volume": 1082401.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 341.03,
+      "high": 358.54,
+      "low": 340.355,
+      "close": 356.06,
+      "volume": 1661583.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 365.445,
+      "high": 376.675,
+      "low": 363.44,
+      "close": 373.51,
+      "volume": 1475833.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 367.5,
+      "high": 380.43,
+      "low": 367.5,
+      "close": 377.675,
+      "volume": 1510470.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 383.045,
+      "high": 384.44,
+      "low": 356.83,
+      "close": 362.385,
+      "volume": 2139552.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 360.8,
+      "high": 364.01,
+      "low": 358.7,
+      "close": 359.245,
+      "volume": 385334.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Lyft Earnings Prediction Market Preview: What Will David Risher Say?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61001507/lyft-earnings-prediction-market-preview-what-will-david-risher-say-2",
+      "published_at": "2026-08-06T14:45:06+00:00"
+    },
+    {
+      "headline": "AI Hyperscaler Spending Is Entering Uncharted Territory: 3x the Telecom Boom",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60997436/ai-capex-1-trillion-as-percentage-of-gdp-hyperscaler-telecom-boom",
+      "published_at": "2026-08-06T13:49:52+00:00"
+    },
+    {
+      "headline": "'Mirendil inks $100M+ Google Cloud deal to scale self-improving AI' - Tech Crunch",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60995268/mirendil-inks-100m-google-cloud-deal-scale-self-improving-ai-tech-crunch",
+      "published_at": "2026-08-06T13:07:58+00:00"
+    },
+    {
+      "headline": "'Alphabet Returns to Bond Market Despite AI Spending Worries' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60992671/alphabet-returns-bond-market-despite-ai-spending-worries-bloomberg",
+      "published_at": "2026-08-06T12:23:58+00:00"
+    },
+    {
+      "headline": "Gene Munster Predicts SpaceX Could Generate $135 Billion In Annual Revenue— Well Above Wall Street's Forecast: 'The Dust Is Settling...'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60989495/gene-munster-predicts-spacex-could-generate-135-billion-in-annual-revenue-well-above-wall-streets-forecast-the-dust-is-settling",
+      "published_at": "2026-08-06T11:34:16+00:00"
+    },
+    {
+      "headline": "Gary Black Says Uber, Not Tesla or Waymo, Has the Best Shot at Bringing Robotaxis to the Masses",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60985118/gary-black-says-uber-not-tesla-or-waymo-has-the-best-shot-at-bringing-robotaxis-to-the-masses",
+      "published_at": "2026-08-06T10:25:30+00:00"
+    },
+    {
+      "headline": "SK Hynix Stock Drops Over 6% in Thursday Pre-Market: What's Going On?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60983692/sk-hynix-stock-drops-over-6-in-thursday-pre-market-whats-going-on",
+      "published_at": "2026-08-06T09:55:09+00:00"
+    },
+    {
+      "headline": "GOOGL Stock Declined Last Month on Gemini 3.5 Pro Launch Delay Reports—Prediction Market Is Now Betting on This Date",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/60981812/googl-stock-declined-last-month-on-gemini-3-5-pro-launch-delay-reports-prediction-market-is-now-betting-on-this-date",
+      "published_at": "2026-08-06T06:27:57+00:00"
+    },
+    {
+      "headline": "Jim Cramer Compares SpaceX Stock to 100-Year Railroad Bonds: Asks Investors to Think of Their Children and Grandchildren",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60981354/sandisk-ceo-david-goeckeler-pc-smartphone-sales-nand-recovery",
+      "published_at": "2026-08-06T05:12:53+00:00"
+    },
+    {
+      "headline": "Meta Joins OpenAI and Anthropic in AI Cybersecurity Scare After Model Hacks Third Party: 'We Are Currently Investigating…'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60980811/meta-openai-anthropic-ai-cybersecurity-model-hack",
+      "published_at": "2026-08-06T02:10:55+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
