@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-08-11T12:56:55.966335+00:00",
+  "price": 506.15,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-29",
+      "open": 377.085,
+      "high": 380.48,
+      "low": 366.86,
+      "close": 368.515,
+      "volume": 1577857.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 370.93,
+      "high": 374.12,
+      "low": 367.54,
+      "close": 372.92,
+      "volume": 988755.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 380.95,
+      "high": 388.81,
+      "low": 374.91,
+      "close": 384.38,
+      "volume": 1541022.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 384.35,
+      "high": 392.2,
+      "low": 383.79,
+      "close": 389.79,
+      "volume": 1346140.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 387.075,
+      "high": 388.995,
+      "low": 381.335,
+      "close": 386.81,
+      "volume": 1115599.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 392.46,
+      "high": 395.52,
+      "low": 388.24,
+      "close": 388.74,
+      "volume": 1269848.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 383.77,
+      "high": 385.205,
+      "low": 381.34,
+      "close": 383.11,
+      "volume": 1124752.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 374.47,
+      "high": 384.64,
+      "low": 373.475,
+      "close": 384.24,
+      "volume": 1217629.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 387.64,
+      "high": 391.8,
+      "low": 381.54,
+      "close": 385.09,
+      "volume": 969305.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 387.91,
+      "high": 393.65,
+      "low": 384.19,
+      "close": 390.985,
+      "volume": 1253350.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 382.505,
+      "high": 388.15,
+      "low": 378.71,
+      "close": 384.94,
+      "volume": 1113317.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 387.655,
+      "high": 398.95,
+      "low": 386.535,
+      "close": 395.61,
+      "volume": 1577874.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 398.2,
+      "high": 405.98,
+      "low": 392.15,
+      "close": 401.12,
+      "volume": 1244751.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 395.05,
+      "high": 398.39,
+      "low": 389.42,
+      "close": 394.015,
+      "volume": 980663.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 390.62,
+      "high": 403.15,
+      "low": 389.74,
+      "close": 402.48,
+      "volume": 1299062.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 399.015,
+      "high": 401.45,
+      "low": 396.36,
+      "close": 397.575,
+      "volume": 994373.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 399.58,
+      "high": 400.89,
+      "low": 386.98,
+      "close": 390.275,
+      "volume": 1163738.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 389.87,
+      "high": 391.71,
+      "low": 377.4,
+      "close": 381.55,
+      "volume": 1350874.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 387.535,
+      "high": 388.67,
+      "low": 380.77,
+      "close": 381.81,
+      "volume": 1125568.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 389.7,
+      "high": 394.2,
+      "low": 388.1,
+      "close": 389.15,
+      "volume": 1029575.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 393.24,
+      "high": 400.24,
+      "low": 391.43,
+      "close": 393.44,
+      "volume": 1262651.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 393.35,
+      "high": 401.24,
+      "low": 388.745,
+      "close": 391.0,
+      "volume": 1558652.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 438.47,
+      "high": 458.68,
+      "low": 432.44,
+      "close": 451.545,
+      "volume": 4738445.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 450.095,
+      "high": 466.825,
+      "low": 449.87,
+      "close": 464.7,
+      "volume": 2203754.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 476.4,
+      "high": 491.62,
+      "low": 475.17,
+      "close": 487.575,
+      "volume": 2343253.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 480.755,
+      "high": 499.34,
+      "low": 479.39,
+      "close": 492.83,
+      "volume": 1496436.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 496.725,
+      "high": 498.14,
+      "low": 485.71,
+      "close": 487.46,
+      "volume": 903631.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 488.8,
+      "high": 501.54,
+      "low": 488.63,
+      "close": 500.035,
+      "volume": 1120595.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 499.98,
+      "high": 505.1,
+      "low": 498.75,
+      "close": 499.875,
+      "volume": 888433.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 503.675,
+      "high": 513.72,
+      "low": 502.78,
+      "close": 506.15,
+      "volume": 773280.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "The AI Mexican Standoff: Who Blinks First in the $1 Trillion Market?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61102582/the-ai-mexican-standoff-who-blinks-first-in-the-1-trillion-market",
+      "published_at": "2026-08-11T10:59:28+00:00"
+    },
+    {
+      "headline": "Assessing Microsoft's Performance Against Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61100929/assessing-microsoft-s-performance-against-competitors-software-industry",
+      "published_at": "2026-08-11T09:58:47+00:00"
+    },
+    {
+      "headline": "'OpenAI Buys Back $7 Billion of Employee Shares in Tender Offer' - Bloomberg News",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61094512/openai-buys-back-7-billion-employee-shares-tender-offer-bloomberg-news",
+      "published_at": "2026-08-10T20:42:09+00:00"
+    },
+    {
+      "headline": "Bill Ackman Backs Vivek Ramaswamy’s Data-Center Plan: 'Interesting Idea'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61090338/bill-ackman-backs-vivek-ramaswamys-data-center-plan-interesting-idea",
+      "published_at": "2026-08-10T19:55:19+00:00"
+    },
+    {
+      "headline": "S&P 500 Earnings Growth May Be Less Impressive Than It Looks; SpaceX Short Squeeze; Inflation Data Ahead",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/08/61084117/sp500-earnings-growth-may-be-less-impressive-than-it-looks-spacex-short-squeeze-inflation-data-ahead",
+      "published_at": "2026-08-10T17:07:38+00:00"
+    },
+    {
+      "headline": "OpenAI Introduces Premium Seats For ChatGPT Business; Premium Seats Cost $125 Per User Per Month, Or $100 Per User Per Month When Billed Annually",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61083558/openai-introduces-premium-seats-chatgpt-business-premium-seats-cost-125-user-month-or-100-user-month",
+      "published_at": "2026-08-10T16:53:45+00:00"
+    },
+    {
+      "headline": "Microsoft Stock Rises 2%: Upcoming Maia 300 Chip Launch Targets Reduced Nvidia Reliance",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61083050/microsoft-stock-rises-2-upcoming-maia-300-chip-launch-targets-reduced-nvidia-reliance",
+      "published_at": "2026-08-10T16:41:29+00:00"
+    },
+    {
+      "headline": "QUICK SPARK: Microsoft Price Target Raised — 'Not Building Too Fast' Given Demand",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/08/61081922/quick-spark-microsoft-price-target-raised-not-building-too-fast-given-demand",
+      "published_at": "2026-08-10T16:12:13+00:00"
+    },
+    {
+      "headline": "JPMorgan Lifts S&P 500 Target to 8,000: How High Can It Go by Year-End?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61078802/sp-500-wall-street-year-end-target-jpmorgan-8000",
+      "published_at": "2026-08-10T14:56:05+00:00"
+    },
+    {
+      "headline": "Microsoft’s Homegrown AI Chip Effort Shows Signs Of Life After Slow Start; Microsoft Plans To Unveil Its Next-Generation Maia 300 AI Chip In September; Microsoft Is Planning To Ramp Up Its Own Usage Of Maia While Wooing Big Customers; Microsoft Believes Maia Chips Can Run In-House And OpenAI Models At A Lower Cost; Microsoft Has Been In Talks With Chipmaker TSMC To Secure Manufacturing Capacity For Over 300,000 Of Maia Chips For Delivery In 2027",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61074328/microsoft-s-homegrown-ai-chip-effort-shows-signs-life-after-slow-start-microsoft-plans-unveil-its-ne",
+      "published_at": "2026-08-10T13:19:13+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

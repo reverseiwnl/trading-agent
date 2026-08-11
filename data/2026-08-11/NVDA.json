@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-08-11T12:56:58.013701+00:00",
+  "price": 220.86,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-29",
+      "open": 193.785,
+      "high": 196.16,
+      "low": 189.82,
+      "close": 194.92,
+      "volume": 3680689.0
+    },
+    {
+      "date": "2026-06-30",
+      "open": 197.12,
+      "high": 200.63,
+      "low": 195.11,
+      "close": 199.93,
+      "volume": 5774896.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 196.05,
+      "high": 199.85,
+      "low": 193.46,
+      "close": 197.54,
+      "volume": 6075573.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 197.13,
+      "high": 200.055,
+      "low": 192.35,
+      "close": 194.51,
+      "volume": 5880254.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 194.37,
+      "high": 197.53,
+      "low": 194.0,
+      "close": 195.59,
+      "volume": 4538784.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 192.25,
+      "high": 198.385,
+      "low": 191.15,
+      "close": 196.97,
+      "volume": 4767383.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 195.23,
+      "high": 205.13,
+      "low": 195.23,
+      "close": 204.07,
+      "volume": 5480997.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 204.46,
+      "high": 204.58,
+      "low": 198.98,
+      "close": 202.695,
+      "volume": 4867367.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 202.11,
+      "high": 210.99,
+      "low": 202.07,
+      "close": 210.99,
+      "volume": 7548841.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 208.595,
+      "high": 210.54,
+      "low": 203.355,
+      "close": 203.485,
+      "volume": 3818565.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 208.25,
+      "high": 212.55,
+      "low": 203.84,
+      "close": 211.79,
+      "volume": 3673407.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 211.96,
+      "high": 213.775,
+      "low": 206.04,
+      "close": 212.5,
+      "volume": 4218423.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 210.26,
+      "high": 211.03,
+      "low": 205.85,
+      "close": 207.46,
+      "volume": 4036020.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 202.74,
+      "high": 206.63,
+      "low": 197.98,
+      "close": 202.8,
+      "volume": 4558491.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 205.605,
+      "high": 207.71,
+      "low": 202.29,
+      "close": 203.33,
+      "volume": 3550006.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 207.5,
+      "high": 208.61,
+      "low": 204.01,
+      "close": 207.24,
+      "volume": 3037338.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 205.875,
+      "high": 214.39,
+      "low": 205.01,
+      "close": 212.07,
+      "volume": 5839269.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 209.43,
+      "high": 210.85,
+      "low": 205.96,
+      "close": 208.76,
+      "volume": 4289878.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 207.49,
+      "high": 211.89,
+      "low": 204.83,
+      "close": 207.07,
+      "volume": 4442598.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 208.155,
+      "high": 208.64,
+      "low": 195.45,
+      "close": 196.555,
+      "volume": 6702548.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 194.95,
+      "high": 198.69,
+      "low": 192.76,
+      "close": 197.05,
+      "volume": 5832667.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 195.84,
+      "high": 197.055,
+      "low": 190.035,
+      "close": 190.1,
+      "volume": 6151282.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 193.375,
+      "high": 197.24,
+      "low": 191.52,
+      "close": 195.04,
+      "volume": 5201876.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 198.515,
+      "high": 201.95,
+      "low": 194.975,
+      "close": 200.74,
+      "volume": 5634616.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 197.67,
+      "high": 208.73,
+      "low": 196.92,
+      "close": 206.72,
+      "volume": 3833883.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 211.49,
+      "high": 213.06,
+      "low": 209.06,
+      "close": 211.96,
+      "volume": 3780650.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 216.845,
+      "high": 222.22,
+      "low": 216.42,
+      "close": 219.16,
+      "volume": 4716179.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 221.58,
+      "high": 223.61,
+      "low": 217.285,
+      "close": 218.79,
+      "volume": 3379534.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 221.58,
+      "high": 224.76,
+      "low": 220.69,
+      "close": 223.93,
+      "volume": 4355482.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 223.39,
+      "high": 224.08,
+      "low": 216.78,
+      "close": 217.49,
+      "volume": 4587296.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "NVIDIA's Jensen Huang Says AI Isn’t Just Tech Anymore — It’s Infrastructure, and Wall Street Is Financing It",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61103769/nvidias-jensen-huang-says-ai-isnt-just-tech-anymore-its-infrastructure-and-wall-street-is-financing-it",
+      "published_at": "2026-08-11T11:25:12+00:00"
+    },
+    {
+      "headline": "Wells Fargo Reiterates Overweight on NVIDIA, Maintains $315 Price Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61103065/wells-fargo-reiterates-overweight-nvidia-maintains-315-price-target",
+      "published_at": "2026-08-11T11:04:10+00:00"
+    },
+    {
+      "headline": "The AI Mexican Standoff: Who Blinks First in the $1 Trillion Market?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61102582/the-ai-mexican-standoff-who-blinks-first-in-the-1-trillion-market",
+      "published_at": "2026-08-11T10:59:28+00:00"
+    },
+    {
+      "headline": "Performance Comparison: NVIDIA And Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61100923/performance-comparison-nvidia-and-competitors-semiconductors-amp-semiconductor-equipment-industry",
+      "published_at": "2026-08-11T09:58:38+00:00"
+    },
+    {
+      "headline": "CoreWeave Must Prove Whether ‘the Revenue Ramp Can Actually Catch Up’ to Its Nearly $100 Billion Backlog, Warns Shay Boloor Ahead of Q2 Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/08/61100477/coreweave-must-prove-whether-the-revenue-ramp-can-actually-catch-up-to-its-nearly-100-billion-backlog-warns-shay-boloor-ahead-of-q2-earnings",
+      "published_at": "2026-08-11T09:09:14+00:00"
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang Says 'First Time' That Chips Have Become An Investable Asset Class as BlackRock, Blackstone and Others Join $500 Billion AI Push",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61098798/nvidia-jensen-huang-chips-investable-asset-class-500-billion-ai",
+      "published_at": "2026-08-11T03:42:52+00:00"
+    },
+    {
+      "headline": "Cathie Wood Buys $26.6 Million in Nvidia Shares, Ark Invest Sells Palantir Stock Amid Market Swings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/08/61098678/cathie-wood-buys-26-6-million-in-nvidia-shares-ark-invest-sells-palantir-stock-amid-market-swings",
+      "published_at": "2026-08-11T02:41:18+00:00"
+    },
+    {
+      "headline": "Why Is Coherent Stock Falling on Monday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/08/61086911/why-is-coherent-stock-falling-on-monday",
+      "published_at": "2026-08-10T18:18:51+00:00"
+    },
+    {
+      "headline": "CoreWeave Q2 Preview: Investors May Be 'Better Off Sitting This One Out,’ Expert Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/previews/26/08/61085859/coreweave-q2-preview-investors-may-be-better-off-sitting-this-one-out-expert-says",
+      "published_at": "2026-08-10T17:50:31+00:00"
+    },
+    {
+      "headline": "S&P 500 Earnings Growth May Be Less Impressive Than It Looks; SpaceX Short Squeeze; Inflation Data Ahead",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/08/61084117/sp500-earnings-growth-may-be-less-impressive-than-it-looks-spacex-short-squeeze-inflation-data-ahead",
+      "published_at": "2026-08-10T17:07:38+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
