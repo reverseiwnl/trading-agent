@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-08-12T12:12:40.879468+00:00",
+  "price": 344.7,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-30",
+      "open": 353.87,
+      "high": 358.585,
+      "low": 350.61,
+      "close": 357.22,
+      "volume": 1017873.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 358.37,
+      "high": 362.93,
+      "low": 356.44,
+      "close": 361.195,
+      "volume": 1177136.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 359.38,
+      "high": 364.15,
+      "low": 353.485,
+      "close": 359.69,
+      "volume": 779835.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 361.27,
+      "high": 367.905,
+      "low": 357.395,
+      "close": 366.34,
+      "volume": 801620.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 369.07,
+      "high": 373.14,
+      "low": 365.51,
+      "close": 366.985,
+      "volume": 635044.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 365.02,
+      "high": 367.65,
+      "low": 358.02,
+      "close": 361.76,
+      "volume": 648403.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 355.135,
+      "high": 359.615,
+      "low": 351.105,
+      "close": 358.88,
+      "volume": 887524.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 357.8,
+      "high": 357.8,
+      "low": 352.79,
+      "close": 357.17,
+      "volume": 608752.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 356.6,
+      "high": 357.97,
+      "low": 351.87,
+      "close": 352.54,
+      "volume": 623138.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 351.195,
+      "high": 360.14,
+      "low": 351.19,
+      "close": 359.55,
+      "volume": 697435.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 357.885,
+      "high": 373.65,
+      "low": 357.885,
+      "close": 370.98,
+      "volume": 1134849.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 373.325,
+      "high": 375.18,
+      "low": 352.365,
+      "close": 354.31,
+      "volume": 1442304.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 345.99,
+      "high": 348.47,
+      "low": 341.38,
+      "close": 346.765,
+      "volume": 869439.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 351.005,
+      "high": 359.65,
+      "low": 350.74,
+      "close": 352.11,
+      "volume": 1147351.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 350.985,
+      "high": 350.985,
+      "low": 347.02,
+      "close": 347.115,
+      "volume": 766723.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 348.155,
+      "high": 349.925,
+      "low": 341.79,
+      "close": 342.06,
+      "volume": 1361767.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.0,
+      "high": 324.42,
+      "low": 314.96,
+      "close": 317.73,
+      "volume": 2504211.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 318.125,
+      "high": 324.17,
+      "low": 317.36,
+      "close": 319.725,
+      "volume": 1147202.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 325.245,
+      "high": 330.41,
+      "low": 324.45,
+      "close": 326.38,
+      "volume": 1188475.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 327.98,
+      "high": 335.88,
+      "low": 324.455,
+      "close": 333.78,
+      "volume": 1056354.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 334.665,
+      "high": 342.49,
+      "low": 331.63,
+      "close": 336.49,
+      "volume": 954025.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 334.575,
+      "high": 336.48,
+      "low": 330.395,
+      "close": 333.64,
+      "volume": 1082401.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 341.03,
+      "high": 358.54,
+      "low": 340.355,
+      "close": 356.06,
+      "volume": 1661583.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 365.445,
+      "high": 376.675,
+      "low": 363.44,
+      "close": 373.51,
+      "volume": 1475833.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 367.5,
+      "high": 380.43,
+      "low": 367.5,
+      "close": 377.675,
+      "volume": 1510470.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 383.045,
+      "high": 384.44,
+      "low": 356.83,
+      "close": 362.385,
+      "volume": 2139552.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 360.8,
+      "high": 364.01,
+      "low": 356.9,
+      "close": 357.885,
+      "volume": 907378.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 356.34,
+      "high": 358.84,
+      "low": 353.83,
+      "close": 354.35,
+      "volume": 887668.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 355.23,
+      "high": 357.55,
+      "low": 352.74,
+      "close": 357.545,
+      "volume": 419463.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 355.735,
+      "high": 356.76,
+      "low": 343.39,
+      "close": 343.765,
+      "volume": 1237953.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Google Gemini Hits 1 Billion Monthly Users, Closing the Gap With ChatGPT—Sundar Pichai Calls it ‘Fastest-Growing’ Product Ever",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61134283/google-gemini-hits-1-billion-monthly-users-closing-the-gap-with-chatgpt-sundar-pichai-calls-it-fastest-growing-product-ever",
+      "published_at": "2026-08-12T09:25:09+00:00"
+    },
+    {
+      "headline": "Ryanair And Google Cloud Partner On Dual-Cloud Strategy To Strengthen Infrastructure Resilience And Operations",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/GOOGL",
+      "published_at": "2026-08-12T08:13:49+00:00"
+    },
+    {
+      "headline": "Gary Black Says Investors ‘Losing Faith’ That Tesla Can Scale Autonomy—Blames Elon Musk’s Vision-Only Approach",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61132497/gary-black-says-investors-losing-faith-that-tesla-can-scale-autonomy-blames-elon-musks-vision-only-approach",
+      "published_at": "2026-08-12T05:08:43+00:00"
+    },
+    {
+      "headline": "Nebius Earnings Preview: Michael Burry Is Short but Prediction Markets See Nvidia, Meta Taking Center Stage",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61129443/nebius-earnings-prediction-market-preview",
+      "published_at": "2026-08-11T21:02:24+00:00"
+    },
+    {
+      "headline": "10 Communication Services Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/08/61120387/10-communication-services-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-08-11T17:35:13+00:00"
+    },
+    {
+      "headline": "Google Announces Video-On-Demand To Google TV Freeplay",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61120283/google-announces-video-demand-google-tv-freeplay",
+      "published_at": "2026-08-11T17:32:48+00:00"
+    },
+    {
+      "headline": "Alphabet Is Poised to Be an AI Winner, Analyst Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61116295/alphabet-is-poised-to-be-an-ai-winner-analyst-says",
+      "published_at": "2026-08-11T15:45:40+00:00"
+    },
+    {
+      "headline": "Here’s How Much You Would Have Made Owning Alphabet Stock In The Last 20 Years",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61110996/here-s-how-much-you-would-have-made-owning-alphabet-stock-last-20-years",
+      "published_at": "2026-08-11T14:00:24+00:00"
+    },
+    {
+      "headline": "Amazon's Zoox Launches Paid Robotaxi Service In Las Vegas and Says 'We Need To Be Regulated'— The Smoke Incident That Prompted a Recall Explains Why",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61108677/amazons-zoox-launches-paid-robotaxi-service-in-las-vegas-and-says-we-need-to-be-regulated-the-smoke-incident-that-prompted-a-recall-explains-why",
+      "published_at": "2026-08-11T13:15:48+00:00"
+    },
+    {
+      "headline": "Meta, TikTok, Google and Snap Just Lost a Major Court Battle— and Must Face More Than 3,000 Lawsuits Over Addictive Platforms Targeting Young Users",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/legal/26/08/61103407/meta-tiktok-google-and-snap-just-lost-a-major-court-battle-and-must-face-more-than-3000-lawsuits-over-addictive-platforms-targeting-young-users",
+      "published_at": "2026-08-11T11:12:27+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

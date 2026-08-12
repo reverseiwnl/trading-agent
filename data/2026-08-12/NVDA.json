@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-08-12T12:12:45.643401+00:00",
+  "price": 217.45,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-06-30",
+      "open": 197.12,
+      "high": 200.63,
+      "low": 195.11,
+      "close": 199.93,
+      "volume": 5774896.0
+    },
+    {
+      "date": "2026-07-01",
+      "open": 196.05,
+      "high": 199.85,
+      "low": 193.46,
+      "close": 197.54,
+      "volume": 6075573.0
+    },
+    {
+      "date": "2026-07-02",
+      "open": 197.13,
+      "high": 200.055,
+      "low": 192.35,
+      "close": 194.51,
+      "volume": 5880254.0
+    },
+    {
+      "date": "2026-07-06",
+      "open": 194.37,
+      "high": 197.53,
+      "low": 194.0,
+      "close": 195.59,
+      "volume": 4538784.0
+    },
+    {
+      "date": "2026-07-07",
+      "open": 192.25,
+      "high": 198.385,
+      "low": 191.15,
+      "close": 196.97,
+      "volume": 4767383.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 195.23,
+      "high": 205.13,
+      "low": 195.23,
+      "close": 204.07,
+      "volume": 5480997.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 204.46,
+      "high": 204.58,
+      "low": 198.98,
+      "close": 202.695,
+      "volume": 4867367.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 202.11,
+      "high": 210.99,
+      "low": 202.07,
+      "close": 210.99,
+      "volume": 7548841.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 208.595,
+      "high": 210.54,
+      "low": 203.355,
+      "close": 203.485,
+      "volume": 3818565.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 208.25,
+      "high": 212.55,
+      "low": 203.84,
+      "close": 211.79,
+      "volume": 3673407.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 211.96,
+      "high": 213.775,
+      "low": 206.04,
+      "close": 212.5,
+      "volume": 4218423.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 210.26,
+      "high": 211.03,
+      "low": 205.85,
+      "close": 207.46,
+      "volume": 4036020.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 202.74,
+      "high": 206.63,
+      "low": 197.98,
+      "close": 202.8,
+      "volume": 4558491.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 205.605,
+      "high": 207.71,
+      "low": 202.29,
+      "close": 203.33,
+      "volume": 3550006.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 207.5,
+      "high": 208.61,
+      "low": 204.01,
+      "close": 207.24,
+      "volume": 3037338.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 205.875,
+      "high": 214.39,
+      "low": 205.01,
+      "close": 212.07,
+      "volume": 5839269.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 209.43,
+      "high": 210.85,
+      "low": 205.96,
+      "close": 208.76,
+      "volume": 4289878.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 207.49,
+      "high": 211.89,
+      "low": 204.83,
+      "close": 207.07,
+      "volume": 4442598.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 208.155,
+      "high": 208.64,
+      "low": 195.45,
+      "close": 196.555,
+      "volume": 6702548.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 194.95,
+      "high": 198.69,
+      "low": 192.76,
+      "close": 197.05,
+      "volume": 5832667.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 195.84,
+      "high": 197.055,
+      "low": 190.035,
+      "close": 190.1,
+      "volume": 6151282.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 193.375,
+      "high": 197.24,
+      "low": 191.52,
+      "close": 195.04,
+      "volume": 5201876.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 198.515,
+      "high": 201.95,
+      "low": 194.975,
+      "close": 200.74,
+      "volume": 5634616.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 197.67,
+      "high": 208.73,
+      "low": 196.92,
+      "close": 206.72,
+      "volume": 3833883.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 211.49,
+      "high": 213.06,
+      "low": 209.06,
+      "close": 211.96,
+      "volume": 3780650.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 216.845,
+      "high": 222.22,
+      "low": 216.42,
+      "close": 219.16,
+      "volume": 4716179.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 221.58,
+      "high": 223.61,
+      "low": 217.285,
+      "close": 218.79,
+      "volume": 3379534.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 221.58,
+      "high": 224.76,
+      "low": 220.69,
+      "close": 223.93,
+      "volume": 4355482.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 223.39,
+      "high": 224.08,
+      "low": 216.78,
+      "close": 217.49,
+      "volume": 4587296.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 222.09,
+      "high": 222.09,
+      "low": 216.33,
+      "close": 217.45,
+      "volume": 4097014.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Exclusive: Scott Bessent Says K-Shaped Economy Is Over, but Wall Street Veteran Says Wealth Divide Is Worsening: ‘50% of Americans Own No Stocks and Are Getting Left Behind’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/economic-data/26/08/61137473/exclusive-scott-bessent-says-k-shaped-economy-is-over-but-wall-street-veteran-says-wealth-divide-is-worsening-50-of-americans-own-no-stocks-and-are-getting-left-behind",
+      "published_at": "2026-08-12T11:24:12+00:00"
+    },
+    {
+      "headline": "FLY Stock Climbs Over 4% During Wednesday Pre-Market: What's Going On?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/space/26/08/61136077/fly-stock-climbs-over-4-during-wednesday-pre-market-whats-going-on",
+      "published_at": "2026-08-12T10:44:48+00:00"
+    },
+    {
+      "headline": "Lockheed Martin, Verizon, Nvidia, Keysight Technologies, ODC And Astris AI Demonstrate Using Commercial Off-The-Shelf Tech To Detect And Track UAS",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61135923/lockheed-martin-verizon-nvidia-keysight-technologies-odc-and-astris-ai-demonstrate-using-commercial-",
+      "published_at": "2026-08-12T10:36:43+00:00"
+    },
+    {
+      "headline": "Michael Burry Calls Nvidia’s $500 Billion AI Financing Push a ‘Wall Street Stunt’: ‘Meet the New Boss…'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/08/61135655/michael-burry-calls-nvidias-500-billion-ai-financing-push-a-wall-street-stunt-meet-the-new-boss",
+      "published_at": "2026-08-12T10:25:02+00:00"
+    },
+    {
+      "headline": "In-Depth Analysis: NVIDIA Versus Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61134595/depth-analysis-nvidia-versus-competitors-semiconductors-amp-semiconductor-equipment-industry",
+      "published_at": "2026-08-12T09:58:33+00:00"
+    },
+    {
+      "headline": "Jensen Huang’s $500 Billion Nvidia AI Financing Bet Faces a China Problem—Could Cheaper Chinese Chips Sink GPU Values?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61134143/jensen-huangs-500-billion-nvidia-ai-financing-bet-faces-a-china-problem-could-cheaper-chinese-chips-sink-gpu-values",
+      "published_at": "2026-08-12T09:13:46+00:00"
+    },
+    {
+      "headline": "Cathie Wood Calls Bitcoin 'Critical' Financial Infrastructure: 'Those Securing It Should Have Trusted Access to the Most Powerful AI Models'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/08/61133395/cathie-wood-bitcoin-critical-financial-infrastructure-ai-models",
+      "published_at": "2026-08-12T07:29:07+00:00"
+    },
+    {
+      "headline": "CoreWeave Cashes in on the AI Gold Rush With a 25% Price Hike, and Customers are Still Lining Up: Vera Rubin Demand is 'Enormous'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/08/61133155/coreweave-25-percent-price-hike-vera-rubin-demand-ai",
+      "published_at": "2026-08-12T07:09:48+00:00"
+    },
+    {
+      "headline": "Elizabeth Warren Probes 'Cartoonish Corruption' After Accusing Belgium Diamond Industry of Gifting Trump a Diamond-Encrusted Ring",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/08/61132923/elizabeth-warren-probes-belgium-1m-gold-ring-gift-to-trump",
+      "published_at": "2026-08-12T06:32:34+00:00"
+    },
+    {
+      "headline": "Jim Cramer Asks if Wall Street's 'Long Knives' for Nvidia Should Stay Sheathed as CoreWeave Powers Neocloud Optimism",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/08/61132472/jim-cramer-nvidia-long-knives-coreweave-neocloud-ai-optimism",
+      "published_at": "2026-08-12T05:05:11+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
