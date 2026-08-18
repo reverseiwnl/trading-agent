@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-08-18T12:26:57.440156+00:00",
+  "price": 225.1,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-07",
+      "open": 192.25,
+      "high": 198.385,
+      "low": 191.15,
+      "close": 196.97,
+      "volume": 4767383.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 195.23,
+      "high": 205.13,
+      "low": 195.23,
+      "close": 204.07,
+      "volume": 5480997.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 204.46,
+      "high": 204.58,
+      "low": 198.98,
+      "close": 202.695,
+      "volume": 4867367.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 202.11,
+      "high": 210.99,
+      "low": 202.07,
+      "close": 210.99,
+      "volume": 7548841.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 208.595,
+      "high": 210.54,
+      "low": 203.355,
+      "close": 203.485,
+      "volume": 3818565.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 208.25,
+      "high": 212.55,
+      "low": 203.84,
+      "close": 211.79,
+      "volume": 3673407.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 211.96,
+      "high": 213.775,
+      "low": 206.04,
+      "close": 212.5,
+      "volume": 4218423.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 210.26,
+      "high": 211.03,
+      "low": 205.85,
+      "close": 207.46,
+      "volume": 4036020.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 202.74,
+      "high": 206.63,
+      "low": 197.98,
+      "close": 202.8,
+      "volume": 4558491.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 205.605,
+      "high": 207.71,
+      "low": 202.29,
+      "close": 203.33,
+      "volume": 3550006.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 207.5,
+      "high": 208.61,
+      "low": 204.01,
+      "close": 207.24,
+      "volume": 3037338.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 205.875,
+      "high": 214.39,
+      "low": 205.01,
+      "close": 212.07,
+      "volume": 5839269.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 209.43,
+      "high": 210.85,
+      "low": 205.96,
+      "close": 208.76,
+      "volume": 4289878.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 207.49,
+      "high": 211.89,
+      "low": 204.83,
+      "close": 207.07,
+      "volume": 4442598.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 208.155,
+      "high": 208.64,
+      "low": 195.45,
+      "close": 196.555,
+      "volume": 6702548.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 194.95,
+      "high": 198.69,
+      "low": 192.76,
+      "close": 197.05,
+      "volume": 5832667.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 195.84,
+      "high": 197.055,
+      "low": 190.035,
+      "close": 190.1,
+      "volume": 6151282.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 193.375,
+      "high": 197.24,
+      "low": 191.52,
+      "close": 195.04,
+      "volume": 5201876.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 198.515,
+      "high": 201.95,
+      "low": 194.975,
+      "close": 200.74,
+      "volume": 5634616.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 197.67,
+      "high": 208.73,
+      "low": 196.92,
+      "close": 206.72,
+      "volume": 3833883.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 211.49,
+      "high": 213.06,
+      "low": 209.06,
+      "close": 211.96,
+      "volume": 3780650.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 216.845,
+      "high": 222.22,
+      "low": 216.42,
+      "close": 219.16,
+      "volume": 4716179.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 221.58,
+      "high": 223.61,
+      "low": 217.285,
+      "close": 218.79,
+      "volume": 3379534.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 221.58,
+      "high": 224.76,
+      "low": 220.69,
+      "close": 223.93,
+      "volume": 4355482.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 223.39,
+      "high": 224.08,
+      "low": 216.78,
+      "close": 217.49,
+      "volume": 4587296.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 222.09,
+      "high": 222.09,
+      "low": 216.33,
+      "close": 217.45,
+      "volume": 4097014.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 221.01,
+      "high": 225.1,
+      "low": 220.295,
+      "close": 224.11,
+      "volume": 3733189.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 225.07,
+      "high": 227.2,
+      "low": 223.72,
+      "close": 225.36,
+      "volume": 3940869.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 226.87,
+      "high": 227.47,
+      "low": 224.5,
+      "close": 225.16,
+      "volume": 2326258.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 225.99,
+      "high": 227.9,
+      "low": 224.86,
+      "close": 225.1,
+      "volume": 2750917.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "OpenAI Launches ChatGPT For Teens And Partners With CodeAI To Prepare The First AI Generation",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61268385/openai-launches-chatgpt-teens-and-partners-codeai-prepare-first-ai-generation",
+      "published_at": "2026-08-18T11:15:31+00:00"
+    },
+    {
+      "headline": "Trump-Backed World Liberty Partners With Platform Offering Chinese AI Models Flagged by US: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/26/08/61267548/trump-backed-world-liberty-partners-with-platform-offering-chinese-ai-models-flagged-by-us-report",
+      "published_at": "2026-08-18T10:33:36+00:00"
+    },
+    {
+      "headline": "Understanding NVIDIA's Position In Semiconductors &amp; Semiconductor Equipment Industry Compared To Competitors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61266554/understanding-nvidia-s-position-semiconductors-amp-semiconductor-equipment-industry-compared-competi",
+      "published_at": "2026-08-18T09:58:28+00:00"
+    },
+    {
+      "headline": "JPMorgan's Bill Eigen Warns the AI Boom Is Starting to Resemble the 2008 Housing Crash: 'What I'm Terrified of Is…'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61265641/jp-morgans-bill-eigen-says-ai-boom-is-a-real-estate-cycle-not-a-tech-cycle",
+      "published_at": "2026-08-18T08:24:24+00:00"
+    },
+    {
+      "headline": "LG Electronics Expands Robotics Push With New Business Center And NVIDIA Partnership Spanning Data To Deployment",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/NVDA",
+      "published_at": "2026-08-18T08:16:31+00:00"
+    },
+    {
+      "headline": "China's Chip Revenue Hits Record $245 Billion As SMIC and CXMT Lead the Pack: ETFs to Watch",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/08/61264862/chinas-chip-industry-is-booming-despite-washingtons-best-efforts",
+      "published_at": "2026-08-18T06:02:13+00:00"
+    },
+    {
+      "headline": "Cathie Wood Buys $22.8 Million of Nvidia Stock, Ark Invest Dumps AMD and Palantir Shares",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61264305/cathie-wood-buys-22-8-million-of-nvidia-stock-ark-invest-dumps-amd-and-palantir-shares",
+      "published_at": "2026-08-18T02:37:31+00:00"
+    },
+    {
+      "headline": "Nvidia Is the Best S&P 500 Stock of the Past 10, 15, 20 Years — but 4 Stocks Beat It Over the Past 5 Years",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/08/61259954/nvidia-is-the-best-sp-500-stock-of-the-past-10-15-20-years-but-4-stocks-beat-it-over-the-past-5-years",
+      "published_at": "2026-08-17T19:53:15+00:00"
+    },
+    {
+      "headline": "Ray Dalio Ups Bet on SPY and IVV: Time to Buy the S&P 500?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/08/61259362/ray-dalio-ups-bet-on-spy-and-ivv-time-to-buy-the-sp-500",
+      "published_at": "2026-08-17T19:27:52+00:00"
+    },
+    {
+      "headline": "SpaceX Stock Jumps After Multibillion-Dollar Stakes Revealed",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/08/61259063/spacex-stock-jumps-after-multibillion-dollar-stakes-revealed",
+      "published_at": "2026-08-17T19:17:58+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

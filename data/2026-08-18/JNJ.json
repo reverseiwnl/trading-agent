@@ -1,0 +1,260 @@
+{
+  "ticker": "JNJ",
+  "as_of": "2026-08-18T12:26:53.501881+00:00",
+  "price": 262.43,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-07",
+      "open": 264.98,
+      "high": 269.395,
+      "low": 264.36,
+      "close": 267.16,
+      "volume": 523890.0
+    },
+    {
+      "date": "2026-07-08",
+      "open": 267.175,
+      "high": 267.8,
+      "low": 263.15,
+      "close": 263.26,
+      "volume": 347594.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 260.475,
+      "high": 263.44,
+      "low": 258.17,
+      "close": 259.05,
+      "volume": 267929.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 260.49,
+      "high": 260.82,
+      "low": 255.565,
+      "close": 256.93,
+      "volume": 191772.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 257.67,
+      "high": 259.33,
+      "low": 256.2,
+      "close": 257.86,
+      "volume": 227537.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 255.435,
+      "high": 256.075,
+      "low": 252.23,
+      "close": 253.77,
+      "volume": 317395.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 249.19,
+      "high": 256.24,
+      "low": 246.08,
+      "close": 246.98,
+      "volume": 572884.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 248.9,
+      "high": 253.4,
+      "low": 246.455,
+      "close": 249.545,
+      "volume": 1111606.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 253.075,
+      "high": 255.41,
+      "low": 251.96,
+      "close": 253.015,
+      "volume": 419433.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 252.04,
+      "high": 253.94,
+      "low": 248.655,
+      "close": 248.85,
+      "volume": 286839.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 246.85,
+      "high": 251.285,
+      "low": 245.885,
+      "close": 250.66,
+      "volume": 463468.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 252.25,
+      "high": 256.18,
+      "low": 251.42,
+      "close": 255.69,
+      "volume": 391759.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 254.87,
+      "high": 260.15,
+      "low": 254.51,
+      "close": 259.38,
+      "volume": 603799.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 261.645,
+      "high": 263.7,
+      "low": 259.775,
+      "close": 263.415,
+      "volume": 389703.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 262.57,
+      "high": 268.74,
+      "low": 261.62,
+      "close": 265.9,
+      "volume": 362835.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 270.035,
+      "high": 274.81,
+      "low": 266.205,
+      "close": 266.68,
+      "volume": 410075.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 268.36,
+      "high": 268.72,
+      "low": 264.88,
+      "close": 265.67,
+      "volume": 244919.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 259.45,
+      "high": 260.35,
+      "low": 254.65,
+      "close": 255.85,
+      "volume": 375768.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 256.01,
+      "high": 258.435,
+      "low": 253.37,
+      "close": 256.465,
+      "volume": 263146.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 255.34,
+      "high": 257.635,
+      "low": 251.0,
+      "close": 254.41,
+      "volume": 281388.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 253.72,
+      "high": 255.51,
+      "low": 250.615,
+      "close": 254.945,
+      "volume": 306832.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 256.27,
+      "high": 259.28,
+      "low": 254.515,
+      "close": 257.6,
+      "volume": 290755.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 261.3,
+      "high": 261.51,
+      "low": 255.34,
+      "close": 257.22,
+      "volume": 392787.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 255.57,
+      "high": 259.6,
+      "low": 255.175,
+      "close": 259.255,
+      "volume": 332146.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 259.21,
+      "high": 261.91,
+      "low": 258.565,
+      "close": 261.64,
+      "volume": 275996.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 261.245,
+      "high": 263.85,
+      "low": 258.44,
+      "close": 259.75,
+      "volume": 155063.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 256.265,
+      "high": 261.41,
+      "low": 255.47,
+      "close": 260.77,
+      "volume": 203541.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 260.9,
+      "high": 262.57,
+      "low": 259.74,
+      "close": 262.11,
+      "volume": 176030.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 260.42,
+      "high": 261.64,
+      "low": 259.25,
+      "close": 260.31,
+      "volume": 161580.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 259.0,
+      "high": 264.23,
+      "low": 258.1,
+      "close": 262.43,
+      "volume": 139444.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Cullinan Therapeutics Zipalertinib Combo Clears Key Phase 3 Hurdle As First-Line Lung Cancer Treatment Option Takes Shape",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/08/61181387/cullinan-therapeutics-zipalertinib-combo-clears-key-phase-3-hurdle-as-first-line-lung-cancer-treatment-option-takes-shape",
+      "published_at": "2026-08-13T15:21:45+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
