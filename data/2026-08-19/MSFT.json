@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-08-19T12:29:47.814703+00:00",
+  "price": 481.82,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-08",
+      "open": 383.77,
+      "high": 385.205,
+      "low": 381.34,
+      "close": 383.11,
+      "volume": 1124752.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 374.47,
+      "high": 384.64,
+      "low": 373.475,
+      "close": 384.24,
+      "volume": 1217629.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 387.64,
+      "high": 391.8,
+      "low": 381.54,
+      "close": 385.09,
+      "volume": 969305.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 387.91,
+      "high": 393.65,
+      "low": 384.19,
+      "close": 390.985,
+      "volume": 1253350.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 382.505,
+      "high": 388.15,
+      "low": 378.71,
+      "close": 384.94,
+      "volume": 1113317.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 387.655,
+      "high": 398.95,
+      "low": 386.535,
+      "close": 395.61,
+      "volume": 1577874.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 398.2,
+      "high": 405.98,
+      "low": 392.15,
+      "close": 401.12,
+      "volume": 1244751.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 395.05,
+      "high": 398.39,
+      "low": 389.42,
+      "close": 394.015,
+      "volume": 980663.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 390.62,
+      "high": 403.15,
+      "low": 389.74,
+      "close": 402.48,
+      "volume": 1299062.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 399.015,
+      "high": 401.45,
+      "low": 396.36,
+      "close": 397.575,
+      "volume": 994373.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 399.58,
+      "high": 400.89,
+      "low": 386.98,
+      "close": 390.275,
+      "volume": 1163738.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 389.87,
+      "high": 391.71,
+      "low": 377.4,
+      "close": 381.55,
+      "volume": 1350874.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 387.535,
+      "high": 388.67,
+      "low": 380.77,
+      "close": 381.81,
+      "volume": 1125568.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 389.7,
+      "high": 394.2,
+      "low": 388.1,
+      "close": 389.15,
+      "volume": 1029575.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 393.24,
+      "high": 400.24,
+      "low": 391.43,
+      "close": 393.44,
+      "volume": 1262651.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 393.35,
+      "high": 401.24,
+      "low": 388.745,
+      "close": 391.0,
+      "volume": 1558652.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 438.47,
+      "high": 458.68,
+      "low": 432.44,
+      "close": 451.545,
+      "volume": 4738445.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 450.095,
+      "high": 466.825,
+      "low": 449.87,
+      "close": 464.7,
+      "volume": 2203754.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 476.4,
+      "high": 491.62,
+      "low": 475.17,
+      "close": 487.575,
+      "volume": 2343253.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 480.755,
+      "high": 499.34,
+      "low": 479.39,
+      "close": 492.83,
+      "volume": 1496436.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 496.725,
+      "high": 498.14,
+      "low": 485.71,
+      "close": 487.46,
+      "volume": 903631.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 488.8,
+      "high": 501.54,
+      "low": 488.63,
+      "close": 500.035,
+      "volume": 1120595.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 499.98,
+      "high": 505.1,
+      "low": 498.75,
+      "close": 499.875,
+      "volume": 888433.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 503.675,
+      "high": 513.72,
+      "low": 502.78,
+      "close": 506.15,
+      "volume": 773280.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 504.205,
+      "high": 505.08,
+      "low": 499.77,
+      "close": 503.77,
+      "volume": 557361.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 500.25,
+      "high": 501.34,
+      "low": 491.55,
+      "close": 492.45,
+      "volume": 801168.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 493.585,
+      "high": 501.3,
+      "low": 493.03,
+      "close": 496.81,
+      "volume": 732670.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 496.435,
+      "high": 499.995,
+      "low": 493.92,
+      "close": 495.35,
+      "volume": 491366.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 490.14,
+      "high": 492.59,
+      "low": 478.45,
+      "close": 480.65,
+      "volume": 784812.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 481.55,
+      "high": 484.07,
+      "low": 477.265,
+      "close": 481.82,
+      "volume": 800514.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Comparative Study: Microsoft And Industry Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61294107/comparative-study-microsoft-and-industry-competitors-software-industry",
+      "published_at": "2026-08-19T09:58:40+00:00"
+    },
+    {
+      "headline": "Reported Earlier, \"OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic\" - WSJ",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61292887/reported-earlier-openai-s-second-quarter-sales-show-tepid-growth-compared-anthropic-wsj",
+      "published_at": "2026-08-19T07:13:03+00:00"
+    },
+    {
+      "headline": "Anthropic’s Revenue Could Soar From $47 Billion to $200 Billion by 2028 as Bankers Build a Massive AI Valuation Case Ahead of Its IPO: Report (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61233673/anthropic-200-billion-2028-revenue-2-trillion-valuation",
+      "published_at": "2026-08-15T02:57:15+00:00"
+    },
+    {
+      "headline": "US Debt Nearing $40T; Home Depot earnings Better Than Expected",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/08/61284102/us-debt-nearing-40t-home-depot-earnings-better-than-expected",
+      "published_at": "2026-08-18T18:23:59+00:00"
+    },
+    {
+      "headline": "'OpenAI Institutes New Safeguards After Hugging Face Breach' - TechCrunch",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61283713/openai-institutes-new-safeguards-after-hugging-face-breach-techcrunch",
+      "published_at": "2026-08-18T18:10:19+00:00"
+    },
+    {
+      "headline": "IREN Is Quietly Outpacing CoreWeave on One AI Metric that Matters",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61283122/iren-coreweave-revenue-per-megawatt-futurum",
+      "published_at": "2026-08-18T17:51:10+00:00"
+    },
+    {
+      "headline": "AI's Half-Trillion-Dollar Borrowing Binge Is Competing With Uncle Sam for Bond Buyers",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/bonds/26/08/61279800/ais-half-trillion-dollar-borrowing-binge-is-competing-with-uncle-sam-for-bond-buyers",
+      "published_at": "2026-08-18T16:00:12+00:00"
+    },
+    {
+      "headline": "J.P. Morgan’s Bill Eigen Sounds 2008 Crash Alarm Over AI Boom — Says Investors Are Missing One Warning Sign That Could Change Everything: ‘What I’m Terrified of Is…’ (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61265641/jp-morgans-bill-eigen-says-ai-boom-is-a-real-estate-cycle-not-a-tech-cycle",
+      "published_at": "2026-08-18T13:10:07+00:00"
+    },
+    {
+      "headline": "CBRS Stock Popped Nearly 10% Over 5 Sessions, IREN Jumped 15% — Here’s the ‘Situational Awareness’ Strategy Connecting Them",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/08/61271534/cbrs-stock-popped-nearly-10-over-5-sessions-iren-jumped-15-heres-the-situational-awareness-strategy-connecting-them",
+      "published_at": "2026-08-18T12:57:57+00:00"
+    },
+    {
+      "headline": "OpenAI Launches ChatGPT For Teens And Partners With CodeAI To Prepare The First AI Generation",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61268385/openai-launches-chatgpt-teens-and-partners-codeai-prepare-first-ai-generation",
+      "published_at": "2026-08-18T11:15:31+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

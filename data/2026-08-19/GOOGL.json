@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-08-19T12:29:44.486650+00:00",
+  "price": 343.92,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-08",
+      "open": 365.02,
+      "high": 367.65,
+      "low": 358.02,
+      "close": 361.76,
+      "volume": 648403.0
+    },
+    {
+      "date": "2026-07-09",
+      "open": 355.135,
+      "high": 359.615,
+      "low": 351.105,
+      "close": 358.88,
+      "volume": 887524.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 357.8,
+      "high": 357.8,
+      "low": 352.79,
+      "close": 357.17,
+      "volume": 608752.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 356.6,
+      "high": 357.97,
+      "low": 351.87,
+      "close": 352.54,
+      "volume": 623138.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 351.195,
+      "high": 360.14,
+      "low": 351.19,
+      "close": 359.55,
+      "volume": 697435.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 357.885,
+      "high": 373.65,
+      "low": 357.885,
+      "close": 370.98,
+      "volume": 1134849.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 373.325,
+      "high": 375.18,
+      "low": 352.365,
+      "close": 354.31,
+      "volume": 1442304.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 345.99,
+      "high": 348.47,
+      "low": 341.38,
+      "close": 346.765,
+      "volume": 869439.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 351.005,
+      "high": 359.65,
+      "low": 350.74,
+      "close": 352.11,
+      "volume": 1147351.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 350.985,
+      "high": 350.985,
+      "low": 347.02,
+      "close": 347.115,
+      "volume": 766723.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 348.155,
+      "high": 349.925,
+      "low": 341.79,
+      "close": 342.06,
+      "volume": 1361767.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.0,
+      "high": 324.42,
+      "low": 314.96,
+      "close": 317.73,
+      "volume": 2504211.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 318.125,
+      "high": 324.17,
+      "low": 317.36,
+      "close": 319.725,
+      "volume": 1147202.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 325.245,
+      "high": 330.41,
+      "low": 324.45,
+      "close": 326.38,
+      "volume": 1188475.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 327.98,
+      "high": 335.88,
+      "low": 324.455,
+      "close": 333.78,
+      "volume": 1056354.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 334.665,
+      "high": 342.49,
+      "low": 331.63,
+      "close": 336.49,
+      "volume": 954025.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 334.575,
+      "high": 336.48,
+      "low": 330.395,
+      "close": 333.64,
+      "volume": 1082401.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 341.03,
+      "high": 358.54,
+      "low": 340.355,
+      "close": 356.06,
+      "volume": 1661583.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 365.445,
+      "high": 376.675,
+      "low": 363.44,
+      "close": 373.51,
+      "volume": 1475833.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 367.5,
+      "high": 380.43,
+      "low": 367.5,
+      "close": 377.675,
+      "volume": 1510470.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 383.045,
+      "high": 384.44,
+      "low": 356.83,
+      "close": 362.385,
+      "volume": 2139552.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 360.8,
+      "high": 364.01,
+      "low": 356.9,
+      "close": 357.885,
+      "volume": 907378.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 356.34,
+      "high": 358.84,
+      "low": 353.83,
+      "close": 354.35,
+      "volume": 887668.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 355.23,
+      "high": 357.55,
+      "low": 352.74,
+      "close": 357.545,
+      "volume": 419463.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 355.735,
+      "high": 356.76,
+      "low": 343.39,
+      "close": 343.765,
+      "volume": 1237953.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 346.335,
+      "high": 346.36,
+      "low": 340.905,
+      "close": 343.565,
+      "volume": 815212.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 345.77,
+      "high": 347.85,
+      "low": 343.84,
+      "close": 346.35,
+      "volume": 663018.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 346.71,
+      "high": 350.405,
+      "low": 344.51,
+      "close": 345.86,
+      "volume": 472894.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 346.265,
+      "high": 347.22,
+      "low": 341.945,
+      "close": 344.1,
+      "volume": 584704.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 342.405,
+      "high": 344.78,
+      "low": 340.21,
+      "close": 344.03,
+      "volume": 901431.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "3 Sectors Investors Should Buy Now as S&P 500 Stumbles — Strategist Sees 15%-18% Upside",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61297459/3-sectors-investors-should-buy-now-as-sp-500-stumbles-strategist-sees-15-18-upside",
+      "published_at": "2026-08-19T12:11:45+00:00"
+    },
+    {
+      "headline": "Goldman Sachs Sounds New AI Jobs Alarm — Entry-Level Workers Are Already Feeling the Pressure as AI Adoption Hits 20%",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61296043/goldman-ai-labor-market",
+      "published_at": "2026-08-19T11:23:20+00:00"
+    },
+    {
+      "headline": "Chamath Palihapitiya Says Mark Zuckerberg Knows ‘Great Engineers’ Want to Join ‘Space/Search/AI’ Companies, Not Meta’s Advertising Machine",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61295286/chamath-palihapitiya-says-mark-zuckerberg-knows-great-engineers-want-to-join-space-search-ai-companies-not-metas-advertising-machine",
+      "published_at": "2026-08-19T10:46:27+00:00"
+    },
+    {
+      "headline": "Google’s $10 Million Spirit Airlines Data Deal Faces Roadblock as Union Raises Privacy Objections: ‘We Will Fight This Every Way Possible’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/legal/26/08/61295060/googles-10-million-spirit-airlines-data-deal-faces-roadblock-as-union-raises-privacy-objections-we-will-fight-this-every-way-possible",
+      "published_at": "2026-08-19T10:35:38+00:00"
+    },
+    {
+      "headline": "Waymo Pioneer Sebastian Thrun Is Quietly Building a New Robotics Startup",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61294575/sebastian-thrun-dulo-robotics-startup-hardware-design",
+      "published_at": "2026-08-19T10:12:21+00:00"
+    },
+    {
+      "headline": "Anthropic’s Revenue Could Soar From $47 Billion to $200 Billion by 2028 as Bankers Build a Massive AI Valuation Case Ahead of Its IPO: Report (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61233673/anthropic-200-billion-2028-revenue-2-trillion-valuation",
+      "published_at": "2026-08-15T02:57:15+00:00"
+    },
+    {
+      "headline": "Gary Black Says Tesla Bulls On Social Media Are Like College Students Doing 'Tequila Shots'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/large-cap/26/08/61284469/gary-black-says-tesla-bulls-on-social-media-are-like-college-students-doing-tequila-shots",
+      "published_at": "2026-08-18T18:37:29+00:00"
+    },
+    {
+      "headline": "'Anthropic Pre-IPO Credit Facility Set to Climb Past $10 Billion' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61281393/anthropic-pre-ipo-credit-facility-set-climb-past-10-billion-bloomberg",
+      "published_at": "2026-08-18T16:48:03+00:00"
+    },
+    {
+      "headline": "AI's Half-Trillion-Dollar Borrowing Binge Is Competing With Uncle Sam for Bond Buyers",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/bonds/26/08/61279800/ais-half-trillion-dollar-borrowing-binge-is-competing-with-uncle-sam-for-bond-buyers",
+      "published_at": "2026-08-18T16:00:12+00:00"
+    },
+    {
+      "headline": "Salesforce's and ServiceNow’s Business Models Are in Danger, Expert Cautions: What Does It Mean For CRM and NOW?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61279331/salesforce-servicenow-business-model-danger",
+      "published_at": "2026-08-18T15:46:22+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
