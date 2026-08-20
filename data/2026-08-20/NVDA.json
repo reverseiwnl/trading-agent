@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-08-20T12:27:45.963751+00:00",
+  "price": 217.13,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-09",
+      "open": 204.46,
+      "high": 204.58,
+      "low": 198.98,
+      "close": 202.695,
+      "volume": 4867367.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 202.11,
+      "high": 210.99,
+      "low": 202.07,
+      "close": 210.99,
+      "volume": 7548841.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 208.595,
+      "high": 210.54,
+      "low": 203.355,
+      "close": 203.485,
+      "volume": 3818565.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 208.25,
+      "high": 212.55,
+      "low": 203.84,
+      "close": 211.79,
+      "volume": 3673407.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 211.96,
+      "high": 213.775,
+      "low": 206.04,
+      "close": 212.5,
+      "volume": 4218423.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 210.26,
+      "high": 211.03,
+      "low": 205.85,
+      "close": 207.46,
+      "volume": 4036020.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 202.74,
+      "high": 206.63,
+      "low": 197.98,
+      "close": 202.8,
+      "volume": 4558491.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 205.605,
+      "high": 207.71,
+      "low": 202.29,
+      "close": 203.33,
+      "volume": 3550006.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 207.5,
+      "high": 208.61,
+      "low": 204.01,
+      "close": 207.24,
+      "volume": 3037338.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 205.875,
+      "high": 214.39,
+      "low": 205.01,
+      "close": 212.07,
+      "volume": 5839269.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 209.43,
+      "high": 210.85,
+      "low": 205.96,
+      "close": 208.76,
+      "volume": 4289878.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 207.49,
+      "high": 211.89,
+      "low": 204.83,
+      "close": 207.07,
+      "volume": 4442598.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 208.155,
+      "high": 208.64,
+      "low": 195.45,
+      "close": 196.555,
+      "volume": 6702548.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 194.95,
+      "high": 198.69,
+      "low": 192.76,
+      "close": 197.05,
+      "volume": 5832667.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 195.84,
+      "high": 197.055,
+      "low": 190.035,
+      "close": 190.1,
+      "volume": 6151282.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 193.375,
+      "high": 197.24,
+      "low": 191.52,
+      "close": 195.04,
+      "volume": 5201876.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 198.515,
+      "high": 201.95,
+      "low": 194.975,
+      "close": 200.74,
+      "volume": 5634616.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 197.67,
+      "high": 208.73,
+      "low": 196.92,
+      "close": 206.72,
+      "volume": 3833883.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 211.49,
+      "high": 213.06,
+      "low": 209.06,
+      "close": 211.96,
+      "volume": 3780650.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 216.845,
+      "high": 222.22,
+      "low": 216.42,
+      "close": 219.16,
+      "volume": 4716179.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 221.58,
+      "high": 223.61,
+      "low": 217.285,
+      "close": 218.79,
+      "volume": 3379534.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 221.58,
+      "high": 224.76,
+      "low": 220.69,
+      "close": 223.93,
+      "volume": 4355482.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 223.39,
+      "high": 224.08,
+      "low": 216.78,
+      "close": 217.49,
+      "volume": 4587296.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 222.09,
+      "high": 222.09,
+      "low": 216.33,
+      "close": 217.45,
+      "volume": 4097014.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 221.01,
+      "high": 225.1,
+      "low": 220.295,
+      "close": 224.11,
+      "volume": 3733189.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 225.07,
+      "high": 227.2,
+      "low": 223.72,
+      "close": 225.36,
+      "volume": 3940869.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 226.87,
+      "high": 227.47,
+      "low": 224.5,
+      "close": 225.16,
+      "volume": 2326258.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 225.99,
+      "high": 227.9,
+      "low": 224.86,
+      "close": 225.1,
+      "volume": 2750917.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 220.31,
+      "high": 221.62,
+      "low": 218.705,
+      "close": 219.73,
+      "volume": 4218191.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 221.745,
+      "high": 222.87,
+      "low": 216.79,
+      "close": 217.58,
+      "volume": 2792416.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Bernie Sanders Warns AI Billionaires Could ‘Obliterate’ Jobs and ‘Destroy the Environment,’ Calls for Data Center Moratorium",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61324167/bernie-sanders-warns-ai-billionaires-could-obliterate-jobs-and-destroy-the-environment-calls-for-data-center-moratorium",
+      "published_at": "2026-08-20T11:04:41+00:00"
+    },
+    {
+      "headline": "SNOW, MDB, PLTR: Is SaaS Losing Its Edge? Futurum Equities Says 95% of Software Could Become ‘AI Plumbing’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/08/61323808/snow-mdb-pltr-is-saas-losing-its-edge-futurum-equities-says-95-of-software-could-become-ai-plumbing",
+      "published_at": "2026-08-20T10:57:18+00:00"
+    },
+    {
+      "headline": "Insights Into NVIDIA's Performance Versus Peers In Semiconductors &amp; Semiconductor Equipment Sector",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61322438/insights-nvidia-s-performance-versus-peers-semiconductors-amp-semiconductor-equipment-sector",
+      "published_at": "2026-08-20T09:58:24+00:00"
+    },
+    {
+      "headline": "Jensen Huang Said AI Could 'Destroy and Eliminate' Jobs in Radiology, but Mark Cuban Says 'No Chance'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61320275/jensen-huang-ai-radiology-jobs-mark-cuban",
+      "published_at": "2026-08-20T04:43:03+00:00"
+    },
+    {
+      "headline": "Samsung Tumbled Nearly 8% in Seoul Even as AI Demand Drives Chip Prices Up To 15%",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61317561/samsung-chip-prices-ai-demand",
+      "published_at": "2026-08-19T21:12:20+00:00"
+    },
+    {
+      "headline": "UPDATE: 'China Eases Limits On NVIDIA H200 Chips As AI Race Escalates' Was Reported Late Night August 18, 2026",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/NVDA",
+      "published_at": "2026-08-19T20:41:56+00:00"
+    },
+    {
+      "headline": "'China Eases Limits On NVIDIA H200 Chips As AI Race Escalates; Beijing Permits Small Shipments To Help Leading Tech Groups In Drive To Catch Up With U.S. Rivals' - Financial Times",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61316720/china-eases-limits-nvidia-h200-chips-ai-race-escalates-beijing-permits-small-shipments-help-leading-",
+      "published_at": "2026-08-19T20:40:22+00:00"
+    },
+    {
+      "headline": "'NVIDIA Discusses Funding Its AI Data Supplier Mercor At A $20 Billion Valuation' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61311480/nvidia-discusses-funding-its-ai-data-supplier-mercor-20-billion-valuation-information",
+      "published_at": "2026-08-19T18:00:37+00:00"
+    },
+    {
+      "headline": "8 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/08/61310497/8-information-technology-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-08-19T17:35:16+00:00"
+    },
+    {
+      "headline": "Investors Should Position For Humanoid Robot Boom—Here's A Picks-And-Shovels Play; First mRNA Cancer Vaccine Succeeds",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/08/61309587/investors-should-position-for-humanoid-robot-boom-heres-a-picks-and-shovels-play-first-mrna-cancer-vaccine-succeeds",
+      "published_at": "2026-08-19T17:09:55+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

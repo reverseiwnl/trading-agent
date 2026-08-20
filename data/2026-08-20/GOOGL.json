@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-08-20T12:27:41.684186+00:00",
+  "price": 344.795,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-09",
+      "open": 355.135,
+      "high": 359.615,
+      "low": 351.105,
+      "close": 358.88,
+      "volume": 887524.0
+    },
+    {
+      "date": "2026-07-10",
+      "open": 357.8,
+      "high": 357.8,
+      "low": 352.79,
+      "close": 357.17,
+      "volume": 608752.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 356.6,
+      "high": 357.97,
+      "low": 351.87,
+      "close": 352.54,
+      "volume": 623138.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 351.195,
+      "high": 360.14,
+      "low": 351.19,
+      "close": 359.55,
+      "volume": 697435.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 357.885,
+      "high": 373.65,
+      "low": 357.885,
+      "close": 370.98,
+      "volume": 1134849.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 373.325,
+      "high": 375.18,
+      "low": 352.365,
+      "close": 354.31,
+      "volume": 1442304.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 345.99,
+      "high": 348.47,
+      "low": 341.38,
+      "close": 346.765,
+      "volume": 869439.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 351.005,
+      "high": 359.65,
+      "low": 350.74,
+      "close": 352.11,
+      "volume": 1147351.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 350.985,
+      "high": 350.985,
+      "low": 347.02,
+      "close": 347.115,
+      "volume": 766723.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 348.155,
+      "high": 349.925,
+      "low": 341.79,
+      "close": 342.06,
+      "volume": 1361767.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.0,
+      "high": 324.42,
+      "low": 314.96,
+      "close": 317.73,
+      "volume": 2504211.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 318.125,
+      "high": 324.17,
+      "low": 317.36,
+      "close": 319.725,
+      "volume": 1147202.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 325.245,
+      "high": 330.41,
+      "low": 324.45,
+      "close": 326.38,
+      "volume": 1188475.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 327.98,
+      "high": 335.88,
+      "low": 324.455,
+      "close": 333.78,
+      "volume": 1056354.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 334.665,
+      "high": 342.49,
+      "low": 331.63,
+      "close": 336.49,
+      "volume": 954025.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 334.575,
+      "high": 336.48,
+      "low": 330.395,
+      "close": 333.64,
+      "volume": 1082401.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 341.03,
+      "high": 358.54,
+      "low": 340.355,
+      "close": 356.06,
+      "volume": 1661583.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 365.445,
+      "high": 376.675,
+      "low": 363.44,
+      "close": 373.51,
+      "volume": 1475833.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 367.5,
+      "high": 380.43,
+      "low": 367.5,
+      "close": 377.675,
+      "volume": 1510470.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 383.045,
+      "high": 384.44,
+      "low": 356.83,
+      "close": 362.385,
+      "volume": 2139552.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 360.8,
+      "high": 364.01,
+      "low": 356.9,
+      "close": 357.885,
+      "volume": 907378.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 356.34,
+      "high": 358.84,
+      "low": 353.83,
+      "close": 354.35,
+      "volume": 887668.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 355.23,
+      "high": 357.55,
+      "low": 352.74,
+      "close": 357.545,
+      "volume": 419463.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 355.735,
+      "high": 356.76,
+      "low": 343.39,
+      "close": 343.765,
+      "volume": 1237953.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 346.335,
+      "high": 346.36,
+      "low": 340.905,
+      "close": 343.565,
+      "volume": 815212.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 345.77,
+      "high": 347.85,
+      "low": 343.84,
+      "close": 346.35,
+      "volume": 663018.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 346.71,
+      "high": 350.405,
+      "low": 344.51,
+      "close": 345.86,
+      "volume": 472894.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 346.265,
+      "high": 347.22,
+      "low": 341.945,
+      "close": 344.1,
+      "volume": 584704.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 342.405,
+      "high": 344.78,
+      "low": 340.21,
+      "close": 344.03,
+      "volume": 901431.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 342.5,
+      "high": 346.72,
+      "low": 340.78,
+      "close": 344.795,
+      "volume": 684392.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Viking Global Shifts Gears: Andreas Halvorsen Makes $817 Million Bet on Ferrari, Slashes Tesla Stake by 78% in Q2",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/hedge-funds/26/08/61322372/viking-global-shifts-gears-andreas-halvorsen-makes-817-million-bet-on-ferrari-slashes-tesla-stake-by-78-in-q2",
+      "published_at": "2026-08-20T09:50:15+00:00"
+    },
+    {
+      "headline": "Mohamed El-Erian Warns US Treasury's Bond Buyback Is Just a 'Band-Aid,' Not a Fix For a $40 Trillion Debt Problem",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/bonds/26/08/61320646/mohamed-el-erian-treasury-bond-buybacks-financial-engineering",
+      "published_at": "2026-08-20T05:32:25+00:00"
+    },
+    {
+      "headline": "Samsung Tumbled Nearly 8% in Seoul Even as AI Demand Drives Chip Prices Up To 15%",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61317561/samsung-chip-prices-ai-demand",
+      "published_at": "2026-08-19T21:12:20+00:00"
+    },
+    {
+      "headline": "Eagle Point Backs $1.3B Loan for Anthropic-Anchored Texas Data Center",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/private-markets/26/08/61314798/eagle-point-backs-1-3b-loan-for-anthropic-anchored-texas-data-center",
+      "published_at": "2026-08-19T19:52:52+00:00"
+    },
+    {
+      "headline": "Live On CNBC, Kevin Simpson Announces Bought More Alphabet Class A",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/GOOGL",
+      "published_at": "2026-08-19T16:13:41+00:00"
+    },
+    {
+      "headline": "A Congress Member Bought Up To $60K In Amazon.com Stock: Here's What You Need To Know",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/government/26/08/61304977/congress-member-bought-60k-amazon-com-stock-here-s-what-you-need-know",
+      "published_at": "2026-08-19T15:00:23+00:00"
+    },
+    {
+      "headline": "Alphabet Raises $3.9B in First Australian Bond Sale as AI Spending Surges",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61304970/alphabet-raises-3-9b-in-first-australian-bond-sale-as-ai-spending-surges",
+      "published_at": "2026-08-19T15:00:15+00:00"
+    },
+    {
+      "headline": "Broadcom Rival Marvell Surges After Google Strikes AI Chip Deal, Gets Option to Buy $12.2B Stake",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61303822/marvell-google-ai-chip-deal",
+      "published_at": "2026-08-19T14:37:43+00:00"
+    },
+    {
+      "headline": "Taiwan Semiconductor’s AI Bottleneck Hands Samsung a Powerful Pricing Opportunity",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61301650/taiwan-semiconductors-ai-bottleneck-hands-samsung-a-powerful-pricing-opportunity",
+      "published_at": "2026-08-19T14:01:22+00:00"
+    },
+    {
+      "headline": "Stripe’s $8 Billion OpenRouter Deal Reveals Where the AI ETF Trade Is Actually Expanding",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/08/61300694/stripes-8-billion-openrouter-deal-reveals-where-the-ai-etf-trade-is-actually-expanding",
+      "published_at": "2026-08-19T13:47:58+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
