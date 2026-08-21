@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-08-21T12:30:11.314986+00:00",
+  "price": 481.205,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-10",
+      "open": 387.64,
+      "high": 391.8,
+      "low": 381.54,
+      "close": 385.09,
+      "volume": 969305.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 387.91,
+      "high": 393.65,
+      "low": 384.19,
+      "close": 390.985,
+      "volume": 1253350.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 382.505,
+      "high": 388.15,
+      "low": 378.71,
+      "close": 384.94,
+      "volume": 1113317.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 387.655,
+      "high": 398.95,
+      "low": 386.535,
+      "close": 395.61,
+      "volume": 1577874.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 398.2,
+      "high": 405.98,
+      "low": 392.15,
+      "close": 401.12,
+      "volume": 1244751.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 395.05,
+      "high": 398.39,
+      "low": 389.42,
+      "close": 394.015,
+      "volume": 980663.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 390.62,
+      "high": 403.15,
+      "low": 389.74,
+      "close": 402.48,
+      "volume": 1299062.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 399.015,
+      "high": 401.45,
+      "low": 396.36,
+      "close": 397.575,
+      "volume": 994373.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 399.58,
+      "high": 400.89,
+      "low": 386.98,
+      "close": 390.275,
+      "volume": 1163738.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 389.87,
+      "high": 391.71,
+      "low": 377.4,
+      "close": 381.55,
+      "volume": 1350874.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 387.535,
+      "high": 388.67,
+      "low": 380.77,
+      "close": 381.81,
+      "volume": 1125568.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 389.7,
+      "high": 394.2,
+      "low": 388.1,
+      "close": 389.15,
+      "volume": 1029575.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 393.24,
+      "high": 400.24,
+      "low": 391.43,
+      "close": 393.44,
+      "volume": 1262651.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 393.35,
+      "high": 401.24,
+      "low": 388.745,
+      "close": 391.0,
+      "volume": 1558652.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 438.47,
+      "high": 458.68,
+      "low": 432.44,
+      "close": 451.545,
+      "volume": 4738445.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 450.095,
+      "high": 466.825,
+      "low": 449.87,
+      "close": 464.7,
+      "volume": 2203754.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 476.4,
+      "high": 491.62,
+      "low": 475.17,
+      "close": 487.575,
+      "volume": 2343253.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 480.755,
+      "high": 499.34,
+      "low": 479.39,
+      "close": 492.83,
+      "volume": 1496436.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 496.725,
+      "high": 498.14,
+      "low": 485.71,
+      "close": 487.46,
+      "volume": 903631.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 488.8,
+      "high": 501.54,
+      "low": 488.63,
+      "close": 500.035,
+      "volume": 1120595.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 499.98,
+      "high": 505.1,
+      "low": 498.75,
+      "close": 499.875,
+      "volume": 888433.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 503.675,
+      "high": 513.72,
+      "low": 502.78,
+      "close": 506.15,
+      "volume": 773280.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 504.205,
+      "high": 505.08,
+      "low": 499.77,
+      "close": 503.77,
+      "volume": 557361.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 500.25,
+      "high": 501.34,
+      "low": 491.55,
+      "close": 492.45,
+      "volume": 801168.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 493.585,
+      "high": 501.3,
+      "low": 493.03,
+      "close": 496.81,
+      "volume": 732670.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 496.435,
+      "high": 499.995,
+      "low": 493.92,
+      "close": 495.35,
+      "volume": 491366.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 490.14,
+      "high": 492.59,
+      "low": 478.45,
+      "close": 480.65,
+      "volume": 784812.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 481.55,
+      "high": 484.07,
+      "low": 477.265,
+      "close": 481.82,
+      "volume": 800514.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 479.82,
+      "high": 489.155,
+      "low": 479.72,
+      "close": 484.42,
+      "volume": 544751.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 482.4,
+      "high": 484.105,
+      "low": 479.525,
+      "close": 481.205,
+      "volume": 401570.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Performance Comparison: Microsoft And Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61350322/performance-comparison-microsoft-and-competitors-software-industry",
+      "published_at": "2026-08-21T09:58:21+00:00"
+    },
+    {
+      "headline": "Chris Hohn’s TCI Revamps Q2 Portfolio, Exits Microsoft and Adds to Alphabet",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61350194/chris-hohns-tci-revamps-q2-portfolio-exits-microsoft-and-adds-to-alphabet",
+      "published_at": "2026-08-21T09:43:20+00:00"
+    },
+    {
+      "headline": "'Anthropic Set to Add Citigroup to Top IPO Banks on Mega-Listing'- Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61346860/anthropic-set-add-citigroup-top-ipo-banks-mega-listing-bloomberg",
+      "published_at": "2026-08-20T21:58:32+00:00"
+    },
+    {
+      "headline": "'Anthropic Prepares To File Publicly For Its Potential Mega-IPO As Soon As The End Of August; Expects To Match SpaceX’s Record IPO Size Tr Top It' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61340477/anthropic-prepares-file-publicly-its-potential-mega-ipo-soon-end-august-expects-match-spacex-s-recor",
+      "published_at": "2026-08-20T18:13:09+00:00"
+    },
+    {
+      "headline": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/08/61340227/walmarts-outlook-signals-cautious-spending-ahead-treasury-euphoria-fades-samsung-soars-bitcoin-shorts-crushed",
+      "published_at": "2026-08-20T18:04:03+00:00"
+    },
+    {
+      "headline": "Mark Cuban Fires Back At AI Warning: ‘No Chance Radiologists Get Replaced’ (CORRECTED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61320275/jensen-huang-ai-radiology-jobs-mark-cuban",
+      "published_at": "2026-08-20T15:11:35+00:00"
+    },
+    {
+      "headline": "Bernie Sanders Warns AI Billionaires Could ‘Obliterate’ Jobs and ‘Destroy the Environment,’ Calls for Data Center Moratorium",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61324167/bernie-sanders-warns-ai-billionaires-could-obliterate-jobs-and-destroy-the-environment-calls-for-data-center-moratorium",
+      "published_at": "2026-08-20T11:04:41+00:00"
+    },
+    {
+      "headline": "Exploring The Competitive Space: Microsoft Versus Industry Peers In Software",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61322440/exploring-competitive-space-microsoft-versus-industry-peers-software",
+      "published_at": "2026-08-20T09:58:32+00:00"
+    },
+    {
+      "headline": "Viking Global Shifts Gears: Andreas Halvorsen Makes $817 Million Bet on Ferrari, Slashes Tesla Stake by 78% in Q2",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/hedge-funds/26/08/61322372/viking-global-shifts-gears-andreas-halvorsen-makes-817-million-bet-on-ferrari-slashes-tesla-stake-by-78-in-q2",
+      "published_at": "2026-08-20T09:50:15+00:00"
+    },
+    {
+      "headline": "Mohamed El-Erian Warns US Treasury's Bond Buyback Is Just a 'Band-Aid,' Not a Fix For a $40 Trillion Debt Problem",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/bonds/26/08/61320646/mohamed-el-erian-treasury-bond-buybacks-financial-engineering",
+      "published_at": "2026-08-20T05:32:25+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

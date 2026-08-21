@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-08-21T12:30:13.457434+00:00",
+  "price": 217.92,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-10",
+      "open": 202.11,
+      "high": 210.99,
+      "low": 202.07,
+      "close": 210.99,
+      "volume": 7548841.0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 208.595,
+      "high": 210.54,
+      "low": 203.355,
+      "close": 203.485,
+      "volume": 3818565.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 208.25,
+      "high": 212.55,
+      "low": 203.84,
+      "close": 211.79,
+      "volume": 3673407.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 211.96,
+      "high": 213.775,
+      "low": 206.04,
+      "close": 212.5,
+      "volume": 4218423.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 210.26,
+      "high": 211.03,
+      "low": 205.85,
+      "close": 207.46,
+      "volume": 4036020.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 202.74,
+      "high": 206.63,
+      "low": 197.98,
+      "close": 202.8,
+      "volume": 4558491.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 205.605,
+      "high": 207.71,
+      "low": 202.29,
+      "close": 203.33,
+      "volume": 3550006.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 207.5,
+      "high": 208.61,
+      "low": 204.01,
+      "close": 207.24,
+      "volume": 3037338.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 205.875,
+      "high": 214.39,
+      "low": 205.01,
+      "close": 212.07,
+      "volume": 5839269.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 209.43,
+      "high": 210.85,
+      "low": 205.96,
+      "close": 208.76,
+      "volume": 4289878.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 207.49,
+      "high": 211.89,
+      "low": 204.83,
+      "close": 207.07,
+      "volume": 4442598.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 208.155,
+      "high": 208.64,
+      "low": 195.45,
+      "close": 196.555,
+      "volume": 6702548.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 194.95,
+      "high": 198.69,
+      "low": 192.76,
+      "close": 197.05,
+      "volume": 5832667.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 195.84,
+      "high": 197.055,
+      "low": 190.035,
+      "close": 190.1,
+      "volume": 6151282.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 193.375,
+      "high": 197.24,
+      "low": 191.52,
+      "close": 195.04,
+      "volume": 5201876.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 198.515,
+      "high": 201.95,
+      "low": 194.975,
+      "close": 200.74,
+      "volume": 5634616.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 197.67,
+      "high": 208.73,
+      "low": 196.92,
+      "close": 206.72,
+      "volume": 3833883.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 211.49,
+      "high": 213.06,
+      "low": 209.06,
+      "close": 211.96,
+      "volume": 3780650.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 216.845,
+      "high": 222.22,
+      "low": 216.42,
+      "close": 219.16,
+      "volume": 4716179.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 221.58,
+      "high": 223.61,
+      "low": 217.285,
+      "close": 218.79,
+      "volume": 3379534.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 221.58,
+      "high": 224.76,
+      "low": 220.69,
+      "close": 223.93,
+      "volume": 4355482.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 223.39,
+      "high": 224.08,
+      "low": 216.78,
+      "close": 217.49,
+      "volume": 4587296.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 222.09,
+      "high": 222.09,
+      "low": 216.33,
+      "close": 217.45,
+      "volume": 4097014.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 221.01,
+      "high": 225.1,
+      "low": 220.295,
+      "close": 224.11,
+      "volume": 3733189.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 225.07,
+      "high": 227.2,
+      "low": 223.72,
+      "close": 225.36,
+      "volume": 3940869.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 226.87,
+      "high": 227.47,
+      "low": 224.5,
+      "close": 225.16,
+      "volume": 2326258.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 225.99,
+      "high": 227.9,
+      "low": 224.86,
+      "close": 225.1,
+      "volume": 2750917.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 220.31,
+      "high": 221.62,
+      "low": 218.705,
+      "close": 219.73,
+      "volume": 4218191.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 221.745,
+      "high": 222.87,
+      "low": 216.79,
+      "close": 217.58,
+      "volume": 2792416.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 218.58,
+      "high": 219.84,
+      "low": 215.665,
+      "close": 216.89,
+      "volume": 3014027.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "This Nvidia Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/initiation/26/08/61351956/this-broadcom-analyst-begins-coverage-on-a-bullish-note-here-are-top-5-initiations-for-friday",
+      "published_at": "2026-08-21T11:46:58+00:00"
+    },
+    {
+      "headline": "BMO Capital Initiates Coverage On NVIDIA with Outperform Rating, Announces Price Target of $340",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61351247/bmo-capital-initiates-coverage-nvidia-outperform-rating-announces-price-target-340",
+      "published_at": "2026-08-21T10:56:45+00:00"
+    },
+    {
+      "headline": "NVIDIA Could Snap up Korean AI Chip Startup Rebellions in Latest AI Power Play",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61351156/nvidia-looks-to-strengthen-ai-empire-with-potential-rebellions-deal",
+      "published_at": "2026-08-21T10:43:58+00:00"
+    },
+    {
+      "headline": "Waymo Unveils First Custom Robotaxi Chip With More Than 1,000 TOPS of AI Processing Power",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61350963/waymo-unveils-first-custom-robotaxi-chip-with-more-than-1000-tops-of-ai-processing-power",
+      "published_at": "2026-08-21T10:29:51+00:00"
+    },
+    {
+      "headline": "Analyzing NVIDIA In Comparison To Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61350319/analyzing-nvidia-comparison-competitors-semiconductors-amp-semiconductor-equipment-industry",
+      "published_at": "2026-08-21T09:58:12+00:00"
+    },
+    {
+      "headline": "Broadcom Steps up NVIDIA Challenge With Potential $100 Billion AI Financing Deal",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61350252/broadcom-steps-up-nvidia-challenge-with-potential-100-billion-ai-financing-deal",
+      "published_at": "2026-08-21T09:48:32+00:00"
+    },
+    {
+      "headline": "Deepseek Announced Experimental Multimodal Model DeepSeek-V4-Flash-Vision-Exp Is Now Live On API Platform",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61350172/deepseek-announced-experimental-multimodal-model-deepseek-v4-flash-vision-exp-now-live-api-platform",
+      "published_at": "2026-08-21T09:41:56+00:00"
+    },
+    {
+      "headline": "'Nvidia in Talks With Chip Startup Rebellions for Potential Deal' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61349501/nvidia-talks-chip-startup-rebellions-potential-deal-bloomberg",
+      "published_at": "2026-08-21T08:00:52+00:00"
+    },
+    {
+      "headline": "Alibaba Gives Nvidia's Older AI Chips an Unexpected Vote of Confidence",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61343688/alibaba-nvidia-v100-gpus",
+      "published_at": "2026-08-20T20:04:19+00:00"
+    },
+    {
+      "headline": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/08/61340227/walmarts-outlook-signals-cautious-spending-ahead-treasury-euphoria-fades-samsung-soars-bitcoin-shorts-crushed",
+      "published_at": "2026-08-20T18:04:03+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
