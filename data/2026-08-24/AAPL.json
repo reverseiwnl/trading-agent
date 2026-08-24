@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-08-24T12:40:58.021181+00:00",
+  "price": 309.27,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-13",
+      "open": 317.005,
+      "high": 323.395,
+      "low": 315.79,
+      "close": 317.47,
+      "volume": 1374655.0
+    },
+    {
+      "date": "2026-07-14",
+      "open": 313.76,
+      "high": 316.145,
+      "low": 311.955,
+      "close": 314.93,
+      "volume": 1213545.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 317.46,
+      "high": 328.705,
+      "low": 317.4,
+      "close": 327.58,
+      "volume": 1721273.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 328.135,
+      "high": 334.65,
+      "low": 326.885,
+      "close": 333.23,
+      "volume": 2365368.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 331.98,
+      "high": 334.98,
+      "low": 329.025,
+      "close": 333.75,
+      "volume": 2248743.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 332.235,
+      "high": 333.63,
+      "low": 323.73,
+      "close": 326.65,
+      "volume": 2314409.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 323.345,
+      "high": 329.565,
+      "low": 322.24,
+      "close": 327.66,
+      "volume": 1409246.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 327.98,
+      "high": 328.865,
+      "low": 323.365,
+      "close": 325.86,
+      "volume": 1552861.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.815,
+      "high": 323.25,
+      "low": 319.365,
+      "close": 321.575,
+      "volume": 1362559.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 321.86,
+      "high": 334.35,
+      "low": 321.66,
+      "close": 333.05,
+      "volume": 1772167.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 335.73,
+      "high": 339.55,
+      "low": 334.035,
+      "close": 336.93,
+      "volume": 1578038.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 340.02,
+      "high": 342.87,
+      "low": 335.63,
+      "close": 340.005,
+      "volume": 1872000.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 340.42,
+      "high": 344.555,
+      "low": 337.38,
+      "close": 338.23,
+      "volume": 1917728.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 332.83,
+      "high": 334.41,
+      "low": 329.6,
+      "close": 333.07,
+      "volume": 2368789.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 304.765,
+      "high": 310.64,
+      "low": 300.01,
+      "close": 308.725,
+      "volume": 4898226.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 309.765,
+      "high": 311.77,
+      "low": 302.56,
+      "close": 303.41,
+      "volume": 3242233.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 302.73,
+      "high": 310.42,
+      "low": 301.53,
+      "close": 309.335,
+      "volume": 2131880.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 309.26,
+      "high": 311.71,
+      "low": 305.68,
+      "close": 310.94,
+      "volume": 1800667.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 314.55,
+      "high": 316.27,
+      "low": 309.24,
+      "close": 312.45,
+      "volume": 1194644.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 311.395,
+      "high": 314.785,
+      "low": 310.76,
+      "close": 313.29,
+      "volume": 1073989.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 306.74,
+      "high": 308.21,
+      "low": 304.64,
+      "close": 308.17,
+      "volume": 1579366.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 307.665,
+      "high": 309.91,
+      "low": 302.86,
+      "close": 304.885,
+      "volume": 1321762.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 305.075,
+      "high": 305.61,
+      "low": 300.585,
+      "close": 302.2,
+      "volume": 1799379.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 304.205,
+      "high": 306.0,
+      "low": 302.06,
+      "close": 305.305,
+      "volume": 1348081.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 305.94,
+      "high": 307.47,
+      "low": 304.33,
+      "close": 305.94,
+      "volume": 813147.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 306.21,
+      "high": 307.545,
+      "low": 302.94,
+      "close": 305.655,
+      "volume": 1160745.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 307.85,
+      "high": 311.48,
+      "low": 305.74,
+      "close": 310.16,
+      "volume": 1535987.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 310.145,
+      "high": 319.26,
+      "low": 309.73,
+      "close": 316.9,
+      "volume": 1649295.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 317.455,
+      "high": 320.28,
+      "low": 310.66,
+      "close": 311.29,
+      "volume": 1163420.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 311.425,
+      "high": 312.3,
+      "low": 307.045,
+      "close": 309.27,
+      "volume": 1017701.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Inquiry Into Apple's Competitor Dynamics In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61376097/inquiry-apple-s-competitor-dynamics-technology-hardware-storage-amp-peripherals-industry",
+      "published_at": "2026-08-24T09:58:29+00:00"
+    },
+    {
+      "headline": "Nvidia’s AI Servers Are About to Get Even More Expensive as Rising Memory Costs Push Prices Up More Than 15%: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61375602/nvidias-ai-servers-are-about-to-get-even-more-expensive-as-rising-memory-costs-push-prices-up-more-than-15-report",
+      "published_at": "2026-08-24T09:07:28+00:00"
+    },
+    {
+      "headline": "Claude Turns 2-Year Wi-Fi Headache Into 10-Minute Fix After Finding 3 Hidden Problems, Boosting Speeds From 90 Mbps to 292 Mbps",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61375432/claude-turns-2-year-wi-fi-headache-into-10-minute-fix-after-finding-3-hidden-problems-boosting-speeds-from-90-mbps-to-292-mbps",
+      "published_at": "2026-08-24T08:37:18+00:00"
+    },
+    {
+      "headline": "Alibaba Stock Flashes a Bearish Pattern as a $10 Billion Risk Looms",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/08/61373215/alibaba-stock-flashes-a-bearish-pattern-as-a-10-billion-risk-looms",
+      "published_at": "2026-08-23T21:31:15+00:00"
+    },
+    {
+      "headline": "Congressman’s Buying Spree, AAPL Stock Gains and More: This Week in Appleverse",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61372557/apple-weekend-news-steve-jobs-stock-upgrade",
+      "published_at": "2026-08-23T11:01:16+00:00"
+    },
+    {
+      "headline": "Steve Jobs Once Taught Andy Warhol How to Use a Macintosh Mouse—The Pop Art Icon Was ‘Spellbound’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61371958/steve-jobs-once-taught-andy-warhol-how-to-use-a-macintosh-mouse-the-pop-art-icon-was-spellbound",
+      "published_at": "2026-08-22T19:31:47+00:00"
+    },
+    {
+      "headline": "'Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams' - Bloomberg News",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61365485/apple-cuts-jobs-siri-vision-pro-immersive-video-and-gaming-teams-bloomberg-news",
+      "published_at": "2026-08-21T18:52:18+00:00"
+    },
+    {
+      "headline": "'Walmart to Offer Apple Pay in Push for Contactless Payments' - Bloomberg News",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61362157/walmart-offer-apple-pay-push-contactless-payments-bloomberg-news",
+      "published_at": "2026-08-21T16:52:53+00:00"
+    },
+    {
+      "headline": "Bond Buyback Is Simply A Band-Aid for $40T US Debt; Warsh Faces Jackson Hole Test",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/08/61362132/bond-buyback-is-simply-a-band-aid-for-40t-us-debt-warsh-faces-jackson-hole-test",
+      "published_at": "2026-08-21T16:52:13+00:00"
+    },
+    {
+      "headline": "Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low.",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/08/61353620/spacex-growth-vs-nvidia",
+      "published_at": "2026-08-21T13:00:38+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
