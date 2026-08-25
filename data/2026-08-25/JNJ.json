@@ -1,0 +1,278 @@
+{
+  "ticker": "JNJ",
+  "as_of": "2026-08-25T12:45:47.280225+00:00",
+  "price": 273.03,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-14",
+      "open": 255.435,
+      "high": 256.075,
+      "low": 252.23,
+      "close": 253.77,
+      "volume": 317395.0
+    },
+    {
+      "date": "2026-07-15",
+      "open": 249.19,
+      "high": 256.24,
+      "low": 246.08,
+      "close": 246.98,
+      "volume": 572884.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 248.9,
+      "high": 253.4,
+      "low": 246.455,
+      "close": 249.545,
+      "volume": 1111606.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 253.075,
+      "high": 255.41,
+      "low": 251.96,
+      "close": 253.015,
+      "volume": 419433.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 252.04,
+      "high": 253.94,
+      "low": 248.655,
+      "close": 248.85,
+      "volume": 286839.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 246.85,
+      "high": 251.285,
+      "low": 245.885,
+      "close": 250.66,
+      "volume": 463468.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 252.25,
+      "high": 256.18,
+      "low": 251.42,
+      "close": 255.69,
+      "volume": 391759.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 254.87,
+      "high": 260.15,
+      "low": 254.51,
+      "close": 259.38,
+      "volume": 603799.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 261.645,
+      "high": 263.7,
+      "low": 259.775,
+      "close": 263.415,
+      "volume": 389703.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 262.57,
+      "high": 268.74,
+      "low": 261.62,
+      "close": 265.9,
+      "volume": 362835.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 270.035,
+      "high": 274.81,
+      "low": 266.205,
+      "close": 266.68,
+      "volume": 410075.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 268.36,
+      "high": 268.72,
+      "low": 264.88,
+      "close": 265.67,
+      "volume": 244919.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 259.45,
+      "high": 260.35,
+      "low": 254.65,
+      "close": 255.85,
+      "volume": 375768.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 256.01,
+      "high": 258.435,
+      "low": 253.37,
+      "close": 256.465,
+      "volume": 263146.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 255.34,
+      "high": 257.635,
+      "low": 251.0,
+      "close": 254.41,
+      "volume": 281388.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 253.72,
+      "high": 255.51,
+      "low": 250.615,
+      "close": 254.945,
+      "volume": 306832.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 256.27,
+      "high": 259.28,
+      "low": 254.515,
+      "close": 257.6,
+      "volume": 290755.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 261.3,
+      "high": 261.51,
+      "low": 255.34,
+      "close": 257.22,
+      "volume": 392787.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 255.57,
+      "high": 259.6,
+      "low": 255.175,
+      "close": 259.255,
+      "volume": 332146.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 259.21,
+      "high": 261.91,
+      "low": 258.565,
+      "close": 261.64,
+      "volume": 275996.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 261.245,
+      "high": 263.85,
+      "low": 258.44,
+      "close": 259.75,
+      "volume": 155063.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 256.265,
+      "high": 261.41,
+      "low": 255.47,
+      "close": 260.77,
+      "volume": 203541.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 260.9,
+      "high": 262.57,
+      "low": 259.74,
+      "close": 262.11,
+      "volume": 176030.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 260.42,
+      "high": 261.64,
+      "low": 259.25,
+      "close": 260.31,
+      "volume": 161580.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 259.0,
+      "high": 264.23,
+      "low": 258.1,
+      "close": 262.43,
+      "volume": 139444.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 267.3,
+      "high": 271.72,
+      "low": 266.43,
+      "close": 270.97,
+      "volume": 288865.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 272.18,
+      "high": 276.43,
+      "low": 270.68,
+      "close": 273.4,
+      "volume": 292652.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 272.69,
+      "high": 272.78,
+      "low": 267.58,
+      "close": 267.58,
+      "volume": 258690.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 268.095,
+      "high": 272.56,
+      "low": 267.66,
+      "close": 270.28,
+      "volume": 206414.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 269.95,
+      "high": 273.94,
+      "low": 268.99,
+      "close": 273.03,
+      "volume": 162527.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Johnson & Johnson Secures FDA Approval For First Rare Anemia Treatment",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/fda/26/08/61405567/johnson-johnson-secures-fda-approval-for-first-rare-anemia-treatment",
+      "published_at": "2026-08-25T12:22:53+00:00"
+    },
+    {
+      "headline": "Reported Earlier, FDA Approves Johnson & Johnson's IMAAVY (Nipocalimab-Aahu) As First-Ever Treatment For Warm Autoimmune Hemolytic Anemia, Based On Pivotal Phase 2/3 ENERGY Study",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61400922/reported-earlier-fda-approves-johnson-johnson-s-imaavy-nipocalimab-aahu-first-ever-treatment-warm-au",
+      "published_at": "2026-08-25T07:26:11+00:00"
+    },
+    {
+      "headline": "10 Health Care Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/08/61391269/10-health-care-stocks-whale-activity-today-s-session",
+      "published_at": "2026-08-24T17:35:24+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Expands Robotic Bronchoscopy Push With AI, 3D Navigation Upgrade",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/fda/26/08/61309599/johnson-johnson-expands-robotic-bronchoscopy-push-with-ai-3d-navigation-upgrade",
+      "published_at": "2026-08-19T17:10:19+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
