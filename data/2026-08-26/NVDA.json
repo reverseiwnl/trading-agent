@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-08-26T13:03:14.087046+00:00",
+  "price": 213.0,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-15",
+      "open": 211.96,
+      "high": 213.775,
+      "low": 206.04,
+      "close": 212.5,
+      "volume": 4218423.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 210.26,
+      "high": 211.03,
+      "low": 205.85,
+      "close": 207.46,
+      "volume": 4036020.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 202.74,
+      "high": 206.63,
+      "low": 197.98,
+      "close": 202.8,
+      "volume": 4558491.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 205.605,
+      "high": 207.71,
+      "low": 202.29,
+      "close": 203.33,
+      "volume": 3550006.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 207.5,
+      "high": 208.61,
+      "low": 204.01,
+      "close": 207.24,
+      "volume": 3037338.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 205.875,
+      "high": 214.39,
+      "low": 205.01,
+      "close": 212.07,
+      "volume": 5839269.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 209.43,
+      "high": 210.85,
+      "low": 205.96,
+      "close": 208.76,
+      "volume": 4289878.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 207.49,
+      "high": 211.89,
+      "low": 204.83,
+      "close": 207.07,
+      "volume": 4442598.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 208.155,
+      "high": 208.64,
+      "low": 195.45,
+      "close": 196.555,
+      "volume": 6702548.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 194.95,
+      "high": 198.69,
+      "low": 192.76,
+      "close": 197.05,
+      "volume": 5832667.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 195.84,
+      "high": 197.055,
+      "low": 190.035,
+      "close": 190.1,
+      "volume": 6151282.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 193.375,
+      "high": 197.24,
+      "low": 191.52,
+      "close": 195.04,
+      "volume": 5201876.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 198.515,
+      "high": 201.95,
+      "low": 194.975,
+      "close": 200.74,
+      "volume": 5634616.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 197.67,
+      "high": 208.73,
+      "low": 196.92,
+      "close": 206.72,
+      "volume": 3833883.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 211.49,
+      "high": 213.06,
+      "low": 209.06,
+      "close": 211.96,
+      "volume": 3780650.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 216.845,
+      "high": 222.22,
+      "low": 216.42,
+      "close": 219.16,
+      "volume": 4716179.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 221.58,
+      "high": 223.61,
+      "low": 217.285,
+      "close": 218.79,
+      "volume": 3379534.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 221.58,
+      "high": 224.76,
+      "low": 220.69,
+      "close": 223.93,
+      "volume": 4355482.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 223.39,
+      "high": 224.08,
+      "low": 216.78,
+      "close": 217.49,
+      "volume": 4587296.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 222.09,
+      "high": 222.09,
+      "low": 216.33,
+      "close": 217.45,
+      "volume": 4097014.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 221.01,
+      "high": 225.1,
+      "low": 220.295,
+      "close": 224.11,
+      "volume": 3733189.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 225.07,
+      "high": 227.2,
+      "low": 223.72,
+      "close": 225.36,
+      "volume": 3940869.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 226.87,
+      "high": 227.47,
+      "low": 224.5,
+      "close": 225.16,
+      "volume": 2326258.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 225.99,
+      "high": 227.9,
+      "low": 224.86,
+      "close": 225.1,
+      "volume": 2750917.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 220.31,
+      "high": 221.62,
+      "low": 218.705,
+      "close": 219.73,
+      "volume": 4218191.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 221.745,
+      "high": 222.87,
+      "low": 216.79,
+      "close": 217.58,
+      "volume": 2792416.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 218.58,
+      "high": 219.84,
+      "low": 215.665,
+      "close": 216.89,
+      "volume": 3014027.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 218.42,
+      "high": 218.73,
+      "low": 214.52,
+      "close": 214.74,
+      "volume": 3206855.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 215.445,
+      "high": 215.445,
+      "low": 207.4,
+      "close": 208.47,
+      "volume": 3334636.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 211.0,
+      "high": 214.67,
+      "low": 210.11,
+      "close": 212.96,
+      "volume": 3190154.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "EXCLUSIVE: God Bless America ETF Exec Says Nvidia Wins No Matter Who Leads AI Race: 'Pioneers Die With Arrows in Their Backs'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61432431/nvidia-ai-race-god-bless-america-etf",
+      "published_at": "2026-08-26T13:00:59+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Nvidia GPUs Are Essential—But They Won't Decide Who Wins AI Drug Discovery, Generate CTO Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/biotech/26/08/61431184/nvidia-gpus-drug-discovery",
+      "published_at": "2026-08-26T12:21:08+00:00"
+    },
+    {
+      "headline": "SpaceX Wants Millions of AI Satellites in Orbit—But Experts Say Elon Musk Must Solve a ‘Crazy’ Logistics Problem First",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61430201/spacex-wants-millions-of-ai-satellites-in-orbit-but-experts-say-elon-musk-must-solve-a-crazy-logistics-problem-first",
+      "published_at": "2026-08-26T11:48:49+00:00"
+    },
+    {
+      "headline": "What's Going On With NVIDIA Stock Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/61429715/whats-going-on-with-nvidia-stock-wednesday-5",
+      "published_at": "2026-08-26T11:29:35+00:00"
+    },
+    {
+      "headline": "Jim Cramer: 'Put This Stock Away, Give It to Your Kids'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/08/61429640/jim-cramer-put-this-stock-away-give-it-to-your-kids",
+      "published_at": "2026-08-26T11:21:17+00:00"
+    },
+    {
+      "headline": "Chris Murphy Accuses AI Companies of Buying Rare Books, Digitizing Them and Disposing of Originals: 'Destroy Human Creativity'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61428149/chris-murphy-accuses-ai-companies-of-buying-rare-books-digitizing-them-and-disposing-of-originals-destroy-human-creativity",
+      "published_at": "2026-08-26T10:16:19+00:00"
+    },
+    {
+      "headline": "Competitor Analysis: Evaluating NVIDIA And Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61427637/competitor-analysis-evaluating-nvidia-and-competitors-semiconductors-amp-semiconductor-equipment-ind",
+      "published_at": "2026-08-26T09:58:21+00:00"
+    },
+    {
+      "headline": "Stock Market Today: Dow Jones Futures Rise, S&P 500 Slips Ahead of NVDA Q2 Earnings and Fed's Preferred Inflation Data— Zoom, Intuit, Datavault AI in Focus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/08/61427410/stock-market-today-dow-jones-futures-rise-sp-500-slips-ahead-of-nvda-q2-earnings-and-feds-preferred-inflation-data-zoom-intuit-datavault-ai-in-focus",
+      "published_at": "2026-08-26T09:30:49+00:00"
+    },
+    {
+      "headline": "Daniel Newman Says Broadcom Deserves Credit for OpenAI’s Jalapeño Chip, But Calls ‘Nvidia Killer’ Hype ‘Exhausting’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61427345/daniel-newman-says-broadcom-deserves-credit-for-openais-jalapeno-chip-but-calls-nvidia-killer-hype-exhausting",
+      "published_at": "2026-08-26T09:15:16+00:00"
+    },
+    {
+      "headline": "Dow Gains for Third Session as Treasury Yields Fall: Investor Sentiment Improves, Fear Index Remains in ‘Greed’ Zone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/08/61426697/dow-gains-for-third-session-as-treasury-yields-fall-investor-sentiment-improves-fear-index-remains-in-greed-zone",
+      "published_at": "2026-08-26T07:43:07+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

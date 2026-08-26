@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-08-26T13:03:12.878949+00:00",
+  "price": 488.5,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-15",
+      "open": 387.655,
+      "high": 398.95,
+      "low": 386.535,
+      "close": 395.61,
+      "volume": 1577874.0
+    },
+    {
+      "date": "2026-07-16",
+      "open": 398.2,
+      "high": 405.98,
+      "low": 392.15,
+      "close": 401.12,
+      "volume": 1244751.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 395.05,
+      "high": 398.39,
+      "low": 389.42,
+      "close": 394.015,
+      "volume": 980663.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 390.62,
+      "high": 403.15,
+      "low": 389.74,
+      "close": 402.48,
+      "volume": 1299062.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 399.015,
+      "high": 401.45,
+      "low": 396.36,
+      "close": 397.575,
+      "volume": 994373.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 399.58,
+      "high": 400.89,
+      "low": 386.98,
+      "close": 390.275,
+      "volume": 1163738.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 389.87,
+      "high": 391.71,
+      "low": 377.4,
+      "close": 381.55,
+      "volume": 1350874.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 387.535,
+      "high": 388.67,
+      "low": 380.77,
+      "close": 381.81,
+      "volume": 1125568.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 389.7,
+      "high": 394.2,
+      "low": 388.1,
+      "close": 389.15,
+      "volume": 1029575.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 393.24,
+      "high": 400.24,
+      "low": 391.43,
+      "close": 393.44,
+      "volume": 1262651.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 393.35,
+      "high": 401.24,
+      "low": 388.745,
+      "close": 391.0,
+      "volume": 1558652.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 438.47,
+      "high": 458.68,
+      "low": 432.44,
+      "close": 451.545,
+      "volume": 4738445.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 450.095,
+      "high": 466.825,
+      "low": 449.87,
+      "close": 464.7,
+      "volume": 2203754.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 476.4,
+      "high": 491.62,
+      "low": 475.17,
+      "close": 487.575,
+      "volume": 2343253.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 480.755,
+      "high": 499.34,
+      "low": 479.39,
+      "close": 492.83,
+      "volume": 1496436.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 496.725,
+      "high": 498.14,
+      "low": 485.71,
+      "close": 487.46,
+      "volume": 903631.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 488.8,
+      "high": 501.54,
+      "low": 488.63,
+      "close": 500.035,
+      "volume": 1120595.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 499.98,
+      "high": 505.1,
+      "low": 498.75,
+      "close": 499.875,
+      "volume": 888433.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 503.675,
+      "high": 513.72,
+      "low": 502.78,
+      "close": 506.15,
+      "volume": 773280.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 504.205,
+      "high": 505.08,
+      "low": 499.77,
+      "close": 503.77,
+      "volume": 557361.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 500.25,
+      "high": 501.34,
+      "low": 491.55,
+      "close": 492.45,
+      "volume": 801168.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 493.585,
+      "high": 501.3,
+      "low": 493.03,
+      "close": 496.81,
+      "volume": 732670.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 496.435,
+      "high": 499.995,
+      "low": 493.92,
+      "close": 495.35,
+      "volume": 491366.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 490.14,
+      "high": 492.59,
+      "low": 478.45,
+      "close": 480.65,
+      "volume": 784812.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 481.55,
+      "high": 484.07,
+      "low": 477.265,
+      "close": 481.82,
+      "volume": 800514.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 479.82,
+      "high": 489.155,
+      "low": 479.72,
+      "close": 484.42,
+      "volume": 544751.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 482.4,
+      "high": 484.105,
+      "low": 479.525,
+      "close": 481.205,
+      "volume": 401570.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 480.585,
+      "high": 486.33,
+      "low": 478.91,
+      "close": 483.33,
+      "volume": 437111.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 483.23,
+      "high": 490.56,
+      "low": 481.9,
+      "close": 487.32,
+      "volume": 420632.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 485.565,
+      "high": 492.37,
+      "low": 484.425,
+      "close": 491.55,
+      "volume": 400583.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Microsoft Expands Middle East AI Footprint Through Long-Term HUMAIN Deal",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61430916/microsoft-expands-middle-east-ai-footprint-through-long-term-humain-deal",
+      "published_at": "2026-08-26T12:08:06+00:00"
+    },
+    {
+      "headline": "Comparing Microsoft With Industry Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61427638/comparing-microsoft-industry-competitors-software-industry",
+      "published_at": "2026-08-26T09:58:25+00:00"
+    },
+    {
+      "headline": "Microsoft And HUMAIN Announce Long-Term AI Collaboration To Bring ALLAM Models To Microsoft Foundry And M365 Copilot",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/MSFT",
+      "published_at": "2026-08-26T08:36:41+00:00"
+    },
+    {
+      "headline": "'China's Moonshot In Talks With Microsoft, Amazon, Google Over K3 Revenue Sharing, Sources Say' - Reuters Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61426922/china-s-moonshot-talks-microsoft-amazon-google-over-k3-revenue-sharing-sources-say-reuters-exclusive",
+      "published_at": "2026-08-26T08:15:09+00:00"
+    },
+    {
+      "headline": "Microsoft’s Internal Pay Spreadsheet Shows Cloud and AI Workers Reporting Stock Awards as High as $1.4 Million: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61426839/microsofts-internal-pay-spreadsheet-shows-cloud-and-ai-workers-reporting-stock-awards-as-high-as-1-4-million-report",
+      "published_at": "2026-08-26T08:04:15+00:00"
+    },
+    {
+      "headline": "Warren Buffett-Style Cash Flow Stocks Could Face Heavy Downside in OpenAI Era, Warns Dwarkesh Patel",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/08/61426644/warren-buffett-style-cash-flow-stocks-could-face-heavy-downside-in-openai-era-warns-dwarkesh-patel",
+      "published_at": "2026-08-26T07:19:24+00:00"
+    },
+    {
+      "headline": "'OpenAI’s Head of Data Centers Has Left Company' - Wall Street Journal",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61420088/openai-s-head-data-centers-has-left-company-wall-street-journal",
+      "published_at": "2026-08-25T19:21:03+00:00"
+    },
+    {
+      "headline": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/08/61418246/treasury-bond-buybacks-cannot-solve-a-fiscal-problem-nvidia-earnings-and-inflation-data-expected-tomorrow",
+      "published_at": "2026-08-25T18:07:04+00:00"
+    },
+    {
+      "headline": "OpenAI Introduces The Admin Plugin For ChatGPT Work And Codex",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61417693/openai-introduces-admin-plugin-chatgpt-work-and-codex",
+      "published_at": "2026-08-25T17:46:10+00:00"
+    },
+    {
+      "headline": "What's Going On With Dell Technologies Stock Tuesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61413880/whats-going-on-with-dell-technologies-stock-tuesday",
+      "published_at": "2026-08-25T15:44:31+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
