@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-08-27T12:53:23.752584+00:00",
+  "price": 340.62,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-16",
+      "open": 373.325,
+      "high": 375.18,
+      "low": 352.365,
+      "close": 354.31,
+      "volume": 1442304.0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 345.99,
+      "high": 348.47,
+      "low": 341.38,
+      "close": 346.765,
+      "volume": 869439.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 351.005,
+      "high": 359.65,
+      "low": 350.74,
+      "close": 352.11,
+      "volume": 1147351.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 350.985,
+      "high": 350.985,
+      "low": 347.02,
+      "close": 347.115,
+      "volume": 766723.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 348.155,
+      "high": 349.925,
+      "low": 341.79,
+      "close": 342.06,
+      "volume": 1361767.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.0,
+      "high": 324.42,
+      "low": 314.96,
+      "close": 317.73,
+      "volume": 2504211.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 318.125,
+      "high": 324.17,
+      "low": 317.36,
+      "close": 319.725,
+      "volume": 1147202.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 325.245,
+      "high": 330.41,
+      "low": 324.45,
+      "close": 326.38,
+      "volume": 1188475.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 327.98,
+      "high": 335.88,
+      "low": 324.455,
+      "close": 333.78,
+      "volume": 1056354.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 334.665,
+      "high": 342.49,
+      "low": 331.63,
+      "close": 336.49,
+      "volume": 954025.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 334.575,
+      "high": 336.48,
+      "low": 330.395,
+      "close": 333.64,
+      "volume": 1082401.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 341.03,
+      "high": 358.54,
+      "low": 340.355,
+      "close": 356.06,
+      "volume": 1661583.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 365.445,
+      "high": 376.675,
+      "low": 363.44,
+      "close": 373.51,
+      "volume": 1475833.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 367.5,
+      "high": 380.43,
+      "low": 367.5,
+      "close": 377.675,
+      "volume": 1510470.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 383.045,
+      "high": 384.44,
+      "low": 356.83,
+      "close": 362.385,
+      "volume": 2139552.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 360.8,
+      "high": 364.01,
+      "low": 356.9,
+      "close": 357.885,
+      "volume": 907378.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 356.34,
+      "high": 358.84,
+      "low": 353.83,
+      "close": 354.35,
+      "volume": 887668.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 355.23,
+      "high": 357.55,
+      "low": 352.74,
+      "close": 357.545,
+      "volume": 419463.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 355.735,
+      "high": 356.76,
+      "low": 343.39,
+      "close": 343.765,
+      "volume": 1237953.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 346.335,
+      "high": 346.36,
+      "low": 340.905,
+      "close": 343.565,
+      "volume": 815212.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 345.77,
+      "high": 347.85,
+      "low": 343.84,
+      "close": 346.35,
+      "volume": 663018.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 346.71,
+      "high": 350.405,
+      "low": 344.51,
+      "close": 345.86,
+      "volume": 472894.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 346.265,
+      "high": 347.22,
+      "low": 341.945,
+      "close": 344.1,
+      "volume": 584704.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 342.405,
+      "high": 344.78,
+      "low": 340.21,
+      "close": 344.03,
+      "volume": 901431.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 342.5,
+      "high": 346.72,
+      "low": 340.78,
+      "close": 344.795,
+      "volume": 684392.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 342.795,
+      "high": 343.83,
+      "low": 338.57,
+      "close": 340.59,
+      "volume": 591452.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 342.355,
+      "high": 346.175,
+      "low": 340.42,
+      "close": 344.75,
+      "volume": 616795.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 343.62,
+      "high": 351.59,
+      "low": 342.49,
+      "close": 348.09,
+      "volume": 861403.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 349.375,
+      "high": 350.09,
+      "low": 345.61,
+      "close": 346.945,
+      "volume": 692301.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 346.61,
+      "high": 346.745,
+      "low": 340.205,
+      "close": 342.06,
+      "volume": 568863.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "California’s Billionaire Tax Faces a Chilling Warning: Former White House Adviser Says It Could Actually Cost the State More Money Than It Raises",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/macro-economic-events/26/08/61459489/california-wealth-tax",
+      "published_at": "2026-08-27T12:34:46+00:00"
+    },
+    {
+      "headline": "'Attention Is Scarce': Why Bilibili’s CEO Says Quality Content Drives Revenue",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/08/61457843/attention-is-scarce-why-bilibilis-ceo-says-quality-content-drives-revenue",
+      "published_at": "2026-08-27T11:53:12+00:00"
+    },
+    {
+      "headline": "Trump Weighs New Semiconductor Tariffs That Could Hit AI Data Center Servers, Laptops and Gaming Consoles: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61456385/trump-weighs-new-semiconductor-tariffs-that-could-hit-ai-data-center-servers-laptops-and-gaming-consoles-report",
+      "published_at": "2026-08-27T10:53:32+00:00"
+    },
+    {
+      "headline": "AI Arms Race Fuels More Cyberattacks — and More Spending, CrowdStrike Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/08/61455262/ai-arms-race-fuels-more-cyberattacks-and-more-spending-crowdstrike-says",
+      "published_at": "2026-08-27T10:16:45+00:00"
+    },
+    {
+      "headline": "'Thinking Machines Lab Co-Founder Barret Zoph Joins Google' - WSJ",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61453779/thinking-machines-lab-co-founder-barret-zoph-joins-google-wsj",
+      "published_at": "2026-08-27T07:39:27+00:00"
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang Not Taking OpenAI's 'Jalapeño' Chip Personally: 'Lots of Projects Get Started. Lots of Projects Get Canceled'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61453544/nvidia-jensen-huang-openai-jalapeno-chip-competition",
+      "published_at": "2026-08-27T06:56:54+00:00"
+    },
+    {
+      "headline": "Nvidia Agrees to Acquire Hugging Face For $12.9 Billion In One of Its Largest Acquisitions So Far As It Expands Control Of Open-Source AI Models: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/08/61453368/nvidia-agrees-to-acquire-hugging-face-for-12-9-billion-in-one-of-its-largest-acquisitions-so-far-as-it-expands-control-of-open-source-ai-models-report",
+      "published_at": "2026-08-27T06:30:42+00:00"
+    },
+    {
+      "headline": "Nvidia Revenue Set to Increase 18X in 4 Years; Analyst Says 'Never in History' Has a Company Grown This Fast",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/08/61452739/nvidia-revenue-18x-growth-4-years-analyst-history",
+      "published_at": "2026-08-27T04:24:30+00:00"
+    },
+    {
+      "headline": "Salesforce, Anthropic Announcing Claudeforce Collaboration",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61447671/salesforce-anthropic-announcing-claudeforce-collaboration",
+      "published_at": "2026-08-26T20:10:52+00:00"
+    },
+    {
+      "headline": "'Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up' - WSJ Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61446160/google-moves-ai-responsibility-team-out-deepmind-lab-latest-shake-wsj-exclusive",
+      "published_at": "2026-08-26T19:38:16+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (35) Recv failure: Connection reset by peer. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
