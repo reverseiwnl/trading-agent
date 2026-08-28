@@ -1,0 +1,272 @@
+{
+  "ticker": "UNH",
+  "as_of": "2026-08-28T12:48:57.880276+00:00",
+  "price": 394.86,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-17",
+      "open": 428.54,
+      "high": 437.13,
+      "low": 425.175,
+      "close": 426.055,
+      "volume": 476614.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 427.59,
+      "high": 431.015,
+      "low": 417.4,
+      "close": 421.85,
+      "volume": 200892.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 421.67,
+      "high": 436.95,
+      "low": 420.69,
+      "close": 436.39,
+      "volume": 243323.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 435.0,
+      "high": 436.06,
+      "low": 429.765,
+      "close": 431.32,
+      "volume": 193576.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 427.56,
+      "high": 430.485,
+      "low": 420.56,
+      "close": 423.525,
+      "volume": 363918.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 425.62,
+      "high": 428.7,
+      "low": 418.965,
+      "close": 420.665,
+      "volume": 183692.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 422.445,
+      "high": 422.525,
+      "low": 412.975,
+      "close": 417.57,
+      "volume": 197147.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 419.47,
+      "high": 430.43,
+      "low": 415.88,
+      "close": 428.94,
+      "volume": 280850.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 428.36,
+      "high": 431.56,
+      "low": 420.51,
+      "close": 420.66,
+      "volume": 269340.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 415.41,
+      "high": 427.29,
+      "low": 411.6,
+      "close": 421.62,
+      "volume": 196407.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 422.03,
+      "high": 422.11,
+      "low": 414.22,
+      "close": 414.43,
+      "volume": 121377.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 416.74,
+      "high": 418.49,
+      "low": 413.42,
+      "close": 415.38,
+      "volume": 164513.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 414.39,
+      "high": 414.39,
+      "low": 406.885,
+      "close": 407.73,
+      "volume": 221511.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 402.79,
+      "high": 416.32,
+      "low": 397.96,
+      "close": 412.73,
+      "volume": 226466.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 415.46,
+      "high": 415.46,
+      "low": 402.52,
+      "close": 403.91,
+      "volume": 178876.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 401.585,
+      "high": 410.54,
+      "low": 401.06,
+      "close": 407.09,
+      "volume": 186057.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 410.08,
+      "high": 413.06,
+      "low": 408.045,
+      "close": 408.755,
+      "volume": 146233.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 409.18,
+      "high": 410.4,
+      "low": 401.355,
+      "close": 402.49,
+      "volume": 173488.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 401.285,
+      "high": 407.135,
+      "low": 401.285,
+      "close": 405.64,
+      "volume": 190801.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 406.05,
+      "high": 407.1,
+      "low": 398.595,
+      "close": 399.18,
+      "volume": 238890.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 397.82,
+      "high": 403.15,
+      "low": 396.65,
+      "close": 401.67,
+      "volume": 121504.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 398.24,
+      "high": 398.745,
+      "low": 391.52,
+      "close": 395.54,
+      "volume": 196437.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 397.94,
+      "high": 398.62,
+      "low": 393.64,
+      "close": 393.81,
+      "volume": 158087.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 394.2,
+      "high": 396.71,
+      "low": 386.375,
+      "close": 388.53,
+      "volume": 198738.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 388.0,
+      "high": 392.66,
+      "low": 383.955,
+      "close": 384.78,
+      "volume": 191085.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 386.35,
+      "high": 393.655,
+      "low": 386.35,
+      "close": 390.12,
+      "volume": 219438.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 391.96,
+      "high": 399.45,
+      "low": 391.96,
+      "close": 398.86,
+      "volume": 217151.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 397.99,
+      "high": 399.0,
+      "low": 395.62,
+      "close": 396.55,
+      "volume": 102182.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 396.505,
+      "high": 406.235,
+      "low": 396.505,
+      "close": 400.99,
+      "volume": 121260.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 397.54,
+      "high": 399.84,
+      "low": 393.81,
+      "close": 394.86,
+      "volume": 145543.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "UnitedHealth Stock Edges Higher Wednesday: What's Happening?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/08/61440400/unitedhealth-stock-edges-higher-wednesday-whats-happening",
+      "published_at": "2026-08-26T16:18:53+00:00"
+    },
+    {
+      "headline": "$100 Invested In UnitedHealth Group 15 Years Ago Would Be Worth This Much Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61422969/100-invested-unitedhealth-group-15-years-ago-would-be-worth-much-today",
+      "published_at": "2026-08-25T20:45:43+00:00"
+    },
+    {
+      "headline": "10 Health Care Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/08/61391269/10-health-care-stocks-whale-activity-today-s-session",
+      "published_at": "2026-08-24T17:35:24+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (35) Recv failure: Connection reset by peer. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

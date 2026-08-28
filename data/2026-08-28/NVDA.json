@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-08-28T12:48:50.624259+00:00",
+  "price": 227.51,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-17",
+      "open": 202.74,
+      "high": 206.63,
+      "low": 197.98,
+      "close": 202.8,
+      "volume": 4558491.0
+    },
+    {
+      "date": "2026-07-20",
+      "open": 205.605,
+      "high": 207.71,
+      "low": 202.29,
+      "close": 203.33,
+      "volume": 3550006.0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 207.5,
+      "high": 208.61,
+      "low": 204.01,
+      "close": 207.24,
+      "volume": 3037338.0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 205.875,
+      "high": 214.39,
+      "low": 205.01,
+      "close": 212.07,
+      "volume": 5839269.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 209.43,
+      "high": 210.85,
+      "low": 205.96,
+      "close": 208.76,
+      "volume": 4289878.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 207.49,
+      "high": 211.89,
+      "low": 204.83,
+      "close": 207.07,
+      "volume": 4442598.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 208.155,
+      "high": 208.64,
+      "low": 195.45,
+      "close": 196.555,
+      "volume": 6702548.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 194.95,
+      "high": 198.69,
+      "low": 192.76,
+      "close": 197.05,
+      "volume": 5832667.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 195.84,
+      "high": 197.055,
+      "low": 190.035,
+      "close": 190.1,
+      "volume": 6151282.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 193.375,
+      "high": 197.24,
+      "low": 191.52,
+      "close": 195.04,
+      "volume": 5201876.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 198.515,
+      "high": 201.95,
+      "low": 194.975,
+      "close": 200.74,
+      "volume": 5634616.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 197.67,
+      "high": 208.73,
+      "low": 196.92,
+      "close": 206.72,
+      "volume": 3833883.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 211.49,
+      "high": 213.06,
+      "low": 209.06,
+      "close": 211.96,
+      "volume": 3780650.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 216.845,
+      "high": 222.22,
+      "low": 216.42,
+      "close": 219.16,
+      "volume": 4716179.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 221.58,
+      "high": 223.61,
+      "low": 217.285,
+      "close": 218.79,
+      "volume": 3379534.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 221.58,
+      "high": 224.76,
+      "low": 220.69,
+      "close": 223.93,
+      "volume": 4355482.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 223.39,
+      "high": 224.08,
+      "low": 216.78,
+      "close": 217.49,
+      "volume": 4587296.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 222.09,
+      "high": 222.09,
+      "low": 216.33,
+      "close": 217.45,
+      "volume": 4097014.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 221.01,
+      "high": 225.1,
+      "low": 220.295,
+      "close": 224.11,
+      "volume": 3733189.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 225.07,
+      "high": 227.2,
+      "low": 223.72,
+      "close": 225.36,
+      "volume": 3940869.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 226.87,
+      "high": 227.47,
+      "low": 224.5,
+      "close": 225.16,
+      "volume": 2326258.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 225.99,
+      "high": 227.9,
+      "low": 224.86,
+      "close": 225.1,
+      "volume": 2750917.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 220.31,
+      "high": 221.62,
+      "low": 218.705,
+      "close": 219.73,
+      "volume": 4218191.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 221.745,
+      "high": 222.87,
+      "low": 216.79,
+      "close": 217.58,
+      "volume": 2792416.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 218.58,
+      "high": 219.84,
+      "low": 215.665,
+      "close": 216.89,
+      "volume": 3014027.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 218.42,
+      "high": 218.73,
+      "low": 214.52,
+      "close": 214.74,
+      "volume": 3206855.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 215.445,
+      "high": 215.445,
+      "low": 207.4,
+      "close": 208.47,
+      "volume": 3334636.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 211.0,
+      "high": 214.67,
+      "low": 210.11,
+      "close": 212.96,
+      "volume": 3190154.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 212.44,
+      "high": 213.6,
+      "low": 209.25,
+      "close": 209.77,
+      "volume": 3944735.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 222.74,
+      "high": 230.47,
+      "low": 220.96,
+      "close": 228.17,
+      "volume": 7478380.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "NVIDIA Growth Outlook Signals Multi-Year AI Demand Beyond Supply Limits: Analysts",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61489320/nvidia-growth-outlook-signals-multi-year-ai-demand-beyond-supply-limits-analysts",
+      "published_at": "2026-08-28T11:55:41+00:00"
+    },
+    {
+      "headline": "Marvell Technology Stock Slides: Data Center Strength Overshadowed by Valuation Concerns",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61488294/marvell-technology-stock-slides-data-center-strength-overshadowed-by-valuation-concerns",
+      "published_at": "2026-08-28T10:42:43+00:00"
+    },
+    {
+      "headline": "Analyzing NVIDIA In Comparison To Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61487224/analyzing-nvidia-comparison-competitors-semiconductors-amp-semiconductor-equipment-industry",
+      "published_at": "2026-08-28T09:58:25+00:00"
+    },
+    {
+      "headline": "Nvidia Steps Back From Revenue-Sharing Deals With AI Cloud Providers Amid Antitrust Concerns: Report (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61486472/nvidia-reportedly-pauses-revenue-sharing-deals-with-ai-cloud-companies-amid-antitrust-concerns",
+      "published_at": "2026-08-28T08:10:00+00:00"
+    },
+    {
+      "headline": "Michael Burry Points to Nvidia's $105B OpenAI Guarantee as 'Circular Financing' Red Flag: 'Whistling Past the Graveyard'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/08/61486426/michael-burry-points-to-nvidias-105b-openai-guarantee-as-circular-financing-red-flag-whistling-past-the-graveyard",
+      "published_at": "2026-08-28T07:44:07+00:00"
+    },
+    {
+      "headline": "SK Hynix CEO Warns Memory Shortage Will Persist Through 2030 as Chipmaker Builds $4 Billion Indiana Fab",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61486111/sk-hynix-ceo-memory-shortage-2030-4-billion-indiana-fab",
+      "published_at": "2026-08-28T07:04:58+00:00"
+    },
+    {
+      "headline": "Nasdaq Jumps Over 400 Points As Nvidia Shares Surge: Investor Sentiment Improves, Fear & Greed Index Moves To ‘Greed’ Zone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/08/61486045/nasdaq-jumps-over-400-points-as-nvidia-shares-surge-investor-sentiment-improves-fear-greed-index-moves-to-greed-zone",
+      "published_at": "2026-08-28T06:45:58+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61486034/stock-market-will-sp-500-open-up-or-down-today-26",
+      "published_at": "2026-08-28T06:43:21+00:00"
+    },
+    {
+      "headline": "Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61485079/trump-nvidia-jensen-huang-incredible-numbers-micron-hottest-company",
+      "published_at": "2026-08-28T02:12:15+00:00"
+    },
+    {
+      "headline": "Here’s How Much You Would Have Made Owning NVIDIA Stock In The Last 10 Years",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61484186/here-s-how-much-you-would-have-made-owning-nvidia-stock-last-10-years",
+      "published_at": "2026-08-27T23:00:47+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (35) Recv failure: Connection reset by peer. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
