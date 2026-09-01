@@ -1,0 +1,308 @@
+{
+  "ticker": "VOO",
+  "as_of": "2026-09-01T13:44:39.457847+00:00",
+  "price": 700.365,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-22",
+      "open": 686.43,
+      "high": 689.355,
+      "low": 686.17,
+      "close": 687.15,
+      "volume": 19975.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 679.53,
+      "high": 682.41,
+      "low": 675.89,
+      "close": 678.7,
+      "volume": 35551.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 678.89,
+      "high": 683.42,
+      "low": 677.72,
+      "close": 679.155,
+      "volume": 143379.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 684.725,
+      "high": 685.13,
+      "low": 676.985,
+      "close": 679.11,
+      "volume": 60444.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 679.28,
+      "high": 682.74,
+      "low": 676.73,
+      "close": 680.93,
+      "volume": 53209.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 680.11,
+      "high": 682.555,
+      "low": 670.19,
+      "close": 670.43,
+      "volume": 76177.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 676.535,
+      "high": 682.32,
+      "low": 675.26,
+      "close": 681.51,
+      "volume": 77191.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 684.53,
+      "high": 688.345,
+      "low": 678.21,
+      "close": 686.43,
+      "volume": 95113.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 689.015,
+      "high": 697.31,
+      "low": 688.71,
+      "close": 696.43,
+      "volume": 77778.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 699.22,
+      "high": 710.765,
+      "low": 699.12,
+      "close": 708.83,
+      "volume": 96270.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 713.22,
+      "high": 714.06,
+      "low": 707.445,
+      "close": 707.445,
+      "volume": 52196.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 708.335,
+      "high": 709.405,
+      "low": 705.72,
+      "close": 706.645,
+      "volume": 46379.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 708.7,
+      "high": 711.28,
+      "low": 707.56,
+      "close": 710.84,
+      "volume": 56345.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 710.34,
+      "high": 712.395,
+      "low": 709.85,
+      "close": 710.47,
+      "volume": 34955.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 711.79,
+      "high": 711.79,
+      "low": 707.345,
+      "close": 708.27,
+      "volume": 46176.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 712.19,
+      "high": 712.19,
+      "low": 709.38,
+      "close": 710.17,
+      "volume": 66830.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 712.225,
+      "high": 716.39,
+      "low": 711.815,
+      "close": 714.88,
+      "volume": 78841.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 715.545,
+      "high": 715.685,
+      "low": 712.85,
+      "close": 713.585,
+      "volume": 57496.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 713.645,
+      "high": 713.645,
+      "low": 710.11,
+      "close": 710.29,
+      "volume": 33991.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 706.615,
+      "high": 707.25,
+      "low": 705.005,
+      "close": 705.44,
+      "volume": 74796.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 708.15,
+      "high": 709.99,
+      "low": 706.175,
+      "close": 706.89,
+      "volume": 54774.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 704.065,
+      "high": 706.055,
+      "low": 700.49,
+      "close": 700.9,
+      "volume": 107697.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 704.0,
+      "high": 705.77,
+      "low": 702.575,
+      "close": 703.76,
+      "volume": 53616.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 702.99,
+      "high": 703.36,
+      "low": 700.53,
+      "close": 701.82,
+      "volume": 110238.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 704.285,
+      "high": 704.7,
+      "low": 701.72,
+      "close": 703.85,
+      "volume": 55108.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 703.15,
+      "high": 705.23,
+      "low": 702.24,
+      "close": 704.02,
+      "volume": 28986.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 706.34,
+      "high": 709.85,
+      "low": 705.44,
+      "close": 708.79,
+      "volume": 87508.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 709.44,
+      "high": 712.635,
+      "low": 706.36,
+      "close": 707.18,
+      "volume": 55102.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 705.335,
+      "high": 705.905,
+      "low": 703.035,
+      "close": 704.875,
+      "volume": 94724.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 700.44,
+      "high": 700.675,
+      "low": 699.71,
+      "close": 699.98,
+      "volume": 23440.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Oil Jumps Near $90 On Iran Risk, California Utilities Crater: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/08/61530773/oil-nears-90-california-utilities-crater-edison-pge-wildfire-bill-markets-monday",
+      "published_at": "2026-08-31T18:00:14+00:00"
+    },
+    {
+      "headline": "Happy 50th, Index Funds: Why Just Owning the S&P 500 May Not Be Enough Anymore",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/08/61529654/happy-50th-index-funds-why-just-owning-the-sp-500-may-not-be-enough-anymore",
+      "published_at": "2026-08-31T17:23:25+00:00"
+    },
+    {
+      "headline": "SCHD to Become King of Dividend ETFs? Aims to Overtake VIG in Key Milestone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/08/61512576/schd-to-become-king-of-dividend-etfs-as-it-sets-to-overtake-vig-in-a-key-milestone",
+      "published_at": "2026-08-30T18:46:05+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Falls As Warsh Revives Rate Hike Bets: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61501188/warsh-revives-rate-hike-bets-gold-sinks-2-percent-whats-moving-markets-friday",
+      "published_at": "2026-08-28T16:46:43+00:00"
+    },
+    {
+      "headline": "Nvidia's Best Day Since April 2025, Cybersecurity Stocks Go Vertical: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/61474382/nvidia-jumps-9-percent-cybersecurity-stocks-go-vertical-stock-market-today",
+      "published_at": "2026-08-27T17:25:23+00:00"
+    },
+    {
+      "headline": "QUICK SPARK: $3.8B SPY Exodus Meets $3.7B QQQ Inflow in One Day",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/08/61468204/3-8b-spy-exodus-meets-3-7b-qqq-inflow-in-one-day",
+      "published_at": "2026-08-27T15:02:16+00:00"
+    },
+    {
+      "headline": "3 Paths That Could Push the S&P 500 up to 39%",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/08/61455887/3-paths-that-could-push-the-sp-500-up-to-39",
+      "published_at": "2026-08-27T10:34:52+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Falls as Hot PCE Inflation Stirs Rate-Hike Bets: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/08/61441583/stock-market-today-nvidia-jitters-drag-nasdaq-hot-pce-rate-hike-bets",
+      "published_at": "2026-08-26T16:58:34+00:00"
+    },
+    {
+      "headline": "Bitcoin Tops $80,000, Oil Sinks As Navy Clears Hormuz Mines: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/08/61416467/bitcoin-rises-chips-rebound-oil-sinks-navy-clears-hormuz-mines-dicks-sporting-goods-markets-tuesday",
+      "published_at": "2026-08-25T17:01:06+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (35) Recv failure: Connection reset by peer. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
