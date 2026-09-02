@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-09-02T12:37:26.869583+00:00",
+  "price": 325.25,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-22",
+      "open": 327.98,
+      "high": 328.865,
+      "low": 323.365,
+      "close": 325.86,
+      "volume": 1552861.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 321.815,
+      "high": 323.25,
+      "low": 319.365,
+      "close": 321.575,
+      "volume": 1362559.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 321.86,
+      "high": 334.35,
+      "low": 321.66,
+      "close": 333.05,
+      "volume": 1772167.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 335.73,
+      "high": 339.55,
+      "low": 334.035,
+      "close": 336.93,
+      "volume": 1578038.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 340.02,
+      "high": 342.87,
+      "low": 335.63,
+      "close": 340.005,
+      "volume": 1872000.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 340.42,
+      "high": 344.555,
+      "low": 337.38,
+      "close": 338.23,
+      "volume": 1917728.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 332.83,
+      "high": 334.41,
+      "low": 329.6,
+      "close": 333.07,
+      "volume": 2368789.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 304.765,
+      "high": 310.64,
+      "low": 300.01,
+      "close": 308.725,
+      "volume": 4898226.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 309.765,
+      "high": 311.77,
+      "low": 302.56,
+      "close": 303.41,
+      "volume": 3242233.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 302.73,
+      "high": 310.42,
+      "low": 301.53,
+      "close": 309.335,
+      "volume": 2131880.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 309.26,
+      "high": 311.71,
+      "low": 305.68,
+      "close": 310.94,
+      "volume": 1800667.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 314.55,
+      "high": 316.27,
+      "low": 309.24,
+      "close": 312.45,
+      "volume": 1194644.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 311.395,
+      "high": 314.785,
+      "low": 310.76,
+      "close": 313.29,
+      "volume": 1073989.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 306.74,
+      "high": 308.21,
+      "low": 304.64,
+      "close": 308.17,
+      "volume": 1579366.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 307.665,
+      "high": 309.91,
+      "low": 302.86,
+      "close": 304.885,
+      "volume": 1321762.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 305.075,
+      "high": 305.61,
+      "low": 300.585,
+      "close": 302.2,
+      "volume": 1799379.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 304.205,
+      "high": 306.0,
+      "low": 302.06,
+      "close": 305.305,
+      "volume": 1348081.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 305.94,
+      "high": 307.47,
+      "low": 304.33,
+      "close": 305.94,
+      "volume": 813147.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 306.21,
+      "high": 307.545,
+      "low": 302.94,
+      "close": 305.655,
+      "volume": 1160745.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 307.85,
+      "high": 311.48,
+      "low": 305.74,
+      "close": 310.16,
+      "volume": 1535987.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 310.145,
+      "high": 319.26,
+      "low": 309.73,
+      "close": 316.9,
+      "volume": 1649295.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 317.455,
+      "high": 320.28,
+      "low": 310.66,
+      "close": 311.29,
+      "volume": 1163420.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 311.425,
+      "high": 312.3,
+      "low": 307.045,
+      "close": 309.27,
+      "volume": 1017701.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 311.47,
+      "high": 313.34,
+      "low": 310.05,
+      "close": 310.385,
+      "volume": 725005.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 310.935,
+      "high": 313.55,
+      "low": 308.21,
+      "close": 309.895,
+      "volume": 753048.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 310.38,
+      "high": 315.43,
+      "low": 308.84,
+      "close": 313.475,
+      "volume": 1025352.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 310.425,
+      "high": 315.38,
+      "low": 309.42,
+      "close": 314.54,
+      "volume": 1062638.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 316.865,
+      "high": 322.36,
+      "low": 315.515,
+      "close": 319.58,
+      "volume": 1076745.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 319.68,
+      "high": 321.215,
+      "low": 312.94,
+      "close": 317.14,
+      "volume": 994365.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 316.97,
+      "high": 327.3,
+      "low": 314.73,
+      "close": 325.25,
+      "volume": 1709875.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Apple, SLB And A Financial Stock: CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61570867/apple-slb-and-a-financial-stock-cnbcs-final-trades",
+      "published_at": "2026-09-02T11:34:02+00:00"
+    },
+    {
+      "headline": "Dan Ives Says M&A Is the ‘Missing Piece’ for Apple in AI Arms Race — New CEO John Ternus Could Finally Shake Up Tim Cook’s Playbook",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61569421/dan-ives-says-ma-is-the-missing-piece-for-apple-in-ai-arms-race-new-ceo-john-ternus-could-finally-shake-up-tim-cooks-playbook",
+      "published_at": "2026-09-02T10:34:17+00:00"
+    },
+    {
+      "headline": "Performance Comparison: Apple And Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61568521/performance-comparison-apple-and-competitors-technology-hardware-storage-amp-peripherals-industry",
+      "published_at": "2026-09-02T09:58:27+00:00"
+    },
+    {
+      "headline": "Jim Cramer Calls NVIDIA ‘Radically Cheap,’ Urges Blockbuster $500 Billion Buyback",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61568170/jim-cramer-calls-nvidia-radically-cheap-urges-blockbuster-500-billion-buyback",
+      "published_at": "2026-09-02T09:25:23+00:00"
+    },
+    {
+      "headline": "Gene Munster Says Apple Has the ‘Upper Hand’ in OpenAI Lawsuit After ‘Shocking Evidence’ Emerges — ‘Would Be a Reckless Move’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61568045/gene-munster-apple-upper-hand-openai-trade-secrets-fight-new-evidence",
+      "published_at": "2026-09-02T09:17:01+00:00"
+    },
+    {
+      "headline": "NIO CEO William Li Touts ‘iPhone-Like’ Firefly Strategy as EV Maker Plots New Tech Upgrades, Battery Swapping for Robotaxis",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61567800/nio-ceo-william-li-touts-iphone-like-firefly-strategy-as-ev-maker-plots-new-tech-upgrades-battery-swapping-for-robotaxis",
+      "published_at": "2026-09-02T08:41:17+00:00"
+    },
+    {
+      "headline": "Gene Munster Gives AAPL's New CEO John Ternus a $50 Million Challenge on Day One — ‘The Payoff Would Be Immediate on Multiple Levels'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61567479/gene-munster-gives-aapls-new-ceo-john-ternus-a-50-million-challenge-on-day-one-the-payoff-would-be-immediate-on-multiple-levels",
+      "published_at": "2026-09-02T07:52:50+00:00"
+    },
+    {
+      "headline": "Tim Cook Gets $47 Million to Stick Around as Apple Chair: His New Pay Check Nearly Matches New CEO John Ternus’ Package",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61566277/tim-cook-47-million-apple-chair-pay-nearly-matches-john-ternus-ceo-package",
+      "published_at": "2026-09-02T04:12:26+00:00"
+    },
+    {
+      "headline": "Tim Cook’s Greatest Contribution Wasn’t Apple Stock Gains But This, Says Market Expert",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61564915/tim-cooks-greatest-contribution-wasnt-apple-stock-gains-but-this-says-market-expert",
+      "published_at": "2026-09-01T21:55:10+00:00"
+    },
+    {
+      "headline": "CNBC Halftime Report Final Trades: Apple, SLB, Goldman Sachs Group",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/GS",
+      "published_at": "2026-09-01T16:59:51+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (35) Recv failure: Connection reset by peer. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

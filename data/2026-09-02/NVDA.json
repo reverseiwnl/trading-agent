@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-09-02T12:38:02.363500+00:00",
+  "price": 217.97,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-22",
+      "open": 205.875,
+      "high": 214.39,
+      "low": 205.01,
+      "close": 212.07,
+      "volume": 5839269.0
+    },
+    {
+      "date": "2026-07-23",
+      "open": 209.43,
+      "high": 210.85,
+      "low": 205.96,
+      "close": 208.76,
+      "volume": 4289878.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 207.49,
+      "high": 211.89,
+      "low": 204.83,
+      "close": 207.07,
+      "volume": 4442598.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 208.155,
+      "high": 208.64,
+      "low": 195.45,
+      "close": 196.555,
+      "volume": 6702548.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 194.95,
+      "high": 198.69,
+      "low": 192.76,
+      "close": 197.05,
+      "volume": 5832667.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 195.84,
+      "high": 197.055,
+      "low": 190.035,
+      "close": 190.1,
+      "volume": 6151282.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 193.375,
+      "high": 197.24,
+      "low": 191.52,
+      "close": 195.04,
+      "volume": 5201876.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 198.515,
+      "high": 201.95,
+      "low": 194.975,
+      "close": 200.74,
+      "volume": 5634616.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 197.67,
+      "high": 208.73,
+      "low": 196.92,
+      "close": 206.72,
+      "volume": 3833883.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 211.49,
+      "high": 213.06,
+      "low": 209.06,
+      "close": 211.96,
+      "volume": 3780650.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 216.845,
+      "high": 222.22,
+      "low": 216.42,
+      "close": 219.16,
+      "volume": 4716179.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 221.58,
+      "high": 223.61,
+      "low": 217.285,
+      "close": 218.79,
+      "volume": 3379534.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 221.58,
+      "high": 224.76,
+      "low": 220.69,
+      "close": 223.93,
+      "volume": 4355482.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 223.39,
+      "high": 224.08,
+      "low": 216.78,
+      "close": 217.49,
+      "volume": 4587296.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 222.09,
+      "high": 222.09,
+      "low": 216.33,
+      "close": 217.45,
+      "volume": 4097014.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 221.01,
+      "high": 225.1,
+      "low": 220.295,
+      "close": 224.11,
+      "volume": 3733189.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 225.07,
+      "high": 227.2,
+      "low": 223.72,
+      "close": 225.36,
+      "volume": 3940869.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 226.87,
+      "high": 227.47,
+      "low": 224.5,
+      "close": 225.16,
+      "volume": 2326258.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 225.99,
+      "high": 227.9,
+      "low": 224.86,
+      "close": 225.1,
+      "volume": 2750917.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 220.31,
+      "high": 221.62,
+      "low": 218.705,
+      "close": 219.73,
+      "volume": 4218191.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 221.745,
+      "high": 222.87,
+      "low": 216.79,
+      "close": 217.58,
+      "volume": 2792416.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 218.58,
+      "high": 219.84,
+      "low": 215.665,
+      "close": 216.89,
+      "volume": 3014027.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 218.42,
+      "high": 218.73,
+      "low": 214.52,
+      "close": 214.74,
+      "volume": 3206855.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 215.445,
+      "high": 215.445,
+      "low": 207.4,
+      "close": 208.47,
+      "volume": 3334636.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 211.0,
+      "high": 214.67,
+      "low": 210.11,
+      "close": 212.96,
+      "volume": 3190154.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 212.44,
+      "high": 213.6,
+      "low": 209.25,
+      "close": 209.77,
+      "volume": 3944735.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 222.74,
+      "high": 230.47,
+      "low": 220.96,
+      "close": 228.17,
+      "volume": 7478380.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 227.28,
+      "high": 229.25,
+      "low": 216.82,
+      "close": 217.545,
+      "volume": 5357434.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 218.73,
+      "high": 221.28,
+      "low": 216.23,
+      "close": 220.86,
+      "volume": 3278990.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 216.73,
+      "high": 220.395,
+      "low": 215.12,
+      "close": 217.49,
+      "volume": 3131622.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "What Is Going On With Micron Tech Stock on Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61570070/what-is-going-on-with-micron-tech-stock-on-wednesday",
+      "published_at": "2026-09-02T11:04:43+00:00"
+    },
+    {
+      "headline": "Gary Black Warns Tesla Risks Falling Behind in the Self-Driving Race: ‘Unsupervised Autonomy Is Becoming Table Stakes’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61568628/gary-black-warns-tesla-risks-falling-behind-in-the-self-driving-race-unsupervised-autonomy-is-becoming-table-stakes",
+      "published_at": "2026-09-02T10:03:19+00:00"
+    },
+    {
+      "headline": "Comparative Study: NVIDIA And Industry Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61568519/comparative-study-nvidia-and-industry-competitors-semiconductors-amp-semiconductor-equipment-industr",
+      "published_at": "2026-09-02T09:58:18+00:00"
+    },
+    {
+      "headline": "Jim Cramer Calls NVIDIA ‘Radically Cheap,’ Urges Blockbuster $500 Billion Buyback",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61568170/jim-cramer-calls-nvidia-radically-cheap-urges-blockbuster-500-billion-buyback",
+      "published_at": "2026-09-02T09:25:23+00:00"
+    },
+    {
+      "headline": "Jensen Huang Sees a $50 Trillion Physical AI Opportunity — Here Are 4 ‘Picks and Shovels’ Stocks That Should Be on Investors’ Radar",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61567697/jensen-huang-sees-a-50-trillion-physical-ai-opportunity-here-are-4-picks-and-shovels-stocks-that-should-be-on-investors-radar",
+      "published_at": "2026-09-02T08:18:18+00:00"
+    },
+    {
+      "headline": "Elizabeth Warren Slams Trump’s AI Data Center Push, Says It Could Leave Americans With Higher Power Bills After President Calls Opponents 'Backwards and Poor'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61567393/elizabeth-warren-slams-trumps-ai-data-center-push-says-it-could-leave-americans-with-higher-power-bills-after-president-calls-opponents-backwards-and-poor",
+      "published_at": "2026-09-02T07:42:56+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61567010/stock-market-will-sp-500-open-up-or-down-today-29",
+      "published_at": "2026-09-02T06:22:16+00:00"
+    },
+    {
+      "headline": "Jim Cramer Says 'WOW' as Dell Crushes Earnings; Patrick Moorhead Says the Company Is Doing 'Exactly What It Told Investors'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61566180/jim-cramer-says-wow-as-dell-crushes-earnings",
+      "published_at": "2026-09-02T03:18:21+00:00"
+    },
+    {
+      "headline": "Anthropic Announces Claude Fable 5.1 And Mythos 5.1",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61558444/anthropic-announces-claude-fable-5-1-and-mythos-5-1",
+      "published_at": "2026-09-01T18:13:24+00:00"
+    },
+    {
+      "headline": "Broadcom Q3 Preview: Nvidia Record Results Bring Added Pressure — ‘Has to Prove’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/previews/26/09/61557316/broadcom-q3-preview-nvidia-record-results-bring-added-pressure-has-to-prove",
+      "published_at": "2026-09-01T17:38:01+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (35) Recv failure: Connection reset by peer. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
