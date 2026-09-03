@@ -1,0 +1,278 @@
+{
+  "ticker": "JNJ",
+  "as_of": "2026-09-03T12:38:47.693612+00:00",
+  "price": 275.42,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-23",
+      "open": 254.87,
+      "high": 260.15,
+      "low": 254.51,
+      "close": 259.38,
+      "volume": 603799.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 261.645,
+      "high": 263.7,
+      "low": 259.775,
+      "close": 263.415,
+      "volume": 389703.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 262.57,
+      "high": 268.74,
+      "low": 261.62,
+      "close": 265.9,
+      "volume": 362835.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 270.035,
+      "high": 274.81,
+      "low": 266.205,
+      "close": 266.68,
+      "volume": 410075.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 268.36,
+      "high": 268.72,
+      "low": 264.88,
+      "close": 265.67,
+      "volume": 244919.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 259.45,
+      "high": 260.35,
+      "low": 254.65,
+      "close": 255.85,
+      "volume": 375768.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 256.01,
+      "high": 258.435,
+      "low": 253.37,
+      "close": 256.465,
+      "volume": 263146.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 255.34,
+      "high": 257.635,
+      "low": 251.0,
+      "close": 254.41,
+      "volume": 281388.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 253.72,
+      "high": 255.51,
+      "low": 250.615,
+      "close": 254.945,
+      "volume": 306832.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 256.27,
+      "high": 259.28,
+      "low": 254.515,
+      "close": 257.6,
+      "volume": 290755.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 261.3,
+      "high": 261.51,
+      "low": 255.34,
+      "close": 257.22,
+      "volume": 392787.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 255.57,
+      "high": 259.6,
+      "low": 255.175,
+      "close": 259.255,
+      "volume": 332146.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 259.21,
+      "high": 261.91,
+      "low": 258.565,
+      "close": 261.64,
+      "volume": 275996.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 261.245,
+      "high": 263.85,
+      "low": 258.44,
+      "close": 259.75,
+      "volume": 155063.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 256.265,
+      "high": 261.41,
+      "low": 255.47,
+      "close": 260.77,
+      "volume": 203541.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 260.9,
+      "high": 262.57,
+      "low": 259.74,
+      "close": 262.11,
+      "volume": 176030.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 260.42,
+      "high": 261.64,
+      "low": 259.25,
+      "close": 260.31,
+      "volume": 161580.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 259.0,
+      "high": 264.23,
+      "low": 258.1,
+      "close": 262.43,
+      "volume": 139444.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 267.3,
+      "high": 271.72,
+      "low": 266.43,
+      "close": 270.97,
+      "volume": 288865.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 272.18,
+      "high": 276.43,
+      "low": 270.68,
+      "close": 273.4,
+      "volume": 292652.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 272.69,
+      "high": 272.78,
+      "low": 267.58,
+      "close": 267.58,
+      "volume": 258690.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 268.095,
+      "high": 272.56,
+      "low": 267.66,
+      "close": 270.28,
+      "volume": 206414.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 269.95,
+      "high": 273.94,
+      "low": 268.99,
+      "close": 273.03,
+      "volume": 162527.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 271.205,
+      "high": 273.73,
+      "low": 270.51,
+      "close": 273.225,
+      "volume": 115624.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 271.29,
+      "high": 272.905,
+      "low": 269.57,
+      "close": 270.115,
+      "volume": 243441.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 267.835,
+      "high": 267.84,
+      "low": 263.885,
+      "close": 265.76,
+      "volume": 279191.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 265.72,
+      "high": 268.36,
+      "low": 264.52,
+      "close": 268.02,
+      "volume": 233386.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 266.565,
+      "high": 267.66,
+      "low": 265.37,
+      "close": 265.79,
+      "volume": 126362.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 270.52,
+      "high": 271.87,
+      "low": 267.13,
+      "close": 271.295,
+      "volume": 387838.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 274.495,
+      "high": 281.0,
+      "low": 273.565,
+      "close": 275.42,
+      "volume": 356304.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "10 Health Care Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/09/61584570/10-health-care-stocks-whale-activity-today-s-session",
+      "published_at": "2026-09-02T17:35:25+00:00"
+    },
+    {
+      "headline": "UBS Maintains Buy on Johnson & Johnson, Raises Price Target to $320",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61575125/ubs-maintains-buy-johnson-johnson-raises-price-target-320",
+      "published_at": "2026-09-02T13:41:30+00:00"
+    },
+    {
+      "headline": "FDA Approves Stelara for Pediatric Ulcerative Colitis",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/08/61508945/fda-approves-stelara-pediatric-ulcerative-colitis",
+      "published_at": "2026-08-28T21:05:18+00:00"
+    },
+    {
+      "headline": "World Health Organization Director General Determined That The Ebola Epidemic In DRC Still Meets Criteria Of Public Health Emergency Of International Concern, But Not Those Of A Pandemic Emergency",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/general/biotech/26/08/61501069/world-health-organization-director-general-determined-ebola-epidemic-drc-still-meets-criteria-public",
+      "published_at": "2026-08-28T16:43:22+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (35) Recv failure: Connection reset by peer. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

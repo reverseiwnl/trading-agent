@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-09-03T12:38:55.529280+00:00",
+  "price": 499.96,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-23",
+      "open": 389.87,
+      "high": 391.71,
+      "low": 377.4,
+      "close": 381.55,
+      "volume": 1350874.0
+    },
+    {
+      "date": "2026-07-24",
+      "open": 387.535,
+      "high": 388.67,
+      "low": 380.77,
+      "close": 381.81,
+      "volume": 1125568.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 389.7,
+      "high": 394.2,
+      "low": 388.1,
+      "close": 389.15,
+      "volume": 1029575.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 393.24,
+      "high": 400.24,
+      "low": 391.43,
+      "close": 393.44,
+      "volume": 1262651.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 393.35,
+      "high": 401.24,
+      "low": 388.745,
+      "close": 391.0,
+      "volume": 1558652.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 438.47,
+      "high": 458.68,
+      "low": 432.44,
+      "close": 451.545,
+      "volume": 4738445.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 450.095,
+      "high": 466.825,
+      "low": 449.87,
+      "close": 464.7,
+      "volume": 2203754.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 476.4,
+      "high": 491.62,
+      "low": 475.17,
+      "close": 487.575,
+      "volume": 2343253.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 480.755,
+      "high": 499.34,
+      "low": 479.39,
+      "close": 492.83,
+      "volume": 1496436.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 496.725,
+      "high": 498.14,
+      "low": 485.71,
+      "close": 487.46,
+      "volume": 903631.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 488.8,
+      "high": 501.54,
+      "low": 488.63,
+      "close": 500.035,
+      "volume": 1120595.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 499.98,
+      "high": 505.1,
+      "low": 498.75,
+      "close": 499.875,
+      "volume": 888433.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 503.675,
+      "high": 513.72,
+      "low": 502.78,
+      "close": 506.15,
+      "volume": 773280.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 504.205,
+      "high": 505.08,
+      "low": 499.77,
+      "close": 503.77,
+      "volume": 557361.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 500.25,
+      "high": 501.34,
+      "low": 491.55,
+      "close": 492.45,
+      "volume": 801168.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 493.585,
+      "high": 501.3,
+      "low": 493.03,
+      "close": 496.81,
+      "volume": 732670.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 496.435,
+      "high": 499.995,
+      "low": 493.92,
+      "close": 495.35,
+      "volume": 491366.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 490.14,
+      "high": 492.59,
+      "low": 478.45,
+      "close": 480.65,
+      "volume": 784812.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 481.55,
+      "high": 484.07,
+      "low": 477.265,
+      "close": 481.82,
+      "volume": 800514.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 479.82,
+      "high": 489.155,
+      "low": 479.72,
+      "close": 484.42,
+      "volume": 544751.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 482.4,
+      "high": 484.105,
+      "low": 479.525,
+      "close": 481.205,
+      "volume": 401570.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 480.585,
+      "high": 486.33,
+      "low": 478.91,
+      "close": 483.33,
+      "volume": 437111.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 483.23,
+      "high": 490.56,
+      "low": 481.9,
+      "close": 487.32,
+      "volume": 420632.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 485.565,
+      "high": 492.37,
+      "low": 484.425,
+      "close": 491.55,
+      "volume": 400583.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 487.855,
+      "high": 497.4,
+      "low": 487.55,
+      "close": 496.36,
+      "volume": 443202.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 494.7,
+      "high": 506.41,
+      "low": 490.13,
+      "close": 504.98,
+      "volume": 947015.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 505.33,
+      "high": 517.755,
+      "low": 504.975,
+      "close": 513.67,
+      "volume": 1011599.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 510.32,
+      "high": 512.18,
+      "low": 506.4,
+      "close": 506.95,
+      "volume": 538872.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 497.845,
+      "high": 505.91,
+      "low": 497.11,
+      "close": 501.19,
+      "volume": 482981.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 499.78,
+      "high": 500.24,
+      "low": 493.83,
+      "close": 496.74,
+      "volume": 369238.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Inquiry Into Microsoft's Competitor Dynamics In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61596063/inquiry-microsoft-s-competitor-dynamics-software-industry",
+      "published_at": "2026-09-03T09:58:24+00:00"
+    },
+    {
+      "headline": "Nvidia's 8% Grip on the S&P 500 Is Unlike Anything Wall Street Has Seen: Jensen Huang-Led Chipmaker is 'Making History,' Says This Commentator",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61594124/nvidia-8-percent-sp-500-grip-jensen-huang-making-history-commentator",
+      "published_at": "2026-09-03T05:34:16+00:00"
+    },
+    {
+      "headline": "Microsoft Adjusted Outlook FY27 Q1 Search & Advertising Revenue (Ex-TAC) Growth In Mid- To High-Single Digits; Adjusted FY27 Q1 Outlook Microsoft 365 Commercial Cloud Revenue Growth Of ~17% In Constant Currency",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/MSFT",
+      "published_at": "2026-09-02T20:40:30+00:00"
+    },
+    {
+      "headline": "Microsoft Restated Q4 Azure Rev $29.42B; Adjusted FY27 Q1 Outlook Azure Rev Growth 44% To 45% In Constant Currency; Adjusted FY27 Q1 Agents & Infra Revenue Outlook $75.15B-$75.75B; Adjusted FY27 Q1 Outlook Devices And Consumer Rev $14.7B-$15.2B",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61590729/microsoft-restated-q4-azure-rev-29-42b-adjusted-fy27-q1-outlook-azure-rev-growth-44-to-45-in-constant-currency-adjusted-fy27-q1-agents-infra-revenue-outlook-75-15b-75-75b",
+      "published_at": "2026-09-02T20:35:51+00:00"
+    },
+    {
+      "headline": "Microsoft Restructures Financial Reporting Into Two Segments For FY27: Agents & Infra And Devices & Consumer",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61590647/microsoft-restructures-financial-reporting-two-segments-fy27-agents-infra-and-devices-consumer",
+      "published_at": "2026-09-02T20:34:14+00:00"
+    },
+    {
+      "headline": "Next Phase Of AI–Elon Musk’s 1 Billion Robots",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/61587169/next-phase-of-ai-elon-musks-1-billion-robots",
+      "published_at": "2026-09-02T19:10:25+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/09/61584569/10-information-technology-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-09-02T17:35:25+00:00"
+    },
+    {
+      "headline": "BlackRock: AI Boom Still in Phase 1 as Amazon, Google, Microsoft Fuel 'Massive Build-Out'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61578412/blackrock-ai-boom-phase-1-big-tech",
+      "published_at": "2026-09-02T14:42:36+00:00"
+    },
+    {
+      "headline": "CrowdStrike Expands Collaboration With OpenAI To Extend Access Of CrowdStrike Enterprise Security To Codex Agents, Roll Out GPT-5.6 Cyber To Falcon Platform",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61571955/crowdstrike-expands-collaboration-openai-extend-access-crowdstrike-enterprise-security-codex-agents-",
+      "published_at": "2026-09-02T12:08:50+00:00"
+    },
+    {
+      "headline": "Investors Are Missing Microsoft’s Biggest AI Edge, Analyst Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61571637/investors-are-missing-microsofts-biggest-ai-edge-analyst-says",
+      "published_at": "2026-09-02T12:01:14+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (35) Recv failure: Connection reset by peer. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
