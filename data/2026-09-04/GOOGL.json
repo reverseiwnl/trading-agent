@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-09-04T12:38:21.681186+00:00",
+  "price": 341.03,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-24",
+      "open": 318.125,
+      "high": 324.17,
+      "low": 317.36,
+      "close": 319.725,
+      "volume": 1147202.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 325.245,
+      "high": 330.41,
+      "low": 324.45,
+      "close": 326.38,
+      "volume": 1188475.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 327.98,
+      "high": 335.88,
+      "low": 324.455,
+      "close": 333.78,
+      "volume": 1056354.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 334.665,
+      "high": 342.49,
+      "low": 331.63,
+      "close": 336.49,
+      "volume": 954025.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 334.575,
+      "high": 336.48,
+      "low": 330.395,
+      "close": 333.64,
+      "volume": 1082401.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 341.03,
+      "high": 358.54,
+      "low": 340.355,
+      "close": 356.06,
+      "volume": 1661583.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 365.445,
+      "high": 376.675,
+      "low": 363.44,
+      "close": 373.51,
+      "volume": 1475833.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 367.5,
+      "high": 380.43,
+      "low": 367.5,
+      "close": 377.675,
+      "volume": 1510470.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 383.045,
+      "high": 384.44,
+      "low": 356.83,
+      "close": 362.385,
+      "volume": 2139552.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 360.8,
+      "high": 364.01,
+      "low": 356.9,
+      "close": 357.885,
+      "volume": 907378.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 356.34,
+      "high": 358.84,
+      "low": 353.83,
+      "close": 354.35,
+      "volume": 887668.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 355.23,
+      "high": 357.55,
+      "low": 352.74,
+      "close": 357.545,
+      "volume": 419463.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 355.735,
+      "high": 356.76,
+      "low": 343.39,
+      "close": 343.765,
+      "volume": 1237953.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 346.335,
+      "high": 346.36,
+      "low": 340.905,
+      "close": 343.565,
+      "volume": 815212.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 345.77,
+      "high": 347.85,
+      "low": 343.84,
+      "close": 346.35,
+      "volume": 663018.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 346.71,
+      "high": 350.405,
+      "low": 344.51,
+      "close": 345.86,
+      "volume": 472894.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 346.265,
+      "high": 347.22,
+      "low": 341.945,
+      "close": 344.1,
+      "volume": 584704.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 342.405,
+      "high": 344.78,
+      "low": 340.21,
+      "close": 344.03,
+      "volume": 901431.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 342.5,
+      "high": 346.72,
+      "low": 340.78,
+      "close": 344.795,
+      "volume": 684392.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 342.795,
+      "high": 343.83,
+      "low": 338.57,
+      "close": 340.59,
+      "volume": 591452.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 342.355,
+      "high": 346.175,
+      "low": 340.42,
+      "close": 344.75,
+      "volume": 616795.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 343.62,
+      "high": 351.59,
+      "low": 342.49,
+      "close": 348.09,
+      "volume": 861403.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 349.375,
+      "high": 350.09,
+      "low": 345.61,
+      "close": 346.945,
+      "volume": 692301.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 346.61,
+      "high": 346.745,
+      "low": 340.205,
+      "close": 342.06,
+      "volume": 568863.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 339.68,
+      "high": 341.69,
+      "low": 338.54,
+      "close": 340.59,
+      "volume": 767720.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.845,
+      "high": 349.09,
+      "low": 340.77,
+      "close": 346.61,
+      "volume": 929692.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 344.04,
+      "high": 344.24,
+      "low": 337.165,
+      "close": 339.17,
+      "volume": 613493.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 335.855,
+      "high": 337.175,
+      "low": 333.11,
+      "close": 334.995,
+      "volume": 653878.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 333.725,
+      "high": 339.73,
+      "low": 332.97,
+      "close": 337.12,
+      "volume": 619670.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Tesla's Ashok Elluswamy Says Intelligence, Not Sensors Are The 'Core Issue' For Self-Driving As TSLA Launches Cybercab Without Steering Wheel",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61623445/teslas-ashok-elluswamy-says-intelligence-not-sensors-are-the-core-issue-for-self-driving-as-tsla-launches-cybercab-without-steering-wheel",
+      "published_at": "2026-09-04T10:50:55+00:00"
+    },
+    {
+      "headline": "South Korea Lands $2 Billion From 4 US Companies as Trump Turns Up Pressure on Foreign Chipmakers: GLW, APD, ACLS Among Stocks in Focus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61621888/four-us-companies-pledge-2-billion-to-south-korea-in-chip-and-energy-investment",
+      "published_at": "2026-09-04T08:35:14+00:00"
+    },
+    {
+      "headline": "Elon Musk Says Tesla Cybercab’s Rare-Earth-Free Motor Was ‘Extremely Hard’ To Achieve — Gary Black Calls TSLA Launch ‘Largely A Bust’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61621757/elon-musk-says-tesla-cybercabs-rare-earth-free-motor-was-extremely-hard-to-achieve-gary-black-calls-tsla-launch-largely-a-bust",
+      "published_at": "2026-09-04T08:01:28+00:00"
+    },
+    {
+      "headline": "Gene Munster Says Tesla Cybercab's Austin Launch Signals Elon Musk’s ‘Paranoid’ Phase Over Robotaxi Accidents Is Over: ‘That’s Just the Start’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61621180/gene-munster-says-tesla-cybercabs-austin-launch-signals-elon-musks-paranoid-phase-over-robotaxi-accidents-is-over-thats-just-the-start",
+      "published_at": "2026-09-04T06:29:45+00:00"
+    },
+    {
+      "headline": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61620790/mark-zuckerberg-opposes-federal-ai-watchdog-trump-call-report",
+      "published_at": "2026-09-04T04:37:18+00:00"
+    },
+    {
+      "headline": "Wall Street Rallies as Fed’s Waller Hints at September Rate Hold: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/09/61611969/waller-cools-rate-hike-bets-bitcoin-tops-80000-whats-moving-markets-thursday",
+      "published_at": "2026-09-03T17:47:45+00:00"
+    },
+    {
+      "headline": "Broadcom Q2 AI Revenue Grows Over 200%, Guidance Restricted By Supply Constraints",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/09/61607542/broadcom-q2-ai-revenue-grows-over-200-supply-constraints",
+      "published_at": "2026-09-03T15:26:20+00:00"
+    },
+    {
+      "headline": "Analyst Sees a Google-Like AI Moment Brewing for Meta After $18 Billion Settlement",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61607059/analyst-sees-a-google-like-ai-moment-brewing-for-meta-after-18-billion-settlement",
+      "published_at": "2026-09-03T15:14:32+00:00"
+    },
+    {
+      "headline": "OpenAI Says It Is Investigating Elevated Errors Across ChatGPT And Codex; Status Page Shows Degraded Performance With 15 ChatGPT Components And 4 Codex Components Affected",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61606836/openai-says-it-is-investigating-elevated-errors-across-chatgpt-and-codex-status-page-shows-degraded-performance-with-15-chatgpt-components-and-4-codex-components-affected",
+      "published_at": "2026-09-03T15:10:20+00:00"
+    },
+    {
+      "headline": "'User Reports Indicate Problems At OpenAI, Claude, Grok, Cursor For Users In The U.S.' - DownDetector",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61606580/user-reports-indicate-problems-openai-claude-grok-cursor-users-u-s-downdetector",
+      "published_at": "2026-09-03T15:02:27+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

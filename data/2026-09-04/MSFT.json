@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-09-04T12:38:24.300613+00:00",
+  "price": 507.39,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-24",
+      "open": 387.535,
+      "high": 388.67,
+      "low": 380.77,
+      "close": 381.81,
+      "volume": 1125568.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 389.7,
+      "high": 394.2,
+      "low": 388.1,
+      "close": 389.15,
+      "volume": 1029575.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 393.24,
+      "high": 400.24,
+      "low": 391.43,
+      "close": 393.44,
+      "volume": 1262651.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 393.35,
+      "high": 401.24,
+      "low": 388.745,
+      "close": 391.0,
+      "volume": 1558652.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 438.47,
+      "high": 458.68,
+      "low": 432.44,
+      "close": 451.545,
+      "volume": 4738445.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 450.095,
+      "high": 466.825,
+      "low": 449.87,
+      "close": 464.7,
+      "volume": 2203754.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 476.4,
+      "high": 491.62,
+      "low": 475.17,
+      "close": 487.575,
+      "volume": 2343253.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 480.755,
+      "high": 499.34,
+      "low": 479.39,
+      "close": 492.83,
+      "volume": 1496436.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 496.725,
+      "high": 498.14,
+      "low": 485.71,
+      "close": 487.46,
+      "volume": 903631.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 488.8,
+      "high": 501.54,
+      "low": 488.63,
+      "close": 500.035,
+      "volume": 1120595.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 499.98,
+      "high": 505.1,
+      "low": 498.75,
+      "close": 499.875,
+      "volume": 888433.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 503.675,
+      "high": 513.72,
+      "low": 502.78,
+      "close": 506.15,
+      "volume": 773280.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 504.205,
+      "high": 505.08,
+      "low": 499.77,
+      "close": 503.77,
+      "volume": 557361.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 500.25,
+      "high": 501.34,
+      "low": 491.55,
+      "close": 492.45,
+      "volume": 801168.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 493.585,
+      "high": 501.3,
+      "low": 493.03,
+      "close": 496.81,
+      "volume": 732670.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 496.435,
+      "high": 499.995,
+      "low": 493.92,
+      "close": 495.35,
+      "volume": 491366.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 490.14,
+      "high": 492.59,
+      "low": 478.45,
+      "close": 480.65,
+      "volume": 784812.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 481.55,
+      "high": 484.07,
+      "low": 477.265,
+      "close": 481.82,
+      "volume": 800514.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 479.82,
+      "high": 489.155,
+      "low": 479.72,
+      "close": 484.42,
+      "volume": 544751.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 482.4,
+      "high": 484.105,
+      "low": 479.525,
+      "close": 481.205,
+      "volume": 401570.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 480.585,
+      "high": 486.33,
+      "low": 478.91,
+      "close": 483.33,
+      "volume": 437111.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 483.23,
+      "high": 490.56,
+      "low": 481.9,
+      "close": 487.32,
+      "volume": 420632.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 485.565,
+      "high": 492.37,
+      "low": 484.425,
+      "close": 491.55,
+      "volume": 400583.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 487.855,
+      "high": 497.4,
+      "low": 487.55,
+      "close": 496.36,
+      "volume": 443202.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 494.7,
+      "high": 506.41,
+      "low": 490.13,
+      "close": 504.98,
+      "volume": 947015.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 505.33,
+      "high": 517.755,
+      "low": 504.975,
+      "close": 513.67,
+      "volume": 1011599.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 510.32,
+      "high": 512.18,
+      "low": 506.4,
+      "close": 506.95,
+      "volume": 538872.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 497.845,
+      "high": 505.91,
+      "low": 497.11,
+      "close": 501.19,
+      "volume": 482981.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 499.78,
+      "high": 500.24,
+      "low": 493.83,
+      "close": 496.74,
+      "volume": 369238.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 501.4,
+      "high": 515.55,
+      "low": 501.4,
+      "close": 510.15,
+      "volume": 850782.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Assessing Microsoft's Performance Against Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61622532/assessing-microsoft-s-performance-against-competitors-software-industry",
+      "published_at": "2026-09-04T09:58:29+00:00"
+    },
+    {
+      "headline": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61620790/mark-zuckerberg-opposes-federal-ai-watchdog-trump-call-report",
+      "published_at": "2026-09-04T04:37:18+00:00"
+    },
+    {
+      "headline": "Elastic To Bring OpenAI GPT Cyber Models Into Elastic Security",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61617455/elastic-bring-openai-gpt-cyber-models-elastic-security",
+      "published_at": "2026-09-03T21:06:57+00:00"
+    },
+    {
+      "headline": "SentinelOne Announces An Expanded Set Of Offerings For Wayfinder Frontier AI Services, Powered By OpenAI Daybreak Models Through The Daybreak Defense Network",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61617365/sentinelone-announces-expanded-set-offerings-wayfinder-frontier-ai-services-powered-openai-daybreak-",
+      "published_at": "2026-09-03T21:05:16+00:00"
+    },
+    {
+      "headline": "OpenAI Introduces Daybreak For Frontline Defenders; Committing $1B In Subsidized Daybreak Access, Training, Technical Support, And Partnerships To Help Frontline Defenders Protect Essential Services",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61616633/openai-introduces-daybreak-frontline-defenders-committing-1b-subsidized-daybreak-access-training-tec",
+      "published_at": "2026-09-03T20:36:17+00:00"
+    },
+    {
+      "headline": "OpenAI's Sam Altman Posts On X \"We Are Working Towards Getting Astra In Everyone's Hands As Quickly As We Can; I Know It Is Frustrating And I Appreciate The Patience. It Should Be Quick.\"",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61615294/openai-s-sam-altman-posts-x-we-are-working-towards-getting-astra-everyone-s-hands-quickly-we-can-i-k",
+      "published_at": "2026-09-03T19:57:14+00:00"
+    },
+    {
+      "headline": "Wall Street Rallies as Fed’s Waller Hints at September Rate Hold: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/09/61611969/waller-cools-rate-hike-bets-bitcoin-tops-80000-whats-moving-markets-thursday",
+      "published_at": "2026-09-03T17:47:45+00:00"
+    },
+    {
+      "headline": "OpenAI Says Issue Causing Elevated Errors Across ChatGPT And Codex Has Been Resolved",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/MSFT",
+      "published_at": "2026-09-03T17:01:26+00:00"
+    },
+    {
+      "headline": "Snowflake Signals Surging AI Data Cloud Demand; Broadcom Sees Strong Chip Demand Through 2028; Yen Strengthens",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/61609642/snowflake-signals-surging-ai-data-cloud-demand-broadcom-sees-strong-chip-demand-through-2028-yen-strengthens",
+      "published_at": "2026-09-03T16:26:44+00:00"
+    },
+    {
+      "headline": "'Nvidia’s New RTX Spark Laptops Launch In October With Two Different Configs; Nvidia’s N1X Laptop Will Ship In Two Different Configurations For Laptops And Mini PCs' - The Verge",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61609188/nvidia-s-new-rtx-spark-laptops-launch-october-two-different-configs-nvidia-s-n1x-laptop-will-ship-tw",
+      "published_at": "2026-09-03T16:15:02+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

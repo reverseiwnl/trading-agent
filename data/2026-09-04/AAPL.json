@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-09-04T12:38:20.424473+00:00",
+  "price": 327.0,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-24",
+      "open": 321.86,
+      "high": 334.35,
+      "low": 321.66,
+      "close": 333.05,
+      "volume": 1772167.0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 335.73,
+      "high": 339.55,
+      "low": 334.035,
+      "close": 336.93,
+      "volume": 1578038.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 340.02,
+      "high": 342.87,
+      "low": 335.63,
+      "close": 340.005,
+      "volume": 1872000.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 340.42,
+      "high": 344.555,
+      "low": 337.38,
+      "close": 338.23,
+      "volume": 1917728.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 332.83,
+      "high": 334.41,
+      "low": 329.6,
+      "close": 333.07,
+      "volume": 2368789.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 304.765,
+      "high": 310.64,
+      "low": 300.01,
+      "close": 308.725,
+      "volume": 4898226.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 309.765,
+      "high": 311.77,
+      "low": 302.56,
+      "close": 303.41,
+      "volume": 3242233.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 302.73,
+      "high": 310.42,
+      "low": 301.53,
+      "close": 309.335,
+      "volume": 2131880.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 309.26,
+      "high": 311.71,
+      "low": 305.68,
+      "close": 310.94,
+      "volume": 1800667.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 314.55,
+      "high": 316.27,
+      "low": 309.24,
+      "close": 312.45,
+      "volume": 1194644.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 311.395,
+      "high": 314.785,
+      "low": 310.76,
+      "close": 313.29,
+      "volume": 1073989.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 306.74,
+      "high": 308.21,
+      "low": 304.64,
+      "close": 308.17,
+      "volume": 1579366.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 307.665,
+      "high": 309.91,
+      "low": 302.86,
+      "close": 304.885,
+      "volume": 1321762.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 305.075,
+      "high": 305.61,
+      "low": 300.585,
+      "close": 302.2,
+      "volume": 1799379.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 304.205,
+      "high": 306.0,
+      "low": 302.06,
+      "close": 305.305,
+      "volume": 1348081.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 305.94,
+      "high": 307.47,
+      "low": 304.33,
+      "close": 305.94,
+      "volume": 813147.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 306.21,
+      "high": 307.545,
+      "low": 302.94,
+      "close": 305.655,
+      "volume": 1160745.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 307.85,
+      "high": 311.48,
+      "low": 305.74,
+      "close": 310.16,
+      "volume": 1535987.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 310.145,
+      "high": 319.26,
+      "low": 309.73,
+      "close": 316.9,
+      "volume": 1649295.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 317.455,
+      "high": 320.28,
+      "low": 310.66,
+      "close": 311.29,
+      "volume": 1163420.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 311.425,
+      "high": 312.3,
+      "low": 307.045,
+      "close": 309.27,
+      "volume": 1017701.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 311.47,
+      "high": 313.34,
+      "low": 310.05,
+      "close": 310.385,
+      "volume": 725005.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 310.935,
+      "high": 313.55,
+      "low": 308.21,
+      "close": 309.895,
+      "volume": 753048.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 310.38,
+      "high": 315.43,
+      "low": 308.84,
+      "close": 313.475,
+      "volume": 1025352.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 310.425,
+      "high": 315.38,
+      "low": 309.42,
+      "close": 314.54,
+      "volume": 1062638.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 316.865,
+      "high": 322.36,
+      "low": 315.515,
+      "close": 319.58,
+      "volume": 1076745.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 319.68,
+      "high": 321.215,
+      "low": 312.94,
+      "close": 317.14,
+      "volume": 994365.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 316.97,
+      "high": 327.3,
+      "low": 314.73,
+      "close": 325.25,
+      "volume": 1709875.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 327.01,
+      "high": 328.36,
+      "low": 323.57,
+      "close": 325.03,
+      "volume": 1152718.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 324.91,
+      "high": 330.79,
+      "low": 324.155,
+      "close": 328.22,
+      "volume": 1042722.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Reported Earlier: 'Early foldable iPhone production limited to a few hundred per day: sources' - Nikkei Asia",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61623943/reported-earlier-early-foldable-iphone-production-limited-few-hundred-day-sources-nikkei-asia",
+      "published_at": "2026-09-04T11:30:23+00:00"
+    },
+    {
+      "headline": "Market Analysis: Apple And Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61622533/market-analysis-apple-and-competitors-technology-hardware-storage-amp-peripherals-industry",
+      "published_at": "2026-09-04T09:58:37+00:00"
+    },
+    {
+      "headline": "Norway Skeptical of Smart Spectacles: Leader in EV Adoption Not Ready to Welcome ‘Pervert’ Glasses",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61617628/norway-skeptical-of-smart-spectacles-leader-in-ev-adoption-not-ready-to-welcome-pervert-glasses",
+      "published_at": "2026-09-03T21:14:29+00:00"
+    },
+    {
+      "headline": "BASF Sues Apple For Allegedly Infringing Its Patents For Face Authentication Technology, Court Filing Shows",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61614398/basf-sues-apple-allegedly-infringing-its-patents-face-authentication-technology-court-filing-shows",
+      "published_at": "2026-09-03T19:18:09+00:00"
+    },
+    {
+      "headline": "Snowflake Signals Surging AI Data Cloud Demand; Broadcom Sees Strong Chip Demand Through 2028; Yen Strengthens",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/61609642/snowflake-signals-surging-ai-data-cloud-demand-broadcom-sees-strong-chip-demand-through-2028-yen-strengthens",
+      "published_at": "2026-09-03T16:26:44+00:00"
+    },
+    {
+      "headline": "Recent Report Shows That Rep. Cleo Fields Bought Up to $15K Worth of Apple Stock",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/government/26/09/61606431/recent-report-shows-rep-cleo-fields-bought-15k-worth-apple-stock",
+      "published_at": "2026-09-03T15:00:26+00:00"
+    },
+    {
+      "headline": "Reported Earlier: 'Apple facing $2.7 billion UK lawsuit over 'unfair' app tracking rules' - Reuters",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61604875/reported-earlier-apple-facing-2-7-billion-uk-lawsuit-over-unfair-app-tracking-rules-reuters",
+      "published_at": "2026-09-03T14:27:39+00:00"
+    },
+    {
+      "headline": "'Apple Apparently Cancels Plans for Two New MacBooks' - MacRumors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61604253/apple-apparently-cancels-plans-two-new-macbooks-macrumors",
+      "published_at": "2026-09-03T14:18:25+00:00"
+    },
+    {
+      "headline": "Nvidia Stock ‘Extremely Cheap’ and Could Hit $400 Within 18 Months, Says Analyst — That’s a 78% Rally From Here",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61601211/nvidia-stock-extremely-cheap-and-could-hit-400-within-18-months-says-analyst-thats-a-78-rally-from-here",
+      "published_at": "2026-09-03T13:17:50+00:00"
+    },
+    {
+      "headline": "Assessing Apple's Performance Against Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61596064/assessing-apple-s-performance-against-competitors-technology-hardware-storage-amp-peripherals-indust",
+      "published_at": "2026-09-03T09:58:29+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
