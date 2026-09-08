@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-09-08T12:26:33.520164+00:00",
+  "price": 338.34,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-27",
+      "open": 325.245,
+      "high": 330.41,
+      "low": 324.45,
+      "close": 326.38,
+      "volume": 1188475.0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 327.98,
+      "high": 335.88,
+      "low": 324.455,
+      "close": 333.78,
+      "volume": 1056354.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 334.665,
+      "high": 342.49,
+      "low": 331.63,
+      "close": 336.49,
+      "volume": 954025.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 334.575,
+      "high": 336.48,
+      "low": 330.395,
+      "close": 333.64,
+      "volume": 1082401.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 341.03,
+      "high": 358.54,
+      "low": 340.355,
+      "close": 356.06,
+      "volume": 1661583.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 365.445,
+      "high": 376.675,
+      "low": 363.44,
+      "close": 373.51,
+      "volume": 1475833.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 367.5,
+      "high": 380.43,
+      "low": 367.5,
+      "close": 377.675,
+      "volume": 1510470.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 383.045,
+      "high": 384.44,
+      "low": 356.83,
+      "close": 362.385,
+      "volume": 2139552.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 360.8,
+      "high": 364.01,
+      "low": 356.9,
+      "close": 357.885,
+      "volume": 907378.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 356.34,
+      "high": 358.84,
+      "low": 353.83,
+      "close": 354.35,
+      "volume": 887668.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 355.23,
+      "high": 357.55,
+      "low": 352.74,
+      "close": 357.545,
+      "volume": 419463.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 355.735,
+      "high": 356.76,
+      "low": 343.39,
+      "close": 343.765,
+      "volume": 1237953.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 346.335,
+      "high": 346.36,
+      "low": 340.905,
+      "close": 343.565,
+      "volume": 815212.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 345.77,
+      "high": 347.85,
+      "low": 343.84,
+      "close": 346.35,
+      "volume": 663018.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 346.71,
+      "high": 350.405,
+      "low": 344.51,
+      "close": 345.86,
+      "volume": 472894.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 346.265,
+      "high": 347.22,
+      "low": 341.945,
+      "close": 344.1,
+      "volume": 584704.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 342.405,
+      "high": 344.78,
+      "low": 340.21,
+      "close": 344.03,
+      "volume": 901431.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 342.5,
+      "high": 346.72,
+      "low": 340.78,
+      "close": 344.795,
+      "volume": 684392.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 342.795,
+      "high": 343.83,
+      "low": 338.57,
+      "close": 340.59,
+      "volume": 591452.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 342.355,
+      "high": 346.175,
+      "low": 340.42,
+      "close": 344.75,
+      "volume": 616795.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 343.62,
+      "high": 351.59,
+      "low": 342.49,
+      "close": 348.09,
+      "volume": 861403.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 349.375,
+      "high": 350.09,
+      "low": 345.61,
+      "close": 346.945,
+      "volume": 692301.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 346.61,
+      "high": 346.745,
+      "low": 340.205,
+      "close": 342.06,
+      "volume": 568863.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 339.68,
+      "high": 341.69,
+      "low": 338.54,
+      "close": 340.59,
+      "volume": 767720.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.845,
+      "high": 349.09,
+      "low": 340.77,
+      "close": 346.61,
+      "volume": 929692.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 344.04,
+      "high": 344.24,
+      "low": 337.165,
+      "close": 339.17,
+      "volume": 613493.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 335.855,
+      "high": 337.175,
+      "low": 333.11,
+      "close": 334.995,
+      "volume": 653878.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 333.725,
+      "high": 339.73,
+      "low": 332.97,
+      "close": 337.12,
+      "volume": 619670.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.605,
+      "high": 343.505,
+      "low": 337.1,
+      "close": 338.34,
+      "volume": 586852.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "OpenAI, Anthropic Seek Investment-Grade Ratings Post Potential IPOs to Cut AI Borrowing Costs: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/ipos/26/09/61655283/openai-anthropic-seek-investment-grade-ratings-post-potential-ipos-to-cut-ai-borrowing-costs-report",
+      "published_at": "2026-09-08T12:10:24+00:00"
+    },
+    {
+      "headline": "Gene Munster Predicts TSLA Stock Rally Amid NHTSA Cybercab Probe, Calls It a 'Speed Bump' For Elon Musk: 'Confidence in Safety…'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61652378/gene-munster-predicts-tsla-stock-rally-amid-nhtsa-cybercab-probe-calls-it-a-speed-bump-for-elon-musk-confidence-in-safety",
+      "published_at": "2026-09-08T10:08:49+00:00"
+    },
+    {
+      "headline": "Elon Musk Says ‘Pretty Much’ After Meme Mocks Waymo’s Sensor-Packed Robotaxi, as Self-Driving Rivalry Heats Up",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61651756/elon-musk-says-pretty-much-after-meme-mocks-waymos-sensor-packed-robotaxi-as-self-driving-rivalry-heats-up",
+      "published_at": "2026-09-08T09:35:19+00:00"
+    },
+    {
+      "headline": "$100 Invested In Alphabet 10 Years Ago Would Be Worth This Much Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61649322/100-invested-alphabet-10-years-ago-would-be-worth-much-today",
+      "published_at": "2026-09-07T23:00:18+00:00"
+    },
+    {
+      "headline": "Dan Ives Warns 10%-15% of US Data Center Projects Could Be Cut as AI Boom Faces Political Backlash, Calls It the ‘Biggest Threat’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61647418/dan-ives-warns-10-15-of-us-data-center-projects-could-be-cut-as-ai-boom-faces-political-backlash-calls-it-the-biggest-threat",
+      "published_at": "2026-09-07T10:53:26+00:00"
+    },
+    {
+      "headline": "TSLA Critic Gordon Johnson Rips Cybercab Launch After Elon Musk's ‘Storm of Cybercabs’ Promise: ‘The Robotaxi Story Was Never About Robotaxis'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61647406/tsla-critic-gordon-johnson-rips-cybercab-launch-after-elon-musks-storm-of-cybercabs-promise-the-robotaxi-story-was-never-about-robotaxis",
+      "published_at": "2026-09-07T10:47:41+00:00"
+    },
+    {
+      "headline": "Gary Black Warns Tesla Could Squander Its Autonomy Lead Like It Did With EVs, Calls for $100 Million Cybercab Marketing Spend — ‘The Goal of Advertising Is to…’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61647203/gary-black-warns-tesla-could-squander-its-autonomy-lead-like-it-did-with-evs-calls-for-100-million-cybercab-marketing-spend-the-goal-of-advertising-is-to",
+      "published_at": "2026-09-07T10:08:50+00:00"
+    },
+    {
+      "headline": "Amazon, Meta Are Now Serious Competition to Uncle Sam: Big Tech's AI Debt Boom 'Driving' Treasury Yields Higher, Says Market Commentator",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/bonds/26/09/61646239/amazon-meta-big-tech-ai-debt-boom-treasury-yields-uncle-sam-competition",
+      "published_at": "2026-09-07T06:56:54+00:00"
+    },
+    {
+      "headline": "Gary Black Says Tesla Has Solved Unsupervised Autonomy, but Competition Is the Bigger Threat",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61644303/gary-black-says-tesla-has-solved-unsupervised-autonomy-but-competition-is-the-bigger-threat",
+      "published_at": "2026-09-06T08:43:48+00:00"
+    },
+    {
+      "headline": "Elon Musk Says Chess Will Be ‘Fully Solved’ One Day — Chess.com Fires Back With a Brutal Two-Word Roast",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61643910/elon-musk-predicts-chess-will-be-fully-solved-one-day-says-number-of-sensible-moves-is-tiny-chess-com-has-a-brutal-two-word-response",
+      "published_at": "2026-09-05T20:00:50+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (35) Recv failure: Connection reset by peer. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
