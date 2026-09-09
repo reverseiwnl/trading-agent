@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-09-09T12:30:38.815648+00:00",
+  "price": 224.58,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-28",
+      "open": 194.95,
+      "high": 198.69,
+      "low": 192.76,
+      "close": 197.05,
+      "volume": 5832667.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 195.84,
+      "high": 197.055,
+      "low": 190.035,
+      "close": 190.1,
+      "volume": 6151282.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 193.375,
+      "high": 197.24,
+      "low": 191.52,
+      "close": 195.04,
+      "volume": 5201876.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 198.515,
+      "high": 201.95,
+      "low": 194.975,
+      "close": 200.74,
+      "volume": 5634616.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 197.67,
+      "high": 208.73,
+      "low": 196.92,
+      "close": 206.72,
+      "volume": 3833883.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 211.49,
+      "high": 213.06,
+      "low": 209.06,
+      "close": 211.96,
+      "volume": 3780650.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 216.845,
+      "high": 222.22,
+      "low": 216.42,
+      "close": 219.16,
+      "volume": 4716179.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 221.58,
+      "high": 223.61,
+      "low": 217.285,
+      "close": 218.79,
+      "volume": 3379534.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 221.58,
+      "high": 224.76,
+      "low": 220.69,
+      "close": 223.93,
+      "volume": 4355482.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 223.39,
+      "high": 224.08,
+      "low": 216.78,
+      "close": 217.49,
+      "volume": 4587296.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 222.09,
+      "high": 222.09,
+      "low": 216.33,
+      "close": 217.45,
+      "volume": 4097014.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 221.01,
+      "high": 225.1,
+      "low": 220.295,
+      "close": 224.11,
+      "volume": 3733189.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 225.07,
+      "high": 227.2,
+      "low": 223.72,
+      "close": 225.36,
+      "volume": 3940869.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 226.87,
+      "high": 227.47,
+      "low": 224.5,
+      "close": 225.16,
+      "volume": 2326258.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 225.99,
+      "high": 227.9,
+      "low": 224.86,
+      "close": 225.1,
+      "volume": 2750917.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 220.31,
+      "high": 221.62,
+      "low": 218.705,
+      "close": 219.73,
+      "volume": 4218191.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 221.745,
+      "high": 222.87,
+      "low": 216.79,
+      "close": 217.58,
+      "volume": 2792416.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 218.58,
+      "high": 219.84,
+      "low": 215.665,
+      "close": 216.89,
+      "volume": 3014027.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 218.42,
+      "high": 218.73,
+      "low": 214.52,
+      "close": 214.74,
+      "volume": 3206855.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 215.445,
+      "high": 215.445,
+      "low": 207.4,
+      "close": 208.47,
+      "volume": 3334636.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 211.0,
+      "high": 214.67,
+      "low": 210.11,
+      "close": 212.96,
+      "volume": 3190154.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 212.44,
+      "high": 213.6,
+      "low": 209.25,
+      "close": 209.77,
+      "volume": 3944735.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 222.74,
+      "high": 230.47,
+      "low": 220.96,
+      "close": 228.17,
+      "volume": 7478380.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 227.28,
+      "high": 229.25,
+      "low": 216.82,
+      "close": 217.545,
+      "volume": 5357434.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 218.73,
+      "high": 221.28,
+      "low": 216.23,
+      "close": 220.86,
+      "volume": 3278990.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 216.73,
+      "high": 220.395,
+      "low": 215.12,
+      "close": 217.49,
+      "volume": 3131622.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 218.785,
+      "high": 227.95,
+      "low": 218.53,
+      "close": 224.435,
+      "volume": 4915686.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 225.92,
+      "high": 230.4,
+      "low": 224.765,
+      "close": 228.54,
+      "volume": 3373106.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 231.11,
+      "high": 234.75,
+      "low": 229.635,
+      "close": 230.19,
+      "volume": 3592503.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 233.21,
+      "high": 233.69,
+      "low": 224.86,
+      "close": 225.82,
+      "volume": 3102034.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "AI Will Transform the World, but Legendary Investor Warns Its Arms Race Has a Familiar Trap",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61680468/ai-will-transform-the-world-but-legendary-investor-warns-its-arms-race-has-a-familiar-trap",
+      "published_at": "2026-09-09T10:56:06+00:00"
+    },
+    {
+      "headline": "Market Analysis: NVIDIA And Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61679058/market-analysis-nvidia-and-competitors-semiconductors-amp-semiconductor-equipment-industry",
+      "published_at": "2026-09-09T09:58:18+00:00"
+    },
+    {
+      "headline": "Jim Chanos Challenges Jensen Huang Over Nvidia's 'Highly Rentable' AI Chips: 'Why Not Rent Them Out Yourself?'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61677717/jim-chanos-challenges-jensen-huang-over-nvidias-highly-rentable-ai-chips-why-not-rent-them-out-yourself",
+      "published_at": "2026-09-09T07:39:47+00:00"
+    },
+    {
+      "headline": "Scott Bessent Warns US 'Can't Pause' AI Race With China: 'There Is No Day After Tomorrow' if Beijing Wins",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61676413/scott-bessent-us-ai-race-china-cant-pause-day-after-tomorrow",
+      "published_at": "2026-09-09T02:54:55+00:00"
+    },
+    {
+      "headline": "$100 Invested In NVIDIA 10 Years Ago Would Be Worth This Much Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61672780/100-invested-nvidia-10-years-ago-would-be-worth-much-today",
+      "published_at": "2026-09-08T20:15:23+00:00"
+    },
+    {
+      "headline": "Tesla and XPENG Are Taking Humanoid Robots to the Factory: 3 ETFs to Watch as Production Scales",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61669103/tesla-and-xpeng-are-taking-humanoid-robots-to-the-factory-3-etfs-to-watch-as-production-scales",
+      "published_at": "2026-09-08T18:11:08+00:00"
+    },
+    {
+      "headline": "Does Michael Burry Have It Wrong? Nvidia Chips Retain Value, Data Shows",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61668402/nvidia-a100-chips-michael-burry-depreciation",
+      "published_at": "2026-09-08T17:49:57+00:00"
+    },
+    {
+      "headline": "Why Oracle Stock is the Trade to Watch After OpenAI's AGI Claim",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61668272/why-oracle-stock-is-the-trade-to-watch-after-openais-agi-claim",
+      "published_at": "2026-09-08T17:46:49+00:00"
+    },
+    {
+      "headline": "What's Going On With NVIDIA Stock Tuesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61667792/whats-going-on-with-nvidia-stock-tuesday-6",
+      "published_at": "2026-09-08T17:33:07+00:00"
+    },
+    {
+      "headline": "S&P 500, Nasdaq Slip as $98 Brent Reignites Inflation Fears: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61667277/oil-lifts-treasury-yields-three-year-highs-dow-drops-578-points-markets-tuesday",
+      "published_at": "2026-09-08T17:13:16+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

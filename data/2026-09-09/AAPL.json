@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-09-09T12:30:32.777331+00:00",
+  "price": 315.03,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-28",
+      "open": 340.02,
+      "high": 342.87,
+      "low": 335.63,
+      "close": 340.005,
+      "volume": 1872000.0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 340.42,
+      "high": 344.555,
+      "low": 337.38,
+      "close": 338.23,
+      "volume": 1917728.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 332.83,
+      "high": 334.41,
+      "low": 329.6,
+      "close": 333.07,
+      "volume": 2368789.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 304.765,
+      "high": 310.64,
+      "low": 300.01,
+      "close": 308.725,
+      "volume": 4898226.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 309.765,
+      "high": 311.77,
+      "low": 302.56,
+      "close": 303.41,
+      "volume": 3242233.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 302.73,
+      "high": 310.42,
+      "low": 301.53,
+      "close": 309.335,
+      "volume": 2131880.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 309.26,
+      "high": 311.71,
+      "low": 305.68,
+      "close": 310.94,
+      "volume": 1800667.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 314.55,
+      "high": 316.27,
+      "low": 309.24,
+      "close": 312.45,
+      "volume": 1194644.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 311.395,
+      "high": 314.785,
+      "low": 310.76,
+      "close": 313.29,
+      "volume": 1073989.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 306.74,
+      "high": 308.21,
+      "low": 304.64,
+      "close": 308.17,
+      "volume": 1579366.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 307.665,
+      "high": 309.91,
+      "low": 302.86,
+      "close": 304.885,
+      "volume": 1321762.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 305.075,
+      "high": 305.61,
+      "low": 300.585,
+      "close": 302.2,
+      "volume": 1799379.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 304.205,
+      "high": 306.0,
+      "low": 302.06,
+      "close": 305.305,
+      "volume": 1348081.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 305.94,
+      "high": 307.47,
+      "low": 304.33,
+      "close": 305.94,
+      "volume": 813147.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 306.21,
+      "high": 307.545,
+      "low": 302.94,
+      "close": 305.655,
+      "volume": 1160745.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 307.85,
+      "high": 311.48,
+      "low": 305.74,
+      "close": 310.16,
+      "volume": 1535987.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 310.145,
+      "high": 319.26,
+      "low": 309.73,
+      "close": 316.9,
+      "volume": 1649295.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 317.455,
+      "high": 320.28,
+      "low": 310.66,
+      "close": 311.29,
+      "volume": 1163420.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 311.425,
+      "high": 312.3,
+      "low": 307.045,
+      "close": 309.27,
+      "volume": 1017701.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 311.47,
+      "high": 313.34,
+      "low": 310.05,
+      "close": 310.385,
+      "volume": 725005.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 310.935,
+      "high": 313.55,
+      "low": 308.21,
+      "close": 309.895,
+      "volume": 753048.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 310.38,
+      "high": 315.43,
+      "low": 308.84,
+      "close": 313.475,
+      "volume": 1025352.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 310.425,
+      "high": 315.38,
+      "low": 309.42,
+      "close": 314.54,
+      "volume": 1062638.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 316.865,
+      "high": 322.36,
+      "low": 315.515,
+      "close": 319.58,
+      "volume": 1076745.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 319.68,
+      "high": 321.215,
+      "low": 312.94,
+      "close": 317.14,
+      "volume": 994365.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 316.97,
+      "high": 327.3,
+      "low": 314.73,
+      "close": 325.25,
+      "volume": 1709875.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 327.01,
+      "high": 328.36,
+      "low": 323.57,
+      "close": 325.03,
+      "volume": 1152718.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 324.91,
+      "high": 330.79,
+      "low": 324.155,
+      "close": 328.22,
+      "volume": 1042722.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 328.39,
+      "high": 328.895,
+      "low": 317.86,
+      "close": 319.95,
+      "volume": 1224559.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 317.24,
+      "high": 320.7,
+      "low": 314.9,
+      "close": 316.26,
+      "volume": 1126523.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Amazon Gives Qualcomm a Major AI Boost With $60B Custom Chip Deal — Analyst Calls It a ‘Huge $QCOM Win’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61682116/amazon-gives-qualcomm-a-major-ai-boost-with-60b-custom-chip-deal-analyst-calls-it-a-huge-qcom-win",
+      "published_at": "2026-09-09T11:48:27+00:00"
+    },
+    {
+      "headline": "Google Raises Its Investments in Finland to Support AI Infrastructure Growth",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61681439/google-raises-its-investments-in-finland-to-support-ai-infrastructure-growth",
+      "published_at": "2026-09-09T11:21:59+00:00"
+    },
+    {
+      "headline": "Apple Bucks Smartphone Chip Slump As iPhone 17 Pro Demand Powers Gains",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61681412/apple-bucks-smartphone-chip-slump-as-iphone-17-pro-demand-powers-gains",
+      "published_at": "2026-09-09T11:19:18+00:00"
+    },
+    {
+      "headline": "Evaluating Apple Against Peers In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61679060/evaluating-apple-against-peers-technology-hardware-storage-amp-peripherals-industry",
+      "published_at": "2026-09-09T09:58:26+00:00"
+    },
+    {
+      "headline": "Apple and Google Face UK Mandate to Block Explicit Content on Children’s Phones as Talks Stall",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61678293/apple-and-google-face-uk-mandate-to-block-explicit-content-on-childrens-phones-as-talks-stall",
+      "published_at": "2026-09-09T08:46:03+00:00"
+    },
+    {
+      "headline": "To Bend the Future, Apple May Have to Step Back in Time: Can a Foldable iPhone Survive Without These Two Major Features",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61677806/apple-foldable-iphone-future-two-major-features",
+      "published_at": "2026-09-09T07:44:41+00:00"
+    },
+    {
+      "headline": "Apple's Weird iPhone Curse: AAPL Stock Drops on Launch Day, Jumps the Next — Every Year for Almost 20 Years",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61677101/apple-aapl-stock-iphone-launch-day-next-day-20-year-pattern",
+      "published_at": "2026-09-09T06:11:48+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61676904/stock-market-will-sp-500-open-up-or-down-today-33",
+      "published_at": "2026-09-09T05:48:03+00:00"
+    },
+    {
+      "headline": "Apple Might Be Planning to 'Surprise and Shine' at iPhone 18 Launch Event, but Crypto Bettors Are Already Betting on Foldables and More",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61676659/apple-iphone-18-surprise-and-shine-launch-crypto-bettors-foldable-iphone-bets",
+      "published_at": "2026-09-09T04:36:49+00:00"
+    },
+    {
+      "headline": "S&P 500, Nasdaq Slip as $98 Brent Reignites Inflation Fears: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61667277/oil-lifts-treasury-yields-three-year-highs-dow-drops-578-points-markets-tuesday",
+      "published_at": "2026-09-08T17:13:16+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
