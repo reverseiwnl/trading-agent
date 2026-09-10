@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-09-10T12:26:38.972972+00:00",
+  "price": 491.65,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-29",
+      "open": 393.35,
+      "high": 401.24,
+      "low": 388.745,
+      "close": 391.0,
+      "volume": 1558652.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 438.47,
+      "high": 458.68,
+      "low": 432.44,
+      "close": 451.545,
+      "volume": 4738445.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 450.095,
+      "high": 466.825,
+      "low": 449.87,
+      "close": 464.7,
+      "volume": 2203754.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 476.4,
+      "high": 491.62,
+      "low": 475.17,
+      "close": 487.575,
+      "volume": 2343253.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 480.755,
+      "high": 499.34,
+      "low": 479.39,
+      "close": 492.83,
+      "volume": 1496436.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 496.725,
+      "high": 498.14,
+      "low": 485.71,
+      "close": 487.46,
+      "volume": 903631.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 488.8,
+      "high": 501.54,
+      "low": 488.63,
+      "close": 500.035,
+      "volume": 1120595.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 499.98,
+      "high": 505.1,
+      "low": 498.75,
+      "close": 499.875,
+      "volume": 888433.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 503.675,
+      "high": 513.72,
+      "low": 502.78,
+      "close": 506.15,
+      "volume": 773280.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 504.205,
+      "high": 505.08,
+      "low": 499.77,
+      "close": 503.77,
+      "volume": 557361.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 500.25,
+      "high": 501.34,
+      "low": 491.55,
+      "close": 492.45,
+      "volume": 801168.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 493.585,
+      "high": 501.3,
+      "low": 493.03,
+      "close": 496.81,
+      "volume": 732670.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 496.435,
+      "high": 499.995,
+      "low": 493.92,
+      "close": 495.35,
+      "volume": 491366.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 490.14,
+      "high": 492.59,
+      "low": 478.45,
+      "close": 480.65,
+      "volume": 784812.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 481.55,
+      "high": 484.07,
+      "low": 477.265,
+      "close": 481.82,
+      "volume": 800514.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 479.82,
+      "high": 489.155,
+      "low": 479.72,
+      "close": 484.42,
+      "volume": 544751.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 482.4,
+      "high": 484.105,
+      "low": 479.525,
+      "close": 481.205,
+      "volume": 401570.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 480.585,
+      "high": 486.33,
+      "low": 478.91,
+      "close": 483.33,
+      "volume": 437111.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 483.23,
+      "high": 490.56,
+      "low": 481.9,
+      "close": 487.32,
+      "volume": 420632.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 485.565,
+      "high": 492.37,
+      "low": 484.425,
+      "close": 491.55,
+      "volume": 400583.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 487.855,
+      "high": 497.4,
+      "low": 487.55,
+      "close": 496.36,
+      "volume": 443202.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 494.7,
+      "high": 506.41,
+      "low": 490.13,
+      "close": 504.98,
+      "volume": 947015.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 505.33,
+      "high": 517.755,
+      "low": 504.975,
+      "close": 513.67,
+      "volume": 1011599.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 510.32,
+      "high": 512.18,
+      "low": 506.4,
+      "close": 506.95,
+      "volume": 538872.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 497.845,
+      "high": 505.91,
+      "low": 497.11,
+      "close": 501.19,
+      "volume": 482981.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 499.78,
+      "high": 500.24,
+      "low": 493.83,
+      "close": 496.74,
+      "volume": 369238.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 501.4,
+      "high": 515.55,
+      "low": 501.4,
+      "close": 510.15,
+      "volume": 850782.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 510.1,
+      "high": 510.82,
+      "low": 499.38,
+      "close": 499.545,
+      "volume": 542979.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 493.2,
+      "high": 495.05,
+      "low": 490.16,
+      "close": 493.92,
+      "volume": 478010.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 492.56,
+      "high": 494.22,
+      "low": 489.8,
+      "close": 491.65,
+      "volume": 327829.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Microsoft Signs ‘Iron-Clad’ AI Safety Deal — Schools Can Seek Damages if Student Data Is Misused",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61709897/microsoft-signs-iron-clad-ai-safety-deal-schools-can-seek-damages-if-student-data-is-misused",
+      "published_at": "2026-09-10T12:01:45+00:00"
+    },
+    {
+      "headline": "Anthropic Pulls $450,000 Meta Sales Role as AI Rivalry With Facebook Parent Intensifies: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61706760/anthropic-meta-sales-role-ai-rival-customer",
+      "published_at": "2026-09-10T10:01:11+00:00"
+    },
+    {
+      "headline": "Competitor Analysis: Evaluating Microsoft And Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61706674/competitor-analysis-evaluating-microsoft-and-competitors-software-industry",
+      "published_at": "2026-09-10T09:58:30+00:00"
+    },
+    {
+      "headline": "Ray Dalio Warns 'We Are Now in a Bubble': Here's Why the Billionaire Investor Says AI Boom Mirrors 1920s Crash",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61704630/ray-dalio-ai-bubble-warning-miracle-versus-investment-big-tech-capex",
+      "published_at": "2026-09-10T05:28:54+00:00"
+    },
+    {
+      "headline": "Want in on Anthropic Before the IPO? Buy These 8 Stocks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61703261/want-in-on-anthropic-before-the-ipo-buy-these-8-stocks",
+      "published_at": "2026-09-09T22:07:57+00:00"
+    },
+    {
+      "headline": "Nvidia and Meta Are Hungry for HBM. SK Hynix Is on the Menu — These ETFs Could Cash In",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61698742/nvidia-and-meta-are-hungry-for-hbm-sk-hynix-is-on-the-menu-these-etfs-could-cash-in",
+      "published_at": "2026-09-09T19:11:39+00:00"
+    },
+    {
+      "headline": "Barclays Sees S&P 500 at 7,950 in 2026: What Do Prediction Markets Say?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61697782/barclays-sp-500-target-7950",
+      "published_at": "2026-09-09T18:41:17+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/09/61695718/10-information-technology-stocks-whale-activity-today-s-session",
+      "published_at": "2026-09-09T17:35:19+00:00"
+    },
+    {
+      "headline": "Oil Surge and Carry Trade Weigh On Stocks; Apple Bets Big On $2K Foldable iPhone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/61695350/oil-surge-and-carry-trade-weigh-on-stocks-apple-bets-big-on-2k-foldable-iphone",
+      "published_at": "2026-09-09T17:24:50+00:00"
+    },
+    {
+      "headline": "Forget 5X ETFs. Nvidia, Tesla, SpaceX and Palantir Could Soon Get Hourly 2X Bets",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/09/61693689/forget-5x-etfs-nvidia-tesla-spacex-and-palantir-could-soon-get-hourly-2x-bets",
+      "published_at": "2026-09-09T16:35:28+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

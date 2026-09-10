@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-09-10T12:26:34.641189+00:00",
+  "price": 317.75,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-29",
+      "open": 340.42,
+      "high": 344.555,
+      "low": 337.38,
+      "close": 338.23,
+      "volume": 1917728.0
+    },
+    {
+      "date": "2026-07-30",
+      "open": 332.83,
+      "high": 334.41,
+      "low": 329.6,
+      "close": 333.07,
+      "volume": 2368789.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 304.765,
+      "high": 310.64,
+      "low": 300.01,
+      "close": 308.725,
+      "volume": 4898226.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 309.765,
+      "high": 311.77,
+      "low": 302.56,
+      "close": 303.41,
+      "volume": 3242233.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 302.73,
+      "high": 310.42,
+      "low": 301.53,
+      "close": 309.335,
+      "volume": 2131880.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 309.26,
+      "high": 311.71,
+      "low": 305.68,
+      "close": 310.94,
+      "volume": 1800667.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 314.55,
+      "high": 316.27,
+      "low": 309.24,
+      "close": 312.45,
+      "volume": 1194644.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 311.395,
+      "high": 314.785,
+      "low": 310.76,
+      "close": 313.29,
+      "volume": 1073989.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 306.74,
+      "high": 308.21,
+      "low": 304.64,
+      "close": 308.17,
+      "volume": 1579366.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 307.665,
+      "high": 309.91,
+      "low": 302.86,
+      "close": 304.885,
+      "volume": 1321762.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 305.075,
+      "high": 305.61,
+      "low": 300.585,
+      "close": 302.2,
+      "volume": 1799379.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 304.205,
+      "high": 306.0,
+      "low": 302.06,
+      "close": 305.305,
+      "volume": 1348081.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 305.94,
+      "high": 307.47,
+      "low": 304.33,
+      "close": 305.94,
+      "volume": 813147.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 306.21,
+      "high": 307.545,
+      "low": 302.94,
+      "close": 305.655,
+      "volume": 1160745.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 307.85,
+      "high": 311.48,
+      "low": 305.74,
+      "close": 310.16,
+      "volume": 1535987.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 310.145,
+      "high": 319.26,
+      "low": 309.73,
+      "close": 316.9,
+      "volume": 1649295.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 317.455,
+      "high": 320.28,
+      "low": 310.66,
+      "close": 311.29,
+      "volume": 1163420.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 311.425,
+      "high": 312.3,
+      "low": 307.045,
+      "close": 309.27,
+      "volume": 1017701.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 311.47,
+      "high": 313.34,
+      "low": 310.05,
+      "close": 310.385,
+      "volume": 725005.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 310.935,
+      "high": 313.55,
+      "low": 308.21,
+      "close": 309.895,
+      "volume": 753048.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 310.38,
+      "high": 315.43,
+      "low": 308.84,
+      "close": 313.475,
+      "volume": 1025352.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 310.425,
+      "high": 315.38,
+      "low": 309.42,
+      "close": 314.54,
+      "volume": 1062638.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 316.865,
+      "high": 322.36,
+      "low": 315.515,
+      "close": 319.58,
+      "volume": 1076745.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 319.68,
+      "high": 321.215,
+      "low": 312.94,
+      "close": 317.14,
+      "volume": 994365.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 316.97,
+      "high": 327.3,
+      "low": 314.73,
+      "close": 325.25,
+      "volume": 1709875.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 327.01,
+      "high": 328.36,
+      "low": 323.57,
+      "close": 325.03,
+      "volume": 1152718.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 324.91,
+      "high": 330.79,
+      "low": 324.155,
+      "close": 328.22,
+      "volume": 1042722.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 328.39,
+      "high": 328.895,
+      "low": 317.86,
+      "close": 319.95,
+      "volume": 1224559.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 317.24,
+      "high": 320.7,
+      "low": 314.9,
+      "close": 316.26,
+      "volume": 1126523.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 315.59,
+      "high": 319.12,
+      "low": 309.92,
+      "close": 315.42,
+      "volume": 2458568.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Apple’s Foldable iPhone Could Trigger a Massive 'Upgrade Cycle,' Says Gary Black — But This One Problem Could Cap 'Incremental Earnings' for 6 Months",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61710492/apples-foldable-iphone-could-trigger-a-massive-upgrade-cycle-says-gary-black-but-this-one-problem-could-cap-incremental-earnings-for-6-months",
+      "published_at": "2026-09-10T12:19:49+00:00"
+    },
+    {
+      "headline": "Evaluating Apple Against Peers In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61706673/evaluating-apple-against-peers-technology-hardware-storage-amp-peripherals-industry",
+      "published_at": "2026-09-10T09:58:26+00:00"
+    },
+    {
+      "headline": "iPhone 17 Makes Apple History With Record First-Year Revenue",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61706400/iphone-17-makes-apple-history-with-record-first-year-revenue",
+      "published_at": "2026-09-10T09:38:24+00:00"
+    },
+    {
+      "headline": "iPhone 18 Pro Debuts C2 Modem As Apple Keeps Weaning Off Qualcomm — Pro Max Isn't Ready to Let Go",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61705356/iphone-18-pro-c2-modem-pro-max-qualcomm-apple-weaning-off",
+      "published_at": "2026-09-10T07:29:24+00:00"
+    },
+    {
+      "headline": "Apple, Meta, AeroVironment, SUNation Energy and American Eagle Outfitters: Why These 5 Stocks Are on Investors' Radars Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61704026/apple-meta-aerovironment-sunation-energy-and-american-eagle-outfitters-why-these-5-stocks-are-on-investors-radars-today",
+      "published_at": "2026-09-10T01:42:23+00:00"
+    },
+    {
+      "headline": "Gene Munster Says Apple Regained 'Device Design Mojo' With $1,999 iPhone Duo: 'They're Going to Sell More Than I Thought'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61704086/gene-munster-apple-iphone-duo-1999-device-design-mojo-sales",
+      "published_at": "2026-09-10T02:06:29+00:00"
+    },
+    {
+      "headline": "Apple iPhone Duo Starts at $1,999 With 7.6-Inch Foldable Display: AAPL CEO John Ternus Says No More ‘Two Phones Awkwardly Stuck Together’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61698045/apple-iphone-duo-starts-at-1999-with-7-6-inch-foldable-display-aapl-ceo-john-ternus-says-no-more-two-phones-awkwardly-stuck-together",
+      "published_at": "2026-09-09T18:50:34+00:00"
+    },
+    {
+      "headline": "South Park Vs. Trump (And Google & Apple): Hit Animated Show Switches Name in Nod to President’s Map Changes",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/entertainment/26/09/61699567/south-park-vs-trump-and-google-apple-hit-animated-show-switches-name-in-nod-to-presidents-map-changes",
+      "published_at": "2026-09-09T19:41:46+00:00"
+    },
+    {
+      "headline": "QUICK SPARK: Apple Stock Rises on iPhone Duo Launch at $1,999",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61699396/apple-stock-iphone-duo-foldable-launch-1999-price-preorder-october",
+      "published_at": "2026-09-09T19:35:22+00:00"
+    },
+    {
+      "headline": "Apple AirPods 5, Watch Ultra 4 and Watch Series 12 Are Here: Price, Features and Pre-Order Details",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61696812/apple-announced-airpods-5-watch-ultra-4-and-watch-series-12",
+      "published_at": "2026-09-09T18:06:45+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
