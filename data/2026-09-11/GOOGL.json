@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-09-11T12:24:44.497479+00:00",
+  "price": 333.62,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-30",
+      "open": 334.575,
+      "high": 336.48,
+      "low": 330.395,
+      "close": 333.64,
+      "volume": 1082401.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 341.03,
+      "high": 358.54,
+      "low": 340.355,
+      "close": 356.06,
+      "volume": 1661583.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 365.445,
+      "high": 376.675,
+      "low": 363.44,
+      "close": 373.51,
+      "volume": 1475833.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 367.5,
+      "high": 380.43,
+      "low": 367.5,
+      "close": 377.675,
+      "volume": 1510470.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 383.045,
+      "high": 384.44,
+      "low": 356.83,
+      "close": 362.385,
+      "volume": 2139552.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 360.8,
+      "high": 364.01,
+      "low": 356.9,
+      "close": 357.885,
+      "volume": 907378.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 356.34,
+      "high": 358.84,
+      "low": 353.83,
+      "close": 354.35,
+      "volume": 887668.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 355.23,
+      "high": 357.55,
+      "low": 352.74,
+      "close": 357.545,
+      "volume": 419463.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 355.735,
+      "high": 356.76,
+      "low": 343.39,
+      "close": 343.765,
+      "volume": 1237953.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 346.335,
+      "high": 346.36,
+      "low": 340.905,
+      "close": 343.565,
+      "volume": 815212.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 345.77,
+      "high": 347.85,
+      "low": 343.84,
+      "close": 346.35,
+      "volume": 663018.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 346.71,
+      "high": 350.405,
+      "low": 344.51,
+      "close": 345.86,
+      "volume": 472894.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 346.265,
+      "high": 347.22,
+      "low": 341.945,
+      "close": 344.1,
+      "volume": 584704.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 342.405,
+      "high": 344.78,
+      "low": 340.21,
+      "close": 344.03,
+      "volume": 901431.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 342.5,
+      "high": 346.72,
+      "low": 340.78,
+      "close": 344.795,
+      "volume": 684392.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 342.795,
+      "high": 343.83,
+      "low": 338.57,
+      "close": 340.59,
+      "volume": 591452.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 342.355,
+      "high": 346.175,
+      "low": 340.42,
+      "close": 344.75,
+      "volume": 616795.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 343.62,
+      "high": 351.59,
+      "low": 342.49,
+      "close": 348.09,
+      "volume": 861403.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 349.375,
+      "high": 350.09,
+      "low": 345.61,
+      "close": 346.945,
+      "volume": 692301.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 346.61,
+      "high": 346.745,
+      "low": 340.205,
+      "close": 342.06,
+      "volume": 568863.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 339.68,
+      "high": 341.69,
+      "low": 338.54,
+      "close": 340.59,
+      "volume": 767720.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.845,
+      "high": 349.09,
+      "low": 340.77,
+      "close": 346.61,
+      "volume": 929692.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 344.04,
+      "high": 344.24,
+      "low": 337.165,
+      "close": 339.17,
+      "volume": 613493.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 335.855,
+      "high": 337.175,
+      "low": 333.11,
+      "close": 334.995,
+      "volume": 653878.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 333.725,
+      "high": 339.73,
+      "low": 332.97,
+      "close": 337.12,
+      "volume": 619670.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.605,
+      "high": 343.505,
+      "low": 337.1,
+      "close": 338.34,
+      "volume": 586852.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 335.44,
+      "high": 339.64,
+      "low": 333.235,
+      "close": 338.39,
+      "volume": 752823.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.53,
+      "high": 331.685,
+      "low": 327.92,
+      "close": 330.655,
+      "volume": 1192931.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.165,
+      "high": 333.21,
+      "low": 327.79,
+      "close": 332.67,
+      "volume": 475560.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Elon Musk's Starlink Not a Threat to Wireless Carriers, Says T-Mobile CFO: ‘You Can Have a Million Satellites…’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61735240/elon-musks-starlink-not-a-threat-to-wireless-carriers-says-t-mobile-cfo-you-can-have-a-million-satellites",
+      "published_at": "2026-09-11T11:46:31+00:00"
+    },
+    {
+      "headline": "Gavin Newsom Takes the Fight to Big Tech With New Curbs on Social Media, AI Use to Protect Kids: ‘Unregulated Technology Puts Our Children at Risk’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61732855/gavin-newsom-takes-the-fight-to-big-tech-with-new-curbs-on-social-media-ai-use-to-protect-kids-unregulated-technology-puts-our-children-at-risk",
+      "published_at": "2026-09-11T09:08:52+00:00"
+    },
+    {
+      "headline": "SpaceX Closes $1.11 Billion-a-Month Compute Deal as CFO Doubles Down on $100 Billion ARR Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61731919/spacex-closes-1-11-billion-a-month-compute-deal-as-cfo-doubles-down-on-100-billion-arr-target",
+      "published_at": "2026-09-11T06:39:33+00:00"
+    },
+    {
+      "headline": "Jim Cramer Says He’s ‘Not Going to Give Up on Nvidia’ Stock: Here’s His Suggestion for CEO Jensen Huang",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61727129/jim-cramer-says-hes-not-going-to-give-up-on-nvidia-stock-heres-his-suggestion-for-ceo-jensen-huang",
+      "published_at": "2026-09-10T20:06:57+00:00"
+    },
+    {
+      "headline": "Meta’s AI Agents Are Coming for Your Shopping Cart. These ETFs Could Cash In",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61715099/metas-ai-agents-are-coming-for-your-shopping-cart-these-etfs-could-cash-in",
+      "published_at": "2026-09-10T14:06:52+00:00"
+    },
+    {
+      "headline": "What's Going On With AMD Stock Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61709423/whats-going-on-with-amd-stock-thursday-9",
+      "published_at": "2026-09-10T11:48:37+00:00"
+    },
+    {
+      "headline": "Ray Dalio Warns 'We Are Now in a Bubble': Here's Why the Billionaire Investor Says AI Boom Mirrors 1920s Crash",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61704630/ray-dalio-ai-bubble-warning-miracle-versus-investment-big-tech-capex",
+      "published_at": "2026-09-10T05:28:54+00:00"
+    },
+    {
+      "headline": "Cathie Wood Buys $28.1 Million Worth of Meta Stock, Dumps Alphabet Shares As Mark Zuckerberg's Superintelligence Vision Takes Shape",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/09/61704259/cathie-wood-buys-28-1-million-worth-of-meta-stock-dumps-alphabet-shares-as-mark-zuckerbergs-superintelligence-vision-takes-shape",
+      "published_at": "2026-09-10T02:45:15+00:00"
+    },
+    {
+      "headline": "Want in on Anthropic Before the IPO? Buy These 8 Stocks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61703261/want-in-on-anthropic-before-the-ipo-buy-these-8-stocks",
+      "published_at": "2026-09-09T22:07:57+00:00"
+    },
+    {
+      "headline": "South Park Vs. Trump (And Google & Apple): Hit Animated Show Switches Name in Nod to President’s Map Changes",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/entertainment/26/09/61699567/south-park-vs-trump-and-google-apple-hit-animated-show-switches-name-in-nod-to-presidents-map-changes",
+      "published_at": "2026-09-09T19:41:46+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

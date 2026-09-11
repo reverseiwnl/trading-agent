@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-09-11T12:24:46.957735+00:00",
+  "price": 496.47,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-07-30",
+      "open": 438.47,
+      "high": 458.68,
+      "low": 432.44,
+      "close": 451.545,
+      "volume": 4738445.0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 450.095,
+      "high": 466.825,
+      "low": 449.87,
+      "close": 464.7,
+      "volume": 2203754.0
+    },
+    {
+      "date": "2026-08-03",
+      "open": 476.4,
+      "high": 491.62,
+      "low": 475.17,
+      "close": 487.575,
+      "volume": 2343253.0
+    },
+    {
+      "date": "2026-08-04",
+      "open": 480.755,
+      "high": 499.34,
+      "low": 479.39,
+      "close": 492.83,
+      "volume": 1496436.0
+    },
+    {
+      "date": "2026-08-05",
+      "open": 496.725,
+      "high": 498.14,
+      "low": 485.71,
+      "close": 487.46,
+      "volume": 903631.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 488.8,
+      "high": 501.54,
+      "low": 488.63,
+      "close": 500.035,
+      "volume": 1120595.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 499.98,
+      "high": 505.1,
+      "low": 498.75,
+      "close": 499.875,
+      "volume": 888433.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 503.675,
+      "high": 513.72,
+      "low": 502.78,
+      "close": 506.15,
+      "volume": 773280.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 504.205,
+      "high": 505.08,
+      "low": 499.77,
+      "close": 503.77,
+      "volume": 557361.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 500.25,
+      "high": 501.34,
+      "low": 491.55,
+      "close": 492.45,
+      "volume": 801168.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 493.585,
+      "high": 501.3,
+      "low": 493.03,
+      "close": 496.81,
+      "volume": 732670.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 496.435,
+      "high": 499.995,
+      "low": 493.92,
+      "close": 495.35,
+      "volume": 491366.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 490.14,
+      "high": 492.59,
+      "low": 478.45,
+      "close": 480.65,
+      "volume": 784812.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 481.55,
+      "high": 484.07,
+      "low": 477.265,
+      "close": 481.82,
+      "volume": 800514.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 479.82,
+      "high": 489.155,
+      "low": 479.72,
+      "close": 484.42,
+      "volume": 544751.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 482.4,
+      "high": 484.105,
+      "low": 479.525,
+      "close": 481.205,
+      "volume": 401570.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 480.585,
+      "high": 486.33,
+      "low": 478.91,
+      "close": 483.33,
+      "volume": 437111.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 483.23,
+      "high": 490.56,
+      "low": 481.9,
+      "close": 487.32,
+      "volume": 420632.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 485.565,
+      "high": 492.37,
+      "low": 484.425,
+      "close": 491.55,
+      "volume": 400583.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 487.855,
+      "high": 497.4,
+      "low": 487.55,
+      "close": 496.36,
+      "volume": 443202.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 494.7,
+      "high": 506.41,
+      "low": 490.13,
+      "close": 504.98,
+      "volume": 947015.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 505.33,
+      "high": 517.755,
+      "low": 504.975,
+      "close": 513.67,
+      "volume": 1011599.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 510.32,
+      "high": 512.18,
+      "low": 506.4,
+      "close": 506.95,
+      "volume": 538872.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 497.845,
+      "high": 505.91,
+      "low": 497.11,
+      "close": 501.19,
+      "volume": 482981.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 499.78,
+      "high": 500.24,
+      "low": 493.83,
+      "close": 496.74,
+      "volume": 369238.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 501.4,
+      "high": 515.55,
+      "low": 501.4,
+      "close": 510.15,
+      "volume": 850782.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 510.1,
+      "high": 510.82,
+      "low": 499.38,
+      "close": 499.545,
+      "volume": 542979.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 493.2,
+      "high": 495.05,
+      "low": 490.16,
+      "close": 493.92,
+      "volume": 478010.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 492.56,
+      "high": 494.22,
+      "low": 489.8,
+      "close": 491.65,
+      "volume": 327829.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 488.34,
+      "high": 494.46,
+      "low": 486.25,
+      "close": 492.49,
+      "volume": 358672.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Market Analysis: Microsoft And Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61733486/market-analysis-microsoft-and-competitors-software-industry",
+      "published_at": "2026-09-11T09:58:29+00:00"
+    },
+    {
+      "headline": "Gavin Newsom Takes the Fight to Big Tech With New Curbs on Social Media, AI Use to Protect Kids: ‘Unregulated Technology Puts Our Children at Risk’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61732855/gavin-newsom-takes-the-fight-to-big-tech-with-new-curbs-on-social-media-ai-use-to-protect-kids-unregulated-technology-puts-our-children-at-risk",
+      "published_at": "2026-09-11T09:08:52+00:00"
+    },
+    {
+      "headline": "Trump's Surgeon General Pick Has Tobacco, Cola Stocks In Portfolio Even as Robert Kennedy Jr. Wages War On Sugary Drinks, Processed Food",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61732320/trumps-surgeon-general-pick-to-divest-stake-in-tobacco-soda-if-appointed",
+      "published_at": "2026-09-11T07:24:06+00:00"
+    },
+    {
+      "headline": "Jim Cramer Says He’s ‘Not Going to Give Up on Nvidia’ Stock: Here’s His Suggestion for CEO Jensen Huang",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61727129/jim-cramer-says-hes-not-going-to-give-up-on-nvidia-stock-heres-his-suggestion-for-ceo-jensen-huang",
+      "published_at": "2026-09-10T20:06:57+00:00"
+    },
+    {
+      "headline": "Micron, SK Hynix Are Top Bets in New NRAM ETF as AI Memory Demand Surges",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/09/61719810/micron-sk-hynix-are-top-bets-in-new-nram-etf-as-ai-memory-demand-surges",
+      "published_at": "2026-09-10T16:00:33+00:00"
+    },
+    {
+      "headline": "Trump’s $5K Free Money Could Be A Market Bonanza; China, Russia, Iran Leaders Meet In India; PPI Pushes Fed Rate-Hike Odds To 70%",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/61717941/trumps-5k-free-money-could-be-a-market-bonanza-china-russia-iran-leaders-meet-in-india-ppi-pushes-fed-rate-hike-odds-to-70",
+      "published_at": "2026-09-10T15:08:13+00:00"
+    },
+    {
+      "headline": "Meta’s AI Agents Are Coming for Your Shopping Cart. These ETFs Could Cash In",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61715099/metas-ai-agents-are-coming-for-your-shopping-cart-these-etfs-could-cash-in",
+      "published_at": "2026-09-10T14:06:52+00:00"
+    },
+    {
+      "headline": "Oracle Stock Is Down 17% This Year, But Options Traders Bet on a Blowout",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/09/61715005/oracle-stock-is-down-17-this-year-but-options-traders-bet-on-a-blowout",
+      "published_at": "2026-09-10T14:04:56+00:00"
+    },
+    {
+      "headline": "Microsoft Signs ‘Iron-Clad’ AI Safety Deal — Schools Can Seek Damages if Student Data Is Misused",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61709897/microsoft-signs-iron-clad-ai-safety-deal-schools-can-seek-damages-if-student-data-is-misused",
+      "published_at": "2026-09-10T12:01:45+00:00"
+    },
+    {
+      "headline": "Anthropic Pulls $450,000 Meta Sales Role as AI Rivalry With Facebook Parent Intensifies: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61706760/anthropic-meta-sales-role-ai-rival-customer",
+      "published_at": "2026-09-10T10:01:11+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
