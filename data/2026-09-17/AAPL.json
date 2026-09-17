@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-09-17T12:13:10.702500+00:00",
+  "price": 332.49,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-05",
+      "open": 309.26,
+      "high": 311.71,
+      "low": 305.68,
+      "close": 310.94,
+      "volume": 1800667.0
+    },
+    {
+      "date": "2026-08-06",
+      "open": 314.55,
+      "high": 316.27,
+      "low": 309.24,
+      "close": 312.45,
+      "volume": 1194644.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 311.395,
+      "high": 314.785,
+      "low": 310.76,
+      "close": 313.29,
+      "volume": 1073989.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 306.74,
+      "high": 308.21,
+      "low": 304.64,
+      "close": 308.17,
+      "volume": 1579366.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 307.665,
+      "high": 309.91,
+      "low": 302.86,
+      "close": 304.885,
+      "volume": 1321762.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 305.075,
+      "high": 305.61,
+      "low": 300.585,
+      "close": 302.2,
+      "volume": 1799379.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 304.205,
+      "high": 306.0,
+      "low": 302.06,
+      "close": 305.305,
+      "volume": 1348081.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 305.94,
+      "high": 307.47,
+      "low": 304.33,
+      "close": 305.94,
+      "volume": 813147.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 306.21,
+      "high": 307.545,
+      "low": 302.94,
+      "close": 305.655,
+      "volume": 1160745.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 307.85,
+      "high": 311.48,
+      "low": 305.74,
+      "close": 310.16,
+      "volume": 1535987.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 310.145,
+      "high": 319.26,
+      "low": 309.73,
+      "close": 316.9,
+      "volume": 1649295.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 317.455,
+      "high": 320.28,
+      "low": 310.66,
+      "close": 311.29,
+      "volume": 1163420.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 311.425,
+      "high": 312.3,
+      "low": 307.045,
+      "close": 309.27,
+      "volume": 1017701.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 311.47,
+      "high": 313.34,
+      "low": 310.05,
+      "close": 310.385,
+      "volume": 725005.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 310.935,
+      "high": 313.55,
+      "low": 308.21,
+      "close": 309.895,
+      "volume": 753048.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 310.38,
+      "high": 315.43,
+      "low": 308.84,
+      "close": 313.475,
+      "volume": 1025352.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 310.425,
+      "high": 315.38,
+      "low": 309.42,
+      "close": 314.54,
+      "volume": 1062638.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 316.865,
+      "high": 322.36,
+      "low": 315.515,
+      "close": 319.58,
+      "volume": 1076745.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 319.68,
+      "high": 321.215,
+      "low": 312.94,
+      "close": 317.14,
+      "volume": 994365.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 316.97,
+      "high": 327.3,
+      "low": 314.73,
+      "close": 325.25,
+      "volume": 1709875.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 327.01,
+      "high": 328.36,
+      "low": 323.57,
+      "close": 325.03,
+      "volume": 1152718.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 324.91,
+      "high": 330.79,
+      "low": 324.155,
+      "close": 328.22,
+      "volume": 1042722.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 328.39,
+      "high": 328.895,
+      "low": 317.86,
+      "close": 319.95,
+      "volume": 1224559.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 317.24,
+      "high": 320.7,
+      "low": 314.9,
+      "close": 316.26,
+      "volume": 1126523.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 315.59,
+      "high": 319.12,
+      "low": 309.92,
+      "close": 315.42,
+      "volume": 2458568.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 316.76,
+      "high": 326.66,
+      "low": 316.635,
+      "close": 326.615,
+      "volume": 2202355.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 327.45,
+      "high": 336.21,
+      "low": 326.57,
+      "close": 332.245,
+      "volume": 1563982.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 334.7,
+      "high": 335.5,
+      "low": 331.35,
+      "close": 333.0,
+      "volume": 1335636.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 330.445,
+      "high": 331.78,
+      "low": 328.41,
+      "close": 331.335,
+      "volume": 930184.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 332.44,
+      "high": 335.47,
+      "low": 330.71,
+      "close": 332.49,
+      "volume": 903206.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Performance Comparison: Apple And Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61835330/performance-comparison-apple-and-competitors-technology-hardware-storage-amp-peripherals-industry",
+      "published_at": "2026-09-17T09:58:22+00:00"
+    },
+    {
+      "headline": "Bill Ackman Says Nike ‘Needs Help’ as Alexandre Arnault Joins Board: ‘Great Development’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61834651/bill-ackman-says-alexandre-arnault-can-help-nike-calls-it-board-appointment-great-development",
+      "published_at": "2026-09-17T08:54:16+00:00"
+    },
+    {
+      "headline": "SNAP Stock Pops 4% Overnight on Robinhood After NVDA, AWS and Salesforce Partnerships: What’s Driving the Move",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61833876/snap-partners-with-salesforce-aws-and-nvidia-for-specs-ar-glasses",
+      "published_at": "2026-09-17T07:14:14+00:00"
+    },
+    {
+      "headline": "Stocks Rise On Dovish Fed Hike Hopes—Strong Retail Sales Surprise",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/61824301/stocks-rise-on-dovish-fed-hike-hopes-strong-retail-sales-surprise",
+      "published_at": "2026-09-16T17:48:01+00:00"
+    },
+    {
+      "headline": "Apple, Nvidia Eye Major Entry into AI Servers: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61822744/apple-nvidia-eye-major-entry-into-ai-servers-report",
+      "published_at": "2026-09-16T16:56:30+00:00"
+    },
+    {
+      "headline": "Warren Buffett, Donald Trump Bet on Same 17 Stocks — Some Might Surprise You",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/09/61821505/warren-buffett-donald-trump-bet-on-same-17-stocks-some-might-surprise-you",
+      "published_at": "2026-09-16T16:13:41+00:00"
+    },
+    {
+      "headline": "Samsung Retakes Smartphone Throne, Apple Scores Record Share",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61810760/samsung-retakes-smartphone-throne-apple-scores-record-share",
+      "published_at": "2026-09-16T10:58:04+00:00"
+    },
+    {
+      "headline": "Elon Musk’s X And SpaceXAI Dropped Apple From Their Antitrust Fight Without Explaining Why — Now a Federal Judge Wants to See the Deal",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61810380/elon-musks-x-and-spacexai-dropped-apple-from-their-antitrust-fight-without-explaining-why-now-a-federal-judge-wants-to-see-the-deal",
+      "published_at": "2026-09-16T10:23:07+00:00"
+    },
+    {
+      "headline": "Understanding Apple's Position In Technology Hardware, Storage &amp; Peripherals Industry Compared To Competitors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61809671/understanding-apple-s-position-technology-hardware-storage-amp-peripherals-industry-compared-competi",
+      "published_at": "2026-09-16T09:58:21+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/09/61799538/10-information-technology-stocks-whale-activity-today-s-session",
+      "published_at": "2026-09-15T17:35:19+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
