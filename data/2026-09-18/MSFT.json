@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-09-18T12:20:00.780748+00:00",
+  "price": 496.5,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-06",
+      "open": 488.8,
+      "high": 501.54,
+      "low": 488.63,
+      "close": 500.035,
+      "volume": 1120595.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 499.98,
+      "high": 505.1,
+      "low": 498.75,
+      "close": 499.875,
+      "volume": 888433.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 503.675,
+      "high": 513.72,
+      "low": 502.78,
+      "close": 506.15,
+      "volume": 773280.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 504.205,
+      "high": 505.08,
+      "low": 499.77,
+      "close": 503.77,
+      "volume": 557361.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 500.25,
+      "high": 501.34,
+      "low": 491.55,
+      "close": 492.45,
+      "volume": 801168.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 493.585,
+      "high": 501.3,
+      "low": 493.03,
+      "close": 496.81,
+      "volume": 732670.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 496.435,
+      "high": 499.995,
+      "low": 493.92,
+      "close": 495.35,
+      "volume": 491366.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 490.14,
+      "high": 492.59,
+      "low": 478.45,
+      "close": 480.65,
+      "volume": 784812.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 481.55,
+      "high": 484.07,
+      "low": 477.265,
+      "close": 481.82,
+      "volume": 800514.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 479.82,
+      "high": 489.155,
+      "low": 479.72,
+      "close": 484.42,
+      "volume": 544751.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 482.4,
+      "high": 484.105,
+      "low": 479.525,
+      "close": 481.205,
+      "volume": 401570.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 480.585,
+      "high": 486.33,
+      "low": 478.91,
+      "close": 483.33,
+      "volume": 437111.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 483.23,
+      "high": 490.56,
+      "low": 481.9,
+      "close": 487.32,
+      "volume": 420632.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 485.565,
+      "high": 492.37,
+      "low": 484.425,
+      "close": 491.55,
+      "volume": 400583.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 487.855,
+      "high": 497.4,
+      "low": 487.55,
+      "close": 496.36,
+      "volume": 443202.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 494.7,
+      "high": 506.41,
+      "low": 490.13,
+      "close": 504.98,
+      "volume": 947015.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 505.33,
+      "high": 517.755,
+      "low": 504.975,
+      "close": 513.67,
+      "volume": 1011599.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 510.32,
+      "high": 512.18,
+      "low": 506.4,
+      "close": 506.95,
+      "volume": 538872.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 497.845,
+      "high": 505.91,
+      "low": 497.11,
+      "close": 501.19,
+      "volume": 482981.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 499.78,
+      "high": 500.24,
+      "low": 493.83,
+      "close": 496.74,
+      "volume": 369238.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 501.4,
+      "high": 515.55,
+      "low": 501.4,
+      "close": 510.15,
+      "volume": 850782.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 510.1,
+      "high": 510.82,
+      "low": 499.38,
+      "close": 499.545,
+      "volume": 542979.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 493.2,
+      "high": 495.05,
+      "low": 490.16,
+      "close": 493.92,
+      "volume": 478010.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 492.56,
+      "high": 494.22,
+      "low": 489.8,
+      "close": 491.65,
+      "volume": 327829.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 488.34,
+      "high": 494.46,
+      "low": 486.25,
+      "close": 492.49,
+      "volume": 358672.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 495.67,
+      "high": 498.825,
+      "low": 492.665,
+      "close": 495.58,
+      "volume": 368151.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 497.52,
+      "high": 509.92,
+      "low": 495.45,
+      "close": 505.72,
+      "volume": 830370.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 500.06,
+      "high": 505.78,
+      "low": 495.555,
+      "close": 497.105,
+      "volume": 729264.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 493.35,
+      "high": 495.815,
+      "low": 487.26,
+      "close": 490.45,
+      "volume": 636769.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 496.835,
+      "high": 501.4,
+      "low": 493.275,
+      "close": 497.67,
+      "volume": 534473.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Industry Comparison: Evaluating Microsoft Against Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61862612/industry-comparison-evaluating-microsoft-against-competitors-software-industry",
+      "published_at": "2026-09-18T09:58:30+00:00"
+    },
+    {
+      "headline": "Ten-Year Treasury Yield Hits 5%: Why QQQ Could Face More Pressure Than Value ETFs",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61857522/treasury-yield-5-percent-qqq-versus-value-etfs",
+      "published_at": "2026-09-17T20:51:04+00:00"
+    },
+    {
+      "headline": "Triple Witching, Falling Oil, and Fed Hopium Drive Up Stocks, But Downside Risks Remain",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/61851724/triple-witching-falling-oil-and-fed-hopium-drive-up-stocks-but-downside-risks-remain",
+      "published_at": "2026-09-17T17:18:45+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Google Is Racing to Secure Nuclear Power for AI—The Fuel Problem Comes Next",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/commodities/26/09/61846547/google-ai-nuclear-fuel",
+      "published_at": "2026-09-17T14:51:25+00:00"
+    },
+    {
+      "headline": "AI Could Threaten Nuclear Command Systems, Warn US-China Experts— Urge Human Control and Emergency Hotline",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61844153/ai-could-threaten-nuclear-command-systems-warn-us-china-experts-urge-human-control-and-emergency-hotline",
+      "published_at": "2026-09-17T14:01:40+00:00"
+    },
+    {
+      "headline": "SpaceX Is Worth $2 Trillion. Why Does Its Stock Swing Like a Small-Cap?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61844008/spacex-stock-volatility-small-cap-float",
+      "published_at": "2026-09-17T14:00:11+00:00"
+    },
+    {
+      "headline": "Bond King Jeffrey Gundlach Wants Out of the AI 'Epicenter': Inside His Zero-Exposure Portfolio",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61843217/bond-king-jeffrey-gundlach-wants-out-of-the-ai-epicenter-inside-his-zero-exposure-portfolio",
+      "published_at": "2026-09-17T13:46:49+00:00"
+    },
+    {
+      "headline": "Nokia Stock Jumps as Microsoft Deal Deepens Its AI Network Push",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61840411/nokia-stock-jumps-as-microsoft-deal-deepens-its-ai-network-push",
+      "published_at": "2026-09-17T12:40:43+00:00"
+    },
+    {
+      "headline": "Inquiry Into Microsoft's Competitor Dynamics In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61835331/inquiry-microsoft-s-competitor-dynamics-software-industry",
+      "published_at": "2026-09-17T09:58:26+00:00"
+    },
+    {
+      "headline": "House Passes Bipartisan Bill to Shield Americans From Higher Electricity Costs as AI Data Centers Drive Massive Power Demand",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/09/61833062/house-passes-bipartisan-bill-to-shield-americans-from-higher-electricity-costs-as-ai-data-centers-drive-massive-power-demand",
+      "published_at": "2026-09-17T05:06:33+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

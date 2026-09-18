@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-09-18T12:20:01.914419+00:00",
+  "price": 219.4,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-06",
+      "open": 221.58,
+      "high": 223.61,
+      "low": 217.285,
+      "close": 218.79,
+      "volume": 3379534.0
+    },
+    {
+      "date": "2026-08-07",
+      "open": 221.58,
+      "high": 224.76,
+      "low": 220.69,
+      "close": 223.93,
+      "volume": 4355482.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 223.39,
+      "high": 224.08,
+      "low": 216.78,
+      "close": 217.49,
+      "volume": 4587296.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 222.09,
+      "high": 222.09,
+      "low": 216.33,
+      "close": 217.45,
+      "volume": 4097014.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 221.01,
+      "high": 225.1,
+      "low": 220.295,
+      "close": 224.11,
+      "volume": 3733189.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 225.07,
+      "high": 227.2,
+      "low": 223.72,
+      "close": 225.36,
+      "volume": 3940869.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 226.87,
+      "high": 227.47,
+      "low": 224.5,
+      "close": 225.16,
+      "volume": 2326258.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 225.99,
+      "high": 227.9,
+      "low": 224.86,
+      "close": 225.1,
+      "volume": 2750917.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 220.31,
+      "high": 221.62,
+      "low": 218.705,
+      "close": 219.73,
+      "volume": 4218191.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 221.745,
+      "high": 222.87,
+      "low": 216.79,
+      "close": 217.58,
+      "volume": 2792416.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 218.58,
+      "high": 219.84,
+      "low": 215.665,
+      "close": 216.89,
+      "volume": 3014027.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 218.42,
+      "high": 218.73,
+      "low": 214.52,
+      "close": 214.74,
+      "volume": 3206855.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 215.445,
+      "high": 215.445,
+      "low": 207.4,
+      "close": 208.47,
+      "volume": 3334636.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 211.0,
+      "high": 214.67,
+      "low": 210.11,
+      "close": 212.96,
+      "volume": 3190154.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 212.44,
+      "high": 213.6,
+      "low": 209.25,
+      "close": 209.77,
+      "volume": 3944735.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 222.74,
+      "high": 230.47,
+      "low": 220.96,
+      "close": 228.17,
+      "volume": 7478380.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 227.28,
+      "high": 229.25,
+      "low": 216.82,
+      "close": 217.545,
+      "volume": 5357434.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 218.73,
+      "high": 221.28,
+      "low": 216.23,
+      "close": 220.86,
+      "volume": 3278990.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 216.73,
+      "high": 220.395,
+      "low": 215.12,
+      "close": 217.49,
+      "volume": 3131622.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 218.785,
+      "high": 227.95,
+      "low": 218.53,
+      "close": 224.435,
+      "volume": 4915686.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 225.92,
+      "high": 230.4,
+      "low": 224.765,
+      "close": 228.54,
+      "volume": 3373106.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 231.11,
+      "high": 234.75,
+      "low": 229.635,
+      "close": 230.19,
+      "volume": 3592503.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 233.21,
+      "high": 233.69,
+      "low": 224.86,
+      "close": 225.82,
+      "volume": 3102034.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 225.2,
+      "high": 226.07,
+      "low": 223.46,
+      "close": 223.77,
+      "volume": 2177299.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 220.525,
+      "high": 220.98,
+      "low": 217.21,
+      "close": 218.37,
+      "volume": 2640914.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 221.22,
+      "high": 222.0,
+      "low": 218.17,
+      "close": 218.17,
+      "volume": 1719278.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 211.195,
+      "high": 212.745,
+      "low": 208.94,
+      "close": 211.0,
+      "volume": 2427233.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 213.285,
+      "high": 213.93,
+      "low": 211.16,
+      "close": 212.165,
+      "volume": 1959340.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 214.17,
+      "high": 216.755,
+      "low": 212.5,
+      "close": 213.94,
+      "volume": 2431203.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 218.18,
+      "high": 219.9,
+      "low": 217.145,
+      "close": 219.4,
+      "volume": 2712846.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Forget the AI Bubble: VanEck’s Nick Frasse Explains How MU, SK Hynix, ASML, and TSMC Control the Pace of 'Token Factories'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61865346/forget-the-ai-bubble-vanecks-nick-frasse-explains-how-mu-sk-hynix-asml-and-tsmc-control-the-pace-of-token-factories",
+      "published_at": "2026-09-18T12:10:33+00:00"
+    },
+    {
+      "headline": "Josh Shapiro Slams Trump's Decision to Sell 'Most Advanced' Chips to China Amid AI Race, Giving Them an Edge: 'That Was a Mistake'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61864454/josh-shapiro-slams-trumps-decision-to-sell-most-advanced-chips-to-china-amid-ai-race-giving-them-an-edge-that-was-a-mistake",
+      "published_at": "2026-09-18T11:30:05+00:00"
+    },
+    {
+      "headline": "What's Going On With Micron Technology Stock Friday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61863926/whats-going-on-with-micron-technology-stock-friday-6",
+      "published_at": "2026-09-18T11:00:47+00:00"
+    },
+    {
+      "headline": "Exploring The Competitive Space: NVIDIA Versus Industry Peers In Semiconductors &amp; Semiconductor Equipment",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61862610/exploring-competitive-space-nvidia-versus-industry-peers-semiconductors-amp-semiconductor-equipment",
+      "published_at": "2026-09-18T09:58:22+00:00"
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang Expects Chip Sales To Double Next Year as He Downplays AI Slowdown Calls: 'When a Product is Not Safe...'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61862259/nvidia-ceo-jensen-huang-expects-chip-sales-to-double-next-year-as-he-downplays-ai-slowdown-calls-when-a-product-is-not-safe",
+      "published_at": "2026-09-18T09:36:41+00:00"
+    },
+    {
+      "headline": "Anthropic Says Claude Now Leads 26% of Its AI R&D, Up From Just 1% in March",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61861775/anthropic-says-claude-now-leads-26-of-its-ai-rd-up-from-just-1-in-march",
+      "published_at": "2026-09-18T08:53:25+00:00"
+    },
+    {
+      "headline": "Senator Elissa Slotkin Sounds Alarm Over Possible Trump-BYD Meeting: ‘Watch What the President Does, Not What He Says’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/09/61861660/elissa-slotkin-warns-a-trump-byd-meeting-could-cost-michigans-auto-industry-its-jobs",
+      "published_at": "2026-09-18T08:41:51+00:00"
+    },
+    {
+      "headline": "Ten-Year Treasury Yield Hits 5%: Why QQQ Could Face More Pressure Than Value ETFs",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61857522/treasury-yield-5-percent-qqq-versus-value-etfs",
+      "published_at": "2026-09-17T20:51:04+00:00"
+    },
+    {
+      "headline": "Why Is IonQ Stock Surging Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61853199/why-is-ionq-stock-surging-thursday",
+      "published_at": "2026-09-17T18:11:42+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/09/61852090/10-information-technology-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-09-17T17:35:23+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
