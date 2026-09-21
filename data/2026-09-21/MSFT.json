@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-09-21T12:22:56.431495+00:00",
+  "price": 495.66,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-07",
+      "open": 499.98,
+      "high": 505.1,
+      "low": 498.75,
+      "close": 499.875,
+      "volume": 888433.0
+    },
+    {
+      "date": "2026-08-10",
+      "open": 503.675,
+      "high": 513.72,
+      "low": 502.78,
+      "close": 506.15,
+      "volume": 773280.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 504.205,
+      "high": 505.08,
+      "low": 499.77,
+      "close": 503.77,
+      "volume": 557361.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 500.25,
+      "high": 501.34,
+      "low": 491.55,
+      "close": 492.45,
+      "volume": 801168.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 493.585,
+      "high": 501.3,
+      "low": 493.03,
+      "close": 496.81,
+      "volume": 732670.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 496.435,
+      "high": 499.995,
+      "low": 493.92,
+      "close": 495.35,
+      "volume": 491366.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 490.14,
+      "high": 492.59,
+      "low": 478.45,
+      "close": 480.65,
+      "volume": 784812.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 481.55,
+      "high": 484.07,
+      "low": 477.265,
+      "close": 481.82,
+      "volume": 800514.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 479.82,
+      "high": 489.155,
+      "low": 479.72,
+      "close": 484.42,
+      "volume": 544751.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 482.4,
+      "high": 484.105,
+      "low": 479.525,
+      "close": 481.205,
+      "volume": 401570.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 480.585,
+      "high": 486.33,
+      "low": 478.91,
+      "close": 483.33,
+      "volume": 437111.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 483.23,
+      "high": 490.56,
+      "low": 481.9,
+      "close": 487.32,
+      "volume": 420632.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 485.565,
+      "high": 492.37,
+      "low": 484.425,
+      "close": 491.55,
+      "volume": 400583.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 487.855,
+      "high": 497.4,
+      "low": 487.55,
+      "close": 496.36,
+      "volume": 443202.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 494.7,
+      "high": 506.41,
+      "low": 490.13,
+      "close": 504.98,
+      "volume": 947015.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 505.33,
+      "high": 517.755,
+      "low": 504.975,
+      "close": 513.67,
+      "volume": 1011599.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 510.32,
+      "high": 512.18,
+      "low": 506.4,
+      "close": 506.95,
+      "volume": 538872.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 497.845,
+      "high": 505.91,
+      "low": 497.11,
+      "close": 501.19,
+      "volume": 482981.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 499.78,
+      "high": 500.24,
+      "low": 493.83,
+      "close": 496.74,
+      "volume": 369238.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 501.4,
+      "high": 515.55,
+      "low": 501.4,
+      "close": 510.15,
+      "volume": 850782.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 510.1,
+      "high": 510.82,
+      "low": 499.38,
+      "close": 499.545,
+      "volume": 542979.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 493.2,
+      "high": 495.05,
+      "low": 490.16,
+      "close": 493.92,
+      "volume": 478010.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 492.56,
+      "high": 494.22,
+      "low": 489.8,
+      "close": 491.65,
+      "volume": 327829.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 488.34,
+      "high": 494.46,
+      "low": 486.25,
+      "close": 492.49,
+      "volume": 358672.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 495.67,
+      "high": 498.825,
+      "low": 492.665,
+      "close": 495.58,
+      "volume": 368151.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 497.52,
+      "high": 509.92,
+      "low": 495.45,
+      "close": 505.72,
+      "volume": 830370.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 500.06,
+      "high": 505.78,
+      "low": 495.555,
+      "close": 497.105,
+      "volume": 729264.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 493.35,
+      "high": 495.815,
+      "low": 487.26,
+      "close": 490.45,
+      "volume": 636769.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 496.835,
+      "high": 501.4,
+      "low": 493.275,
+      "close": 497.67,
+      "volume": 534473.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 497.635,
+      "high": 498.14,
+      "low": 491.13,
+      "close": 493.1,
+      "volume": 659838.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "AI Investment Boom Is 'Massive' — Top Economist Says US Spending Is Moving Away From Homes and Toward Data Centers",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/real-estate/26/09/61889508/ai-investment-boom-is-massive-top-economist-says-us-spending-is-moving-away-from-homes-and-toward-data-centers",
+      "published_at": "2026-09-21T10:17:14+00:00"
+    },
+    {
+      "headline": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Trump Issues Fresh Warning to Iran — MRVL, AAPL, ACN in Focus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61889124/stock-market-today-sp-500-nasdaq-100-futures-gain-as-trump-issues-fresh-warning-to-iran-mrvl-aapl-acn-in-focus",
+      "published_at": "2026-09-21T10:02:50+00:00"
+    },
+    {
+      "headline": "Inquiry Into Microsoft's Competitor Dynamics In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61888978/inquiry-microsoft-s-competitor-dynamics-software-industry",
+      "published_at": "2026-09-21T09:58:30+00:00"
+    },
+    {
+      "headline": "Nvidia Stock Keeps Failing to Retest Its Record High as Headwinds Rise",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61885915/nvidia-stock-keeps-failing-to-retest-its-record-high-as-headwinds-rise",
+      "published_at": "2026-09-20T20:45:54+00:00"
+    },
+    {
+      "headline": "Nvidia-backed Nscale Wants to Ride the AI Infrastructure Boom to Wall Street: Files for NYSE IPO",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61884130/nscale-ipo-nyse-nscl-nvidia-microsoft",
+      "published_at": "2026-09-19T09:12:26+00:00"
+    },
+    {
+      "headline": "Brad Gerstner Says AI Labs Need $180B Revenue Run Rate to Keep Nvidia Trade Alive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61878548/ai-labs-180-billion-revenue-gerstner",
+      "published_at": "2026-09-18T18:42:49+00:00"
+    },
+    {
+      "headline": "S&P Growth Is a Feature, Not a Bug, Goldman Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61878323/goldman-sachs-profits-bubble-cyclical-peak",
+      "published_at": "2026-09-18T18:35:45+00:00"
+    },
+    {
+      "headline": "Japan Outpaces S&P 500 By 81%—Yen Drops After BOJ Hike, Raising Spillover Risks For The US",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/61877591/japan-outpaces-sp500-by-81-percent-yen-drops-after-boj-hike-raising-spillover-risks-for-us",
+      "published_at": "2026-09-18T18:03:28+00:00"
+    },
+    {
+      "headline": "Bitcoin Tops $80,000, S&P 500 Slips as Yields Reclaim 5%: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61875543/bitcoin-tops-80000-crypto-stocks-soar-yields-reclaim-5-percent-markets-friday",
+      "published_at": "2026-09-18T16:55:21+00:00"
+    },
+    {
+      "headline": "This Crude Refiner Has Beaten Every Magnificent Seven Stock in the Last 2 Years",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61872584/this-crude-refiner-has-beaten-every-magnificent-seven-stock-in-the-last-2-years",
+      "published_at": "2026-09-18T15:20:23+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for MSFT"
+  ]
+}
