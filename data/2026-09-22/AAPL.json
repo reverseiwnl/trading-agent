@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-09-22T12:19:51.027581+00:00",
+  "price": 340.06,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-10",
+      "open": 306.74,
+      "high": 308.21,
+      "low": 304.64,
+      "close": 308.17,
+      "volume": 1579366.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 307.665,
+      "high": 309.91,
+      "low": 302.86,
+      "close": 304.885,
+      "volume": 1321762.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 305.075,
+      "high": 305.61,
+      "low": 300.585,
+      "close": 302.2,
+      "volume": 1799379.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 304.205,
+      "high": 306.0,
+      "low": 302.06,
+      "close": 305.305,
+      "volume": 1348081.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 305.94,
+      "high": 307.47,
+      "low": 304.33,
+      "close": 305.94,
+      "volume": 813147.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 306.21,
+      "high": 307.545,
+      "low": 302.94,
+      "close": 305.655,
+      "volume": 1160745.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 307.85,
+      "high": 311.48,
+      "low": 305.74,
+      "close": 310.16,
+      "volume": 1535987.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 310.145,
+      "high": 319.26,
+      "low": 309.73,
+      "close": 316.9,
+      "volume": 1649295.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 317.455,
+      "high": 320.28,
+      "low": 310.66,
+      "close": 311.29,
+      "volume": 1163420.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 311.425,
+      "high": 312.3,
+      "low": 307.045,
+      "close": 309.27,
+      "volume": 1017701.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 311.47,
+      "high": 313.34,
+      "low": 310.05,
+      "close": 310.385,
+      "volume": 725005.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 310.935,
+      "high": 313.55,
+      "low": 308.21,
+      "close": 309.895,
+      "volume": 753048.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 310.38,
+      "high": 315.43,
+      "low": 308.84,
+      "close": 313.475,
+      "volume": 1025352.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 310.425,
+      "high": 315.38,
+      "low": 309.42,
+      "close": 314.54,
+      "volume": 1062638.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 316.865,
+      "high": 322.36,
+      "low": 315.515,
+      "close": 319.58,
+      "volume": 1076745.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 319.68,
+      "high": 321.215,
+      "low": 312.94,
+      "close": 317.14,
+      "volume": 994365.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 316.97,
+      "high": 327.3,
+      "low": 314.73,
+      "close": 325.25,
+      "volume": 1709875.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 327.01,
+      "high": 328.36,
+      "low": 323.57,
+      "close": 325.03,
+      "volume": 1152718.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 324.91,
+      "high": 330.79,
+      "low": 324.155,
+      "close": 328.22,
+      "volume": 1042722.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 328.39,
+      "high": 328.895,
+      "low": 317.86,
+      "close": 319.95,
+      "volume": 1224559.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 317.24,
+      "high": 320.7,
+      "low": 314.9,
+      "close": 316.26,
+      "volume": 1126523.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 315.59,
+      "high": 319.12,
+      "low": 309.92,
+      "close": 315.42,
+      "volume": 2458568.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 316.76,
+      "high": 326.66,
+      "low": 316.635,
+      "close": 326.615,
+      "volume": 2202355.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 327.45,
+      "high": 336.21,
+      "low": 326.57,
+      "close": 332.245,
+      "volume": 1563982.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 334.7,
+      "high": 335.5,
+      "low": 331.35,
+      "close": 333.0,
+      "volume": 1335636.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 330.445,
+      "high": 331.78,
+      "low": 328.41,
+      "close": 331.335,
+      "volume": 930184.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 332.44,
+      "high": 335.47,
+      "low": 330.71,
+      "close": 332.49,
+      "volume": 903206.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 334.805,
+      "high": 338.31,
+      "low": 330.23,
+      "close": 337.09,
+      "volume": 894177.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 337.96,
+      "high": 338.41,
+      "low": 332.545,
+      "close": 335.73,
+      "volume": 1141511.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 335.49,
+      "high": 339.62,
+      "low": 333.12,
+      "close": 339.0,
+      "volume": 929958.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Performance Comparison: Apple And Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61913455/performance-comparison-apple-and-competitors-technology-hardware-storage-amp-peripherals-industry",
+      "published_at": "2026-09-22T09:58:31+00:00"
+    },
+    {
+      "headline": "Amazon Blocks Meta’s Muse AI Shopping Assistant, Raising Stakes in Battle Over the Future of E-Commerce: ‘Bigger Battle Than Anyone Anticipates’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61913428/amazon-blocks-metas-muse-ai-shopping-assistant-raising-stakes-in-battle-over-the-future-of-e-commerce-bigger-battle-than-anyone-anticipates",
+      "published_at": "2026-09-22T09:53:44+00:00"
+    },
+    {
+      "headline": "Nvidia, Apple Drive Demand for Coinbase-Issued Tokenized Stocks— Brian Armstrong Notes 'Good Traction So Far'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61912006/nvidia-apple-drive-demand-coinbase-tokenized-stocks-armstrong",
+      "published_at": "2026-09-22T05:53:16+00:00"
+    },
+    {
+      "headline": "Apple Should Acquire Disney, Robinhood, Uber or these Companies, All-In Podcast Host Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61909226/apple-should-acquire-disney-robinhood-uber-or-these-companies-all-in-podcast-host-says",
+      "published_at": "2026-09-21T20:37:14+00:00"
+    },
+    {
+      "headline": "Stocks Jump On Iran, China, and Bitcoin Hopium—But The Big Conflicts Have Not Gone Away",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/61906130/stocks-jump-on-iran-china-and-bitcoin-hopium-but-the-big-conflicts-have-not-gone-away",
+      "published_at": "2026-09-21T18:42:13+00:00"
+    },
+    {
+      "headline": "Apple iPhone 18 Estimates Are 'Too Conservative', Gene Munster Says Duo to Account for 8% of Units",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61899869/apple-iphone-18-estimates-are-too-conservative-gene-munster-says-duo-to-account-for-8-of-units",
+      "published_at": "2026-09-21T15:24:51+00:00"
+    },
+    {
+      "headline": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Gain as Trump Issues Fresh Warning to Iran — MRVL, AAPL, ACN in Focus (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61889124/stock-market-today-sp-500-nasdaq-100-futures-gain-as-trump-issues-fresh-warning-to-iran-mrvl-aapl-acn-in-focus",
+      "published_at": "2026-09-21T10:02:21+00:00"
+    },
+    {
+      "headline": "This Analyst Loves Apple’s Duo, but Says the Stock Is ‘Relatively Rich’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61888941/this-analyst-loves-apples-duo-but-says-the-stock-is-relatively-rich",
+      "published_at": "2026-09-21T09:55:43+00:00"
+    },
+    {
+      "headline": "Understanding Apple's Position In Technology Hardware, Storage &amp; Peripherals Industry Compared To Competitors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61888977/understanding-apple-s-position-technology-hardware-storage-amp-peripherals-industry-compared-competi",
+      "published_at": "2026-09-21T09:58:27+00:00"
+    },
+    {
+      "headline": "iPhone 18 Pro Hits Stores, Samsung Retakes Smartphone Throne and More: This Week in Appleverse",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61885260/apple-aapl-weekly-recap-iphone-18-pro-nvidia-ai-server-musk-lawsuit",
+      "published_at": "2026-09-20T11:00:21+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for AAPL"
+  ]
+}

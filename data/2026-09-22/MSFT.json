@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-09-22T12:20:02.644960+00:00",
+  "price": 501.64,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-10",
+      "open": 503.675,
+      "high": 513.72,
+      "low": 502.78,
+      "close": 506.15,
+      "volume": 773280.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 504.205,
+      "high": 505.08,
+      "low": 499.77,
+      "close": 503.77,
+      "volume": 557361.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 500.25,
+      "high": 501.34,
+      "low": 491.55,
+      "close": 492.45,
+      "volume": 801168.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 493.585,
+      "high": 501.3,
+      "low": 493.03,
+      "close": 496.81,
+      "volume": 732670.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 496.435,
+      "high": 499.995,
+      "low": 493.92,
+      "close": 495.35,
+      "volume": 491366.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 490.14,
+      "high": 492.59,
+      "low": 478.45,
+      "close": 480.65,
+      "volume": 784812.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 481.55,
+      "high": 484.07,
+      "low": 477.265,
+      "close": 481.82,
+      "volume": 800514.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 479.82,
+      "high": 489.155,
+      "low": 479.72,
+      "close": 484.42,
+      "volume": 544751.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 482.4,
+      "high": 484.105,
+      "low": 479.525,
+      "close": 481.205,
+      "volume": 401570.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 480.585,
+      "high": 486.33,
+      "low": 478.91,
+      "close": 483.33,
+      "volume": 437111.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 483.23,
+      "high": 490.56,
+      "low": 481.9,
+      "close": 487.32,
+      "volume": 420632.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 485.565,
+      "high": 492.37,
+      "low": 484.425,
+      "close": 491.55,
+      "volume": 400583.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 487.855,
+      "high": 497.4,
+      "low": 487.55,
+      "close": 496.36,
+      "volume": 443202.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 494.7,
+      "high": 506.41,
+      "low": 490.13,
+      "close": 504.98,
+      "volume": 947015.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 505.33,
+      "high": 517.755,
+      "low": 504.975,
+      "close": 513.67,
+      "volume": 1011599.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 510.32,
+      "high": 512.18,
+      "low": 506.4,
+      "close": 506.95,
+      "volume": 538872.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 497.845,
+      "high": 505.91,
+      "low": 497.11,
+      "close": 501.19,
+      "volume": 482981.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 499.78,
+      "high": 500.24,
+      "low": 493.83,
+      "close": 496.74,
+      "volume": 369238.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 501.4,
+      "high": 515.55,
+      "low": 501.4,
+      "close": 510.15,
+      "volume": 850782.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 510.1,
+      "high": 510.82,
+      "low": 499.38,
+      "close": 499.545,
+      "volume": 542979.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 493.2,
+      "high": 495.05,
+      "low": 490.16,
+      "close": 493.92,
+      "volume": 478010.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 492.56,
+      "high": 494.22,
+      "low": 489.8,
+      "close": 491.65,
+      "volume": 327829.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 488.34,
+      "high": 494.46,
+      "low": 486.25,
+      "close": 492.49,
+      "volume": 358672.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 495.67,
+      "high": 498.825,
+      "low": 492.665,
+      "close": 495.58,
+      "volume": 368151.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 497.52,
+      "high": 509.92,
+      "low": 495.45,
+      "close": 505.72,
+      "volume": 830370.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 500.06,
+      "high": 505.78,
+      "low": 495.555,
+      "close": 497.105,
+      "volume": 729264.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 493.35,
+      "high": 495.815,
+      "low": 487.26,
+      "close": 490.45,
+      "volume": 636769.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 496.835,
+      "high": 501.4,
+      "low": 493.275,
+      "close": 497.67,
+      "volume": 534473.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 497.635,
+      "high": 498.14,
+      "low": 491.13,
+      "close": 493.1,
+      "volume": 659838.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 495.56,
+      "high": 501.71,
+      "low": 491.35,
+      "close": 501.64,
+      "volume": 798550.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Big Tech’s AI Debt Spree Hits a Wall as Bond Investors Demand Higher Yields From Alphabet, Meta and Nvidia",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/bonds/26/09/61914657/big-techs-ai-debt-spree-hits-a-wall-as-bond-investors-demand-higher-yields-from-alphabet-meta-and-nvidia",
+      "published_at": "2026-09-22T10:59:09+00:00"
+    },
+    {
+      "headline": "Economist Justin Wolfers Warns AI Could Leave Workers Earning ‘Two Pennies an Hour’ While OpenAI Gets ‘Infinitely Rich’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/economic-data/26/09/61914217/justin-wolfers-warns-ai-could-leave-us-in-lives-of-grinding-misery-while-openai-gets-infinitely-rich",
+      "published_at": "2026-09-22T10:31:15+00:00"
+    },
+    {
+      "headline": "Exploring The Competitive Space: Microsoft Versus Industry Peers In Software",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61913456/exploring-competitive-space-microsoft-versus-industry-peers-software",
+      "published_at": "2026-09-22T09:58:34+00:00"
+    },
+    {
+      "headline": "Google Partners With Southern Co's Georgia Power for AI Data Centers, Deal Projected to Deliver $900 Million in Customer Benefits",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61911620/google-georgia-power-nuclear-energy-ai-data-centers",
+      "published_at": "2026-09-22T03:12:36+00:00"
+    },
+    {
+      "headline": "Stocks Jump On Iran, China, and Bitcoin Hopium—But The Big Conflicts Have Not Gone Away",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/61906130/stocks-jump-on-iran-china-and-bitcoin-hopium-but-the-big-conflicts-have-not-gone-away",
+      "published_at": "2026-09-21T18:42:13+00:00"
+    },
+    {
+      "headline": "Microsoft’s Azure Has Another Growth Lever Waiting in the Wings, Analyst Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/09/61904100/microsofts-azure-has-another-growth-lever-waiting-in-the-wings-analyst-says",
+      "published_at": "2026-09-21T17:33:27+00:00"
+    },
+    {
+      "headline": "This Analyst Raises Price Targets For Microsoft And This AI Infrastructure Stock",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/09/61901669/this-analyst-raises-price-targets-for-microsoft-and-this-ai-infrastructure-stock",
+      "published_at": "2026-09-21T16:19:52+00:00"
+    },
+    {
+      "headline": "$6.51 Diesel Should Be Crushing the Economy: Here’s Why It Has Rarely Grown Faster",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/macro-economic-events/26/09/61900672/6-51-diesel-should-be-crushing-the-economy-heres-why-it-has-rarely-grown-faster",
+      "published_at": "2026-09-21T15:49:01+00:00"
+    },
+    {
+      "headline": "Why Is Nokia Stock Surging Monday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61896484/why-is-nokia-stock-surging-monday",
+      "published_at": "2026-09-21T14:01:34+00:00"
+    },
+    {
+      "headline": "Microsoft To Rally Over 23%? Here Are 10 Top Analyst Forecasts For Monday",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61893682/microsoft-to-rally-over-23-here-are-10-top-analyst-forecasts-for-monday",
+      "published_at": "2026-09-21T13:03:59+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for MSFT"
+  ]
+}

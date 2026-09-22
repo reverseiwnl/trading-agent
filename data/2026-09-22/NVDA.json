@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-09-22T12:20:06.350429+00:00",
+  "price": 226.69,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-10",
+      "open": 223.39,
+      "high": 224.08,
+      "low": 216.78,
+      "close": 217.49,
+      "volume": 4587296.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 222.09,
+      "high": 222.09,
+      "low": 216.33,
+      "close": 217.45,
+      "volume": 4097014.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 221.01,
+      "high": 225.1,
+      "low": 220.295,
+      "close": 224.11,
+      "volume": 3733189.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 225.07,
+      "high": 227.2,
+      "low": 223.72,
+      "close": 225.36,
+      "volume": 3940869.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 226.87,
+      "high": 227.47,
+      "low": 224.5,
+      "close": 225.16,
+      "volume": 2326258.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 225.99,
+      "high": 227.9,
+      "low": 224.86,
+      "close": 225.1,
+      "volume": 2750917.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 220.31,
+      "high": 221.62,
+      "low": 218.705,
+      "close": 219.73,
+      "volume": 4218191.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 221.745,
+      "high": 222.87,
+      "low": 216.79,
+      "close": 217.58,
+      "volume": 2792416.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 218.58,
+      "high": 219.84,
+      "low": 215.665,
+      "close": 216.89,
+      "volume": 3014027.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 218.42,
+      "high": 218.73,
+      "low": 214.52,
+      "close": 214.74,
+      "volume": 3206855.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 215.445,
+      "high": 215.445,
+      "low": 207.4,
+      "close": 208.47,
+      "volume": 3334636.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 211.0,
+      "high": 214.67,
+      "low": 210.11,
+      "close": 212.96,
+      "volume": 3190154.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 212.44,
+      "high": 213.6,
+      "low": 209.25,
+      "close": 209.77,
+      "volume": 3944735.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 222.74,
+      "high": 230.47,
+      "low": 220.96,
+      "close": 228.17,
+      "volume": 7478380.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 227.28,
+      "high": 229.25,
+      "low": 216.82,
+      "close": 217.545,
+      "volume": 5357434.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 218.73,
+      "high": 221.28,
+      "low": 216.23,
+      "close": 220.86,
+      "volume": 3278990.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 216.73,
+      "high": 220.395,
+      "low": 215.12,
+      "close": 217.49,
+      "volume": 3131622.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 218.785,
+      "high": 227.95,
+      "low": 218.53,
+      "close": 224.435,
+      "volume": 4915686.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 225.92,
+      "high": 230.4,
+      "low": 224.765,
+      "close": 228.54,
+      "volume": 3373106.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 231.11,
+      "high": 234.75,
+      "low": 229.635,
+      "close": 230.19,
+      "volume": 3592503.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 233.21,
+      "high": 233.69,
+      "low": 224.86,
+      "close": 225.82,
+      "volume": 3102034.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 225.2,
+      "high": 226.07,
+      "low": 223.46,
+      "close": 223.77,
+      "volume": 2177299.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 220.525,
+      "high": 220.98,
+      "low": 217.21,
+      "close": 218.37,
+      "volume": 2640914.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 221.22,
+      "high": 222.0,
+      "low": 218.17,
+      "close": 218.17,
+      "volume": 1719278.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 211.195,
+      "high": 212.745,
+      "low": 208.94,
+      "close": 211.0,
+      "volume": 2427233.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 213.285,
+      "high": 213.93,
+      "low": 211.16,
+      "close": 212.165,
+      "volume": 1959340.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 214.17,
+      "high": 216.755,
+      "low": 212.5,
+      "close": 213.94,
+      "volume": 2431203.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 218.18,
+      "high": 219.9,
+      "low": 217.145,
+      "close": 219.4,
+      "volume": 2712846.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 219.065,
+      "high": 222.69,
+      "low": 218.04,
+      "close": 222.04,
+      "volume": 2828110.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 222.93,
+      "high": 228.49,
+      "low": 221.58,
+      "close": 227.3,
+      "volume": 3200199.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Big Tech’s AI Debt Spree Hits a Wall as Bond Investors Demand Higher Yields From Alphabet, Meta and Nvidia",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/bonds/26/09/61914657/big-techs-ai-debt-spree-hits-a-wall-as-bond-investors-demand-higher-yields-from-alphabet-meta-and-nvidia",
+      "published_at": "2026-09-22T10:59:09+00:00"
+    },
+    {
+      "headline": "Comparative Study: NVIDIA And Industry Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61913454/comparative-study-nvidia-and-industry-competitors-semiconductors-amp-semiconductor-equipment-industr",
+      "published_at": "2026-09-22T09:58:27+00:00"
+    },
+    {
+      "headline": "Alibaba Just Supercharged its AI Ambitions: New Zhenwu V900 AI Chip Promises 3X Performance, Targets 20GW Data Center Expansion by 2032",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61912697/alibaba-just-supercharged-its-ai-ambitions-new-zhenwu-v900-ai-chip-promises-3x-performance-targets-20gw-data-center-expansion-by-2032",
+      "published_at": "2026-09-22T08:04:24+00:00"
+    },
+    {
+      "headline": "Nvidia, Apple Drive Demand for Coinbase-Issued Tokenized Stocks— Brian Armstrong Notes 'Good Traction So Far'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61912006/nvidia-apple-drive-demand-coinbase-tokenized-stocks-armstrong",
+      "published_at": "2026-09-22T05:53:16+00:00"
+    },
+    {
+      "headline": "Nvidia-Backed AI Drug Discovery Company Iambic Therapeutics Files for Nasdaq IPO, to Use Proceeds for Cancer Drug Development",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/ipos/26/09/61911445/nvidia-backed-ai-drug-discovery-startup-iambic-therapeutics-files-for-ipo",
+      "published_at": "2026-09-22T02:00:43+00:00"
+    },
+    {
+      "headline": "Apple Should Acquire Disney, Robinhood, Uber or these Companies, All-In Podcast Host Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61909226/apple-should-acquire-disney-robinhood-uber-or-these-companies-all-in-podcast-host-says",
+      "published_at": "2026-09-21T20:37:14+00:00"
+    },
+    {
+      "headline": "Stocks Jump On Iran, China, and Bitcoin Hopium—But The Big Conflicts Have Not Gone Away",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/61906130/stocks-jump-on-iran-china-and-bitcoin-hopium-but-the-big-conflicts-have-not-gone-away",
+      "published_at": "2026-09-21T18:42:13+00:00"
+    },
+    {
+      "headline": "Morgan Stanley Says AI Adoption Has Barely Started: 'We're at the National Anthem'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61905909/morgan-stanley-ai-adoption-national-anthem",
+      "published_at": "2026-09-21T18:33:33+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/09/61904158/10-information-technology-stocks-whale-activity-today-s-session",
+      "published_at": "2026-09-21T17:35:17+00:00"
+    },
+    {
+      "headline": "Einride Taps NVIDIA to Put More Self-Driving Trucks on the Highway",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61898194/einride-taps-nvidia-to-put-more-self-driving-trucks-on-the-highway",
+      "published_at": "2026-09-21T14:35:40+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for NVDA"
+  ]
+}

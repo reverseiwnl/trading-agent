@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-09-22T12:19:55.367033+00:00",
+  "price": 356.2,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-10",
+      "open": 355.23,
+      "high": 357.55,
+      "low": 352.74,
+      "close": 357.545,
+      "volume": 419463.0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 355.735,
+      "high": 356.76,
+      "low": 343.39,
+      "close": 343.765,
+      "volume": 1237953.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 346.335,
+      "high": 346.36,
+      "low": 340.905,
+      "close": 343.565,
+      "volume": 815212.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 345.77,
+      "high": 347.85,
+      "low": 343.84,
+      "close": 346.35,
+      "volume": 663018.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 346.71,
+      "high": 350.405,
+      "low": 344.51,
+      "close": 345.86,
+      "volume": 472894.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 346.265,
+      "high": 347.22,
+      "low": 341.945,
+      "close": 344.1,
+      "volume": 584704.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 342.405,
+      "high": 344.78,
+      "low": 340.21,
+      "close": 344.03,
+      "volume": 901431.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 342.5,
+      "high": 346.72,
+      "low": 340.78,
+      "close": 344.795,
+      "volume": 684392.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 342.795,
+      "high": 343.83,
+      "low": 338.57,
+      "close": 340.59,
+      "volume": 591452.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 342.355,
+      "high": 346.175,
+      "low": 340.42,
+      "close": 344.75,
+      "volume": 616795.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 343.62,
+      "high": 351.59,
+      "low": 342.49,
+      "close": 348.09,
+      "volume": 861403.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 349.375,
+      "high": 350.09,
+      "low": 345.61,
+      "close": 346.945,
+      "volume": 692301.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 346.61,
+      "high": 346.745,
+      "low": 340.205,
+      "close": 342.06,
+      "volume": 568863.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 339.68,
+      "high": 341.69,
+      "low": 338.54,
+      "close": 340.59,
+      "volume": 767720.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.845,
+      "high": 349.09,
+      "low": 340.77,
+      "close": 346.61,
+      "volume": 929692.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 344.04,
+      "high": 344.24,
+      "low": 337.165,
+      "close": 339.17,
+      "volume": 613493.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 335.855,
+      "high": 337.175,
+      "low": 333.11,
+      "close": 334.995,
+      "volume": 653878.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 333.725,
+      "high": 339.73,
+      "low": 332.97,
+      "close": 337.12,
+      "volume": 619670.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.605,
+      "high": 343.505,
+      "low": 337.1,
+      "close": 338.34,
+      "volume": 586852.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 335.44,
+      "high": 339.64,
+      "low": 333.235,
+      "close": 338.39,
+      "volume": 752823.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.53,
+      "high": 331.685,
+      "low": 327.92,
+      "close": 330.655,
+      "volume": 1192931.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.165,
+      "high": 333.21,
+      "low": 327.79,
+      "close": 332.67,
+      "volume": 475560.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 335.05,
+      "high": 342.91,
+      "low": 335.05,
+      "close": 338.44,
+      "volume": 586340.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 342.995,
+      "high": 349.9,
+      "low": 342.35,
+      "close": 349.445,
+      "volume": 1245888.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 346.86,
+      "high": 348.03,
+      "low": 342.71,
+      "close": 344.98,
+      "volume": 551631.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 346.99,
+      "high": 348.39,
+      "low": 340.69,
+      "close": 342.94,
+      "volume": 588712.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.63,
+      "high": 349.45,
+      "low": 343.92,
+      "close": 347.41,
+      "volume": 642188.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "If There’s a Problem With Google Search, There’s a Problem With Google Stock: Analyst",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61915624/if-theres-a-problem-with-google-search-theres-a-problem-with-google-stock-analyst",
+      "published_at": "2026-09-22T11:35:15+00:00"
+    },
+    {
+      "headline": "Big Tech’s AI Debt Spree Hits a Wall as Bond Investors Demand Higher Yields From Alphabet, Meta and Nvidia",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/bonds/26/09/61914657/big-techs-ai-debt-spree-hits-a-wall-as-bond-investors-demand-higher-yields-from-alphabet-meta-and-nvidia",
+      "published_at": "2026-09-22T10:59:09+00:00"
+    },
+    {
+      "headline": "Economist Justin Wolfers Warns AI Could Leave Workers Earning ‘Two Pennies an Hour’ While OpenAI Gets ‘Infinitely Rich’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/economic-data/26/09/61914217/justin-wolfers-warns-ai-could-leave-us-in-lives-of-grinding-misery-while-openai-gets-infinitely-rich",
+      "published_at": "2026-09-22T10:31:15+00:00"
+    },
+    {
+      "headline": "Amazon Blocks Meta’s Muse AI Shopping Assistant, Raising Stakes in Battle Over the Future of E-Commerce: ‘Bigger Battle Than Anyone Anticipates’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61913428/amazon-blocks-metas-muse-ai-shopping-assistant-raising-stakes-in-battle-over-the-future-of-e-commerce-bigger-battle-than-anyone-anticipates",
+      "published_at": "2026-09-22T09:53:44+00:00"
+    },
+    {
+      "headline": "Jamie Dimon Says AI Spending Could Hit $1 Trillion in 2027 But JPMorgan CEO Warns it Could Add 'Little Bit' to Inflation: 'That’s Like 1% Increase to GDP...'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61913386/jamie-dimon-says-ai-spending-could-hit-1-trillion-in-2027-but-jpmorgan-ceo-warns-it-could-add-little-bit-to-inflation-thats-like-1-increase-to-gdp",
+      "published_at": "2026-09-22T09:44:28+00:00"
+    },
+    {
+      "headline": "QCOM Stock in Focus Today: What Investors Need to Know About GOOGL Partnership",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61912812/qualcomm-shares-rise-after-hours-google-partnership",
+      "published_at": "2026-09-22T08:35:32+00:00"
+    },
+    {
+      "headline": "Bernie Sanders Says AI Could Soon Surpass Human Intelligence: Trump And Xi Must Strike Treaty 'Before It’s Too Late'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61912528/bernie-sanders-ai-surpass-human-intelligence-trump-xi-treaty",
+      "published_at": "2026-09-22T07:22:53+00:00"
+    },
+    {
+      "headline": "Trump TV Launched on YouTube by White House Amid Growing Dispute with CNN, MS NOW and Others: 'It's Live'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61911675/trump-tv-youtube-white-house-cnn-ms-now-dispute",
+      "published_at": "2026-09-22T03:38:11+00:00"
+    },
+    {
+      "headline": "Google Partners With Southern Co's Georgia Power for AI Data Centers, Deal Projected to Deliver $900 Million in Customer Benefits",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61911620/google-georgia-power-nuclear-energy-ai-data-centers",
+      "published_at": "2026-09-22T03:12:36+00:00"
+    },
+    {
+      "headline": "$6.51 Diesel Should Be Crushing the Economy: Here’s Why It Has Rarely Grown Faster",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/macro-economic-events/26/09/61900672/6-51-diesel-should-be-crushing-the-economy-heres-why-it-has-rarely-grown-faster",
+      "published_at": "2026-09-21T15:49:01+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for GOOGL"
+  ]
+}
