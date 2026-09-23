@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-09-23T12:23:25.014373+00:00",
+  "price": 498.0,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-11",
+      "open": 504.205,
+      "high": 505.08,
+      "low": 499.77,
+      "close": 503.77,
+      "volume": 557361.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 500.25,
+      "high": 501.34,
+      "low": 491.55,
+      "close": 492.45,
+      "volume": 801168.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 493.585,
+      "high": 501.3,
+      "low": 493.03,
+      "close": 496.81,
+      "volume": 732670.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 496.435,
+      "high": 499.995,
+      "low": 493.92,
+      "close": 495.35,
+      "volume": 491366.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 490.14,
+      "high": 492.59,
+      "low": 478.45,
+      "close": 480.65,
+      "volume": 784812.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 481.55,
+      "high": 484.07,
+      "low": 477.265,
+      "close": 481.82,
+      "volume": 800514.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 479.82,
+      "high": 489.155,
+      "low": 479.72,
+      "close": 484.42,
+      "volume": 544751.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 482.4,
+      "high": 484.105,
+      "low": 479.525,
+      "close": 481.205,
+      "volume": 401570.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 480.585,
+      "high": 486.33,
+      "low": 478.91,
+      "close": 483.33,
+      "volume": 437111.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 483.23,
+      "high": 490.56,
+      "low": 481.9,
+      "close": 487.32,
+      "volume": 420632.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 485.565,
+      "high": 492.37,
+      "low": 484.425,
+      "close": 491.55,
+      "volume": 400583.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 487.855,
+      "high": 497.4,
+      "low": 487.55,
+      "close": 496.36,
+      "volume": 443202.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 494.7,
+      "high": 506.41,
+      "low": 490.13,
+      "close": 504.98,
+      "volume": 947015.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 505.33,
+      "high": 517.755,
+      "low": 504.975,
+      "close": 513.67,
+      "volume": 1011599.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 510.32,
+      "high": 512.18,
+      "low": 506.4,
+      "close": 506.95,
+      "volume": 538872.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 497.845,
+      "high": 505.91,
+      "low": 497.11,
+      "close": 501.19,
+      "volume": 482981.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 499.78,
+      "high": 500.24,
+      "low": 493.83,
+      "close": 496.74,
+      "volume": 369238.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 501.4,
+      "high": 515.55,
+      "low": 501.4,
+      "close": 510.15,
+      "volume": 850782.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 510.1,
+      "high": 510.82,
+      "low": 499.38,
+      "close": 499.545,
+      "volume": 542979.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 493.2,
+      "high": 495.05,
+      "low": 490.16,
+      "close": 493.92,
+      "volume": 478010.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 492.56,
+      "high": 494.22,
+      "low": 489.8,
+      "close": 491.65,
+      "volume": 327829.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 488.34,
+      "high": 494.46,
+      "low": 486.25,
+      "close": 492.49,
+      "volume": 358672.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 495.67,
+      "high": 498.825,
+      "low": 492.665,
+      "close": 495.58,
+      "volume": 368151.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 497.52,
+      "high": 509.92,
+      "low": 495.45,
+      "close": 505.72,
+      "volume": 830370.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 500.06,
+      "high": 505.78,
+      "low": 495.555,
+      "close": 497.105,
+      "volume": 729264.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 493.35,
+      "high": 495.815,
+      "low": 487.26,
+      "close": 490.45,
+      "volume": 636769.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 496.835,
+      "high": 501.4,
+      "low": 493.275,
+      "close": 497.67,
+      "volume": 534473.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 497.635,
+      "high": 498.14,
+      "low": 491.13,
+      "close": 493.1,
+      "volume": 659838.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 495.56,
+      "high": 501.71,
+      "low": 491.35,
+      "close": 501.64,
+      "volume": 798550.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 507.125,
+      "high": 508.0,
+      "low": 493.705,
+      "close": 498.0,
+      "volume": 598345.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Chuck Schumer Says Senate Heard ‘Nothing But Crickets’ on AI Risk Briefing Request: ‘Maybe Trump’s Not Worried Because…’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/09/61940730/chuck-schumer-says-senate-heard-nothing-but-crickets-on-ai-risk-briefing-request-maybe-trumps-not-worried-because",
+      "published_at": "2026-09-23T10:47:13+00:00"
+    },
+    {
+      "headline": "Microsoft Chases Mass Copilot Adoption With Deep Discounts for Large Companies",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61940208/microsoft-chases-mass-copilot-adoption-with-deep-discounts-for-large-companies",
+      "published_at": "2026-09-23T10:15:56+00:00"
+    },
+    {
+      "headline": "Assessing Microsoft's Performance Against Competitors In Software Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61939691/assessing-microsoft-s-performance-against-competitors-software-industry",
+      "published_at": "2026-09-23T09:58:28+00:00"
+    },
+    {
+      "headline": "AI Chip Boom Peaking in 2028? Analyst Says That’s ‘Utterly Wrong’ As Shortage Could Last Until 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61939663/ai-chip-boom-peaking-in-2028-analyst-says-thats-utterly-wrong-as-shortage-could-last-until-2030",
+      "published_at": "2026-09-23T09:53:33+00:00"
+    },
+    {
+      "headline": "AI Trade Is ‘Dead Money’: Fidelity Strategist Warns $3.3 Trillion Buildout Is Inflationary With ‘Unknown Returns’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61939050/ai-is-dead-money-right-now-jurrien-timmer-says-could-a-productivity-miracle-still-be-coming",
+      "published_at": "2026-09-23T08:28:40+00:00"
+    },
+    {
+      "headline": "D-Wave, Rigetti and Other Quantum Stocks Are Trending Overnight: Here's Why",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61937890/d-wave-rigetti-quantum-stocks-trending-overnight",
+      "published_at": "2026-09-23T05:54:55+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Nvidia Is a Stock And a Token — When ‘Retail No Longer Distinguishes Between Ticker and Rail’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61931658/nvidia-stock-token-crypto",
+      "published_at": "2026-09-22T18:48:22+00:00"
+    },
+    {
+      "headline": "Commodity ETF Delivers Double Nvidia’s YTD Returns; Muse Ignites CPU Fever",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/61928535/commodity-etf-delivers-double-nvidias-ytd-returns-muse-ignites-cpu-fever",
+      "published_at": "2026-09-22T16:59:30+00:00"
+    },
+    {
+      "headline": "Analyst Sees More Upside for Microsoft Stock Following Management Meeting",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61923311/analyst-sees-more-upside-for-microsoft-stock-following-management-meeting",
+      "published_at": "2026-09-22T14:39:05+00:00"
+    },
+    {
+      "headline": "Dan Ives Says Tech Stocks Are in a '1997 Moment' as Tom Lee Predicts: ‘Probability of a Massive Rally’ Ahead",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61921031/dan-ives-says-tech-stocks-are-in-a-1997-moment-as-tom-lee-predicts-probability-of-a-massive-rally-ahead",
+      "published_at": "2026-09-22T13:55:05+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

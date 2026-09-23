@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-09-23T12:23:21.434286+00:00",
+  "price": 341.0,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-11",
+      "open": 307.665,
+      "high": 309.91,
+      "low": 302.86,
+      "close": 304.885,
+      "volume": 1321762.0
+    },
+    {
+      "date": "2026-08-12",
+      "open": 305.075,
+      "high": 305.61,
+      "low": 300.585,
+      "close": 302.2,
+      "volume": 1799379.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 304.205,
+      "high": 306.0,
+      "low": 302.06,
+      "close": 305.305,
+      "volume": 1348081.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 305.94,
+      "high": 307.47,
+      "low": 304.33,
+      "close": 305.94,
+      "volume": 813147.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 306.21,
+      "high": 307.545,
+      "low": 302.94,
+      "close": 305.655,
+      "volume": 1160745.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 307.85,
+      "high": 311.48,
+      "low": 305.74,
+      "close": 310.16,
+      "volume": 1535987.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 310.145,
+      "high": 319.26,
+      "low": 309.73,
+      "close": 316.9,
+      "volume": 1649295.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 317.455,
+      "high": 320.28,
+      "low": 310.66,
+      "close": 311.29,
+      "volume": 1163420.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 311.425,
+      "high": 312.3,
+      "low": 307.045,
+      "close": 309.27,
+      "volume": 1017701.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 311.47,
+      "high": 313.34,
+      "low": 310.05,
+      "close": 310.385,
+      "volume": 725005.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 310.935,
+      "high": 313.55,
+      "low": 308.21,
+      "close": 309.895,
+      "volume": 753048.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 310.38,
+      "high": 315.43,
+      "low": 308.84,
+      "close": 313.475,
+      "volume": 1025352.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 310.425,
+      "high": 315.38,
+      "low": 309.42,
+      "close": 314.54,
+      "volume": 1062638.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 316.865,
+      "high": 322.36,
+      "low": 315.515,
+      "close": 319.58,
+      "volume": 1076745.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 319.68,
+      "high": 321.215,
+      "low": 312.94,
+      "close": 317.14,
+      "volume": 994365.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 316.97,
+      "high": 327.3,
+      "low": 314.73,
+      "close": 325.25,
+      "volume": 1709875.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 327.01,
+      "high": 328.36,
+      "low": 323.57,
+      "close": 325.03,
+      "volume": 1152718.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 324.91,
+      "high": 330.79,
+      "low": 324.155,
+      "close": 328.22,
+      "volume": 1042722.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 328.39,
+      "high": 328.895,
+      "low": 317.86,
+      "close": 319.95,
+      "volume": 1224559.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 317.24,
+      "high": 320.7,
+      "low": 314.9,
+      "close": 316.26,
+      "volume": 1126523.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 315.59,
+      "high": 319.12,
+      "low": 309.92,
+      "close": 315.42,
+      "volume": 2458568.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 316.76,
+      "high": 326.66,
+      "low": 316.635,
+      "close": 326.615,
+      "volume": 2202355.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 327.45,
+      "high": 336.21,
+      "low": 326.57,
+      "close": 332.245,
+      "volume": 1563982.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 334.7,
+      "high": 335.5,
+      "low": 331.35,
+      "close": 333.0,
+      "volume": 1335636.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 330.445,
+      "high": 331.78,
+      "low": 328.41,
+      "close": 331.335,
+      "volume": 930184.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 332.44,
+      "high": 335.47,
+      "low": 330.71,
+      "close": 332.49,
+      "volume": 903206.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 334.805,
+      "high": 338.31,
+      "low": 330.23,
+      "close": 337.09,
+      "volume": 894177.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 337.96,
+      "high": 338.41,
+      "low": 332.545,
+      "close": 335.73,
+      "volume": 1141511.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 335.49,
+      "high": 339.62,
+      "low": 333.12,
+      "close": 339.0,
+      "volume": 929958.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 340.35,
+      "high": 345.28,
+      "low": 338.84,
+      "close": 339.85,
+      "volume": 986501.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Amazon Turns To Former Employees, Including Those Laid-Off, For AI, Cloud Jobs Amid ‘Boomerang’ Hiring Push: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61942006/amazon-turns-to-former-employees-including-those-laid-off-for-ai-cloud-jobs-amid-boomerang-hiring-push-report",
+      "published_at": "2026-09-23T11:39:46+00:00"
+    },
+    {
+      "headline": "Amazon, Apple, Micron, Check Point Software On CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61941558/apple-micron-check-point-software-cnbc-final-trades",
+      "published_at": "2026-09-23T11:20:16+00:00"
+    },
+    {
+      "headline": "Comparing Apple With Industry Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61939688/comparing-apple-industry-competitors-technology-hardware-storage-amp-peripherals-industry",
+      "published_at": "2026-09-23T09:58:21+00:00"
+    },
+    {
+      "headline": "AI Chip Boom Peaking in 2028? Analyst Says That’s ‘Utterly Wrong’ As Shortage Could Last Until 2030",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61939663/ai-chip-boom-peaking-in-2028-analyst-says-thats-utterly-wrong-as-shortage-could-last-until-2030",
+      "published_at": "2026-09-23T09:53:33+00:00"
+    },
+    {
+      "headline": "China Business Delegation’s Trump-Xi Visit In Doubt Over US Investment Disputes: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/09/61939620/china-business-delegations-trump-xi-visit-in-doubt-over-us-investment-disputes-report",
+      "published_at": "2026-09-23T09:46:09+00:00"
+    },
+    {
+      "headline": "Qualcomm Comes For Apple’s A20 Pro With New AI-First Snapdragon Chips",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61939524/qualcomm-comes-for-apples-a20-pro-with-new-ai-first-snapdragon-chips",
+      "published_at": "2026-09-23T09:36:54+00:00"
+    },
+    {
+      "headline": "Apple Pendant? Tim Cook, Eddy Cue Also Reportedly Throwing Weight Behind Another Mystery Device, Says This Analyst",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61938327/apple-pendant-tim-cook-eddy-cue-mystery-device-analyst",
+      "published_at": "2026-09-23T06:45:40+00:00"
+    },
+    {
+      "headline": "Apple Bringing Stablecoins to Billions of Devices? Binance CEO Weighs In After Job Listing Fuels Speculation",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61938176/apple-stablecoins-billions-devices-binance-ceo-job-listing-speculation",
+      "published_at": "2026-09-23T06:32:07+00:00"
+    },
+    {
+      "headline": "Apple Takes Aim at Nvidia’s AI Economics: New Macs Have ‘No Cost per Token,’ Hardware Chief Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61932828/apple-macs-ai-no-cost-per-token-nvidia",
+      "published_at": "2026-09-22T19:32:50+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Nvidia Is a Stock And a Token — When ‘Retail No Longer Distinguishes Between Ticker and Rail’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61931658/nvidia-stock-token-crypto",
+      "published_at": "2026-09-22T18:48:22+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
