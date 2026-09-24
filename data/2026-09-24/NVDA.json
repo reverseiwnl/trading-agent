@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-09-24T12:24:30.539986+00:00",
+  "price": 225.62,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-12",
+      "open": 221.01,
+      "high": 225.1,
+      "low": 220.295,
+      "close": 224.11,
+      "volume": 3733189.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 225.07,
+      "high": 227.2,
+      "low": 223.72,
+      "close": 225.36,
+      "volume": 3940869.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 226.87,
+      "high": 227.47,
+      "low": 224.5,
+      "close": 225.16,
+      "volume": 2326258.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 225.99,
+      "high": 227.9,
+      "low": 224.86,
+      "close": 225.1,
+      "volume": 2750917.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 220.31,
+      "high": 221.62,
+      "low": 218.705,
+      "close": 219.73,
+      "volume": 4218191.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 221.745,
+      "high": 222.87,
+      "low": 216.79,
+      "close": 217.58,
+      "volume": 2792416.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 218.58,
+      "high": 219.84,
+      "low": 215.665,
+      "close": 216.89,
+      "volume": 3014027.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 218.42,
+      "high": 218.73,
+      "low": 214.52,
+      "close": 214.74,
+      "volume": 3206855.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 215.445,
+      "high": 215.445,
+      "low": 207.4,
+      "close": 208.47,
+      "volume": 3334636.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 211.0,
+      "high": 214.67,
+      "low": 210.11,
+      "close": 212.96,
+      "volume": 3190154.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 212.44,
+      "high": 213.6,
+      "low": 209.25,
+      "close": 209.77,
+      "volume": 3944735.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 222.74,
+      "high": 230.47,
+      "low": 220.96,
+      "close": 228.17,
+      "volume": 7478380.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 227.28,
+      "high": 229.25,
+      "low": 216.82,
+      "close": 217.545,
+      "volume": 5357434.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 218.73,
+      "high": 221.28,
+      "low": 216.23,
+      "close": 220.86,
+      "volume": 3278990.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 216.73,
+      "high": 220.395,
+      "low": 215.12,
+      "close": 217.49,
+      "volume": 3131622.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 218.785,
+      "high": 227.95,
+      "low": 218.53,
+      "close": 224.435,
+      "volume": 4915686.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 225.92,
+      "high": 230.4,
+      "low": 224.765,
+      "close": 228.54,
+      "volume": 3373106.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 231.11,
+      "high": 234.75,
+      "low": 229.635,
+      "close": 230.19,
+      "volume": 3592503.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 233.21,
+      "high": 233.69,
+      "low": 224.86,
+      "close": 225.82,
+      "volume": 3102034.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 225.2,
+      "high": 226.07,
+      "low": 223.46,
+      "close": 223.77,
+      "volume": 2177299.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 220.525,
+      "high": 220.98,
+      "low": 217.21,
+      "close": 218.37,
+      "volume": 2640914.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 221.22,
+      "high": 222.0,
+      "low": 218.17,
+      "close": 218.17,
+      "volume": 1719278.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 211.195,
+      "high": 212.745,
+      "low": 208.94,
+      "close": 211.0,
+      "volume": 2427233.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 213.285,
+      "high": 213.93,
+      "low": 211.16,
+      "close": 212.165,
+      "volume": 1959340.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 214.17,
+      "high": 216.755,
+      "low": 212.5,
+      "close": 213.94,
+      "volume": 2431203.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 218.18,
+      "high": 219.9,
+      "low": 217.145,
+      "close": 219.4,
+      "volume": 2712846.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 219.065,
+      "high": 222.69,
+      "low": 218.04,
+      "close": 222.04,
+      "volume": 2828110.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 222.93,
+      "high": 228.49,
+      "low": 221.58,
+      "close": 227.3,
+      "volume": 3200199.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 226.975,
+      "high": 229.97,
+      "low": 226.59,
+      "close": 228.85,
+      "volume": 2460762.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "LinkedIn Co-Founder Backs Local Control Over Data Center Development: 'Communities That Will Live Alongside a Data center...'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61966892/linkedin-co-founder-backs-local-control-over-data-center-development-communities-that-will-live-alongside-a-data-center",
+      "published_at": "2026-09-24T11:28:43+00:00"
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang Says AI Labs Should 'Shut Down' If They Can't Control Their Systems: Bernie Sanders Says His Bill 'Would Do Just That'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61963850/nvidia-jensen-huang-ai-labs-control-systems-bernie-sanders-bill",
+      "published_at": "2026-09-24T07:08:59+00:00"
+    },
+    {
+      "headline": "What Is Going on With Snap Stock on Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61955854/what-is-going-on-with-snap-stock-on-wednesday",
+      "published_at": "2026-09-23T18:35:20+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/09/61954152/10-information-technology-stocks-whale-activity-today-s-session",
+      "published_at": "2026-09-23T17:35:18+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Beyond Nvidia: Why Jensen Investment's Allen Bond Favors Broadcom, KLAC, Amphenol",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61953537/beyond-nvidia-broadcom-kla-amphenol",
+      "published_at": "2026-09-23T17:09:32+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Slips, 10-Year Yields Hit 19-Year Highs: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61953506/nasdaq-slips-10-year-yield-19-year-high-gold-sinks-markets-wednesday",
+      "published_at": "2026-09-23T17:08:51+00:00"
+    },
+    {
+      "headline": "IONQ’s Breakthrough Ignites Quantum Computing Stocks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/61952084/ionqs-breakthrough-ignites-quantum-computing-stocks",
+      "published_at": "2026-09-23T16:31:16+00:00"
+    },
+    {
+      "headline": "Trump's Strategy Stock Trades Draw Scrutiny as MSTR Surges 83%",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61948948/trump-mstr-stock-trades-draw-scrutiny",
+      "published_at": "2026-09-23T14:49:22+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: AI Data Center Boom Is ‘Overkill,’ Defense AI CEO Warns Compute Demand Will Drop",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61948255/ai-data-center-boom-overkill-compute-demand",
+      "published_at": "2026-09-23T14:31:49+00:00"
+    },
+    {
+      "headline": "IonQ Makes First On-Premise Quantum Deployment At NVIDIA Research Center",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61947635/ionq-makes-first-on-premise-quantum-deployment-at-nvidia-research-center",
+      "published_at": "2026-09-23T14:16:47+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

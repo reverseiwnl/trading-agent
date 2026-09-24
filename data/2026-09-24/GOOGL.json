@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-09-24T12:24:27.511207+00:00",
+  "price": 337.795,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-12",
+      "open": 346.335,
+      "high": 346.36,
+      "low": 340.905,
+      "close": 343.565,
+      "volume": 815212.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 345.77,
+      "high": 347.85,
+      "low": 343.84,
+      "close": 346.35,
+      "volume": 663018.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 346.71,
+      "high": 350.405,
+      "low": 344.51,
+      "close": 345.86,
+      "volume": 472894.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 346.265,
+      "high": 347.22,
+      "low": 341.945,
+      "close": 344.1,
+      "volume": 584704.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 342.405,
+      "high": 344.78,
+      "low": 340.21,
+      "close": 344.03,
+      "volume": 901431.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 342.5,
+      "high": 346.72,
+      "low": 340.78,
+      "close": 344.795,
+      "volume": 684392.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 342.795,
+      "high": 343.83,
+      "low": 338.57,
+      "close": 340.59,
+      "volume": 591452.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 342.355,
+      "high": 346.175,
+      "low": 340.42,
+      "close": 344.75,
+      "volume": 616795.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 343.62,
+      "high": 351.59,
+      "low": 342.49,
+      "close": 348.09,
+      "volume": 861403.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 349.375,
+      "high": 350.09,
+      "low": 345.61,
+      "close": 346.945,
+      "volume": 692301.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 346.61,
+      "high": 346.745,
+      "low": 340.205,
+      "close": 342.06,
+      "volume": 568863.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 339.68,
+      "high": 341.69,
+      "low": 338.54,
+      "close": 340.59,
+      "volume": 767720.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.845,
+      "high": 349.09,
+      "low": 340.77,
+      "close": 346.61,
+      "volume": 929692.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 344.04,
+      "high": 344.24,
+      "low": 337.165,
+      "close": 339.17,
+      "volume": 613493.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 335.855,
+      "high": 337.175,
+      "low": 333.11,
+      "close": 334.995,
+      "volume": 653878.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 333.725,
+      "high": 339.73,
+      "low": 332.97,
+      "close": 337.12,
+      "volume": 619670.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.605,
+      "high": 343.505,
+      "low": 337.1,
+      "close": 338.34,
+      "volume": 586852.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 335.44,
+      "high": 339.64,
+      "low": 333.235,
+      "close": 338.39,
+      "volume": 752823.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.53,
+      "high": 331.685,
+      "low": 327.92,
+      "close": 330.655,
+      "volume": 1192931.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.165,
+      "high": 333.21,
+      "low": 327.79,
+      "close": 332.67,
+      "volume": 475560.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 335.05,
+      "high": 342.91,
+      "low": 335.05,
+      "close": 338.44,
+      "volume": 586340.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 342.995,
+      "high": 349.9,
+      "low": 342.35,
+      "close": 349.445,
+      "volume": 1245888.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 346.86,
+      "high": 348.03,
+      "low": 342.71,
+      "close": 344.98,
+      "volume": 551631.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 346.99,
+      "high": 348.39,
+      "low": 340.69,
+      "close": 342.94,
+      "volume": 588712.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.63,
+      "high": 349.45,
+      "low": 343.92,
+      "close": 347.41,
+      "volume": 642188.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.7,
+      "high": 364.09,
+      "low": 350.22,
+      "close": 351.18,
+      "volume": 1033346.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Google’s Gemini 4 Could Launch 'Much Earlier’ Than Year-End, Says DeepMind Exec as AI Battle With OpenAI, Anthropic, Meta Heats up",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61966780/googles-gemini-4-could-launch-much-earlier-than-year-end-says-deepmind-exec-as-ai-battle-with-openai-anthropic-meta-heats-up",
+      "published_at": "2026-09-24T11:14:01+00:00"
+    },
+    {
+      "headline": "IonQ Removes Major Quantum Barrier, Driving Investor Debate Over Commercial Timelines",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61966117/ionq-removes-major-quantum-barrier-driving-investor-debate-over-commercial-timelines",
+      "published_at": "2026-09-24T10:45:46+00:00"
+    },
+    {
+      "headline": "Meta’s Muse AI Has Wall Street Seeing Billion-Dollar Possibilities",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61966093/metas-muse-ai-has-wall-street-seeing-billion-dollar-possibilities",
+      "published_at": "2026-09-24T10:42:20+00:00"
+    },
+    {
+      "headline": "Anthony Albanese Says OpenAI AI Agent ‘Didn’t Accept No,’ Found Way Around Blocks on Australian Government Health Portal",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61964290/anthony-albanese-says-openai-ai-agent-didnt-accept-no-found-way-around-blocks-on-australian-government-health-portal",
+      "published_at": "2026-09-24T08:13:20+00:00"
+    },
+    {
+      "headline": "Nasdaq Tumbles Over 1% As Treasury Yields Rise: Fear & Greed Index Remains In ‘Fear’ Zone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/09/61964111/nasdaq-tumbles-over-1-as-treasury-yields-rise-fear-greed-index-remains-in-fear-zone",
+      "published_at": "2026-09-24T07:51:35+00:00"
+    },
+    {
+      "headline": "'Google Nears Release of Flagship Gemini 4 AI Model' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61964054/google-nears-release-flagship-gemini-4-ai-model-information",
+      "published_at": "2026-09-24T07:40:19+00:00"
+    },
+    {
+      "headline": "Senator Chris Murphy Calls AI ‘Friendship Bots’ a ‘Poison for Our Kids,’ Pushes Fast Regulation Targeting Deepfakes and Model Security",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61963905/senator-chris-murphy-calls-ai-friendship-bots-a-poison-for-our-kids-pushes-fast-regulation-targeting-deepfakes-and-model-security",
+      "published_at": "2026-09-24T07:31:11+00:00"
+    },
+    {
+      "headline": "Kash Patel Among Those Exposed: ShinyHunters Says It Hacked FBI Website, Stole Information of 'Almost All' Agents (CORRECTED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61938654/kash-patel-fbi-website-hack-shinyhunters-agents-information",
+      "published_at": "2026-09-23T07:37:29+00:00"
+    },
+    {
+      "headline": "OpenAI Announces MentalHealthBench, Open Benchmark For Evaluating AI Responses In Mental Health Conversations, Built With More Than 80 Licensed Experts",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61957908/openai-announces-mentalhealthbench-open-benchmark-evaluating-ai-responses-mental-health-conversation",
+      "published_at": "2026-09-23T20:01:01+00:00"
+    },
+    {
+      "headline": "Anthropic CEO Dario Amodei Posts On X \"Today we announced the Claude-led discovery of a molecular machine that we suspect could represent a new gene editing mechanism. Its precise function, biotechnological utility (if any), or level of significance is not yet clear, but at minimum it is work I would have been proud to do as a PhD student. The work was done mostly, though not entirely, by Claude: our life sciences team suggested a broad area of research...\"",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61956240/anthropic-ceo-dario-amodei-posts-x-today-we-announced-claude-led-discovery-molecular-machine-we-susp",
+      "published_at": "2026-09-23T18:54:24+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

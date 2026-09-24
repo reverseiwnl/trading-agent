@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-09-24T12:24:29.444626+00:00",
+  "price": 500.62,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-12",
+      "open": 500.25,
+      "high": 501.34,
+      "low": 491.55,
+      "close": 492.45,
+      "volume": 801168.0
+    },
+    {
+      "date": "2026-08-13",
+      "open": 493.585,
+      "high": 501.3,
+      "low": 493.03,
+      "close": 496.81,
+      "volume": 732670.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 496.435,
+      "high": 499.995,
+      "low": 493.92,
+      "close": 495.35,
+      "volume": 491366.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 490.14,
+      "high": 492.59,
+      "low": 478.45,
+      "close": 480.65,
+      "volume": 784812.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 481.55,
+      "high": 484.07,
+      "low": 477.265,
+      "close": 481.82,
+      "volume": 800514.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 479.82,
+      "high": 489.155,
+      "low": 479.72,
+      "close": 484.42,
+      "volume": 544751.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 482.4,
+      "high": 484.105,
+      "low": 479.525,
+      "close": 481.205,
+      "volume": 401570.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 480.585,
+      "high": 486.33,
+      "low": 478.91,
+      "close": 483.33,
+      "volume": 437111.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 483.23,
+      "high": 490.56,
+      "low": 481.9,
+      "close": 487.32,
+      "volume": 420632.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 485.565,
+      "high": 492.37,
+      "low": 484.425,
+      "close": 491.55,
+      "volume": 400583.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 487.855,
+      "high": 497.4,
+      "low": 487.55,
+      "close": 496.36,
+      "volume": 443202.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 494.7,
+      "high": 506.41,
+      "low": 490.13,
+      "close": 504.98,
+      "volume": 947015.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 505.33,
+      "high": 517.755,
+      "low": 504.975,
+      "close": 513.67,
+      "volume": 1011599.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 510.32,
+      "high": 512.18,
+      "low": 506.4,
+      "close": 506.95,
+      "volume": 538872.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 497.845,
+      "high": 505.91,
+      "low": 497.11,
+      "close": 501.19,
+      "volume": 482981.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 499.78,
+      "high": 500.24,
+      "low": 493.83,
+      "close": 496.74,
+      "volume": 369238.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 501.4,
+      "high": 515.55,
+      "low": 501.4,
+      "close": 510.15,
+      "volume": 850782.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 510.1,
+      "high": 510.82,
+      "low": 499.38,
+      "close": 499.545,
+      "volume": 542979.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 493.2,
+      "high": 495.05,
+      "low": 490.16,
+      "close": 493.92,
+      "volume": 478010.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 492.56,
+      "high": 494.22,
+      "low": 489.8,
+      "close": 491.65,
+      "volume": 327829.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 488.34,
+      "high": 494.46,
+      "low": 486.25,
+      "close": 492.49,
+      "volume": 358672.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 495.67,
+      "high": 498.825,
+      "low": 492.665,
+      "close": 495.58,
+      "volume": 368151.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 497.52,
+      "high": 509.92,
+      "low": 495.45,
+      "close": 505.72,
+      "volume": 830370.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 500.06,
+      "high": 505.78,
+      "low": 495.555,
+      "close": 497.105,
+      "volume": 729264.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 493.35,
+      "high": 495.815,
+      "low": 487.26,
+      "close": 490.45,
+      "volume": 636769.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 496.835,
+      "high": 501.4,
+      "low": 493.275,
+      "close": 497.67,
+      "volume": 534473.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 497.635,
+      "high": 498.14,
+      "low": 491.13,
+      "close": 493.1,
+      "volume": 659838.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 495.56,
+      "high": 501.71,
+      "low": 491.35,
+      "close": 501.64,
+      "volume": 798550.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 507.125,
+      "high": 508.0,
+      "low": 493.705,
+      "close": 498.0,
+      "volume": 598345.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 501.79,
+      "high": 509.34,
+      "low": 495.97,
+      "close": 500.62,
+      "volume": 543277.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Microsoft, Howmet Aerospace, FTAI Aviation And An Energy Stock On CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61968253/microsoft-howmet-aerospace-ftai-aviation-and-an-energy-stock-on-cnbcs-final-trades",
+      "published_at": "2026-09-24T12:12:47+00:00"
+    },
+    {
+      "headline": "AI’s Deflationary Product Cannot Support the $5 Trillion Bill",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61966491/ais-deflationary-product-cannot-support-the-5-trillion-bill",
+      "published_at": "2026-09-24T11:05:11+00:00"
+    },
+    {
+      "headline": "'DeepSeek Aims to Close $7.5 Billion Funding Round by End-October' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61966195/deepseek-aims-to-close-7-5-billion-funding-round-by-end-october-the-in",
+      "published_at": "2026-09-24T10:55:53+00:00"
+    },
+    {
+      "headline": "Bill Ackman Calls AI’s Rare-Disease Breakthrough ‘Incredible’ After Model Finds Drug Combination for Dying Patient",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61963098/bill-ackman-ai-rare-disease-drug-combination-breakthrough",
+      "published_at": "2026-09-24T04:44:44+00:00"
+    },
+    {
+      "headline": "OpenAI Says We Weren’t Aware Of Agent Activity In Australia Until August During An Ongoing Review Of OpenAI Misaligned Model Activity; Notified Services Australia About Incident On Sept 10",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61960509/openai-says-we-weren-t-aware-agent-activity-australia-until-august-during-ongoing-review-openai-misa",
+      "published_at": "2026-09-23T22:12:00+00:00"
+    },
+    {
+      "headline": "OpenAI Says Its AI Agent Improperly Accessed Australian Government Files OpenAI Says No Evidence That Patient Records Were Accessed; Says Our Overall Review Is Ongoing; During Review, Identified Activity Involving Several Australian Government Websites And Services As Our Models Attempted To Look Up Answers; Our Models Took Actions We Did Not Intend",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61960497/openai-says-its-ai-agent-improperly-accessed-australian-government-files-openai-says-no-evidence-pat",
+      "published_at": "2026-09-23T22:11:34+00:00"
+    },
+    {
+      "headline": "'Prime Minister Anthony Albanese Has Revealed That An Artificial Intelligence Agent Developed By OpenAI Infiltrated An Australian Government Website In June, Accessing Public And Non-Public Files' - Sydney Morning Herald",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61959145/prime-minister-anthony-albanese-has-revealed-artificial-intelligence-agent-developed-openai-infiltra",
+      "published_at": "2026-09-23T20:39:59+00:00"
+    },
+    {
+      "headline": "Airbnb Announces Broader Access To OpenAI Frontier Models For Its Engineering, Product Development Teams",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61958438/airbnb-announces-broader-access-openai-frontier-models-its-engineering-product-development-teams",
+      "published_at": "2026-09-23T20:13:48+00:00"
+    },
+    {
+      "headline": "OpenAI Announces MentalHealthBench, Open Benchmark For Evaluating AI Responses In Mental Health Conversations, Built With More Than 80 Licensed Experts",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61957908/openai-announces-mentalhealthbench-open-benchmark-evaluating-ai-responses-mental-health-conversation",
+      "published_at": "2026-09-23T20:01:01+00:00"
+    },
+    {
+      "headline": "'Microsoft President Backs Deployment of AI Safety Evaluators' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61956169/microsoft-president-backs-deployment-ai-safety-evaluators-bloomberg",
+      "published_at": "2026-09-23T18:50:19+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
