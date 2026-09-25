@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-09-25T12:27:35.303487+00:00",
+  "price": 226.15,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-13",
+      "open": 225.07,
+      "high": 227.2,
+      "low": 223.72,
+      "close": 225.36,
+      "volume": 3940869.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 226.87,
+      "high": 227.47,
+      "low": 224.5,
+      "close": 225.16,
+      "volume": 2326258.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 225.99,
+      "high": 227.9,
+      "low": 224.86,
+      "close": 225.1,
+      "volume": 2750917.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 220.31,
+      "high": 221.62,
+      "low": 218.705,
+      "close": 219.73,
+      "volume": 4218191.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 221.745,
+      "high": 222.87,
+      "low": 216.79,
+      "close": 217.58,
+      "volume": 2792416.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 218.58,
+      "high": 219.84,
+      "low": 215.665,
+      "close": 216.89,
+      "volume": 3014027.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 218.42,
+      "high": 218.73,
+      "low": 214.52,
+      "close": 214.74,
+      "volume": 3206855.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 215.445,
+      "high": 215.445,
+      "low": 207.4,
+      "close": 208.47,
+      "volume": 3334636.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 211.0,
+      "high": 214.67,
+      "low": 210.11,
+      "close": 212.96,
+      "volume": 3190154.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 212.44,
+      "high": 213.6,
+      "low": 209.25,
+      "close": 209.77,
+      "volume": 3944735.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 222.74,
+      "high": 230.47,
+      "low": 220.96,
+      "close": 228.17,
+      "volume": 7478380.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 227.28,
+      "high": 229.25,
+      "low": 216.82,
+      "close": 217.545,
+      "volume": 5357434.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 218.73,
+      "high": 221.28,
+      "low": 216.23,
+      "close": 220.86,
+      "volume": 3278990.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 216.73,
+      "high": 220.395,
+      "low": 215.12,
+      "close": 217.49,
+      "volume": 3131622.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 218.785,
+      "high": 227.95,
+      "low": 218.53,
+      "close": 224.435,
+      "volume": 4915686.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 225.92,
+      "high": 230.4,
+      "low": 224.765,
+      "close": 228.54,
+      "volume": 3373106.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 231.11,
+      "high": 234.75,
+      "low": 229.635,
+      "close": 230.19,
+      "volume": 3592503.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 233.21,
+      "high": 233.69,
+      "low": 224.86,
+      "close": 225.82,
+      "volume": 3102034.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 225.2,
+      "high": 226.07,
+      "low": 223.46,
+      "close": 223.77,
+      "volume": 2177299.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 220.525,
+      "high": 220.98,
+      "low": 217.21,
+      "close": 218.37,
+      "volume": 2640914.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 221.22,
+      "high": 222.0,
+      "low": 218.17,
+      "close": 218.17,
+      "volume": 1719278.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 211.195,
+      "high": 212.745,
+      "low": 208.94,
+      "close": 211.0,
+      "volume": 2427233.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 213.285,
+      "high": 213.93,
+      "low": 211.16,
+      "close": 212.165,
+      "volume": 1959340.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 214.17,
+      "high": 216.755,
+      "low": 212.5,
+      "close": 213.94,
+      "volume": 2431203.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 218.18,
+      "high": 219.9,
+      "low": 217.145,
+      "close": 219.4,
+      "volume": 2712846.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 219.065,
+      "high": 222.69,
+      "low": 218.04,
+      "close": 222.04,
+      "volume": 2828110.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 222.93,
+      "high": 228.49,
+      "low": 221.58,
+      "close": 227.3,
+      "volume": 3200199.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 226.975,
+      "high": 229.97,
+      "low": 226.59,
+      "close": 228.85,
+      "volume": 2460762.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "What's Going On With Super Micro Computer Stock Friday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61992909/whats-going-on-with-super-micro-computer-stock-friday-4",
+      "published_at": "2026-09-25T12:23:14+00:00"
+    },
+    {
+      "headline": "Elon Musk Says SpaceXAI’s Colossus 2 Could Run More Than 1.2 Million Nvidia GB200 And GB300 Chips By Year-End ‘If We Get Lucky’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61991512/elon-musk-says-spacexais-colossus-2-could-run-more-than-1-2-million-nvidia-gb200-and-gb300-chips-by-year-end-if-we-get-lucky",
+      "published_at": "2026-09-25T11:20:13+00:00"
+    },
+    {
+      "headline": "Big Tech’s Data Center Boom Could Be Stopped by One Scarce Resource",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61991451/big-techs-data-center-boom-could-be-stopped-by-one-scarce-resource",
+      "published_at": "2026-09-25T11:14:18+00:00"
+    },
+    {
+      "headline": "AMD’s AI-Fueled Breakout Could Carry Stock to $750, Analyst Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61990568/amds-ai-fueled-breakout-could-carry-stock-to-750-analyst-says",
+      "published_at": "2026-09-25T10:10:07+00:00"
+    },
+    {
+      "headline": "AI Slowdown Push 'Unrealistic,' Says Palo Alto Networks CEO, AI Firms Trying to Seek Regulatory 'Sympathy'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61990027/ai-slowdown-push-unrealistic-says-palo-alto-networks-ceo-ai-firms-trying-to-seek-regulatory-sympathy",
+      "published_at": "2026-09-25T09:46:57+00:00"
+    },
+    {
+      "headline": "Elon Musk Says SpaceX Could Have GPT-6-Level AI in 3 Months, Reach ‘Pole Position’ Within 6; SpaceXAI Plans Massive GPU Expansion",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61989367/elon-musk-says-spacex-could-have-gpt-6-level-ai-in-3-months-reach-pole-position-within-6-spacexai-plans-massive-gpu-expansion",
+      "published_at": "2026-09-25T08:06:04+00:00"
+    },
+    {
+      "headline": "'Is AI Gonna Kill Us?’ Mark Zuckerberg Has an Answer — And He’s ‘Quite Optimistic’ About the Future",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61988438/mark-zuckerberg-ai-future-optimistic-ai-risks",
+      "published_at": "2026-09-25T04:57:12+00:00"
+    },
+    {
+      "headline": "Trump, Mike Johnson and Tech CEOs Reportedly Set to Meet on AI Oversight — Here's What's at Stake",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61988120/trump-mike-johnson-tech-ceos-ai-oversight-meeting-stakes",
+      "published_at": "2026-09-25T02:11:35+00:00"
+    },
+    {
+      "headline": "AI Boom Adds More Customers But Spending Remains Highly Concentrated: What It Means for Nvidia, CoreWeave",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61985209/ai-spending-concentration-nvidia-coreweave",
+      "published_at": "2026-09-24T20:25:58+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Micron's AI Earnings Could Break the Old Memory Cycle, PurePlay ETFs CEO Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61982882/micron-earnings-break-memory-cycle-pureplay-etfs-nvps",
+      "published_at": "2026-09-24T19:05:52+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for NVDA"
+  ]
+}

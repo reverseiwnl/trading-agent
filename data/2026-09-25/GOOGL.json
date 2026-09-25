@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-09-25T12:27:24.169795+00:00",
+  "price": 342.33,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-13",
+      "open": 345.77,
+      "high": 347.85,
+      "low": 343.84,
+      "close": 346.35,
+      "volume": 663018.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 346.71,
+      "high": 350.405,
+      "low": 344.51,
+      "close": 345.86,
+      "volume": 472894.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 346.265,
+      "high": 347.22,
+      "low": 341.945,
+      "close": 344.1,
+      "volume": 584704.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 342.405,
+      "high": 344.78,
+      "low": 340.21,
+      "close": 344.03,
+      "volume": 901431.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 342.5,
+      "high": 346.72,
+      "low": 340.78,
+      "close": 344.795,
+      "volume": 684392.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 342.795,
+      "high": 343.83,
+      "low": 338.57,
+      "close": 340.59,
+      "volume": 591452.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 342.355,
+      "high": 346.175,
+      "low": 340.42,
+      "close": 344.75,
+      "volume": 616795.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 343.62,
+      "high": 351.59,
+      "low": 342.49,
+      "close": 348.09,
+      "volume": 861403.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 349.375,
+      "high": 350.09,
+      "low": 345.61,
+      "close": 346.945,
+      "volume": 692301.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 346.61,
+      "high": 346.745,
+      "low": 340.205,
+      "close": 342.06,
+      "volume": 568863.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 339.68,
+      "high": 341.69,
+      "low": 338.54,
+      "close": 340.59,
+      "volume": 767720.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.845,
+      "high": 349.09,
+      "low": 340.77,
+      "close": 346.61,
+      "volume": 929692.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 344.04,
+      "high": 344.24,
+      "low": 337.165,
+      "close": 339.17,
+      "volume": 613493.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 335.855,
+      "high": 337.175,
+      "low": 333.11,
+      "close": 334.995,
+      "volume": 653878.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 333.725,
+      "high": 339.73,
+      "low": 332.97,
+      "close": 337.12,
+      "volume": 619670.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.605,
+      "high": 343.505,
+      "low": 337.1,
+      "close": 338.34,
+      "volume": 586852.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 335.44,
+      "high": 339.64,
+      "low": 333.235,
+      "close": 338.39,
+      "volume": 752823.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.53,
+      "high": 331.685,
+      "low": 327.92,
+      "close": 330.655,
+      "volume": 1192931.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.165,
+      "high": 333.21,
+      "low": 327.79,
+      "close": 332.67,
+      "volume": 475560.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 335.05,
+      "high": 342.91,
+      "low": 335.05,
+      "close": 338.44,
+      "volume": 586340.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 342.995,
+      "high": 349.9,
+      "low": 342.35,
+      "close": 349.445,
+      "volume": 1245888.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 346.86,
+      "high": 348.03,
+      "low": 342.71,
+      "close": 344.98,
+      "volume": 551631.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 346.99,
+      "high": 348.39,
+      "low": 340.69,
+      "close": 342.94,
+      "volume": 588712.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.63,
+      "high": 349.45,
+      "low": 343.92,
+      "close": 347.41,
+      "volume": 642188.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.7,
+      "high": 364.09,
+      "low": 350.22,
+      "close": 351.18,
+      "volume": 1033346.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.25,
+      "high": 343.05,
+      "low": 336.235,
+      "close": 342.33,
+      "volume": 837155.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Elon Musk Says SpaceXAI’s Colossus 2 Could Run More Than 1.2 Million Nvidia GB200 And GB300 Chips By Year-End ‘If We Get Lucky’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61991512/elon-musk-says-spacexais-colossus-2-could-run-more-than-1-2-million-nvidia-gb200-and-gb300-chips-by-year-end-if-we-get-lucky",
+      "published_at": "2026-09-25T11:20:13+00:00"
+    },
+    {
+      "headline": "Big Tech’s Data Center Boom Could Be Stopped by One Scarce Resource",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61991451/big-techs-data-center-boom-could-be-stopped-by-one-scarce-resource",
+      "published_at": "2026-09-25T11:14:18+00:00"
+    },
+    {
+      "headline": "Bernie Sanders Says California’s Billionaire Tax Could Save Healthcare for 3 Million as Tech Titans Fight Back: ‘Control Your Greed’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/personal-finance/tax/26/09/61991157/bernie-sanders-says-californias-billionaire-tax-could-save-healthcare-for-3-million-as-tech-titans-fight-back-control-your-greed",
+      "published_at": "2026-09-25T11:02:38+00:00"
+    },
+    {
+      "headline": "Kevin O'Leary Explains Why His Big AI Bet is Uranium, Not Big Tech: 'The Trade is Now the Energy Trade' (CORRECTED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/09/61941964/kevin-oleary-explains-why-his-big-ai-bet-is-uranium-not-big-tech-the-trade-is-now-the-energy-trade",
+      "published_at": "2026-09-25T08:02:46+00:00"
+    },
+    {
+      "headline": "OpenAI's Next Model Reportedly Fights Hackers, Even As Its Own AI Draws Scrutiny Over Australia Breach: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61988230/openai-next-model-hackers-australia-ai-breach-scrutiny",
+      "published_at": "2026-09-25T03:27:10+00:00"
+    },
+    {
+      "headline": "'Anthropic Seeks Palantir-Style Voting Control For Seven Co-Founders Ahead Of IPO; Anthropic Planning To Give Founders 50.1% Voting Control In New Corporate Structure' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61987142/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo-anthropic-planning-give-fo",
+      "published_at": "2026-09-24T22:01:49+00:00"
+    },
+    {
+      "headline": "Why Is AST SpaceMobile Stock Surging on Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61981824/why-is-ast-spacemobile-stock-surging-on-thursday",
+      "published_at": "2026-09-24T18:26:16+00:00"
+    },
+    {
+      "headline": "8 Of 11 Sectors Fall In Thursday Trading As Leaders Split",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/61981197/8-of-11-sectors-fall-in-thursday-trading-as-leaders-split",
+      "published_at": "2026-09-24T18:04:59+00:00"
+    },
+    {
+      "headline": "'White House Asks OpenAI And Anthropic To Hold New Models From UK Testers Until U.S. Review; U.K. Leaders Are Calling For A Shared Set Of Global Principles, Even As The White House Seeks First Access To New Models For Testing' - Politico",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/economics/macro-economic-events/26/09/61978969/white-house-asks-openai-and-anthropic-hold-new-models-uk-testers-until-u-s-review-u-k-leaders-are-ca",
+      "published_at": "2026-09-24T16:48:25+00:00"
+    },
+    {
+      "headline": "BNP Paribas And Google Cloud Announce Five-Year Agentic AI And Cloud Partnership; Terms Not Disclosed",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61977811/bnp-paribas-and-google-cloud-announce-five-year-agentic-ai-and-cloud-partnership-terms-not-disclosed",
+      "published_at": "2026-09-24T16:11:46+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for GOOGL"
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-09-25T12:27:20.012570+00:00",
+  "price": 335.88,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-13",
+      "open": 304.205,
+      "high": 306.0,
+      "low": 302.06,
+      "close": 305.305,
+      "volume": 1348081.0
+    },
+    {
+      "date": "2026-08-14",
+      "open": 305.94,
+      "high": 307.47,
+      "low": 304.33,
+      "close": 305.94,
+      "volume": 813147.0
+    },
+    {
+      "date": "2026-08-17",
+      "open": 306.21,
+      "high": 307.545,
+      "low": 302.94,
+      "close": 305.655,
+      "volume": 1160745.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 307.85,
+      "high": 311.48,
+      "low": 305.74,
+      "close": 310.16,
+      "volume": 1535987.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 310.145,
+      "high": 319.26,
+      "low": 309.73,
+      "close": 316.9,
+      "volume": 1649295.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 317.455,
+      "high": 320.28,
+      "low": 310.66,
+      "close": 311.29,
+      "volume": 1163420.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 311.425,
+      "high": 312.3,
+      "low": 307.045,
+      "close": 309.27,
+      "volume": 1017701.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 311.47,
+      "high": 313.34,
+      "low": 310.05,
+      "close": 310.385,
+      "volume": 725005.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 310.935,
+      "high": 313.55,
+      "low": 308.21,
+      "close": 309.895,
+      "volume": 753048.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 310.38,
+      "high": 315.43,
+      "low": 308.84,
+      "close": 313.475,
+      "volume": 1025352.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 310.425,
+      "high": 315.38,
+      "low": 309.42,
+      "close": 314.54,
+      "volume": 1062638.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 316.865,
+      "high": 322.36,
+      "low": 315.515,
+      "close": 319.58,
+      "volume": 1076745.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 319.68,
+      "high": 321.215,
+      "low": 312.94,
+      "close": 317.14,
+      "volume": 994365.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 316.97,
+      "high": 327.3,
+      "low": 314.73,
+      "close": 325.25,
+      "volume": 1709875.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 327.01,
+      "high": 328.36,
+      "low": 323.57,
+      "close": 325.03,
+      "volume": 1152718.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 324.91,
+      "high": 330.79,
+      "low": 324.155,
+      "close": 328.22,
+      "volume": 1042722.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 328.39,
+      "high": 328.895,
+      "low": 317.86,
+      "close": 319.95,
+      "volume": 1224559.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 317.24,
+      "high": 320.7,
+      "low": 314.9,
+      "close": 316.26,
+      "volume": 1126523.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 315.59,
+      "high": 319.12,
+      "low": 309.92,
+      "close": 315.42,
+      "volume": 2458568.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 316.76,
+      "high": 326.66,
+      "low": 316.635,
+      "close": 326.615,
+      "volume": 2202355.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 327.45,
+      "high": 336.21,
+      "low": 326.57,
+      "close": 332.245,
+      "volume": 1563982.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 334.7,
+      "high": 335.5,
+      "low": 331.35,
+      "close": 333.0,
+      "volume": 1335636.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 330.445,
+      "high": 331.78,
+      "low": 328.41,
+      "close": 331.335,
+      "volume": 930184.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 332.44,
+      "high": 335.47,
+      "low": 330.71,
+      "close": 332.49,
+      "volume": 903206.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 334.805,
+      "high": 338.31,
+      "low": 330.23,
+      "close": 337.09,
+      "volume": 894177.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 337.96,
+      "high": 338.41,
+      "low": 332.545,
+      "close": 335.73,
+      "volume": 1141511.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 335.49,
+      "high": 339.62,
+      "low": 333.12,
+      "close": 339.0,
+      "volume": 929958.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 340.35,
+      "high": 345.28,
+      "low": 338.84,
+      "close": 339.85,
+      "volume": 986501.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 341.075,
+      "high": 341.73,
+      "low": 335.6,
+      "close": 336.87,
+      "volume": 1168450.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.72,
+      "high": 338.905,
+      "low": 334.33,
+      "close": 335.88,
+      "volume": 788509.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Understanding Apple's Position In Technology Hardware, Storage &amp; Peripherals Industry Compared To Competitors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61990122/understanding-apple-s-position-technology-hardware-storage-amp-peripherals-industry-compared-competi",
+      "published_at": "2026-09-25T09:58:38+00:00"
+    },
+    {
+      "headline": "Meta’s AI Spending Suddenly Makes Sense",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61990039/metas-ai-spending-suddenly-makes-sense",
+      "published_at": "2026-09-25T09:47:56+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/09/61980198/10-information-technology-stocks-whale-activity-today-s-session",
+      "published_at": "2026-09-24T17:35:10+00:00"
+    },
+    {
+      "headline": "Here's How Meta's Muse Mania Is Spilling into Leveraged ETFs",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/09/61978215/heres-how-metas-muse-mania-is-spilling-into-leveraged-etfs",
+      "published_at": "2026-09-24T16:25:04+00:00"
+    },
+    {
+      "headline": "Qualcomm Renews Patent License With Apple, Ushers in 'Agentic Age' With New Snapdragon",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61971336/qualcomm-renews-patent-license-with-apple-ushers-in-agentic-age-with-new-snapdragon",
+      "published_at": "2026-09-24T13:43:54+00:00"
+    },
+    {
+      "headline": "What's Going On With AMD Stock Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61970596/whats-going-on-with-amd-stock-thursday-11",
+      "published_at": "2026-09-24T13:31:33+00:00"
+    },
+    {
+      "headline": "Qualcomm Renew Global Patent License Deal With Apple, Effective April 1, 2027",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/content/61966922/qualcomm-renew-global-patent-license-deal-apple-effective-april-1-2027",
+      "published_at": "2026-09-24T11:31:01+00:00"
+    },
+    {
+      "headline": "Evaluating Apple Against Peers In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/61965158/evaluating-apple-against-peers-technology-hardware-storage-amp-peripherals-industry",
+      "published_at": "2026-09-24T09:59:10+00:00"
+    },
+    {
+      "headline": "Disney+ Subscription Prices Nearly Doubled Since 2023 as Company Raises Ad-Free Plan Again to $21.49 a Month",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61963864/disney-plus-subscription-price-increase-ad-free-21-49-month",
+      "published_at": "2026-09-24T07:18:01+00:00"
+    },
+    {
+      "headline": "Meta Stock Expected to be 'Flat to Down' on 'Connect' Keynote, Says Gene Munster: Muse is 'Bad News' for Google, Says Analyst",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61962894/meta-stock-gene-munster-connect-keynote-google-bad-news",
+      "published_at": "2026-09-24T03:23:08+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for AAPL"
+  ]
+}
