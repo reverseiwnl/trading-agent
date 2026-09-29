@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-09-29T12:31:04.111892+00:00",
+  "price": 228.89,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-17",
+      "open": 225.99,
+      "high": 227.9,
+      "low": 224.86,
+      "close": 225.1,
+      "volume": 2750917.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 220.31,
+      "high": 221.62,
+      "low": 218.705,
+      "close": 219.73,
+      "volume": 4218191.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 221.745,
+      "high": 222.87,
+      "low": 216.79,
+      "close": 217.58,
+      "volume": 2792416.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 218.58,
+      "high": 219.84,
+      "low": 215.665,
+      "close": 216.89,
+      "volume": 3014027.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 218.42,
+      "high": 218.73,
+      "low": 214.52,
+      "close": 214.74,
+      "volume": 3206855.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 215.445,
+      "high": 215.445,
+      "low": 207.4,
+      "close": 208.47,
+      "volume": 3334636.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 211.0,
+      "high": 214.67,
+      "low": 210.11,
+      "close": 212.96,
+      "volume": 3190154.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 212.44,
+      "high": 213.6,
+      "low": 209.25,
+      "close": 209.77,
+      "volume": 3944735.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 222.74,
+      "high": 230.47,
+      "low": 220.96,
+      "close": 228.17,
+      "volume": 7478380.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 227.28,
+      "high": 229.25,
+      "low": 216.82,
+      "close": 217.545,
+      "volume": 5357434.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 218.73,
+      "high": 221.28,
+      "low": 216.23,
+      "close": 220.86,
+      "volume": 3278990.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 216.73,
+      "high": 220.395,
+      "low": 215.12,
+      "close": 217.49,
+      "volume": 3131622.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 218.785,
+      "high": 227.95,
+      "low": 218.53,
+      "close": 224.435,
+      "volume": 4915686.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 225.92,
+      "high": 230.4,
+      "low": 224.765,
+      "close": 228.54,
+      "volume": 3373106.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 231.11,
+      "high": 234.75,
+      "low": 229.635,
+      "close": 230.19,
+      "volume": 3592503.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 233.21,
+      "high": 233.69,
+      "low": 224.86,
+      "close": 225.82,
+      "volume": 3102034.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 225.2,
+      "high": 226.07,
+      "low": 223.46,
+      "close": 223.77,
+      "volume": 2177299.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 220.525,
+      "high": 220.98,
+      "low": 217.21,
+      "close": 218.37,
+      "volume": 2640914.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 221.22,
+      "high": 222.0,
+      "low": 218.17,
+      "close": 218.17,
+      "volume": 1719278.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 211.195,
+      "high": 212.745,
+      "low": 208.94,
+      "close": 211.0,
+      "volume": 2427233.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 213.285,
+      "high": 213.93,
+      "low": 211.16,
+      "close": 212.165,
+      "volume": 1960841.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 214.17,
+      "high": 216.755,
+      "low": 212.5,
+      "close": 213.94,
+      "volume": 2431203.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 218.18,
+      "high": 219.9,
+      "low": 217.145,
+      "close": 219.4,
+      "volume": 2712846.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 219.065,
+      "high": 222.69,
+      "low": 218.04,
+      "close": 222.04,
+      "volume": 2828110.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 222.93,
+      "high": 228.49,
+      "low": 221.58,
+      "close": 227.3,
+      "volume": 3200199.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 226.975,
+      "high": 229.97,
+      "low": 226.59,
+      "close": 228.85,
+      "volume": 2460762.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Netlist Opens New Legal Proceedings At U.S. International Trade Commission Seeking Exclusion And Cease And Desist Orders Against Micron Technology And MU's Customers Nvidia, Broadcom And Google; Claims Infringement Of The Company's HBM Patents",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62046393/netlist-opens-new-legal-proceedings-u-s-international-trade-commission-seeking-exclusion-and-cease-a",
+      "published_at": "2026-09-29T12:11:52+00:00"
+    },
+    {
+      "headline": "MU Stock Is ‘Absolutely in a Bubble,’ But Bulls Can Still Make Money, Says Analyst: ‘Best Cycle Anyone’ Has Ever Seen",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/62043659/micron-is-in-the-best-cycle-anyone-has-ever-seen-mu-stock-is-in-a-bubble-but-bulls-can-still-profit-says-analyst",
+      "published_at": "2026-09-29T10:39:38+00:00"
+    },
+    {
+      "headline": "Nvidia Reportedly Turns To Insurers To De-Risk AI Chip Loans As Jensen Huang Pushes Beyond Big Tech — Could This Unlock Billions For Smaller Cloud Players?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62043405/nvidia-reportedly-turns-to-insurers-to-de-risk-ai-chip-loans-as-jensen-huang-pushes-beyond-big-tech-could-this-unlock-billions-for-smaller-cloud-players",
+      "published_at": "2026-09-29T10:32:21+00:00"
+    },
+    {
+      "headline": "NVIDIA Explores Insurance Shield for Chip-Backed Loans As AI Financing Push Expands",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62043155/nvidia-explores-insurance-shield-for-chip-backed-loans-as-ai-financing-push-expands",
+      "published_at": "2026-09-29T10:07:22+00:00"
+    },
+    {
+      "headline": "Pope Leo XIV Slams Nvidia CEO Jensen Huang Over His No-Government AI Regulation Stance: 'He’s The Same One...'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/09/62042459/pope-leo-xiv-slams-nvidia-ceo-jensen-huang-over-his-no-government-ai-regulation-stance-hes-the-same-one",
+      "published_at": "2026-09-29T09:53:32+00:00"
+    },
+    {
+      "headline": "Jim Cramer Says AMD’s ‘Incredible Run’ Isn’t Over",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62042361/jim-cramer-says-amds-incredible-run-isnt-over",
+      "published_at": "2026-09-29T09:42:08+00:00"
+    },
+    {
+      "headline": "Stock Market Today: Dow Jones, S&P 500 Futures Slip, Nasdaq 100 Gains as Trump Dismisses Iran Sanction Relief as 'Hoax' — NVDA, AAR, MTN in Focus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/62042161/stock-market-today-dow-jones-sp-500-futures-slip-nasdaq-100-gains-as-trump-dismisses-iran-sanction-relief-as-hoax-nvda-aar-mtn-in-focus",
+      "published_at": "2026-09-29T09:17:17+00:00"
+    },
+    {
+      "headline": "'Nvidia Turns To Insurers To Spread The Risk of AI Build-Out' - FT",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62041000/nvidia-turns-insurers-spread-risk-ai-build-out-ft",
+      "published_at": "2026-09-29T07:05:39+00:00"
+    },
+    {
+      "headline": "Reported September 28, 'OpenAI Scraps Release of New AI Model Over Safety Concerns' - WSJ Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62040812/reported-september-28-openai-scraps-release-new-ai-model-over-safety-concerns-wsj-exclusive",
+      "published_at": "2026-09-29T06:36:36+00:00"
+    },
+    {
+      "headline": "Mike Johnson Says US Must ‘Strike the Right Balance’ on AI as Trump Meets Zuckerberg, Huang, Amodei and Brockman Amid Growing Safety Debate",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/09/62040781/mike-johnson-says-us-must-strike-the-right-balance-on-ai-as-trump-meets-zuckerberg-huang-amodei-and-brockman-amid-growing-safety-debate",
+      "published_at": "2026-09-29T06:24:49+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

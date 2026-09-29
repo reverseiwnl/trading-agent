@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-09-29T12:30:58.106983+00:00",
+  "price": 337.09,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-17",
+      "open": 306.21,
+      "high": 307.545,
+      "low": 302.94,
+      "close": 305.655,
+      "volume": 1160745.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 307.85,
+      "high": 311.48,
+      "low": 305.74,
+      "close": 310.16,
+      "volume": 1535987.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 310.145,
+      "high": 319.26,
+      "low": 309.73,
+      "close": 316.9,
+      "volume": 1649295.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 317.455,
+      "high": 320.28,
+      "low": 310.66,
+      "close": 311.29,
+      "volume": 1163420.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 311.425,
+      "high": 312.3,
+      "low": 307.045,
+      "close": 309.27,
+      "volume": 1017701.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 311.47,
+      "high": 313.34,
+      "low": 310.05,
+      "close": 310.385,
+      "volume": 725005.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 310.935,
+      "high": 313.55,
+      "low": 308.21,
+      "close": 309.895,
+      "volume": 753048.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 310.38,
+      "high": 315.43,
+      "low": 308.84,
+      "close": 313.475,
+      "volume": 1025352.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 310.425,
+      "high": 315.38,
+      "low": 309.42,
+      "close": 314.54,
+      "volume": 1062638.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 316.865,
+      "high": 322.36,
+      "low": 315.515,
+      "close": 319.58,
+      "volume": 1076745.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 319.68,
+      "high": 321.215,
+      "low": 312.94,
+      "close": 317.14,
+      "volume": 994365.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 316.97,
+      "high": 327.3,
+      "low": 314.73,
+      "close": 325.25,
+      "volume": 1709875.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 327.01,
+      "high": 328.36,
+      "low": 323.57,
+      "close": 325.03,
+      "volume": 1152718.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 324.91,
+      "high": 330.79,
+      "low": 324.155,
+      "close": 328.22,
+      "volume": 1042722.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 328.39,
+      "high": 328.895,
+      "low": 317.86,
+      "close": 319.95,
+      "volume": 1224559.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 317.24,
+      "high": 320.7,
+      "low": 314.9,
+      "close": 316.26,
+      "volume": 1126523.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 315.59,
+      "high": 319.12,
+      "low": 309.92,
+      "close": 315.42,
+      "volume": 2458568.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 316.76,
+      "high": 326.66,
+      "low": 316.635,
+      "close": 326.615,
+      "volume": 2202355.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 327.45,
+      "high": 336.21,
+      "low": 326.57,
+      "close": 332.245,
+      "volume": 1563982.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 334.7,
+      "high": 335.5,
+      "low": 331.35,
+      "close": 333.0,
+      "volume": 1335636.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 330.445,
+      "high": 331.78,
+      "low": 328.41,
+      "close": 331.335,
+      "volume": 930284.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 332.44,
+      "high": 335.47,
+      "low": 330.71,
+      "close": 332.49,
+      "volume": 903206.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 334.805,
+      "high": 338.31,
+      "low": 330.23,
+      "close": 337.09,
+      "volume": 894177.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 337.96,
+      "high": 338.41,
+      "low": 332.545,
+      "close": 335.73,
+      "volume": 1141511.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 335.49,
+      "high": 339.62,
+      "low": 333.12,
+      "close": 339.0,
+      "volume": 929958.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 340.35,
+      "high": 345.28,
+      "low": 338.84,
+      "close": 339.85,
+      "volume": 986501.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 341.075,
+      "high": 341.73,
+      "low": 335.6,
+      "close": 336.87,
+      "volume": 1168450.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.72,
+      "high": 338.905,
+      "low": 334.33,
+      "close": 335.88,
+      "volume": 788509.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 335.955,
+      "high": 341.67,
+      "low": 334.6,
+      "close": 341.02,
+      "volume": 842202.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.55,
+      "high": 342.97,
+      "low": 338.04,
+      "close": 338.4,
+      "volume": 1081425.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Anthropic Eyes Monster $2 Trillion IPO, Yet Deal Veteran Says It Won’t Be a Market Catalyst",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62044458/anthropic-eyes-monster-2-trillion-ipo-yet-deal-veteran-says-it-wont-be-a-market-catalyst",
+      "published_at": "2026-09-29T11:18:42+00:00"
+    },
+    {
+      "headline": "MU Stock Is ‘Absolutely in a Bubble,’ But Bulls Can Still Make Money, Says Analyst: ‘Best Cycle Anyone’ Has Ever Seen",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/62043659/micron-is-in-the-best-cycle-anyone-has-ever-seen-mu-stock-is-in-a-bubble-but-bulls-can-still-profit-says-analyst",
+      "published_at": "2026-09-29T10:39:38+00:00"
+    },
+    {
+      "headline": "Exploring The Competitive Space: Apple Versus Industry Peers In Technology Hardware, Storage &amp; Peripherals",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62042510/exploring-competitive-space-apple-versus-industry-peers-technology-hardware-storage-amp-peripherals",
+      "published_at": "2026-09-29T09:58:38+00:00"
+    },
+    {
+      "headline": "Anthropic Bets Big On AI, Bleeds Billions: Key Details From The Reported IPO Prospectus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62038979/anthropic-ipo-prospectus-ai-losses-billions-key-details",
+      "published_at": "2026-09-29T05:21:11+00:00"
+    },
+    {
+      "headline": "Oil Rises; Meta’s Muse Trade Extends To CPU Stocks Like Intel, AMD, Arm, Qualcomm",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/62031079/oil-rises-meta-muse-trade-extends-to-cpu-stocks-like-intel-amd-arm-qualcomm",
+      "published_at": "2026-09-28T17:12:08+00:00"
+    },
+    {
+      "headline": "What Is Going on With Qualcomm Stock on Monday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62029711/what-is-going-on-with-qualcomm-stock-on-monday-2",
+      "published_at": "2026-09-28T16:37:03+00:00"
+    },
+    {
+      "headline": "Apple, Amazon Face UK Regulator Lawsuit Against Alleged Unlawful Anticompetitive Agreements",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62028960/apple-amazon-face-uk-regulator-lawsuit-against-alleged-unlawful-anticompetitive-agreements",
+      "published_at": "2026-09-28T16:21:26+00:00"
+    },
+    {
+      "headline": "Nvidia Tops $5.4T, Outvalues Russell 2000: Michael Burry’s AI Warning Raises ETF Questions",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/62025654/nvidia-tops-5-4t-outvalues-russell-2000-michael-burrys-ai-warning-raises-etf-questions",
+      "published_at": "2026-09-28T14:54:51+00:00"
+    },
+    {
+      "headline": "Why Meta’s 13% Stock Gain Last Week Could Be Just the Start — Gene Munster Sees $11 Billion Revenue Opportunity That Could ‘Blow Us Away’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/62017309/why-metas-13-stock-gain-last-week-could-be-just-the-start-gene-munster-sees-11-billion-revenue-opportunity-that-could-blow-us-away",
+      "published_at": "2026-09-28T11:20:41+00:00"
+    },
+    {
+      "headline": "Nvidia's $5.4 Trillion Market Cap 'Seems Crazy' Next to $3.5 Trillion Russell 2000 Total, Says Charlie Bilello",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/62016564/nvidias-5-4-trillion-market-cap-seems-crazy-next-to-3-5-trillion-russell-2000-total-says-charlie-bilello",
+      "published_at": "2026-09-28T10:40:01+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-09-29T12:30:59.799911+00:00",
+  "price": 342.77,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-17",
+      "open": 346.265,
+      "high": 347.22,
+      "low": 341.945,
+      "close": 344.1,
+      "volume": 584704.0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 342.405,
+      "high": 344.78,
+      "low": 340.21,
+      "close": 344.03,
+      "volume": 901431.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 342.5,
+      "high": 346.72,
+      "low": 340.78,
+      "close": 344.795,
+      "volume": 684392.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 342.795,
+      "high": 343.83,
+      "low": 338.57,
+      "close": 340.59,
+      "volume": 591452.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 342.355,
+      "high": 346.175,
+      "low": 340.42,
+      "close": 344.75,
+      "volume": 616795.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 343.62,
+      "high": 351.59,
+      "low": 342.49,
+      "close": 348.09,
+      "volume": 861403.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 349.375,
+      "high": 350.09,
+      "low": 345.61,
+      "close": 346.945,
+      "volume": 692301.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 346.61,
+      "high": 346.745,
+      "low": 340.205,
+      "close": 342.06,
+      "volume": 568863.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 339.68,
+      "high": 341.69,
+      "low": 338.54,
+      "close": 340.59,
+      "volume": 767720.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.845,
+      "high": 349.09,
+      "low": 340.77,
+      "close": 346.61,
+      "volume": 929692.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 344.04,
+      "high": 344.24,
+      "low": 337.165,
+      "close": 339.17,
+      "volume": 613493.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 335.855,
+      "high": 337.175,
+      "low": 333.11,
+      "close": 334.995,
+      "volume": 653878.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 333.725,
+      "high": 339.73,
+      "low": 332.97,
+      "close": 337.12,
+      "volume": 619670.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.605,
+      "high": 343.505,
+      "low": 337.1,
+      "close": 338.34,
+      "volume": 586852.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 335.44,
+      "high": 339.64,
+      "low": 333.235,
+      "close": 338.39,
+      "volume": 752823.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.53,
+      "high": 331.685,
+      "low": 327.92,
+      "close": 330.655,
+      "volume": 1192931.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.165,
+      "high": 333.21,
+      "low": 327.79,
+      "close": 332.67,
+      "volume": 475560.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 335.05,
+      "high": 342.91,
+      "low": 335.05,
+      "close": 338.44,
+      "volume": 586340.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 342.995,
+      "high": 349.9,
+      "low": 342.35,
+      "close": 349.445,
+      "volume": 1245888.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 346.86,
+      "high": 348.03,
+      "low": 342.71,
+      "close": 344.98,
+      "volume": 552579.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 346.99,
+      "high": 348.39,
+      "low": 340.69,
+      "close": 342.94,
+      "volume": 588712.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.63,
+      "high": 349.45,
+      "low": 343.92,
+      "close": 347.41,
+      "volume": 642188.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.7,
+      "high": 364.09,
+      "low": 350.22,
+      "close": 351.18,
+      "volume": 1033346.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.25,
+      "high": 343.05,
+      "low": 336.235,
+      "close": 342.33,
+      "volume": 837155.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 342.5,
+      "high": 346.93,
+      "low": 341.155,
+      "close": 343.845,
+      "volume": 545552.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.38,
+      "high": 343.5,
+      "low": 339.59,
+      "close": 342.77,
+      "volume": 655719.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Anthropic Eyes Monster $2 Trillion IPO, Yet Deal Veteran Says It Won’t Be a Market Catalyst",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62044458/anthropic-eyes-monster-2-trillion-ipo-yet-deal-veteran-says-it-wont-be-a-market-catalyst",
+      "published_at": "2026-09-29T11:18:42+00:00"
+    },
+    {
+      "headline": "Google Challenges Two EU Orders, Saying Opening Services To AI Rivals And Search Data To Competitors Would Undermine Privacy Safeguards",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62041357/google-challenges-two-eu-orders-saying-opening-services-ai-rivals-and-search-data-competitors-would-",
+      "published_at": "2026-09-29T07:51:59+00:00"
+    },
+    {
+      "headline": "Anthropic Bets Big On AI, Bleeds Billions: Key Details From The Reported IPO Prospectus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62038979/anthropic-ipo-prospectus-ai-losses-billions-key-details",
+      "published_at": "2026-09-29T05:21:11+00:00"
+    },
+    {
+      "headline": "'Anthropic Leaders To Control AI Lab Via 'Founder LLC' To Promote Public Good Over Market Forces' - Reuters Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62040989/anthropic-leaders-control-ai-lab-founder-llc-promote-public-good-over-market-forces-reuters-exclusiv",
+      "published_at": "2026-09-29T07:04:16+00:00"
+    },
+    {
+      "headline": "'Anthropic's IPO Prospectus Shows Sweeping AI Vision, Surging Costs' - Reuters Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62040977/anthropic-s-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters-exclusive",
+      "published_at": "2026-09-29T07:01:49+00:00"
+    },
+    {
+      "headline": "Mike Johnson Says US Must ‘Strike the Right Balance’ on AI as Trump Meets Zuckerberg, Huang, Amodei and Brockman Amid Growing Safety Debate",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/09/62040781/mike-johnson-says-us-must-strike-the-right-balance-on-ai-as-trump-meets-zuckerberg-huang-amodei-and-brockman-amid-growing-safety-debate",
+      "published_at": "2026-09-29T06:24:49+00:00"
+    },
+    {
+      "headline": "Trump's AI Lunch Will Bring Together Mark Zuckerberg, Jensen Huang, Other Tech Bigwigs: Here's Who Else Is Invited",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62039917/trump-ai-lunch-zuckerberg-jensen-huang-tech-leaders-invite-list",
+      "published_at": "2026-09-29T05:29:44+00:00"
+    },
+    {
+      "headline": "AI Bubble? Market Expert Says Yes — and this Event Could ‘Drag Down the Entire Sector’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62037201/ai-bubble-market-expert-says-yes-and-this-event-could-drag-down-the-entire-sector",
+      "published_at": "2026-09-28T21:42:48+00:00"
+    },
+    {
+      "headline": "President Trump, Vice President JD Vance, Secretary Of State Marco Rubio, Huang And SpaceX And Tesla Executive Elon Musk Will Attend Event For America.gov, A New AI-Powered Government Website Intended To Consolidate Services And Information From Across Agencies’ Websites",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62034646/president-trump-vice-president-jd-vance-secretary-state-marco-rubio-huang-and-spacex-and-tesla-execu",
+      "published_at": "2026-09-28T19:38:43+00:00"
+    },
+    {
+      "headline": "'OpenAI’s AI agents need to catch up': OpenAI Rumored To Unveil 'Aeon' Consumer AI Agent At DevDay On Tuesday - The Verge",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62033634/openai-s-ai-agents-need-catch-openai-rumored-unveil-aeon-consumer-ai-agent-devday-tuesday-verge",
+      "published_at": "2026-09-28T18:54:15+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
