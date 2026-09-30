@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-09-30T12:26:36.176906+00:00",
+  "price": 227.235,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-18",
+      "open": 220.31,
+      "high": 221.62,
+      "low": 218.705,
+      "close": 219.73,
+      "volume": 4218191.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 221.745,
+      "high": 222.87,
+      "low": 216.79,
+      "close": 217.58,
+      "volume": 2792416.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 218.58,
+      "high": 219.84,
+      "low": 215.665,
+      "close": 216.89,
+      "volume": 3014027.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 218.42,
+      "high": 218.73,
+      "low": 214.52,
+      "close": 214.74,
+      "volume": 3206855.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 215.445,
+      "high": 215.445,
+      "low": 207.4,
+      "close": 208.47,
+      "volume": 3334636.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 211.0,
+      "high": 214.67,
+      "low": 210.11,
+      "close": 212.96,
+      "volume": 3190154.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 212.44,
+      "high": 213.6,
+      "low": 209.25,
+      "close": 209.77,
+      "volume": 3944735.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 222.74,
+      "high": 230.47,
+      "low": 220.96,
+      "close": 228.17,
+      "volume": 7478380.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 227.28,
+      "high": 229.25,
+      "low": 216.82,
+      "close": 217.545,
+      "volume": 5357434.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 218.73,
+      "high": 221.28,
+      "low": 216.23,
+      "close": 220.86,
+      "volume": 3278990.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 216.73,
+      "high": 220.395,
+      "low": 215.12,
+      "close": 217.49,
+      "volume": 3131622.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 218.785,
+      "high": 227.95,
+      "low": 218.53,
+      "close": 224.435,
+      "volume": 4915686.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 225.92,
+      "high": 230.4,
+      "low": 224.765,
+      "close": 228.54,
+      "volume": 3373106.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 231.11,
+      "high": 234.75,
+      "low": 229.635,
+      "close": 230.19,
+      "volume": 3592503.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 233.21,
+      "high": 233.69,
+      "low": 224.86,
+      "close": 225.82,
+      "volume": 3102034.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 225.2,
+      "high": 226.07,
+      "low": 223.46,
+      "close": 223.77,
+      "volume": 2177299.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 220.525,
+      "high": 220.98,
+      "low": 217.21,
+      "close": 218.37,
+      "volume": 2640914.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 221.22,
+      "high": 222.0,
+      "low": 218.17,
+      "close": 218.17,
+      "volume": 1719278.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 211.195,
+      "high": 212.745,
+      "low": 208.94,
+      "close": 211.0,
+      "volume": 2427233.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 213.285,
+      "high": 213.93,
+      "low": 211.16,
+      "close": 212.165,
+      "volume": 1960841.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 214.17,
+      "high": 216.755,
+      "low": 212.5,
+      "close": 213.94,
+      "volume": 2431203.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 218.18,
+      "high": 219.9,
+      "low": 217.145,
+      "close": 219.4,
+      "volume": 2712846.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 219.065,
+      "high": 222.69,
+      "low": 218.04,
+      "close": 222.04,
+      "volume": 2828110.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 222.93,
+      "high": 228.49,
+      "low": 221.58,
+      "close": 227.3,
+      "volume": 3200199.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 226.975,
+      "high": 229.97,
+      "low": 226.59,
+      "close": 228.85,
+      "volume": 2460762.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 230.89,
+      "high": 232.81,
+      "low": 227.035,
+      "close": 227.235,
+      "volume": 2508154.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Dan Ives Calls Physical AI Nvidia’s 'Holy Grail' — This ETF Is Already in the Trade",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/09/62073694/dan-ives-calls-physical-ai-nvidias-holy-grail-this-etf-is-already-in-the-trade",
+      "published_at": "2026-09-30T11:00:08+00:00"
+    },
+    {
+      "headline": "Jacobs Selected By Nvidia To Deploy Its Data Center Digital Twin For A Large-Scale U.S. R&D Facility Under Three-Year Software-As-A-Service Deal; Terms Not Disclosed",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62073522/jacobs-selected-nvidia-deploy-its-data-center-digital-twin-large-scale-u-s-r-d-facility-under-three-",
+      "published_at": "2026-09-30T10:47:55+00:00"
+    },
+    {
+      "headline": "Trump Rejects Deeper AI Cooperation With China, Says It Could Mean Giving Away ‘Lot Of Secrets’ — ‘Whoever Wins Super Intelligence Wins’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/09/62073244/trump-rejects-deeper-ai-cooperation-with-china-says-it-could-mean-giving-away-lot-of-secrets-whoever-wins-super-intelligence-wins",
+      "published_at": "2026-09-30T10:38:32+00:00"
+    },
+    {
+      "headline": "Bill Gates Pushes Back Against Trump, Jensen Huang's Approach to AI Safety: ‘You Can’t Rely on the Industry to Self-Regulate’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62071334/bill-gates-pushes-back-against-trump-jensen-huangs-approach-to-ai-safety-you-cant-rely-on-the-industry-to-self-regulate",
+      "published_at": "2026-09-30T08:38:55+00:00"
+    },
+    {
+      "headline": "MU Stock Split Chatter Divides Traders Online Ahead of Earnings: 'Would It Make Sense' or Get 'Annihilated'?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/09/62071303/micron-stock-nears-q4-earnings-amid-stock-split-speculation",
+      "published_at": "2026-09-30T08:29:37+00:00"
+    },
+    {
+      "headline": "Steve Wozniak Shares 'Unique Perspective' on How AI Will Replace Humans, While Gene Munster Says Chatbots Will 'Blow' Users 'Away' Within a Year",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62069776/steve-wozniak-ai-replace-humans-gene-munster-chatbots-future",
+      "published_at": "2026-09-30T05:06:01+00:00"
+    },
+    {
+      "headline": "Trump Doing 'Free PR' For AI Bosses, Says Ro Khanna: He Also Let Xi Jinping 'Walk Away' Without Tech Treaty",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62069526/trump-ro-khanna-ai-bosses-xi-jinping-tech-treaty-pr-walkaway",
+      "published_at": "2026-09-30T03:08:59+00:00"
+    },
+    {
+      "headline": "Cathie Wood Goes Big on Nvidia After $150 Billion Buyback, Sells $110 Million of AMD: ARK Invest Also Picks Up Tesla, SpaceX Shares",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/09/62069468/cathie-wood-goes-big-on-nvidia-after-150-billion-buyback-sells-110-million-of-amd-ark-invest-also-picks-up-tesla-spacex-shares",
+      "published_at": "2026-09-30T02:49:24+00:00"
+    },
+    {
+      "headline": "Mark Zuckerberg Labels It 'Significant Positive Step,' Musk Nods Yes as Trump Inks New AI Safety Deal With Top CEOs",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62069379/trump-ai-safety-deal-zuckerberg-musk-top-ceos",
+      "published_at": "2026-09-30T02:12:17+00:00"
+    },
+    {
+      "headline": "NVIDIA's Jensen Huang Says Declaration Agreed At White House Has A Lot Of Teeth",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62067650/nvidia-s-jensen-huang-says-declaration-agreed-white-house-has-lot-teeth",
+      "published_at": "2026-09-29T21:16:50+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

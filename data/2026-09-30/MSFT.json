@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-09-30T12:26:34.940794+00:00",
+  "price": 508.66,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-18",
+      "open": 481.55,
+      "high": 484.07,
+      "low": 477.265,
+      "close": 481.82,
+      "volume": 800514.0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 479.82,
+      "high": 489.155,
+      "low": 479.72,
+      "close": 484.42,
+      "volume": 544751.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 482.4,
+      "high": 484.105,
+      "low": 479.525,
+      "close": 481.205,
+      "volume": 401570.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 480.585,
+      "high": 486.33,
+      "low": 478.91,
+      "close": 483.33,
+      "volume": 437111.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 483.23,
+      "high": 490.56,
+      "low": 481.9,
+      "close": 487.32,
+      "volume": 420632.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 485.565,
+      "high": 492.37,
+      "low": 484.425,
+      "close": 491.55,
+      "volume": 400583.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 487.855,
+      "high": 497.4,
+      "low": 487.55,
+      "close": 496.36,
+      "volume": 443202.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 494.7,
+      "high": 506.41,
+      "low": 490.13,
+      "close": 504.98,
+      "volume": 947015.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 505.33,
+      "high": 517.755,
+      "low": 504.975,
+      "close": 513.67,
+      "volume": 1011599.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 510.32,
+      "high": 512.18,
+      "low": 506.4,
+      "close": 506.95,
+      "volume": 538872.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 497.845,
+      "high": 505.91,
+      "low": 497.11,
+      "close": 501.19,
+      "volume": 482981.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 499.78,
+      "high": 500.24,
+      "low": 493.83,
+      "close": 496.74,
+      "volume": 369238.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 501.4,
+      "high": 515.55,
+      "low": 501.4,
+      "close": 510.15,
+      "volume": 850782.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 510.1,
+      "high": 510.82,
+      "low": 499.38,
+      "close": 499.545,
+      "volume": 542979.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 493.2,
+      "high": 495.05,
+      "low": 490.16,
+      "close": 493.92,
+      "volume": 478010.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 492.56,
+      "high": 494.22,
+      "low": 489.8,
+      "close": 491.65,
+      "volume": 327829.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 488.34,
+      "high": 494.46,
+      "low": 486.25,
+      "close": 492.49,
+      "volume": 358672.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 495.67,
+      "high": 498.825,
+      "low": 492.665,
+      "close": 495.58,
+      "volume": 368151.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 497.52,
+      "high": 509.92,
+      "low": 495.45,
+      "close": 505.72,
+      "volume": 830370.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 500.06,
+      "high": 505.78,
+      "low": 495.555,
+      "close": 497.105,
+      "volume": 729545.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 493.35,
+      "high": 495.815,
+      "low": 487.26,
+      "close": 490.45,
+      "volume": 636769.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 496.835,
+      "high": 501.4,
+      "low": 493.275,
+      "close": 497.67,
+      "volume": 534473.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 497.635,
+      "high": 498.14,
+      "low": 491.13,
+      "close": 493.1,
+      "volume": 659838.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 495.56,
+      "high": 501.71,
+      "low": 491.35,
+      "close": 501.64,
+      "volume": 798550.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 507.125,
+      "high": 508.0,
+      "low": 493.705,
+      "close": 498.0,
+      "volume": 598345.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 501.79,
+      "high": 509.34,
+      "low": 495.97,
+      "close": 500.62,
+      "volume": 543277.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 495.205,
+      "high": 498.79,
+      "low": 491.23,
+      "close": 497.585,
+      "volume": 787048.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 498.855,
+      "high": 519.39,
+      "low": 497.35,
+      "close": 516.155,
+      "volume": 1481325.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 505.47,
+      "high": 513.29,
+      "low": 502.38,
+      "close": 509.36,
+      "volume": 525669.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 508.31,
+      "high": 513.545,
+      "low": 502.56,
+      "close": 508.92,
+      "volume": 564770.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Microsoft To Rally Around 20%? Here Are 10 Top Analyst Forecasts For Wednesday",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/09/62076005/microsoft-to-rally-around-20-here-are-10-top-analyst-forecasts-for-wednesday",
+      "published_at": "2026-09-30T12:22:08+00:00"
+    },
+    {
+      "headline": "What's Going on With Nebius Stock on Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62075977/whats-going-on-with-nebius-stock-on-wednesday",
+      "published_at": "2026-09-30T12:19:54+00:00"
+    },
+    {
+      "headline": "Anthropic IPO Filing Reveals a Major Vulnerability: Nearly 50% of Sales Flow Through Amazon and Google as Revenue Concentration Raises Risks: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/private-markets/26/09/62075939/anthropic-ipo-filing-reveals-a-major-vulnerability-nearly-50-of-sales-flow-through-amazon-and-google-as-revenue-concentration-raises-risks-report",
+      "published_at": "2026-09-30T12:18:17+00:00"
+    },
+    {
+      "headline": "At 5% Yields, Big Tech Marches Onto the Death Ground",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62073107/at-5-yields-big-tech-marches-onto-the-death-ground",
+      "published_at": "2026-09-30T10:32:54+00:00"
+    },
+    {
+      "headline": "Bill Clinton Sounds Alarm on HIV Funding: ‘Cheaper Medicines Mean Nothing If They Never Reach People’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/09/62071762/bill-clinton-sounds-alarm-on-hiv-funding-cheaper-medicines-mean-nothing-if-they-never-reach-people",
+      "published_at": "2026-09-30T09:26:22+00:00"
+    },
+    {
+      "headline": "Piper Sandler Maintains Overweight on Microsoft, Raises Price Target to $610",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62071579/piper-sandler-maintains-overweight-microsoft-raises-price-target-610",
+      "published_at": "2026-09-30T09:07:32+00:00"
+    },
+    {
+      "headline": "AMZN, MSFT, GOOGL Need $1 Trillion in Revenue To Earn 15% Return on AI Capex — Here's What Goldman Says About Their $1.69 Trillion Backlog",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/62071472/amzn-msft-googl-need-1-trillion-in-revenue-to-earn-15-return-on-ai-capex-heres-what-goldman-says-about-their-1-69-trillion-backlog",
+      "published_at": "2026-09-30T08:53:47+00:00"
+    },
+    {
+      "headline": "OpenAI CFO Accidentally Calls Dots as Muse Giving Meta's AI Agent an Unexpected Shoutout in Faux Pas Moment — Shay Boloor Takes a Dig at 'Brand Differentiation'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62071461/openai-cfo-accidentally-calls-dots-as-muse-giving-metas-ai-agent-an-unexpected-shoutout-in-faux-pas-moment-shay-boloor-takes-a-dig-at-brand-differentiation",
+      "published_at": "2026-09-30T08:52:33+00:00"
+    },
+    {
+      "headline": "Bill Gates Pushes Back Against Trump, Jensen Huang's Approach to AI Safety: ‘You Can’t Rely on the Industry to Self-Regulate’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62071334/bill-gates-pushes-back-against-trump-jensen-huangs-approach-to-ai-safety-you-cant-rely-on-the-industry-to-self-regulate",
+      "published_at": "2026-09-30T08:38:55+00:00"
+    },
+    {
+      "headline": "'Anthropic IPO prospectus lays bare deep dependence on Big Tech partners; Sales through Amazon and Google were $2.16B  in 2025, filing seen by Reuters shows'- Reuters Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62067121/anthropic-ipo-prospectus-lays-bare-deep-dependence-big-tech-partners-sales-through-amazon-and-google",
+      "published_at": "2026-09-29T20:58:47+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
