@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-10-01T12:26:24.331611+00:00",
+  "price": 348.74,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-19",
+      "open": 342.5,
+      "high": 346.72,
+      "low": 340.78,
+      "close": 344.795,
+      "volume": 684392.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 342.795,
+      "high": 343.83,
+      "low": 338.57,
+      "close": 340.59,
+      "volume": 591452.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 342.355,
+      "high": 346.175,
+      "low": 340.42,
+      "close": 344.75,
+      "volume": 616795.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 343.62,
+      "high": 351.59,
+      "low": 342.49,
+      "close": 348.09,
+      "volume": 861403.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 349.375,
+      "high": 350.09,
+      "low": 345.61,
+      "close": 346.945,
+      "volume": 692301.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 346.61,
+      "high": 346.745,
+      "low": 340.205,
+      "close": 342.06,
+      "volume": 568863.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 339.68,
+      "high": 341.69,
+      "low": 338.54,
+      "close": 340.59,
+      "volume": 767720.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.845,
+      "high": 349.09,
+      "low": 340.77,
+      "close": 346.61,
+      "volume": 929692.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 344.04,
+      "high": 344.24,
+      "low": 337.165,
+      "close": 339.17,
+      "volume": 613493.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 335.855,
+      "high": 337.175,
+      "low": 333.11,
+      "close": 334.995,
+      "volume": 653878.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 333.725,
+      "high": 339.73,
+      "low": 332.97,
+      "close": 337.12,
+      "volume": 619670.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.605,
+      "high": 343.505,
+      "low": 337.1,
+      "close": 338.34,
+      "volume": 586852.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 335.44,
+      "high": 339.64,
+      "low": 333.235,
+      "close": 338.39,
+      "volume": 752823.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.53,
+      "high": 331.685,
+      "low": 327.92,
+      "close": 330.655,
+      "volume": 1192931.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.165,
+      "high": 333.21,
+      "low": 327.79,
+      "close": 332.67,
+      "volume": 475560.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 335.05,
+      "high": 342.91,
+      "low": 335.05,
+      "close": 338.44,
+      "volume": 586340.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 342.995,
+      "high": 349.9,
+      "low": 342.35,
+      "close": 349.445,
+      "volume": 1245888.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 346.86,
+      "high": 348.03,
+      "low": 342.71,
+      "close": 344.98,
+      "volume": 552579.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 346.99,
+      "high": 348.39,
+      "low": 340.69,
+      "close": 342.94,
+      "volume": 588712.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.63,
+      "high": 349.45,
+      "low": 343.92,
+      "close": 347.41,
+      "volume": 642188.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.7,
+      "high": 364.09,
+      "low": 350.22,
+      "close": 351.18,
+      "volume": 1033346.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.25,
+      "high": 343.05,
+      "low": 336.235,
+      "close": 342.33,
+      "volume": 837155.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 342.5,
+      "high": 346.93,
+      "low": 341.155,
+      "close": 343.845,
+      "volume": 545552.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.38,
+      "high": 343.5,
+      "low": 339.59,
+      "close": 342.77,
+      "volume": 655719.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 342.035,
+      "high": 342.775,
+      "low": 338.02,
+      "close": 340.95,
+      "volume": 663441.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 344.235,
+      "high": 352.56,
+      "low": 341.0,
+      "close": 344.1,
+      "volume": 1005081.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "AI Threat? Accenture Posts Record Big-Ticket Client Bookings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/10/62103078/ai-threat-accenture-posts-record-big-ticket-client-bookings",
+      "published_at": "2026-10-01T12:13:23+00:00"
+    },
+    {
+      "headline": "Michael Burry Sounds Alarm on $1 Trillion AI Spending Using 145-Year-Old Case Study — Backs META, GOOGL's 'System 2' Over LLMs",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62099464/michael-burry-sounds-alarm-on-1-trillion-ai-spending-using-145-year-old-case-study-backs-meta-googls-system-2-over-llms",
+      "published_at": "2026-10-01T10:02:31+00:00"
+    },
+    {
+      "headline": "Meta's AI Spending Has a $3.9 Billion Tax Perk — Mark Zuckerberg-Led Company Reportedly Classified Data Centers as ‘Pilot Models’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62099040/metas-ai-spending-has-a-3-9-billion-tax-perk-mark-zuckerberg-led-company-reportedly-classified-data-centers-as-pilot-models",
+      "published_at": "2026-10-01T09:31:05+00:00"
+    },
+    {
+      "headline": "Bernie Sanders Slams Trump’s AI ‘Oligarchs’ as Elon Musk, Jeff Bezos, Mark Zuckerberg and Jensen Huang’s Wealth Tops $1.7 Trillion: ‘You’re Asking Us To Trust The People…’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62098649/bernie-sanders-slams-trumps-ai-oligarchs-as-elon-musk-jeff-bezos-mark-zuckerberg-and-jensen-huangs-wealth-tops-1-7-trillion-youre-asking-us-to",
+      "published_at": "2026-10-01T08:39:53+00:00"
+    },
+    {
+      "headline": "Jim Cramer Says 'Buy' Apple Stock Because of iPhone Duo, Not On Smart Home Device Buzz: Calls the $1,999 Foldable 'Amazing'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62098081/jim-cramer-apple-stock-iphone-foldable-1999-smart-home-devices",
+      "published_at": "2026-10-01T07:16:54+00:00"
+    },
+    {
+      "headline": "Elon Musk Amplifies Privacy Concerns Over Meta’s Muse After Reports Emerge AI Agent Accessed Private Messages (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62013450/elon-musk-meta-muse-privacy-private-messages-ai-agent",
+      "published_at": "2026-09-28T05:17:40+00:00"
+    },
+    {
+      "headline": "Amazon Signs 20-Year Nuclear Power Deal With Constellation, Unlocking $3 Billion Investment to Fuel AI-Induced Electricity Demand",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62097215/amazon-constellation-nuclear-power-deal-ai-electricity-demand-3-billion",
+      "published_at": "2026-10-01T05:20:03+00:00"
+    },
+    {
+      "headline": "Trump Losing Midterms Could Be the 'Trigger' that Pops AI Bubble, Says Market Analyst — Here's What Crypto Punters Think",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/62096844/trump-midterms-ai-bubble-trigger-crypto-punters",
+      "published_at": "2026-10-01T03:32:22+00:00"
+    },
+    {
+      "headline": "Micron, Alphabet, The Generation Essentials Group, Robinhood and Progress Software: Why These 5 Stocks Are on Investors' Radars Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62096506/micron-alphabet-the-generation-essentials-group-robinhood-and-progress-software-why-these-5-stocks-are-on-investors-radars-today",
+      "published_at": "2026-10-01T01:31:14+00:00"
+    },
+    {
+      "headline": "Alphabet Stock Jumps as Google Releases Gemini 4 Argon",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62094597/alphabet-stock-jumps-as-google-releases-gemini-4-argon",
+      "published_at": "2026-09-30T21:01:08+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

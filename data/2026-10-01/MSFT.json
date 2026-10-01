@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-10-01T12:26:26.861562+00:00",
+  "price": 512.91,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-19",
+      "open": 479.82,
+      "high": 489.155,
+      "low": 479.72,
+      "close": 484.42,
+      "volume": 544751.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 482.4,
+      "high": 484.105,
+      "low": 479.525,
+      "close": 481.205,
+      "volume": 401570.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 480.585,
+      "high": 486.33,
+      "low": 478.91,
+      "close": 483.33,
+      "volume": 437111.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 483.23,
+      "high": 490.56,
+      "low": 481.9,
+      "close": 487.32,
+      "volume": 420632.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 485.565,
+      "high": 492.37,
+      "low": 484.425,
+      "close": 491.55,
+      "volume": 400583.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 487.855,
+      "high": 497.4,
+      "low": 487.55,
+      "close": 496.36,
+      "volume": 443202.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 494.7,
+      "high": 506.41,
+      "low": 490.13,
+      "close": 504.98,
+      "volume": 947015.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 505.33,
+      "high": 517.755,
+      "low": 504.975,
+      "close": 513.67,
+      "volume": 1011599.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 510.32,
+      "high": 512.18,
+      "low": 506.4,
+      "close": 506.95,
+      "volume": 538872.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 497.845,
+      "high": 505.91,
+      "low": 497.11,
+      "close": 501.19,
+      "volume": 482981.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 499.78,
+      "high": 500.24,
+      "low": 493.83,
+      "close": 496.74,
+      "volume": 369238.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 501.4,
+      "high": 515.55,
+      "low": 501.4,
+      "close": 510.15,
+      "volume": 850782.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 510.1,
+      "high": 510.82,
+      "low": 499.38,
+      "close": 499.545,
+      "volume": 542979.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 493.2,
+      "high": 495.05,
+      "low": 490.16,
+      "close": 493.92,
+      "volume": 478010.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 492.56,
+      "high": 494.22,
+      "low": 489.8,
+      "close": 491.65,
+      "volume": 327829.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 488.34,
+      "high": 494.46,
+      "low": 486.25,
+      "close": 492.49,
+      "volume": 358672.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 495.67,
+      "high": 498.825,
+      "low": 492.665,
+      "close": 495.58,
+      "volume": 368151.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 497.52,
+      "high": 509.92,
+      "low": 495.45,
+      "close": 505.72,
+      "volume": 830370.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 500.06,
+      "high": 505.78,
+      "low": 495.555,
+      "close": 497.105,
+      "volume": 729545.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 493.35,
+      "high": 495.815,
+      "low": 487.26,
+      "close": 490.45,
+      "volume": 636769.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 496.835,
+      "high": 501.4,
+      "low": 493.275,
+      "close": 497.67,
+      "volume": 534473.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 497.635,
+      "high": 498.14,
+      "low": 491.13,
+      "close": 493.1,
+      "volume": 659838.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 495.56,
+      "high": 501.71,
+      "low": 491.35,
+      "close": 501.64,
+      "volume": 798550.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 507.125,
+      "high": 508.0,
+      "low": 493.705,
+      "close": 498.0,
+      "volume": 598345.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 501.79,
+      "high": 509.34,
+      "low": 495.97,
+      "close": 500.62,
+      "volume": 543277.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 495.205,
+      "high": 498.79,
+      "low": 491.23,
+      "close": 497.585,
+      "volume": 787048.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 498.855,
+      "high": 519.39,
+      "low": 497.35,
+      "close": 516.155,
+      "volume": 1481325.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 505.47,
+      "high": 513.29,
+      "low": 502.38,
+      "close": 509.36,
+      "volume": 525669.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 508.31,
+      "high": 513.545,
+      "low": 502.56,
+      "close": 508.92,
+      "volume": 564770.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 511.205,
+      "high": 519.76,
+      "low": 510.42,
+      "close": 512.91,
+      "volume": 863492.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Chuck Schumer Slams Hyde Amendment on 50th Anniversary, Says Abortion Restrictions Force Americans to Choose Between Care, Rent, Food: ‘Health Care Must Not Be a Privilege’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/10/62100052/chuck-schumer-slams-hyde-amendment-on-50th-anniversary-says-abortion-restrictions-force-americans-to-choose-between-care-rent-food-health-care-must-not-be-a-privilege",
+      "published_at": "2026-10-01T10:17:32+00:00"
+    },
+    {
+      "headline": "Broadcom To Lend Up To $42 Billion To Anthropic For Infrastructure Lease Agreements, According To IPO Prospectus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62099488/broadcom-lend-42-billion-anthropic-infrastructure-lease-agreements-according-ipo-prospectus",
+      "published_at": "2026-10-01T10:03:14+00:00"
+    },
+    {
+      "headline": "Meta's AI Spending Has a $3.9 Billion Tax Perk — Mark Zuckerberg-Led Company Reportedly Classified Data Centers as ‘Pilot Models’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62099040/metas-ai-spending-has-a-3-9-billion-tax-perk-mark-zuckerberg-led-company-reportedly-classified-data-centers-as-pilot-models",
+      "published_at": "2026-10-01T09:31:05+00:00"
+    },
+    {
+      "headline": "Amazon Signs 20-Year Nuclear Power Deal With Constellation, Unlocking $3 Billion Investment to Fuel AI-Induced Electricity Demand",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62097215/amazon-constellation-nuclear-power-deal-ai-electricity-demand-3-billion",
+      "published_at": "2026-10-01T05:20:03+00:00"
+    },
+    {
+      "headline": "'OpenAI Executive Backs Out of Second $25M Donation to A.I. Super PAC'- NY Times",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62095205/openai-executive-backs-out-second-25m-donation-i-super-pac-ny-times",
+      "published_at": "2026-09-30T21:24:32+00:00"
+    },
+    {
+      "headline": "'How New Data Center Debt Concessions Could Stall AI Build-Outs' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62090599/how-new-data-center-debt-concessions-could-stall-ai-build-outs-information",
+      "published_at": "2026-09-30T18:58:23+00:00"
+    },
+    {
+      "headline": "OpenAI CEO Sam Altman To Skip Congressional Hearing On Rogue AI Agents, NBC News Reports",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/GOOGL",
+      "published_at": "2026-09-30T18:52:50+00:00"
+    },
+    {
+      "headline": "Make Or Break for AI Trade–Micron Earnings Ahead; Consumers Spend More Even As Income Drops",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/62087536/make-or-break-for-ai-trade-micron-earnings-ahead-consumers-spend-more-even-as-income-drops",
+      "published_at": "2026-09-30T17:26:58+00:00"
+    },
+    {
+      "headline": "OpenAI Announces It Identified, Disrupted Coordinated Campaign Designed To Extract Protected Reasoning From Its Models; Operators Did Not Break Our Encryption, Compromise A Database, Or Gain Direct Access To Stored User Conversations",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62087137/openai-announces-it-identified-disrupted-coordinated-campaign-designed-extract-protected-reasoning-i",
+      "published_at": "2026-09-30T17:11:31+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Climbs as Cooler PCE Cuts Rate Hike Bets, Micron Earnings Loom: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/62086386/nasdaq-100-climbs-cooler-pce-cuts-rate-hike-bets-micron-earnings-loom-stock-market-today",
+      "published_at": "2026-09-30T16:47:40+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

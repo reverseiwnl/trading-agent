@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-10-01T12:26:22.982164+00:00",
+  "price": 331.61,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-19",
+      "open": 310.145,
+      "high": 319.26,
+      "low": 309.73,
+      "close": 316.9,
+      "volume": 1649295.0
+    },
+    {
+      "date": "2026-08-20",
+      "open": 317.455,
+      "high": 320.28,
+      "low": 310.66,
+      "close": 311.29,
+      "volume": 1163420.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 311.425,
+      "high": 312.3,
+      "low": 307.045,
+      "close": 309.27,
+      "volume": 1017701.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 311.47,
+      "high": 313.34,
+      "low": 310.05,
+      "close": 310.385,
+      "volume": 725005.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 310.935,
+      "high": 313.55,
+      "low": 308.21,
+      "close": 309.895,
+      "volume": 753048.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 310.38,
+      "high": 315.43,
+      "low": 308.84,
+      "close": 313.475,
+      "volume": 1025352.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 310.425,
+      "high": 315.38,
+      "low": 309.42,
+      "close": 314.54,
+      "volume": 1062638.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 316.865,
+      "high": 322.36,
+      "low": 315.515,
+      "close": 319.58,
+      "volume": 1076745.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 319.68,
+      "high": 321.215,
+      "low": 312.94,
+      "close": 317.14,
+      "volume": 994365.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 316.97,
+      "high": 327.3,
+      "low": 314.73,
+      "close": 325.25,
+      "volume": 1709875.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 327.01,
+      "high": 328.36,
+      "low": 323.57,
+      "close": 325.03,
+      "volume": 1152718.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 324.91,
+      "high": 330.79,
+      "low": 324.155,
+      "close": 328.22,
+      "volume": 1042722.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 328.39,
+      "high": 328.895,
+      "low": 317.86,
+      "close": 319.95,
+      "volume": 1224559.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 317.24,
+      "high": 320.7,
+      "low": 314.9,
+      "close": 316.26,
+      "volume": 1126523.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 315.59,
+      "high": 319.12,
+      "low": 309.92,
+      "close": 315.42,
+      "volume": 2458568.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 316.76,
+      "high": 326.66,
+      "low": 316.635,
+      "close": 326.615,
+      "volume": 2202355.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 327.45,
+      "high": 336.21,
+      "low": 326.57,
+      "close": 332.245,
+      "volume": 1563982.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 334.7,
+      "high": 335.5,
+      "low": 331.35,
+      "close": 333.0,
+      "volume": 1335636.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 330.445,
+      "high": 331.78,
+      "low": 328.41,
+      "close": 331.335,
+      "volume": 930284.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 332.44,
+      "high": 335.47,
+      "low": 330.71,
+      "close": 332.49,
+      "volume": 903206.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 334.805,
+      "high": 338.31,
+      "low": 330.23,
+      "close": 337.09,
+      "volume": 894177.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 337.96,
+      "high": 338.41,
+      "low": 332.545,
+      "close": 335.73,
+      "volume": 1141511.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 335.49,
+      "high": 339.62,
+      "low": 333.12,
+      "close": 339.0,
+      "volume": 929958.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 340.35,
+      "high": 345.28,
+      "low": 338.84,
+      "close": 339.85,
+      "volume": 986501.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 341.075,
+      "high": 341.73,
+      "low": 335.6,
+      "close": 336.87,
+      "volume": 1168450.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.72,
+      "high": 338.905,
+      "low": 334.33,
+      "close": 335.88,
+      "volume": 788509.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 335.955,
+      "high": 341.67,
+      "low": 334.6,
+      "close": 341.02,
+      "volume": 842202.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.55,
+      "high": 342.97,
+      "low": 338.04,
+      "close": 338.4,
+      "volume": 1081425.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 336.38,
+      "high": 336.56,
+      "low": 328.7,
+      "close": 329.58,
+      "volume": 1247778.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 330.26,
+      "high": 339.48,
+      "low": 330.18,
+      "close": 333.21,
+      "volume": 1479671.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Needham Reiterates Hold on Appleto Hold",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62100973/needham-reiterates-hold-appleto-hold",
+      "published_at": "2026-10-01T11:01:27+00:00"
+    },
+    {
+      "headline": "Inquiry Into Apple's Competitor Dynamics In Technology Hardware, Storage &amp; Peripherals Industry",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62099317/inquiry-apple-s-competitor-dynamics-technology-hardware-storage-amp-peripherals-industry",
+      "published_at": "2026-10-01T09:59:13+00:00"
+    },
+    {
+      "headline": "Jim Cramer Says 'Buy' Apple Stock Because of iPhone Duo, Not On Smart Home Device Buzz: Calls the $1,999 Foldable 'Amazing'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62098081/jim-cramer-apple-stock-iphone-foldable-1999-smart-home-devices",
+      "published_at": "2026-10-01T07:16:54+00:00"
+    },
+    {
+      "headline": "Make Or Break for AI Trade–Micron Earnings Ahead; Consumers Spend More Even As Income Drops",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/09/62087536/make-or-break-for-ai-trade-micron-earnings-ahead-consumers-spend-more-even-as-income-drops",
+      "published_at": "2026-09-30T17:26:58+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Climbs as Cooler PCE Cuts Rate Hike Bets, Micron Earnings Loom: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/62086386/nasdaq-100-climbs-cooler-pce-cuts-rate-hike-bets-micron-earnings-loom-stock-market-today",
+      "published_at": "2026-09-30T16:47:40+00:00"
+    },
+    {
+      "headline": "Growth Leads Sectors In Wednesday Trading As Defensives Trail",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/09/62083340/growth-leads-sectors-in-wednesday-trading-as-defensives-trail",
+      "published_at": "2026-09-30T15:12:53+00:00"
+    },
+    {
+      "headline": "Micron’s AI Boom Isn’t Done yet, Analysts Say — but Can the Stock Keep Exploding Higher?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62071978/microns-ai-boom-isnt-done-yet-analysts-say-but-can-the-stock-keep-exploding-higher",
+      "published_at": "2026-09-30T09:43:20+00:00"
+    },
+    {
+      "headline": "Meta’s Next AI Gold Mine? Muse Targets 200 Million Small Businesses As Zuckerberg Eyes Fees, Subscriptions",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62074469/metas-next-ai-gold-mine-muse-targets-200-million-small-businesses-as-zuckerberg-eyes-fees-subscriptions",
+      "published_at": "2026-09-30T11:31:56+00:00"
+    },
+    {
+      "headline": "Is Apple's Strategy Paying Off? Strong iPhone 18 Pro China Demand Sparks Revenue Upside",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/62074286/is-apples-strategy-paying-off-strong-iphone-18-pro-china-demand-sparks-revenue-upside",
+      "published_at": "2026-09-30T11:24:54+00:00"
+    },
+    {
+      "headline": "'Apple Is Finally Ready to Enter Its Next Big Category: the Smart Home' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/09/62073184/apple-finally-ready-enter-its-next-big-category-smart-home-bloomberg",
+      "published_at": "2026-09-30T10:36:18+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
