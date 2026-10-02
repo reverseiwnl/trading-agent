@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-10-02T12:26:38.501940+00:00",
+  "price": 338.38,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-20",
+      "open": 342.795,
+      "high": 343.83,
+      "low": 338.57,
+      "close": 340.59,
+      "volume": 591452.0
+    },
+    {
+      "date": "2026-08-21",
+      "open": 342.355,
+      "high": 346.175,
+      "low": 340.42,
+      "close": 344.75,
+      "volume": 616795.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 343.62,
+      "high": 351.59,
+      "low": 342.49,
+      "close": 348.09,
+      "volume": 861403.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 349.375,
+      "high": 350.09,
+      "low": 345.61,
+      "close": 346.945,
+      "volume": 692301.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 346.61,
+      "high": 346.745,
+      "low": 340.205,
+      "close": 342.06,
+      "volume": 568863.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 339.68,
+      "high": 341.69,
+      "low": 338.54,
+      "close": 340.59,
+      "volume": 767720.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.845,
+      "high": 349.09,
+      "low": 340.77,
+      "close": 346.61,
+      "volume": 929692.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 344.04,
+      "high": 344.24,
+      "low": 337.165,
+      "close": 339.17,
+      "volume": 613493.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 335.855,
+      "high": 337.175,
+      "low": 333.11,
+      "close": 334.995,
+      "volume": 653878.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 333.725,
+      "high": 339.73,
+      "low": 332.97,
+      "close": 337.12,
+      "volume": 619670.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.605,
+      "high": 343.505,
+      "low": 337.1,
+      "close": 338.34,
+      "volume": 586852.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 335.44,
+      "high": 339.64,
+      "low": 333.235,
+      "close": 338.39,
+      "volume": 752823.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.53,
+      "high": 331.685,
+      "low": 327.92,
+      "close": 330.655,
+      "volume": 1192931.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.165,
+      "high": 333.21,
+      "low": 327.79,
+      "close": 332.67,
+      "volume": 475560.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 335.05,
+      "high": 342.91,
+      "low": 335.05,
+      "close": 338.44,
+      "volume": 586340.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 342.995,
+      "high": 349.9,
+      "low": 342.35,
+      "close": 349.445,
+      "volume": 1245888.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 346.86,
+      "high": 348.03,
+      "low": 342.71,
+      "close": 344.98,
+      "volume": 552579.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 346.99,
+      "high": 348.39,
+      "low": 340.69,
+      "close": 342.94,
+      "volume": 588712.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.63,
+      "high": 349.45,
+      "low": 343.92,
+      "close": 347.41,
+      "volume": 642188.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.7,
+      "high": 364.09,
+      "low": 350.22,
+      "close": 351.18,
+      "volume": 1033346.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.25,
+      "high": 343.05,
+      "low": 336.235,
+      "close": 342.33,
+      "volume": 837155.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 342.5,
+      "high": 346.93,
+      "low": 341.155,
+      "close": 343.845,
+      "volume": 545552.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.38,
+      "high": 343.5,
+      "low": 339.59,
+      "close": 342.77,
+      "volume": 655719.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 342.035,
+      "high": 342.775,
+      "low": 338.02,
+      "close": 340.95,
+      "volume": 663441.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 344.235,
+      "high": 352.56,
+      "low": 341.0,
+      "close": 344.1,
+      "volume": 1005081.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 350.84,
+      "high": 352.99,
+      "low": 335.57,
+      "close": 338.38,
+      "volume": 915815.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Google Turns Up AI Heat With Gemini 4 Argon, Rivals May Have to Cut Prices: Analyst",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62129995/google-turns-up-ai-heat-with-gemini-4-argon-rivals-may-have-to-cut-prices-analyst",
+      "published_at": "2026-10-02T11:48:52+00:00"
+    },
+    {
+      "headline": "Micron Analyst Dismisses Supply Glut Fears As AI Memory Crunch Deepens",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62128369/micron-analyst-dismisses-supply-glut-fears-as-ai-memory-crunch-deepens",
+      "published_at": "2026-10-02T10:12:46+00:00"
+    },
+    {
+      "headline": "Gavin Newsom Cracks Down on Robotaxis After Emergency Disruptions — New California Law Could Hit Waymo and Tesla With Penalties",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62127116/gavin-newsom-tesla-waymo-california-robotaxi-rules",
+      "published_at": "2026-10-02T08:06:39+00:00"
+    },
+    {
+      "headline": "Anthropic Introduces Mods, Small TypeScript Functions That Change How Claude Code Works",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62118125/anthropic-introduces-mods-small-typescript-functions-change-how-claude-code-works",
+      "published_at": "2026-10-01T18:08:07+00:00"
+    },
+    {
+      "headline": "'Anthropic Said to Target Mega-IPO Before Thanksgiving Holiday' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62116754/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday-anthropic-said-to-weigh-ipo-marketing-as-soon-as-week-of-nov-9",
+      "published_at": "2026-10-01T17:29:44+00:00"
+    },
+    {
+      "headline": "Amazon, Microsoft, Meta Have a Weird New Benchmark: 1840s Railway Mania",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62116747/amazon-microsoft-meta-ai-investment-railway-mania",
+      "published_at": "2026-10-01T17:29:35+00:00"
+    },
+    {
+      "headline": "'Google to Face $3.2B Damage Claims Over Ad-Tech Monopoly'- Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62116024/google-face-3-2b-damage-claims-over-ad-tech-monopoly-bloomberg",
+      "published_at": "2026-10-01T17:06:07+00:00"
+    },
+    {
+      "headline": "AI’s Trillion-Dollar Chip Boom Is Getting Bigger, and NVIDIA Isn’t the Only Winner",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62115509/ais-trillion-dollar-chip-boom-is-getting-bigger-and-nvidia-isnt-the-only-winner",
+      "published_at": "2026-10-01T16:50:07+00:00"
+    },
+    {
+      "headline": "Google Introduces Guided Vision In Gemini Live On Android For Blind, Low-Vision Users",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62114749/google-introduces-guided-vision-gemini-live-android-blind-low-vision-users",
+      "published_at": "2026-10-01T16:32:07+00:00"
+    },
+    {
+      "headline": "'Google wins dismissal of Chegg, Penske Media lawsuits over AI overviews'- Reuters",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62111562/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-reuters",
+      "published_at": "2026-10-01T15:13:12+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for GOOGL"
+  ]
+}
