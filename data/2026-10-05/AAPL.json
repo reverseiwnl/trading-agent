@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-10-05T12:33:59.411213+00:00",
+  "price": 333.75,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-21",
+      "open": 311.425,
+      "high": 312.3,
+      "low": 307.045,
+      "close": 309.27,
+      "volume": 1017701.0
+    },
+    {
+      "date": "2026-08-24",
+      "open": 311.47,
+      "high": 313.34,
+      "low": 310.05,
+      "close": 310.385,
+      "volume": 725005.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 310.935,
+      "high": 313.55,
+      "low": 308.21,
+      "close": 309.895,
+      "volume": 753048.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 310.38,
+      "high": 315.43,
+      "low": 308.84,
+      "close": 313.475,
+      "volume": 1025352.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 310.425,
+      "high": 315.38,
+      "low": 309.42,
+      "close": 314.54,
+      "volume": 1062638.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 316.865,
+      "high": 322.36,
+      "low": 315.515,
+      "close": 319.58,
+      "volume": 1076745.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 319.68,
+      "high": 321.215,
+      "low": 312.94,
+      "close": 317.14,
+      "volume": 994365.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 316.97,
+      "high": 327.3,
+      "low": 314.73,
+      "close": 325.25,
+      "volume": 1709875.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 327.01,
+      "high": 328.36,
+      "low": 323.57,
+      "close": 325.03,
+      "volume": 1152718.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 324.91,
+      "high": 330.79,
+      "low": 324.155,
+      "close": 328.22,
+      "volume": 1042722.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 328.39,
+      "high": 328.895,
+      "low": 317.86,
+      "close": 319.95,
+      "volume": 1224559.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 317.24,
+      "high": 320.7,
+      "low": 314.9,
+      "close": 316.26,
+      "volume": 1126523.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 315.59,
+      "high": 319.12,
+      "low": 309.92,
+      "close": 315.42,
+      "volume": 2458568.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 316.76,
+      "high": 326.66,
+      "low": 316.635,
+      "close": 326.615,
+      "volume": 2202355.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 327.45,
+      "high": 336.21,
+      "low": 326.57,
+      "close": 332.245,
+      "volume": 1563982.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 334.7,
+      "high": 335.5,
+      "low": 331.35,
+      "close": 333.0,
+      "volume": 1335636.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 330.445,
+      "high": 331.78,
+      "low": 328.41,
+      "close": 331.335,
+      "volume": 930284.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 332.44,
+      "high": 335.47,
+      "low": 330.71,
+      "close": 332.49,
+      "volume": 903206.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 334.805,
+      "high": 338.31,
+      "low": 330.23,
+      "close": 337.09,
+      "volume": 894177.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 337.96,
+      "high": 338.41,
+      "low": 332.545,
+      "close": 335.73,
+      "volume": 1141511.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 335.49,
+      "high": 339.62,
+      "low": 333.12,
+      "close": 339.0,
+      "volume": 929958.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 340.35,
+      "high": 345.28,
+      "low": 338.84,
+      "close": 339.85,
+      "volume": 986501.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 341.075,
+      "high": 341.73,
+      "low": 335.6,
+      "close": 336.87,
+      "volume": 1168450.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.72,
+      "high": 338.905,
+      "low": 334.33,
+      "close": 335.88,
+      "volume": 788509.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 335.955,
+      "high": 341.67,
+      "low": 334.6,
+      "close": 341.02,
+      "volume": 842202.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.55,
+      "high": 342.97,
+      "low": 338.04,
+      "close": 338.4,
+      "volume": 1081425.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 336.38,
+      "high": 336.56,
+      "low": 328.7,
+      "close": 329.58,
+      "volume": 1247778.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 330.26,
+      "high": 339.48,
+      "low": 330.18,
+      "close": 333.21,
+      "volume": 1479671.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 329.55,
+      "high": 332.47,
+      "low": 325.81,
+      "close": 330.44,
+      "volume": 988015.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 333.16,
+      "high": 334.525,
+      "low": 330.66,
+      "close": 333.75,
+      "volume": 841636.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Investigating Apple's Standing In Technology Hardware, Storage &amp; Peripherals Industry Compared To Competitors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62155683/investigating-apple-s-standing-technology-hardware-storage-amp-peripherals-industry-compared-competi",
+      "published_at": "2026-10-05T09:59:15+00:00"
+    },
+    {
+      "headline": "Apple, Meta And Jim Cramer Set the Tone for AI, iPhone and Vision Pro Moves: This Week in Apple",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62152341/apple-weekly-tech-headlines-ai-iphone",
+      "published_at": "2026-10-04T11:00:23+00:00"
+    },
+    {
+      "headline": "Apple Takes Aim at AI Agents, Wants Mac Users to Know When Their Data Is Accessed as Meta Tackles Muse Privacy Claims",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62150820/apple-takes-aim-at-ai-agents-wants-mac-users-to-know-when-their-data-is-accessed-as-meta-tackles-muse-privacy-claims",
+      "published_at": "2026-10-03T03:31:53+00:00"
+    },
+    {
+      "headline": "Why Is The Market Celebrating A Weak Jobs Report?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/10/62142552/why-is-the-market-celebrating-a-weak-jobs-report",
+      "published_at": "2026-10-02T17:24:22+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Top 12 Most-Searched Tickers in September on Benzinga Pro – Meta Rises, SpaceX Falls, Dell & Bloom Energy Join List",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62137835/top-12-most-searched-tickers-in-september-on-benzinga-pro-meta-rises-spacex-falls-dell-bloom-energy-join-list",
+      "published_at": "2026-10-02T15:04:29+00:00"
+    },
+    {
+      "headline": "Exploring The Competitive Space: Apple Versus Industry Peers In Technology Hardware, Storage &amp; Peripherals",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62127924/exploring-competitive-space-apple-versus-industry-peers-technology-hardware-storage-amp-peripherals",
+      "published_at": "2026-10-02T09:58:39+00:00"
+    },
+    {
+      "headline": "Market Reaction To Micron Earnings And Broadcom Deal Signals A Shift In AI Trade",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/10/62119909/market-reaction-to-micron-earnings-and-broadcom-deal-signals-a-shift-in-ai-trade",
+      "published_at": "2026-10-01T19:04:58+00:00"
+    },
+    {
+      "headline": "Apple To $355? Here Are 10 Top Analyst Forecasts For Thursday",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62118193/apple-to-355-here-are-10-top-analyst-forecasts-for-thursday",
+      "published_at": "2026-10-01T18:10:08+00:00"
+    },
+    {
+      "headline": "Morgan Stanley Maintains Overweight on Apple, Lowers Price Target to $355",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62113310/morgan-stanley-maintains-overweight-apple-lowers-price-target-355",
+      "published_at": "2026-10-01T15:56:56+00:00"
+    },
+    {
+      "headline": "Needham Reiterates Hold on Appleto Hold",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62100973/needham-reiterates-hold-appleto-hold",
+      "published_at": "2026-10-01T11:01:27+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for AAPL"
+  ]
+}
