@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-10-06T12:28:21.122771+00:00",
+  "price": 238.9,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-24",
+      "open": 215.445,
+      "high": 215.445,
+      "low": 207.4,
+      "close": 208.47,
+      "volume": 3334636.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 211.0,
+      "high": 214.67,
+      "low": 210.11,
+      "close": 212.96,
+      "volume": 3190154.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 212.44,
+      "high": 213.6,
+      "low": 209.25,
+      "close": 209.77,
+      "volume": 3944735.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 222.74,
+      "high": 230.47,
+      "low": 220.96,
+      "close": 228.17,
+      "volume": 7478380.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 227.28,
+      "high": 229.25,
+      "low": 216.82,
+      "close": 217.545,
+      "volume": 5357434.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 218.73,
+      "high": 221.28,
+      "low": 216.23,
+      "close": 220.86,
+      "volume": 3278990.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 216.73,
+      "high": 220.395,
+      "low": 215.12,
+      "close": 217.49,
+      "volume": 3131622.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 218.785,
+      "high": 227.95,
+      "low": 218.53,
+      "close": 224.435,
+      "volume": 4915686.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 225.92,
+      "high": 230.4,
+      "low": 224.765,
+      "close": 228.54,
+      "volume": 3373106.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 231.11,
+      "high": 234.75,
+      "low": 229.635,
+      "close": 230.19,
+      "volume": 3592503.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 233.21,
+      "high": 233.69,
+      "low": 224.86,
+      "close": 225.82,
+      "volume": 3102034.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 225.2,
+      "high": 226.07,
+      "low": 223.46,
+      "close": 223.77,
+      "volume": 2177299.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 220.525,
+      "high": 220.98,
+      "low": 217.21,
+      "close": 218.37,
+      "volume": 2640914.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 221.22,
+      "high": 222.0,
+      "low": 218.17,
+      "close": 218.17,
+      "volume": 1719278.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 211.195,
+      "high": 212.745,
+      "low": 208.94,
+      "close": 211.0,
+      "volume": 2427233.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 213.285,
+      "high": 213.93,
+      "low": 211.16,
+      "close": 212.165,
+      "volume": 1960841.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 214.17,
+      "high": 216.755,
+      "low": 212.5,
+      "close": 213.94,
+      "volume": 2431203.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 218.18,
+      "high": 219.9,
+      "low": 217.145,
+      "close": 219.4,
+      "volume": 2712846.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 219.065,
+      "high": 222.69,
+      "low": 218.04,
+      "close": 222.04,
+      "volume": 2828110.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 222.93,
+      "high": 228.49,
+      "low": 221.58,
+      "close": 227.3,
+      "volume": 3200199.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 226.975,
+      "high": 229.97,
+      "low": 226.59,
+      "close": 228.85,
+      "volume": 2460762.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 230.89,
+      "high": 232.81,
+      "low": 227.035,
+      "close": 227.235,
+      "volume": 2508154.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 228.84,
+      "high": 232.355,
+      "low": 228.27,
+      "close": 228.29,
+      "volume": 2961971.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 229.73,
+      "high": 232.28,
+      "low": 228.19,
+      "close": 231.04,
+      "volume": 2319590.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 236.05,
+      "high": 237.835,
+      "low": 233.6,
+      "close": 234.0,
+      "volume": 3860633.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 236.145,
+      "high": 240.09,
+      "low": 235.2,
+      "close": 238.98,
+      "volume": 3726291.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Cheniere Energy, Nvidia, Steel Dynamics And More On CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62187060/cheniere-energy-nvidia-steel-dynamics-and-more-on-cnbcs-final-trades",
+      "published_at": "2026-10-06T12:14:49+00:00"
+    },
+    {
+      "headline": "'Big Short’ Investor Steve Eisman Pushes Back on Michael Burry’s AI Chip Depreciation Thesis: 'I Think He is Wrong…’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62185741/big-short-investor-steve-eisman-pushes-back-on-michael-burrys-ai-chip-depreciation-thesis-i-think-he-is-wrong",
+      "published_at": "2026-10-06T11:40:30+00:00"
+    },
+    {
+      "headline": "Think NVIDIA's AI Boom Is Priced In? Analyst Says Wall Street Is Underestimating the Next 6 to 8 Quarters",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62185668/think-nvidias-ai-boom-is-priced-in-analyst-says-wall-street-is-underestimating-the-next-6-to-8-quarters",
+      "published_at": "2026-10-06T11:35:23+00:00"
+    },
+    {
+      "headline": "Jim Cramer Says Microsoft Is One of AI’s ‘Big Winners’ As Copilot Momentum Builds",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62184798/jim-cramer-says-microsoft-is-one-of-ais-big-winners-as-copilot-momentum-builds",
+      "published_at": "2026-10-06T10:55:48+00:00"
+    },
+    {
+      "headline": "Nvidia-Backed Reflection AI Targets Low-Cost Chinese Models Like DeepSeek and Kimi",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62181953/nvidia-reflection-ai-chinese-models-deepseek-kimi",
+      "published_at": "2026-10-06T07:28:35+00:00"
+    },
+    {
+      "headline": "Nvidia AI Servers Routed Through Malaysia and Singapore In $300 Million China Scheme: Company Calls Smuggling 'Losing Proposition' (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/legal/26/10/62126543/nvidia-ai-servers-malaysia-singapore-china-300-million-scheme-charged",
+      "published_at": "2026-10-02T06:14:31+00:00"
+    },
+    {
+      "headline": "Novavax, Nvidia, MercadoLibre, Nu Holdings and PTC: Why These 5 Stocks Are on Investors' Radars Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62180567/novavax-nvidia-mercadolibre-nu-holdings-and-ptc-why-these-5-stocks-are-on-investors-radars-today",
+      "published_at": "2026-10-06T01:16:07+00:00"
+    },
+    {
+      "headline": "Nvidia Made The AI Trade Crowded. These 3 ETFs Are Playing What Comes Next",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62178336/nvidia-made-the-ai-trade-crowded-these-3-etfs-are-playing-what-comes-next",
+      "published_at": "2026-10-05T20:49:49+00:00"
+    },
+    {
+      "headline": "Nvidia, Broadcom May Be Surprisingly Safe From a 32-GW Hole in the AI Boom, Morgan Stanley Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62174172/nvidia-broadcom-ai-power-shortage",
+      "published_at": "2026-10-05T18:51:53+00:00"
+    },
+    {
+      "headline": "Tom Lee vs. AI Debt Trap: What Happens When 10-Year Bonds Fund 2-Year Microchips?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62173752/tom-lee-ai-debt-trap",
+      "published_at": "2026-10-05T18:37:12+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for NVDA"
+  ]
+}

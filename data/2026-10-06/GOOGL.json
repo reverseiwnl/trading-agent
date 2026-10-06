@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-10-06T12:28:08.478871+00:00",
+  "price": 346.46,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-24",
+      "open": 343.62,
+      "high": 351.59,
+      "low": 342.49,
+      "close": 348.09,
+      "volume": 861403.0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 349.375,
+      "high": 350.09,
+      "low": 345.61,
+      "close": 346.945,
+      "volume": 692301.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 346.61,
+      "high": 346.745,
+      "low": 340.205,
+      "close": 342.06,
+      "volume": 568863.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 339.68,
+      "high": 341.69,
+      "low": 338.54,
+      "close": 340.59,
+      "volume": 767720.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.845,
+      "high": 349.09,
+      "low": 340.77,
+      "close": 346.61,
+      "volume": 929692.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 344.04,
+      "high": 344.24,
+      "low": 337.165,
+      "close": 339.17,
+      "volume": 613493.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 335.855,
+      "high": 337.175,
+      "low": 333.11,
+      "close": 334.995,
+      "volume": 653878.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 333.725,
+      "high": 339.73,
+      "low": 332.97,
+      "close": 337.12,
+      "volume": 619670.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.605,
+      "high": 343.505,
+      "low": 337.1,
+      "close": 338.34,
+      "volume": 586852.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 335.44,
+      "high": 339.64,
+      "low": 333.235,
+      "close": 338.39,
+      "volume": 752823.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.53,
+      "high": 331.685,
+      "low": 327.92,
+      "close": 330.655,
+      "volume": 1192931.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.165,
+      "high": 333.21,
+      "low": 327.79,
+      "close": 332.67,
+      "volume": 475560.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 335.05,
+      "high": 342.91,
+      "low": 335.05,
+      "close": 338.44,
+      "volume": 586340.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 342.995,
+      "high": 349.9,
+      "low": 342.35,
+      "close": 349.445,
+      "volume": 1245888.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 346.86,
+      "high": 348.03,
+      "low": 342.71,
+      "close": 344.98,
+      "volume": 552579.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 346.99,
+      "high": 348.39,
+      "low": 340.69,
+      "close": 342.94,
+      "volume": 588712.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.63,
+      "high": 349.45,
+      "low": 343.92,
+      "close": 347.41,
+      "volume": 642188.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.7,
+      "high": 364.09,
+      "low": 350.22,
+      "close": 351.18,
+      "volume": 1033346.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.25,
+      "high": 343.05,
+      "low": 336.235,
+      "close": 342.33,
+      "volume": 837155.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 342.5,
+      "high": 346.93,
+      "low": 341.155,
+      "close": 343.845,
+      "volume": 545552.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.38,
+      "high": 343.5,
+      "low": 339.59,
+      "close": 342.77,
+      "volume": 655719.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 342.035,
+      "high": 342.775,
+      "low": 338.02,
+      "close": 340.95,
+      "volume": 663441.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 344.235,
+      "high": 352.56,
+      "low": 341.0,
+      "close": 344.1,
+      "volume": 1005081.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 350.84,
+      "high": 352.99,
+      "low": 335.57,
+      "close": 338.38,
+      "volume": 915815.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 341.265,
+      "high": 345.73,
+      "low": 341.265,
+      "close": 343.47,
+      "volume": 587768.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 342.725,
+      "high": 348.03,
+      "low": 342.555,
+      "close": 346.46,
+      "volume": 765516.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "'Google Accused of Overcharging 20 Million Consumers in UK Class Action' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62187352/google-accused-overcharging-20-million-consumers-uk-class-action-bloomberg",
+      "published_at": "2026-10-06T12:20:05+00:00"
+    },
+    {
+      "headline": "Google Rolls Out Google Cloud Modernize",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62187122/google-rolls-out-google-cloud-modernize",
+      "published_at": "2026-10-06T12:16:01+00:00"
+    },
+    {
+      "headline": "'Big Short’ Investor Steve Eisman Pushes Back on Michael Burry’s AI Chip Depreciation Thesis: 'I Think He is Wrong…’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62185741/big-short-investor-steve-eisman-pushes-back-on-michael-burrys-ai-chip-depreciation-thesis-i-think-he-is-wrong",
+      "published_at": "2026-10-06T11:40:30+00:00"
+    },
+    {
+      "headline": "Constellation Stock Rises 7% After Google Deal Unlocks $4.3 Billion Nuclear Investment Amid AI Power Boom (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62184763/google-and-constellation-energy-near-1-billion-nuclear-power-deal-as-ai-data-centers-drive-power-demand-report",
+      "published_at": "2026-10-06T11:36:53+00:00"
+    },
+    {
+      "headline": "Google Unleashes AI on Aging Enterprise Tech With New Cloud Modernization Suite",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62184431/google-unleashes-ai-on-aging-enterprise-tech-with-new-cloud-modernization-suite",
+      "published_at": "2026-10-06T10:38:27+00:00"
+    },
+    {
+      "headline": "Google And Constellation Energy Announce Long-Term Strategic Clean Energy Collaboration To Bring 890 MW Of Reliable Nuclear Capacity Onto PJM Interconnection Grid To Meet Growing Demand And Increase Grid Reliability",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62184316/google-and-constellation-energy-announce-long-term-strategic-clean-energy-collaboration-bring-890-mw",
+      "published_at": "2026-10-06T10:33:00+00:00"
+    },
+    {
+      "headline": "Bloomberg Reported Google, Constellation Energy Near $1B Deal For Nuclear Power",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62180629/bloomberg-reported-google-constellation-energy-near-1b-deal-nuclear-power",
+      "published_at": "2026-10-06T01:24:49+00:00"
+    },
+    {
+      "headline": "'Wall Street banks launch record $60B chip deal for Broadcom and Anthropic'- Financial Times",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62178697/wall-street-banks-launch-record-60b-chip-deal-broadcom-and-anthropic-financial-times",
+      "published_at": "2026-10-05T21:03:18+00:00"
+    },
+    {
+      "headline": "Amazon, Alphabet, Tesla Stock Rises: Robinhood Traders Sell Anyway",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62174431/robinhood-traders-big-tech-selling",
+      "published_at": "2026-10-05T19:01:25+00:00"
+    },
+    {
+      "headline": "Tom Lee vs. AI Debt Trap: What Happens When 10-Year Bonds Fund 2-Year Microchips?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62173752/tom-lee-ai-debt-trap",
+      "published_at": "2026-10-05T18:37:12+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for GOOGL"
+  ]
+}
