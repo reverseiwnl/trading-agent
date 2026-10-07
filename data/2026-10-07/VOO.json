@@ -1,0 +1,308 @@
+{
+  "ticker": "VOO",
+  "as_of": "2026-10-07T12:30:09.697470+00:00",
+  "price": 716.29,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-25",
+      "open": 704.285,
+      "high": 704.7,
+      "low": 701.72,
+      "close": 703.85,
+      "volume": 55108.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 703.15,
+      "high": 705.23,
+      "low": 702.24,
+      "close": 704.02,
+      "volume": 28986.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 706.34,
+      "high": 709.85,
+      "low": 705.44,
+      "close": 708.79,
+      "volume": 87508.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 709.44,
+      "high": 712.635,
+      "low": 706.36,
+      "close": 707.18,
+      "volume": 55102.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 705.335,
+      "high": 705.905,
+      "low": 703.035,
+      "close": 704.875,
+      "volume": 94724.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 700.44,
+      "high": 702.77,
+      "low": 698.265,
+      "close": 700.14,
+      "volume": 62967.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 700.795,
+      "high": 704.47,
+      "low": 700.28,
+      "close": 703.34,
+      "volume": 43730.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 706.19,
+      "high": 711.39,
+      "low": 705.51,
+      "close": 710.7,
+      "volume": 45031.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 709.765,
+      "high": 710.3,
+      "low": 706.99,
+      "close": 707.86,
+      "volume": 56282.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 707.04,
+      "high": 707.43,
+      "low": 703.415,
+      "close": 704.16,
+      "volume": 70572.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 702.36,
+      "high": 702.43,
+      "low": 699.545,
+      "close": 700.805,
+      "volume": 48563.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 696.9,
+      "high": 698.55,
+      "low": 695.73,
+      "close": 696.69,
+      "volume": 47442.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 702.94,
+      "high": 704.46,
+      "low": 702.1,
+      "close": 702.52,
+      "volume": 72898.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 697.78,
+      "high": 701.72,
+      "low": 696.94,
+      "close": 699.35,
+      "volume": 53791.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 698.82,
+      "high": 698.905,
+      "low": 695.2,
+      "close": 696.29,
+      "volume": 57261.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 698.07,
+      "high": 699.99,
+      "low": 689.095,
+      "close": 693.215,
+      "volume": 60725.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 701.595,
+      "high": 701.695,
+      "low": 698.65,
+      "close": 700.97,
+      "volume": 47589.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 701.61,
+      "high": 702.16,
+      "low": 698.85,
+      "close": 701.85,
+      "volume": 49637.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 706.29,
+      "high": 714.075,
+      "low": 706.005,
+      "close": 712.76,
+      "volume": 125976.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 713.275,
+      "high": 714.225,
+      "low": 711.99,
+      "close": 712.69,
+      "volume": 149067.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 712.13,
+      "high": 712.38,
+      "low": 706.395,
+      "close": 707.28,
+      "volume": 147584.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 704.1,
+      "high": 708.505,
+      "low": 703.355,
+      "close": 707.28,
+      "volume": 141075.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 708.46,
+      "high": 711.615,
+      "low": 706.33,
+      "close": 710.705,
+      "volume": 164725.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 706.23,
+      "high": 707.22,
+      "low": 702.03,
+      "close": 703.6,
+      "volume": 62354.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 704.865,
+      "high": 704.865,
+      "low": 700.83,
+      "close": 702.27,
+      "volume": 101166.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 704.52,
+      "high": 707.2,
+      "low": 700.605,
+      "close": 700.605,
+      "volume": 61032.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 702.95,
+      "high": 703.43,
+      "low": 697.5,
+      "close": 702.255,
+      "volume": 51893.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 708.3,
+      "high": 710.09,
+      "low": 705.545,
+      "close": 707.35,
+      "volume": 134995.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 707.52,
+      "high": 713.82,
+      "low": 707.52,
+      "close": 712.41,
+      "volume": 60541.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 715.24,
+      "high": 718.43,
+      "low": 715.09,
+      "close": 716.29,
+      "volume": 86985.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "'Diversification is Dying' — Nvidia, Apple Lead 10 Stocks Taking 41 Cents Of Every Dollar Invested In S&P 500, Says This Commentator",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62209295/nvidia-apple-sp-500-top-10-stocks-41-percent-diversification",
+      "published_at": "2026-10-07T07:03:47+00:00"
+    },
+    {
+      "headline": "Warren Buffett Said Buy the S&P 500 — But This ETF Is Secretly an AI Powerhouse",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62202508/warren-buffett-said-buy-the-sp-500-but-this-etf-is-secretly-an-ai-powerhouse",
+      "published_at": "2026-10-06T18:56:43+00:00"
+    },
+    {
+      "headline": "Nvidia, Apple, Microsoft Now Drive 21% of S&P 500: Here’s How Much ETF Investors Own",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62200101/nvidia-apple-microsoft-now-drive-21-of-sp-500-heres-how-much-etf-investors-own",
+      "published_at": "2026-10-06T17:34:23+00:00"
+    },
+    {
+      "headline": "S&P 500, Nasdaq Hit Records, Power Stocks Rally on Google's Nuclear Deal: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62199369/sp-500-nasdaq-100-record-highs-treasury-yields-ease-stock-market-today",
+      "published_at": "2026-10-06T17:11:12+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Hits Record, Brazil's EWZ Soars 13%: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/10/62170436/nasdaq-100-record-brazil-etf-ewz-soars-bolsonaro-ism-services-prices-stock-market-today",
+      "published_at": "2026-10-05T16:53:57+00:00"
+    },
+    {
+      "headline": "S&P 500 Index Outlook: Top Catalysts for US Stocks This Week",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62152897/sp-500-index-outlook-top-catalysts-for-us-stocks-this-week",
+      "published_at": "2026-10-04T19:20:07+00:00"
+    },
+    {
+      "headline": "Weak Jobs Report Lifts Nvidia, Nasdaq 100 to Record Highs: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62141603/nvidia-nasdaq-100-record-high-western-digital-sinks-soft-jobs-report-fed-hike-bets-markets-friday",
+      "published_at": "2026-10-02T16:52:39+00:00"
+    },
+    {
+      "headline": "Stock Market Today: S&P 500 Slips as Micron Fails to Impress, 10-Year Yields Ease to 5.25%",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62114603/sp-500-slips-micron-fails-to-impress-markets-thursday",
+      "published_at": "2026-10-01T16:29:06+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Climbs as Cooler PCE Cuts Rate Hike Bets, Micron Earnings Loom: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/62086386/nasdaq-100-climbs-cooler-pce-cuts-rate-hike-bets-micron-earnings-loom-stock-market-today",
+      "published_at": "2026-09-30T16:47:40+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

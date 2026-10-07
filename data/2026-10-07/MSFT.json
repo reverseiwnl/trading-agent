@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-10-07T12:30:04.901168+00:00",
+  "price": 527.12,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-25",
+      "open": 485.565,
+      "high": 492.37,
+      "low": 484.425,
+      "close": 491.55,
+      "volume": 400583.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 487.855,
+      "high": 497.4,
+      "low": 487.55,
+      "close": 496.36,
+      "volume": 443202.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 494.7,
+      "high": 506.41,
+      "low": 490.13,
+      "close": 504.98,
+      "volume": 947015.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 505.33,
+      "high": 517.755,
+      "low": 504.975,
+      "close": 513.67,
+      "volume": 1011599.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 510.32,
+      "high": 512.18,
+      "low": 506.4,
+      "close": 506.95,
+      "volume": 538872.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 497.845,
+      "high": 505.91,
+      "low": 497.11,
+      "close": 501.19,
+      "volume": 482981.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 499.78,
+      "high": 500.24,
+      "low": 493.83,
+      "close": 496.74,
+      "volume": 369238.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 501.4,
+      "high": 515.55,
+      "low": 501.4,
+      "close": 510.15,
+      "volume": 850782.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 510.1,
+      "high": 510.82,
+      "low": 499.38,
+      "close": 499.545,
+      "volume": 542979.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 493.2,
+      "high": 495.05,
+      "low": 490.16,
+      "close": 493.92,
+      "volume": 478010.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 492.56,
+      "high": 494.22,
+      "low": 489.8,
+      "close": 491.65,
+      "volume": 327829.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 488.34,
+      "high": 494.46,
+      "low": 486.25,
+      "close": 492.49,
+      "volume": 358672.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 495.67,
+      "high": 498.825,
+      "low": 492.665,
+      "close": 495.58,
+      "volume": 368151.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 497.52,
+      "high": 509.92,
+      "low": 495.45,
+      "close": 505.72,
+      "volume": 830370.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 500.06,
+      "high": 505.78,
+      "low": 495.555,
+      "close": 497.105,
+      "volume": 729545.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 493.35,
+      "high": 495.815,
+      "low": 487.26,
+      "close": 490.45,
+      "volume": 636769.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 496.835,
+      "high": 501.4,
+      "low": 493.275,
+      "close": 497.67,
+      "volume": 534473.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 497.635,
+      "high": 498.14,
+      "low": 491.13,
+      "close": 493.1,
+      "volume": 659838.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 495.56,
+      "high": 501.71,
+      "low": 491.35,
+      "close": 501.64,
+      "volume": 798550.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 507.125,
+      "high": 508.0,
+      "low": 493.705,
+      "close": 498.0,
+      "volume": 598345.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 501.79,
+      "high": 509.34,
+      "low": 495.97,
+      "close": 500.62,
+      "volume": 543277.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 495.205,
+      "high": 498.79,
+      "low": 491.23,
+      "close": 497.585,
+      "volume": 787048.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 498.855,
+      "high": 519.39,
+      "low": 497.35,
+      "close": 516.155,
+      "volume": 1481325.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 505.47,
+      "high": 513.29,
+      "low": 502.38,
+      "close": 509.36,
+      "volume": 525669.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 508.31,
+      "high": 513.545,
+      "low": 502.56,
+      "close": 508.92,
+      "volume": 564770.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 511.205,
+      "high": 519.76,
+      "low": 510.42,
+      "close": 512.91,
+      "volume": 863492.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 519.765,
+      "high": 522.805,
+      "low": 512.24,
+      "close": 512.71,
+      "volume": 788881.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 519.12,
+      "high": 522.46,
+      "low": 513.74,
+      "close": 517.32,
+      "volume": 566824.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 521.96,
+      "high": 532.35,
+      "low": 521.91,
+      "close": 525.01,
+      "volume": 916366.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 531.615,
+      "high": 535.69,
+      "low": 528.83,
+      "close": 529.385,
+      "volume": 520480.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Ray Dalio Says AI Bubble Is ‘Close’ to Bursting as Debt and Rising Rates Raise Red Flags",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/economic-data/26/10/62209975/ray-dalio-ai-classic-bubble-nearing-bursting-point",
+      "published_at": "2026-10-07T08:52:05+00:00"
+    },
+    {
+      "headline": "'Godfather of AI' Geoffrey Hinton on Regrets Over Inventing AI: Calls for FDA-Like Rules Before Releasing Models, Says Public Pressure Like Climate Change Could Drive Action",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62209830/godfather-of-ai-geoffrey-hinton-on-regrets-over-inventing-ai-calls-for-fda-like-rules-before-releasing-models-says-public-pressure-like-climate-change-could-drive-action",
+      "published_at": "2026-10-07T08:20:12+00:00"
+    },
+    {
+      "headline": "Jim Cramer Sees More AI Upside Ahead for Meta, Microsoft and AMD Despite Bubble Fears: ‘They Were Going to Figure Something Out’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62209518/jim-cramer-sees-more-ai-upside-ahead-for-meta-microsoft-and-amd-despite-bubble-fears-they-were-going-to-figure-something-out",
+      "published_at": "2026-10-07T07:40:47+00:00"
+    },
+    {
+      "headline": "Dan Ives Names 5 Potential Tech Winners for 2027 as Investors Underestimate $4 Trillion Spending Wave",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62209448/dan-ives-names-5-potential-tech-winners-for-2027-as-investors-underestimate-4-trillion-spending-wave",
+      "published_at": "2026-10-07T07:22:58+00:00"
+    },
+    {
+      "headline": "'Diversification is Dying' — Nvidia, Apple Lead 10 Stocks Taking 41 Cents Of Every Dollar Invested In S&P 500, Says This Commentator",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62209295/nvidia-apple-sp-500-top-10-stocks-41-percent-diversification",
+      "published_at": "2026-10-07T07:03:47+00:00"
+    },
+    {
+      "headline": "Michael Burry Says Big Tech Is 'Spending Wildly' on AI Because CEOs Expect to Be 'Granted an Oligopoly' That Can't Fall",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62208295/burry-big-tech-ai-spending-oligopoly-too-big-to-fail",
+      "published_at": "2026-10-07T03:13:29+00:00"
+    },
+    {
+      "headline": "Nvidia Strength Is Masking ‘A Whole Lot of Pain’ in the Broader Market, David Rosenberg Says",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62203648/nvidia-strength-masks-market-pain",
+      "published_at": "2026-10-06T19:41:23+00:00"
+    },
+    {
+      "headline": "The S&P 500 Is Partying at Record Highs: Only 3% of Its Stocks Were Invited",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62203364/sp-500-record-high-only-3-percent-stocks-invited",
+      "published_at": "2026-10-06T19:29:38+00:00"
+    },
+    {
+      "headline": "Anthropic Expands Cyber Verification Program With Three-Tier Access To Advanced AI Models For Security Professionals",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62202755/anthropic-expands-cyber-verification-program-three-tier-access-advanced-ai-models-security-professio",
+      "published_at": "2026-10-06T19:06:15+00:00"
+    },
+    {
+      "headline": "Jamie Dimon Says AI Boom Is Competing With Government Borrowing for Capital: ‘Rates Are Going Up’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62202607/jamie-dimon-ai-capital-crunch-rates",
+      "published_at": "2026-10-06T19:00:08+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

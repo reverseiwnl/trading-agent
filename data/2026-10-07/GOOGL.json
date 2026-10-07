@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-10-07T12:30:01.885238+00:00",
+  "price": 346.2,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-25",
+      "open": 349.375,
+      "high": 350.09,
+      "low": 345.61,
+      "close": 346.945,
+      "volume": 692301.0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 346.61,
+      "high": 346.745,
+      "low": 340.205,
+      "close": 342.06,
+      "volume": 568863.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 339.68,
+      "high": 341.69,
+      "low": 338.54,
+      "close": 340.59,
+      "volume": 767720.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.845,
+      "high": 349.09,
+      "low": 340.77,
+      "close": 346.61,
+      "volume": 929692.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 344.04,
+      "high": 344.24,
+      "low": 337.165,
+      "close": 339.17,
+      "volume": 613493.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 335.855,
+      "high": 337.175,
+      "low": 333.11,
+      "close": 334.995,
+      "volume": 653878.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 333.725,
+      "high": 339.73,
+      "low": 332.97,
+      "close": 337.12,
+      "volume": 619670.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.605,
+      "high": 343.505,
+      "low": 337.1,
+      "close": 338.34,
+      "volume": 586852.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 335.44,
+      "high": 339.64,
+      "low": 333.235,
+      "close": 338.39,
+      "volume": 752823.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.53,
+      "high": 331.685,
+      "low": 327.92,
+      "close": 330.655,
+      "volume": 1192931.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.165,
+      "high": 333.21,
+      "low": 327.79,
+      "close": 332.67,
+      "volume": 475560.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 335.05,
+      "high": 342.91,
+      "low": 335.05,
+      "close": 338.44,
+      "volume": 586340.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 342.995,
+      "high": 349.9,
+      "low": 342.35,
+      "close": 349.445,
+      "volume": 1245888.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 346.86,
+      "high": 348.03,
+      "low": 342.71,
+      "close": 344.98,
+      "volume": 552579.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 346.99,
+      "high": 348.39,
+      "low": 340.69,
+      "close": 342.94,
+      "volume": 588712.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.63,
+      "high": 349.45,
+      "low": 343.92,
+      "close": 347.41,
+      "volume": 642188.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.7,
+      "high": 364.09,
+      "low": 350.22,
+      "close": 351.18,
+      "volume": 1033346.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.25,
+      "high": 343.05,
+      "low": 336.235,
+      "close": 342.33,
+      "volume": 837155.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 342.5,
+      "high": 346.93,
+      "low": 341.155,
+      "close": 343.845,
+      "volume": 545552.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.38,
+      "high": 343.5,
+      "low": 339.59,
+      "close": 342.77,
+      "volume": 655719.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 342.035,
+      "high": 342.775,
+      "low": 338.02,
+      "close": 340.95,
+      "volume": 663441.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 344.235,
+      "high": 352.56,
+      "low": 341.0,
+      "close": 344.1,
+      "volume": 1005081.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 350.84,
+      "high": 352.99,
+      "low": 335.57,
+      "close": 338.38,
+      "volume": 915815.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 341.265,
+      "high": 345.73,
+      "low": 341.265,
+      "close": 343.47,
+      "volume": 587768.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 342.725,
+      "high": 348.03,
+      "low": 342.555,
+      "close": 346.46,
+      "volume": 765516.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 347.38,
+      "high": 349.03,
+      "low": 344.685,
+      "close": 347.72,
+      "volume": 425699.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Google, Unity Collaborate For New, Integrated Gaming Platform To Be Launched Later In 2026",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62213466/google-unity-collaborate-new-integrated-gaming-platform-be-launched-later-2026",
+      "published_at": "2026-10-07T12:01:42+00:00"
+    },
+    {
+      "headline": "Anthropic CEO Dario Amodei Took Home $18 Million in 2025 — How His Pay Compares With Google and Amazon CEOs: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62211147/anthropic-ceo-dario-amodei-took-home-18-million-in-2025-how-his-pay-compares-with-google-and-amazon-ceos-report",
+      "published_at": "2026-10-07T10:19:46+00:00"
+    },
+    {
+      "headline": "Paul Krugman Says AI Boom Is ‘Crowding Out’ Other Investments in a Way the Dot-Com Era Never Did: ‘This Isn’t a Hypothetical Risk’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/economic-data/26/10/62210297/aul-krugman-ai-boom-crowding-out-dot-com-bubble",
+      "published_at": "2026-10-07T09:35:51+00:00"
+    },
+    {
+      "headline": "The Emmys Are Moving to Amazon Prime Video — And You Won’t Need a Prime Subscription to Watch",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62210129/amazon-prime-video-emmys-streaming-deal-2027",
+      "published_at": "2026-10-07T09:18:56+00:00"
+    },
+    {
+      "headline": "Ray Dalio Says AI Bubble Is ‘Close’ to Bursting as Debt and Rising Rates Raise Red Flags",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/economic-data/26/10/62209975/ray-dalio-ai-classic-bubble-nearing-bursting-point",
+      "published_at": "2026-10-07T08:52:05+00:00"
+    },
+    {
+      "headline": "Jim Cramer Predicts Elon Musk-Led SpaceX's Next Cash Cow Raking in $4 Billion a Month as SPCX Seeks $40 Billion for NVDA Chips",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62209529/jim-cramer-says-elon-musks-spacex-could-be-sitting-on-a-4-billion-a-month-ai-gold-mine-as-spcx-seeks-40-billion-for-nvda-chips",
+      "published_at": "2026-10-07T07:41:05+00:00"
+    },
+    {
+      "headline": "Amazon, Google Face New Smart Home Rival as Apple Lines Up Doorbell, Lock and Camera Launches: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62209435/apple-is-coming-for-amazon-and-googles-lunch-with-lg-backed-smart-home-devices",
+      "published_at": "2026-10-07T07:22:04+00:00"
+    },
+    {
+      "headline": "'Diversification is Dying' — Nvidia, Apple Lead 10 Stocks Taking 41 Cents Of Every Dollar Invested In S&P 500, Says This Commentator",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62209295/nvidia-apple-sp-500-top-10-stocks-41-percent-diversification",
+      "published_at": "2026-10-07T07:03:47+00:00"
+    },
+    {
+      "headline": "Elon Musk Defends $1 Trillion Fortune Tied to SPCX, TSLA, Slams Bernie Sanders: ‘Takers’ Take From the Makers",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/10/62208662/elon-musk-defends-1-trillion-fortune-tied-to-spcx-tsla-slams-bernie-sanders-takers-take-from-the-makers",
+      "published_at": "2026-10-07T05:48:59+00:00"
+    },
+    {
+      "headline": "Michael Burry Says Big Tech Is 'Spending Wildly' on AI Because CEOs Expect to Be 'Granted an Oligopoly' That Can't Fall",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62208295/burry-big-tech-ai-spending-oligopoly-too-big-to-fail",
+      "published_at": "2026-10-07T03:13:29+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
