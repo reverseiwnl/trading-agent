@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-10-08T12:31:20.927924+00:00",
+  "price": 349.91,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-26",
+      "open": 346.61,
+      "high": 346.745,
+      "low": 340.205,
+      "close": 342.06,
+      "volume": 568863.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 339.68,
+      "high": 341.69,
+      "low": 338.54,
+      "close": 340.59,
+      "volume": 767720.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.845,
+      "high": 349.09,
+      "low": 340.77,
+      "close": 346.61,
+      "volume": 929692.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 344.04,
+      "high": 344.24,
+      "low": 337.165,
+      "close": 339.17,
+      "volume": 613493.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 335.855,
+      "high": 337.175,
+      "low": 333.11,
+      "close": 334.995,
+      "volume": 653878.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 333.725,
+      "high": 339.73,
+      "low": 332.97,
+      "close": 337.12,
+      "volume": 619670.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.605,
+      "high": 343.505,
+      "low": 337.1,
+      "close": 338.34,
+      "volume": 586852.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 335.44,
+      "high": 339.64,
+      "low": 333.235,
+      "close": 338.39,
+      "volume": 752823.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.53,
+      "high": 331.685,
+      "low": 327.92,
+      "close": 330.655,
+      "volume": 1192931.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.165,
+      "high": 333.21,
+      "low": 327.79,
+      "close": 332.67,
+      "volume": 475560.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 335.05,
+      "high": 342.91,
+      "low": 335.05,
+      "close": 338.44,
+      "volume": 586340.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 342.995,
+      "high": 349.9,
+      "low": 342.35,
+      "close": 349.445,
+      "volume": 1245888.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 346.86,
+      "high": 348.03,
+      "low": 342.71,
+      "close": 344.98,
+      "volume": 552579.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 346.99,
+      "high": 348.39,
+      "low": 340.69,
+      "close": 342.94,
+      "volume": 588712.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.63,
+      "high": 349.45,
+      "low": 343.92,
+      "close": 347.41,
+      "volume": 642188.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.7,
+      "high": 364.09,
+      "low": 350.22,
+      "close": 351.18,
+      "volume": 1033346.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.25,
+      "high": 343.05,
+      "low": 336.235,
+      "close": 342.33,
+      "volume": 837155.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 342.5,
+      "high": 346.93,
+      "low": 341.155,
+      "close": 343.845,
+      "volume": 545552.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.38,
+      "high": 343.5,
+      "low": 339.59,
+      "close": 342.77,
+      "volume": 655719.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 342.035,
+      "high": 342.775,
+      "low": 338.02,
+      "close": 340.95,
+      "volume": 663441.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 344.235,
+      "high": 352.56,
+      "low": 341.0,
+      "close": 344.1,
+      "volume": 1005081.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 350.84,
+      "high": 352.99,
+      "low": 335.57,
+      "close": 338.38,
+      "volume": 915815.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 341.265,
+      "high": 345.73,
+      "low": 341.265,
+      "close": 343.47,
+      "volume": 587768.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 342.725,
+      "high": 348.03,
+      "low": 342.555,
+      "close": 346.46,
+      "volume": 765516.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 347.38,
+      "high": 349.03,
+      "low": 344.685,
+      "close": 347.72,
+      "volume": 425699.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 346.715,
+      "high": 350.795,
+      "low": 343.11,
+      "close": 350.53,
+      "volume": 749027.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Google Cloud Rolls Out Gemini Agent",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62243132/google-cloud-rolls-out-gemini-agent",
+      "published_at": "2026-10-08T12:15:02+00:00"
+    },
+    {
+      "headline": "The RealReal Expands Ask TRR With Google Cloud's Gemini Enterprise",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62242476/realreal-expands-ask-trr-google-cloud-s-gemini-enterprise",
+      "published_at": "2026-10-08T12:01:00+00:00"
+    },
+    {
+      "headline": "SPCX CEO Elon Musk Has a Warning for Anyone Betting on AI: The Compute Crunch Is Coming — ‘People Have No Idea’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62241582/spcx-ceo-elon-musk-has-a-warning-for-anyone-betting-on-ai-the-compute-crunch-is-coming-people-have-no-idea",
+      "published_at": "2026-10-08T11:30:17+00:00"
+    },
+    {
+      "headline": "Needham Reiterates Buy on Alphabet, Maintains $450 Price Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62238797/needham-reiterates-buy-alphabet-maintains-450-price-target",
+      "published_at": "2026-10-08T09:42:09+00:00"
+    },
+    {
+      "headline": "Apple's Smart Home Ambitions Hammer REZI, ARLO and ALLE Stocks: Here's What's Happening",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62238712/apple-smart-home-report-resideo-arlo-allegion-stocks-fall",
+      "published_at": "2026-10-08T09:29:43+00:00"
+    },
+    {
+      "headline": "Google's $15 Billion Finland AI Push Hits Roadblock as Regulators Order Halt at 2 Data Centers Pending Environmental Reviews",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62237813/googles-15-billion-finland-ai-push-hits-roadblock-as-regulators-order-halt-at-2-data-centers-pending-environmental-reviews",
+      "published_at": "2026-10-08T07:50:28+00:00"
+    },
+    {
+      "headline": "'Alphabet’s Isomorphic Labs in Funding Talks for at Least $40 Billion Value' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62237145/alphabet-s-isomorphic-labs-funding-talks-least-40-billion-value-bloomberg",
+      "published_at": "2026-10-08T06:27:23+00:00"
+    },
+    {
+      "headline": "Jim Cramer Says SPCX Could Come to Fruition Long Before Tesla After Goldman Sachs Raises Price Target: 'Real Company With Real Numbers'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62236943/jim-cramer-says-spcx-could-come-to-fruition-long-before-tesla-after-goldman-sachs-raises-price-target-real-company-with-real-numbers",
+      "published_at": "2026-10-08T05:58:24+00:00"
+    },
+    {
+      "headline": "Elon Musk, Jensen Huang, Satya Nadella Reportedly to Be Awarded Medals By Trump — White House Says They Help America Lead 'the World in Innovation'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62236616/trump-national-medals-elon-musk-jensen-huang-satya-nadella-tech-ceos",
+      "published_at": "2026-10-08T04:23:08+00:00"
+    },
+    {
+      "headline": "Meta, Google Put $300M Into Zuckerberg-Backed $1.8B AI Biology Bet",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62230064/meta-google-zuckerberg-ai-biology",
+      "published_at": "2026-10-07T18:30:13+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for GOOGL"
+  ]
+}

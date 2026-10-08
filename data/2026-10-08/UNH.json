@@ -1,0 +1,314 @@
+{
+  "ticker": "UNH",
+  "as_of": "2026-10-08T12:31:38.707120+00:00",
+  "price": 375.815,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-26",
+      "open": 396.505,
+      "high": 406.235,
+      "low": 396.505,
+      "close": 400.99,
+      "volume": 121260.0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 397.54,
+      "high": 399.84,
+      "low": 393.81,
+      "close": 394.86,
+      "volume": 145543.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 396.25,
+      "high": 396.38,
+      "low": 392.66,
+      "close": 392.96,
+      "volume": 86622.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 393.6,
+      "high": 394.28,
+      "low": 387.71,
+      "close": 389.55,
+      "volume": 175992.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 392.03,
+      "high": 399.445,
+      "low": 392.03,
+      "close": 396.365,
+      "volume": 159482.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 399.43,
+      "high": 401.055,
+      "low": 396.675,
+      "close": 399.58,
+      "volume": 158402.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 400.36,
+      "high": 405.085,
+      "low": 395.62,
+      "close": 400.99,
+      "volume": 136146.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 398.19,
+      "high": 402.225,
+      "low": 395.27,
+      "close": 396.815,
+      "volume": 77475.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 392.99,
+      "high": 403.885,
+      "low": 390.555,
+      "close": 400.93,
+      "volume": 202914.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 405.465,
+      "high": 406.48,
+      "low": 378.21,
+      "close": 393.12,
+      "volume": 376961.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 396.46,
+      "high": 399.26,
+      "low": 387.615,
+      "close": 388.26,
+      "volume": 158375.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 391.015,
+      "high": 391.715,
+      "low": 375.99,
+      "close": 378.865,
+      "volume": 361016.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 381.63,
+      "high": 386.4,
+      "low": 381.435,
+      "close": 383.595,
+      "volume": 149458.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 383.15,
+      "high": 383.535,
+      "low": 375.565,
+      "close": 375.93,
+      "volume": 237522.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 375.91,
+      "high": 380.16,
+      "low": 373.63,
+      "close": 375.35,
+      "volume": 129024.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 376.655,
+      "high": 380.42,
+      "low": 374.66,
+      "close": 375.32,
+      "volume": 182062.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 375.51,
+      "high": 378.47,
+      "low": 372.545,
+      "close": 376.94,
+      "volume": 127827.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 378.17,
+      "high": 378.95,
+      "low": 373.955,
+      "close": 377.53,
+      "volume": 167686.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 380.44,
+      "high": 380.56,
+      "low": 372.585,
+      "close": 372.9,
+      "volume": 171526.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 369.99,
+      "high": 372.51,
+      "low": 366.1,
+      "close": 371.27,
+      "volume": 145416.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 371.99,
+      "high": 375.27,
+      "low": 368.775,
+      "close": 375.17,
+      "volume": 255526.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 377.39,
+      "high": 379.09,
+      "low": 371.305,
+      "close": 376.7,
+      "volume": 176537.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 376.685,
+      "high": 380.88,
+      "low": 374.62,
+      "close": 377.94,
+      "volume": 185049.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 376.095,
+      "high": 376.47,
+      "low": 371.355,
+      "close": 374.98,
+      "volume": 143841.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 373.95,
+      "high": 373.95,
+      "low": 365.8,
+      "close": 367.25,
+      "volume": 179338.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 367.52,
+      "high": 371.74,
+      "low": 362.66,
+      "close": 365.11,
+      "volume": 175654.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 364.86,
+      "high": 372.675,
+      "low": 364.645,
+      "close": 371.775,
+      "volume": 172855.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 373.49,
+      "high": 379.125,
+      "low": 368.31,
+      "close": 378.625,
+      "volume": 258647.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 379.095,
+      "high": 380.18,
+      "low": 373.72,
+      "close": 376.15,
+      "volume": 219249.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 376.595,
+      "high": 383.435,
+      "low": 372.07,
+      "close": 375.815,
+      "volume": 293825.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "EQT, UnitedHealth, Clearway Energy And More On CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62212515/eqt-unitedhealth-clearway-energy-cnbc-final-trades",
+      "published_at": "2026-10-07T11:18:14+00:00"
+    },
+    {
+      "headline": "Elizabeth Warren, Josh Hawley Launch Probe Into Insurance Giants Over Claims That End With $0 Payouts — State Farm, Allstate Face Tough Questions: Report (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/10/62159743/elizabeth-warren-josh-hawley-launch-probe-into-insurance-giants-over-claims-that-end-with-0-payouts-state-farm-allstate-face-tough-questions-report",
+      "published_at": "2026-10-07T06:05:41+00:00"
+    },
+    {
+      "headline": "Texas AG Targets UnitedHealth: Probe Examines Alleged Bribes, Care Delays and Coverage Denials",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/10/62201393/texas-ag-targets-unitedhealth-probe-examines-alleged-bribes-care-delays-and-coverage-denials",
+      "published_at": "2026-10-06T18:16:33+00:00"
+    },
+    {
+      "headline": "CNBC Halftime Report Final Trades: UnitedHealth Group, EQT, Clearway Energy, Goldman Sachs Nasdaq-100 Premium Income ETF",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/EQT",
+      "published_at": "2026-10-06T17:01:09+00:00"
+    },
+    {
+      "headline": "Live On CNBC, Kevin Simpson Announces Bought More UnitedHealth Group; Sold IBM",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/UNH",
+      "published_at": "2026-10-06T16:27:46+00:00"
+    },
+    {
+      "headline": "9 Of 11 Sectors Rise In Tuesday Trading As Defensives Lead",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62195896/9-of-11-sectors-rise-in-tuesday-trading-as-defensives-lead",
+      "published_at": "2026-10-06T15:33:30+00:00"
+    },
+    {
+      "headline": "Robert Kennedy Jr. Pushes New Healthcare Pricing Rules as HHS Says Patients Deserve Clearer Costs: ‘Americans Should Know…’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/10/62182352/robert-kennedy-jr-pushes-new-healthcare-pricing-rules-as-hhs-says-patients-deserve-clearer-costs-americans-should-know",
+      "published_at": "2026-10-06T08:32:12+00:00"
+    },
+    {
+      "headline": "8 Of 11 Sectors Rise In Monday Trading As Leaders Split",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62166006/8-of-11-sectors-rise-in-monday-trading-as-leaders-split",
+      "published_at": "2026-10-05T15:02:16+00:00"
+    },
+    {
+      "headline": "Attorney General Ken Paxton Investigates Unitedhealth Group For Denying Patients Coverage They Need And Engaging In Deceptive Practices",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/government/26/10/62165294/attorney-general-ken-paxton-investigates-unitedhealth-group-denying-patients-coverage-they-need-and-",
+      "published_at": "2026-10-05T14:43:20+00:00"
+    },
+    {
+      "headline": "UnitedHealthcare, Aetna Tighten Medicare Advantage Networks as 2027 Costs Rise: ‘We Can’t Ignore the Realities…’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/10/62152824/unitedhealthcare-aetna-tighten-medicare-advantage-networks-as-2027-costs-rise-we-cant-ignore-the-realities",
+      "published_at": "2026-10-04T18:35:58+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for UNH"
+  ]
+}
