@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-10-09T12:33:35.047067+00:00",
+  "price": 528.75,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-27",
+      "open": 494.7,
+      "high": 506.41,
+      "low": 490.13,
+      "close": 504.98,
+      "volume": 947015.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 505.33,
+      "high": 517.755,
+      "low": 504.975,
+      "close": 513.67,
+      "volume": 1011599.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 510.32,
+      "high": 512.18,
+      "low": 506.4,
+      "close": 506.95,
+      "volume": 538872.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 497.845,
+      "high": 505.91,
+      "low": 497.11,
+      "close": 501.19,
+      "volume": 482981.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 499.78,
+      "high": 500.24,
+      "low": 493.83,
+      "close": 496.74,
+      "volume": 369238.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 501.4,
+      "high": 515.55,
+      "low": 501.4,
+      "close": 510.15,
+      "volume": 850782.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 510.1,
+      "high": 510.82,
+      "low": 499.38,
+      "close": 499.545,
+      "volume": 542979.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 493.2,
+      "high": 495.05,
+      "low": 490.16,
+      "close": 493.92,
+      "volume": 478010.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 492.56,
+      "high": 494.22,
+      "low": 489.8,
+      "close": 491.65,
+      "volume": 327829.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 488.34,
+      "high": 494.46,
+      "low": 486.25,
+      "close": 492.49,
+      "volume": 358672.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 495.67,
+      "high": 498.825,
+      "low": 492.665,
+      "close": 495.58,
+      "volume": 368151.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 497.52,
+      "high": 509.92,
+      "low": 495.45,
+      "close": 505.72,
+      "volume": 830370.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 500.06,
+      "high": 505.78,
+      "low": 495.555,
+      "close": 497.105,
+      "volume": 729545.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 493.35,
+      "high": 495.815,
+      "low": 487.26,
+      "close": 490.45,
+      "volume": 636769.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 496.835,
+      "high": 501.4,
+      "low": 493.275,
+      "close": 497.67,
+      "volume": 534473.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 497.635,
+      "high": 498.14,
+      "low": 491.13,
+      "close": 493.1,
+      "volume": 659838.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 495.56,
+      "high": 501.71,
+      "low": 491.35,
+      "close": 501.64,
+      "volume": 798550.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 507.125,
+      "high": 508.0,
+      "low": 493.705,
+      "close": 498.0,
+      "volume": 598345.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 501.79,
+      "high": 509.34,
+      "low": 495.97,
+      "close": 500.62,
+      "volume": 543277.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 495.205,
+      "high": 498.79,
+      "low": 491.23,
+      "close": 497.585,
+      "volume": 787048.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 498.855,
+      "high": 519.39,
+      "low": 497.35,
+      "close": 516.155,
+      "volume": 1481325.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 505.47,
+      "high": 513.29,
+      "low": 502.38,
+      "close": 509.36,
+      "volume": 525669.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 508.31,
+      "high": 513.545,
+      "low": 502.56,
+      "close": 508.92,
+      "volume": 564770.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 511.205,
+      "high": 519.76,
+      "low": 510.42,
+      "close": 512.91,
+      "volume": 863492.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 519.765,
+      "high": 522.805,
+      "low": 512.24,
+      "close": 512.71,
+      "volume": 788881.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 519.12,
+      "high": 522.46,
+      "low": 513.74,
+      "close": 517.32,
+      "volume": 566824.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 521.96,
+      "high": 532.35,
+      "low": 521.91,
+      "close": 525.01,
+      "volume": 916366.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 531.615,
+      "high": 535.69,
+      "low": 528.83,
+      "close": 529.385,
+      "volume": 520480.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 530.725,
+      "high": 531.7,
+      "low": 524.725,
+      "close": 529.7,
+      "volume": 727327.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 530.435,
+      "high": 533.31,
+      "low": 518.83,
+      "close": 522.71,
+      "volume": 811233.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "‘Dean of Valuation’ Warns of AI Cash Drain: 4 Ways to Play the Shift",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62268160/dean-of-valuation-warns-of-ai-cash-drain-4-ways-to-play-the-shift",
+      "published_at": "2026-10-09T11:33:03+00:00"
+    },
+    {
+      "headline": "Wall Street Still Treats Micron Like a Commodity Stock — Analyst Says That's a Costly Mistake",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62266305/wall-street-still-treats-micron-like-a-commodity-stock-analyst-says-thats-a-costly-mistake",
+      "published_at": "2026-10-09T09:57:17+00:00"
+    },
+    {
+      "headline": "Bill Gates Says Aviation Is One of the Hardest Sectors to Decarbonize Amid Skyrocketing Fuel Costs—Here's His Solution",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/travel/26/10/62265147/bill-gates-says-aviation-is-one-of-the-hardest-sectors-to-decarbonize-amid-skyrocketing-fuel-costs-heres-his-solution",
+      "published_at": "2026-10-09T07:29:01+00:00"
+    },
+    {
+      "headline": "Elon Musk A ‘National Treasure,’ Says Trump: President Compares Tesla CEO With Edison As He Awards National Medal of Science",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62264954/musk-congratulates-medal-winners-trump-calls-him-national-treasure",
+      "published_at": "2026-10-09T07:00:05+00:00"
+    },
+    {
+      "headline": "OpenAI Says Three Employees Violated Sensitive Information Policies, Denies Safety-Concern Firings, Will Announce Third-Party Safety Assessors In Coming Weeks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62264784/openai-says-three-employees-violated-sensitive-information-policies-denies-safety-concern-firings-wi",
+      "published_at": "2026-10-09T06:31:50+00:00"
+    },
+    {
+      "headline": "Jim Cramer Says OpenAI Revenue Isn’t ‘Apples to Apples’ With Anthropic, Daniel Newman Calls Debate 'Hilarious' — $500 Billion Wiped Out",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62264549/jim-cramer-daniel-newman-explain-openai-revenue-scare-gap-is-about-counting-not-sales",
+      "published_at": "2026-10-09T06:02:40+00:00"
+    },
+    {
+      "headline": "Securitize Stock Jumps After Hours As It Launches Tokenized Apple, Nvidia, Tesla Shares On Solana",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62264221/securitize-shares-jump-tokenized-us-stocks-solana",
+      "published_at": "2026-10-09T03:27:36+00:00"
+    },
+    {
+      "headline": "Here’s How Much You Would Have Made Owning Microsoft Stock In The Last 20 Years",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62263077/here-s-how-much-you-would-have-made-owning-microsoft-stock-last-20-years",
+      "published_at": "2026-10-08T22:00:33+00:00"
+    },
+    {
+      "headline": "Solana Tops NYSE Trade Count: Can Robinhood, Coinbase, Hyperliquid Keep Up?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62258814/solana-tops-nyse-trade-count-can-robinhood-coinbase-hyperliquid-keep-up",
+      "published_at": "2026-10-08T19:10:23+00:00"
+    },
+    {
+      "headline": "Anthropic Launches Cyber Mission To Equip Defenders With AI Tools, Research, And Resources To Strengthen Software And Systems Security",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62258644/anthropic-launches-cyber-mission-to-equip-defenders-with-ai-tools-research-and-resources-to-strengthen-software-and-systems-security",
+      "published_at": "2026-10-08T19:04:30+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for MSFT"
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-10-09T12:33:25.757813+00:00",
+  "price": 348.3,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-27",
+      "open": 339.68,
+      "high": 341.69,
+      "low": 338.54,
+      "close": 340.59,
+      "volume": 767720.0
+    },
+    {
+      "date": "2026-08-28",
+      "open": 340.845,
+      "high": 349.09,
+      "low": 340.77,
+      "close": 346.61,
+      "volume": 929692.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 344.04,
+      "high": 344.24,
+      "low": 337.165,
+      "close": 339.17,
+      "volume": 613493.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 335.855,
+      "high": 337.175,
+      "low": 333.11,
+      "close": 334.995,
+      "volume": 653878.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 333.725,
+      "high": 339.73,
+      "low": 332.97,
+      "close": 337.12,
+      "volume": 619670.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.605,
+      "high": 343.505,
+      "low": 337.1,
+      "close": 338.34,
+      "volume": 586852.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 335.44,
+      "high": 339.64,
+      "low": 333.235,
+      "close": 338.39,
+      "volume": 752823.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.53,
+      "high": 331.685,
+      "low": 327.92,
+      "close": 330.655,
+      "volume": 1192931.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.165,
+      "high": 333.21,
+      "low": 327.79,
+      "close": 332.67,
+      "volume": 475560.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 335.05,
+      "high": 342.91,
+      "low": 335.05,
+      "close": 338.44,
+      "volume": 586340.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 342.995,
+      "high": 349.9,
+      "low": 342.35,
+      "close": 349.445,
+      "volume": 1245888.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 346.86,
+      "high": 348.03,
+      "low": 342.71,
+      "close": 344.98,
+      "volume": 552579.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 346.99,
+      "high": 348.39,
+      "low": 340.69,
+      "close": 342.94,
+      "volume": 588712.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.63,
+      "high": 349.45,
+      "low": 343.92,
+      "close": 347.41,
+      "volume": 642188.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.7,
+      "high": 364.09,
+      "low": 350.22,
+      "close": 351.18,
+      "volume": 1033346.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.25,
+      "high": 343.05,
+      "low": 336.235,
+      "close": 342.33,
+      "volume": 837155.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 342.5,
+      "high": 346.93,
+      "low": 341.155,
+      "close": 343.845,
+      "volume": 545552.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.38,
+      "high": 343.5,
+      "low": 339.59,
+      "close": 342.77,
+      "volume": 655719.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 342.035,
+      "high": 342.775,
+      "low": 338.02,
+      "close": 340.95,
+      "volume": 663441.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 344.235,
+      "high": 352.56,
+      "low": 341.0,
+      "close": 344.1,
+      "volume": 1005081.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 350.84,
+      "high": 352.99,
+      "low": 335.57,
+      "close": 338.38,
+      "volume": 915815.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 341.265,
+      "high": 345.73,
+      "low": 341.265,
+      "close": 343.47,
+      "volume": 587768.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 342.725,
+      "high": 348.03,
+      "low": 342.555,
+      "close": 346.46,
+      "volume": 765516.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 347.38,
+      "high": 349.03,
+      "low": 344.685,
+      "close": 347.72,
+      "volume": 425699.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 346.715,
+      "high": 350.795,
+      "low": 343.11,
+      "close": 350.53,
+      "volume": 749027.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 354.01,
+      "high": 356.8,
+      "low": 346.52,
+      "close": 348.3,
+      "volume": 666286.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "‘Dean of Valuation’ Warns of AI Cash Drain: 4 Ways to Play the Shift",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62268160/dean-of-valuation-warns-of-ai-cash-drain-4-ways-to-play-the-shift",
+      "published_at": "2026-10-09T11:33:03+00:00"
+    },
+    {
+      "headline": "Why Is SpaceX Stock Surging Friday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62266085/why-is-spacex-stock-surging-thursday",
+      "published_at": "2026-10-09T09:35:07+00:00"
+    },
+    {
+      "headline": "Wall Street Still Treats Micron Like a Commodity Stock — Analyst Says That's a Costly Mistake",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62266305/wall-street-still-treats-micron-like-a-commodity-stock-analyst-says-thats-a-costly-mistake",
+      "published_at": "2026-10-09T09:57:17+00:00"
+    },
+    {
+      "headline": "Google Cloud And CaixaBank Extend 2023 Strategic Collaboration To 2033 With Focus On Agentic AI, Hybrid Infrastructure And Security, And Workforce Training",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/GOOGL",
+      "published_at": "2026-10-09T08:40:09+00:00"
+    },
+    {
+      "headline": "Elon Musk A ‘National Treasure,’ Says Trump: President Compares Tesla CEO With Edison As He Awards National Medal of Science",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62264954/musk-congratulates-medal-winners-trump-calls-him-national-treasure",
+      "published_at": "2026-10-09T07:00:05+00:00"
+    },
+    {
+      "headline": "Meta Draws a Line With TikTok, Bans ByteDance Ads Across Facebook and Instagram: Their Goal Is to ‘Pull People off Our Apps’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62264619/meta-bans-bytedance-tiktok-ads-facebook-instagram",
+      "published_at": "2026-10-09T06:10:13+00:00"
+    },
+    {
+      "headline": "Jim Cramer Says OpenAI Revenue Isn’t ‘Apples to Apples’ With Anthropic, Daniel Newman Calls Debate 'Hilarious' — $500 Billion Wiped Out",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62264549/jim-cramer-daniel-newman-explain-openai-revenue-scare-gap-is-about-counting-not-sales",
+      "published_at": "2026-10-09T06:02:40+00:00"
+    },
+    {
+      "headline": "Securitize Stock Jumps After Hours As It Launches Tokenized Apple, Nvidia, Tesla Shares On Solana",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62264221/securitize-shares-jump-tokenized-us-stocks-solana",
+      "published_at": "2026-10-09T03:27:36+00:00"
+    },
+    {
+      "headline": "Trump Says Calling It ‘Artificial Intelligence’ Makes You the ‘Enemy,’ But Marjorie Taylor Greene Doesn't Seem to Care",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62264177/trump-artificial-intelligence-super-enemy",
+      "published_at": "2026-10-09T03:06:13+00:00"
+    },
+    {
+      "headline": "Hello Computer, Build Me GTA: The AI Threat to Game Studios",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62262272/hello-computer-build-me-gta-the-ai-threat-to-game-studios",
+      "published_at": "2026-10-08T21:06:10+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for GOOGL"
+  ]
+}
