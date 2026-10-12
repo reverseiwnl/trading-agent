@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-10-12T13:02:12.789682+00:00",
+  "price": 229.47,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-28",
+      "open": 227.28,
+      "high": 229.25,
+      "low": 216.82,
+      "close": 217.545,
+      "volume": 5357434.0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 218.73,
+      "high": 221.28,
+      "low": 216.23,
+      "close": 220.86,
+      "volume": 3278990.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 216.73,
+      "high": 220.395,
+      "low": 215.12,
+      "close": 217.49,
+      "volume": 3131622.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 218.785,
+      "high": 227.95,
+      "low": 218.53,
+      "close": 224.435,
+      "volume": 4915686.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 225.92,
+      "high": 230.4,
+      "low": 224.765,
+      "close": 228.54,
+      "volume": 3373106.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 231.11,
+      "high": 234.75,
+      "low": 229.635,
+      "close": 230.19,
+      "volume": 3592503.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 233.21,
+      "high": 233.69,
+      "low": 224.86,
+      "close": 225.82,
+      "volume": 3102034.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 225.2,
+      "high": 226.07,
+      "low": 223.46,
+      "close": 223.77,
+      "volume": 2177299.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 220.525,
+      "high": 220.98,
+      "low": 217.21,
+      "close": 218.37,
+      "volume": 2640914.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 221.22,
+      "high": 222.0,
+      "low": 218.17,
+      "close": 218.17,
+      "volume": 1719278.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 211.195,
+      "high": 212.745,
+      "low": 208.94,
+      "close": 211.0,
+      "volume": 2427233.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 213.285,
+      "high": 213.93,
+      "low": 211.16,
+      "close": 212.165,
+      "volume": 1960841.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 214.17,
+      "high": 216.755,
+      "low": 212.5,
+      "close": 213.94,
+      "volume": 2431203.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 218.18,
+      "high": 219.9,
+      "low": 217.145,
+      "close": 219.4,
+      "volume": 2712846.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 219.065,
+      "high": 222.69,
+      "low": 218.04,
+      "close": 222.04,
+      "volume": 2828110.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 222.93,
+      "high": 228.49,
+      "low": 221.58,
+      "close": 227.3,
+      "volume": 3200199.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 226.975,
+      "high": 229.97,
+      "low": 226.59,
+      "close": 228.85,
+      "volume": 2460762.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 230.89,
+      "high": 232.81,
+      "low": 227.035,
+      "close": 227.235,
+      "volume": 2508154.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 228.84,
+      "high": 232.355,
+      "low": 228.27,
+      "close": 228.29,
+      "volume": 2961971.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 229.73,
+      "high": 232.28,
+      "low": 228.19,
+      "close": 231.04,
+      "volume": 2319590.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 236.05,
+      "high": 237.835,
+      "low": 233.6,
+      "close": 234.0,
+      "volume": 3860633.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 236.145,
+      "high": 240.09,
+      "low": 235.2,
+      "close": 238.98,
+      "volume": 3726291.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 242.04,
+      "high": 243.34,
+      "low": 238.95,
+      "close": 239.17,
+      "volume": 2758644.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 237.69,
+      "high": 239.08,
+      "low": 236.39,
+      "close": 237.4,
+      "volume": 2623107.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 234.795,
+      "high": 237.05,
+      "low": 229.88,
+      "close": 230.57,
+      "volume": 3598041.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 233.79,
+      "high": 233.89,
+      "low": 229.115,
+      "close": 229.35,
+      "volume": 2316630.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Forget Chip Shortages: Intel, Broadcom CEOs Warn AI's Next Big Crisis Could Be Cash",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62295019/forget-chip-shortages-intel-broadcom-ceos-warn-ais-next-big-crisis-could-be-cash",
+      "published_at": "2026-10-12T11:34:17+00:00"
+    },
+    {
+      "headline": "Palantir CTO Blasts Silicon Valley’s ‘Doomsday Cult’ Over AI Safety — Says Pentagon Has 'Already Replaced' Anthropic",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62294726/palantir-cto-blasts-silicon-valleys-doomsday-cult-over-ai-safety-says-pentagon-has-already-replaced-anthropic",
+      "published_at": "2026-10-12T11:18:57+00:00"
+    },
+    {
+      "headline": "Bernie Sanders Slams Trump Over AI ‘Hoax’ Claims as He Questions Billions in Family Wealth Tied to Crypto and AI Investments",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62294699/bernie-sanders-slams-trump-over-ai-hoax-claims-as-he-questions-billions-in-family-wealth-tied-to-crypto-and-ai-investments",
+      "published_at": "2026-10-12T11:18:09+00:00"
+    },
+    {
+      "headline": "Microsoft President Warns AI Is Less Regulated Than Milk, Washing Machines as He Pushes Governments Toward Tougher Safety Rules",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62292069/microsoft-president-warns-ai-is-less-regulated-than-milk-washing-machines-as-he-pushes-governments-toward-tougher-safety-rules",
+      "published_at": "2026-10-12T08:48:19+00:00"
+    },
+    {
+      "headline": "Amazon Reportedly in Talks to Buy Decart for $7 Billion — Market Strategist Says It Is 'Effectively Buying Software Expertise'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62290456/amazon-decart-acquisition-talks-7-billion-software-expertise",
+      "published_at": "2026-10-12T01:32:56+00:00"
+    },
+    {
+      "headline": "SpaceX Stock Pressured Despite Its Wireless Hopes as Credit Risk Jumps",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62289643/spacex-stock-pressured-despite-its-wireless-hopes-as-credit-risk-jumps",
+      "published_at": "2026-10-11T17:30:01+00:00"
+    },
+    {
+      "headline": "This Week in TSLA: FSD's Europe Rebrand, Elon Musk Receives Medal From Trump and More",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62289390/this-week-in-tsla-fsds-europe-rebrand-elon-musk-receives-medal-from-trump-and-more",
+      "published_at": "2026-10-11T13:19:49+00:00"
+    },
+    {
+      "headline": "China's AI Server Scheme, iPhone 18 Lead Times and More: This Week In Tech",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62289340/chinas-ai-server-scheme-iphone-18-lead-times-and-more-this-week-in-tech",
+      "published_at": "2026-10-11T13:00:47+00:00"
+    },
+    {
+      "headline": "David Tepper Once Said ‘I Don’t Trust Myself’ on Nvidia—Now Appaloosa Holds 1.5 Million Shares",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62289332/david-tepper-once-said-i-dont-trust-myself-on-nvidia-now-appaloosa-holds-1-5-million-shares",
+      "published_at": "2026-10-11T13:00:37+00:00"
+    },
+    {
+      "headline": "Ro Khanna Defends California’s Proposed Billionaire Tax as ‘An Innovative Economic Solution’ for a Changing Economy: ‘Not Class Warfare or Punitive’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/10/62289023/ro-khanna-defends-californias-proposed-billionaire-tax-as-an-innovative-economic-solution-for-a-changing-economy-not-class-warfare-or-punitive",
+      "published_at": "2026-10-11T07:48:54+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
