@@ -1,0 +1,314 @@
+{
+  "ticker": "JNJ",
+  "as_of": "2026-10-13T12:33:31.964099+00:00",
+  "price": 264.1,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-08-31",
+      "open": 266.565,
+      "high": 267.66,
+      "low": 265.37,
+      "close": 265.79,
+      "volume": 126362.0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 270.52,
+      "high": 271.87,
+      "low": 267.13,
+      "close": 271.295,
+      "volume": 387838.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 274.495,
+      "high": 281.0,
+      "low": 273.565,
+      "close": 275.42,
+      "volume": 356304.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 277.595,
+      "high": 278.88,
+      "low": 273.32,
+      "close": 278.45,
+      "volume": 193617.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 275.035,
+      "high": 277.65,
+      "low": 275.02,
+      "close": 275.24,
+      "volume": 159967.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 271.525,
+      "high": 271.525,
+      "low": 266.915,
+      "close": 269.17,
+      "volume": 257172.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 268.525,
+      "high": 270.03,
+      "low": 266.795,
+      "close": 267.13,
+      "volume": 238072.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 269.89,
+      "high": 271.22,
+      "low": 265.805,
+      "close": 266.36,
+      "volume": 164084.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 268.225,
+      "high": 270.28,
+      "low": 265.31,
+      "close": 265.69,
+      "volume": 170138.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 271.065,
+      "high": 271.46,
+      "low": 266.275,
+      "close": 266.4,
+      "volume": 200514.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 265.8,
+      "high": 267.125,
+      "low": 260.76,
+      "close": 267.125,
+      "volume": 199884.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 266.72,
+      "high": 268.62,
+      "low": 266.295,
+      "close": 267.3,
+      "volume": 187645.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 268.17,
+      "high": 270.85,
+      "low": 267.425,
+      "close": 270.255,
+      "volume": 232169.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 268.745,
+      "high": 272.085,
+      "low": 267.27,
+      "close": 269.93,
+      "volume": 230038.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 268.825,
+      "high": 273.58,
+      "low": 268.61,
+      "close": 269.55,
+      "volume": 165951.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 266.53,
+      "high": 270.06,
+      "low": 265.08,
+      "close": 269.305,
+      "volume": 229270.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 269.7,
+      "high": 272.07,
+      "low": 266.545,
+      "close": 269.2,
+      "volume": 398932.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 269.535,
+      "high": 275.21,
+      "low": 269.235,
+      "close": 270.79,
+      "volume": 354692.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 271.445,
+      "high": 271.98,
+      "low": 269.335,
+      "close": 271.2,
+      "volume": 210874.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 270.04,
+      "high": 273.78,
+      "low": 270.03,
+      "close": 272.03,
+      "volume": 256041.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 269.45,
+      "high": 271.725,
+      "low": 265.645,
+      "close": 267.55,
+      "volume": 256175.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 268.205,
+      "high": 268.245,
+      "low": 264.61,
+      "close": 265.03,
+      "volume": 209034.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 263.38,
+      "high": 263.87,
+      "low": 258.335,
+      "close": 258.7,
+      "volume": 290436.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 259.07,
+      "high": 259.07,
+      "low": 255.125,
+      "close": 256.025,
+      "volume": 320601.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 255.74,
+      "high": 256.11,
+      "low": 252.51,
+      "close": 252.78,
+      "volume": 279460.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 253.49,
+      "high": 255.425,
+      "low": 251.29,
+      "close": 254.8,
+      "volume": 241108.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 256.55,
+      "high": 260.58,
+      "low": 255.985,
+      "close": 258.495,
+      "volume": 152793.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 257.47,
+      "high": 257.5,
+      "low": 251.955,
+      "close": 256.48,
+      "volume": 274173.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 255.05,
+      "high": 261.5,
+      "low": 254.985,
+      "close": 261.5,
+      "volume": 199530.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 261.6,
+      "high": 264.335,
+      "low": 260.955,
+      "close": 264.1,
+      "volume": 189236.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Earnings Scheduled For October 13, 2026",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/earnings/26/10/62318439/earnings-scheduled-october-13-2026",
+      "published_at": "2026-10-13T11:11:04+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Says Q3 Reflects One-Time Special Charge for Proposed Talc Litigation Resolution, Acquisition of Firefly Bio, And Strategic Collaboration With Sail Biomedicines",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/JNJ",
+      "published_at": "2026-10-13T10:32:08+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Raises FY2026 Adj EPS Guidance from $10.96-$11.11 to $11.05-$11.15 vs $11.08 Est; Raises FY2026 Sales Guidance from $100.800B-$101.400B to $101.000B-$101.400B vs $101.296B Est",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62317035/johnson-johnson-raises-fy2026-adj-eps-guidance-10-96-11-11-11-05-11-15-vs-11-08-est-raises-fy2026-sa",
+      "published_at": "2026-10-13T10:22:04+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Q3 Adj. EPS $2.59 Beats $2.53 Estimate, Sales $25.399B Beat $25.251B Estimate",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/JNJ",
+      "published_at": "2026-10-13T10:20:43+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62313960/stock-market-will-sp-500-open-up-or-down-today-56",
+      "published_at": "2026-10-13T05:48:41+00:00"
+    },
+    {
+      "headline": "JPMorgan, Goldman Sachs and 3 Stocks to Watch Heading Into Tuesday",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62313790/jpmorgan-goldman-sachs-and-3-stocks-to-watch-heading-into-tuesday-2",
+      "published_at": "2026-10-13T04:43:45+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Announces Three-Year Data From Its Phase 3 GALAXI 2, 3 Trials Of TREMFYA Demonstrate Efficacy, Consistent Profile To Treat Crohn's Disease",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/general/biotech/26/10/62311361/johnson-johnson-announces-three-year-data-its-phase-3-galaxi-2-3-trials-tremfya-demonstrate-efficacy",
+      "published_at": "2026-10-12T20:12:06+00:00"
+    },
+    {
+      "headline": "JPMorgan Chase Could Swing $28 Billion After Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/10/62310288/jpmorgan-chase-could-swing-28-billion-after-earnings",
+      "published_at": "2026-10-12T19:30:12+00:00"
+    },
+    {
+      "headline": "Dow Jones Industrial Average Gets Spotlight: 5 Earnings Reports Representing 25% of ETF’s Assets On Deck",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/previews/26/10/62305174/dow-jones-industrial-average-gets-spotlight-5-earnings-reports-representing-25-of-etfs-assets-on-deck",
+      "published_at": "2026-10-12T16:24:19+00:00"
+    },
+    {
+      "headline": "Reported Earlier: 'Cancer Vaccines Are the N.I.H's Next Big Bet' - The New York Times",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62274718/reported-earlier-cancer-vaccines-are-n-i-h-s-next-big-bet-new-york-times",
+      "published_at": "2026-10-09T15:00:02+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
