@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-10-14T12:28:27.001666+00:00",
+  "price": 229.2,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-01",
+      "open": 216.73,
+      "high": 220.395,
+      "low": 215.12,
+      "close": 217.49,
+      "volume": 3131622.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 218.785,
+      "high": 227.95,
+      "low": 218.53,
+      "close": 224.435,
+      "volume": 4915686.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 225.92,
+      "high": 230.4,
+      "low": 224.765,
+      "close": 228.54,
+      "volume": 3373106.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 231.11,
+      "high": 234.75,
+      "low": 229.635,
+      "close": 230.19,
+      "volume": 3592503.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 233.21,
+      "high": 233.69,
+      "low": 224.86,
+      "close": 225.82,
+      "volume": 3102034.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 225.2,
+      "high": 226.07,
+      "low": 223.46,
+      "close": 223.77,
+      "volume": 2177299.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 220.525,
+      "high": 220.98,
+      "low": 217.21,
+      "close": 218.37,
+      "volume": 2640914.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 221.22,
+      "high": 222.0,
+      "low": 218.17,
+      "close": 218.17,
+      "volume": 1719278.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 211.195,
+      "high": 212.745,
+      "low": 208.94,
+      "close": 211.0,
+      "volume": 2427233.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 213.285,
+      "high": 213.93,
+      "low": 211.16,
+      "close": 212.165,
+      "volume": 1960841.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 214.17,
+      "high": 216.755,
+      "low": 212.5,
+      "close": 213.94,
+      "volume": 2431203.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 218.18,
+      "high": 219.9,
+      "low": 217.145,
+      "close": 219.4,
+      "volume": 2712846.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 219.065,
+      "high": 222.69,
+      "low": 218.04,
+      "close": 222.04,
+      "volume": 2828110.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 222.93,
+      "high": 228.49,
+      "low": 221.58,
+      "close": 227.3,
+      "volume": 3200199.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 226.975,
+      "high": 229.97,
+      "low": 226.59,
+      "close": 228.85,
+      "volume": 2460762.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 230.89,
+      "high": 232.81,
+      "low": 227.035,
+      "close": 227.235,
+      "volume": 2508154.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 228.84,
+      "high": 232.355,
+      "low": 228.27,
+      "close": 228.29,
+      "volume": 2961971.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 229.73,
+      "high": 232.28,
+      "low": 228.19,
+      "close": 231.04,
+      "volume": 2319590.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 236.05,
+      "high": 237.835,
+      "low": 233.6,
+      "close": 234.0,
+      "volume": 3860633.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 236.145,
+      "high": 240.09,
+      "low": 235.2,
+      "close": 238.98,
+      "volume": 3726291.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 242.04,
+      "high": 243.34,
+      "low": 238.95,
+      "close": 239.17,
+      "volume": 2758644.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 237.69,
+      "high": 239.08,
+      "low": 236.39,
+      "close": 237.4,
+      "volume": 2623107.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 234.795,
+      "high": 237.05,
+      "low": 229.88,
+      "close": 230.57,
+      "volume": 3598041.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 233.79,
+      "high": 233.89,
+      "low": 229.115,
+      "close": 229.35,
+      "volume": 2316630.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 228.69,
+      "high": 228.795,
+      "low": 224.9,
+      "close": 226.46,
+      "volume": 1590973.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 224.265,
+      "high": 228.64,
+      "low": 223.12,
+      "close": 228.5,
+      "volume": 2400846.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "AI Godfather Geoffrey Hinton Warns of 'Alien Beings' That Could Escape Human Control: ‘If It Takes Over, You Don’t Get a Second Chance’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62350758/ai-godfather-geoffrey-hinton-warns-of-alien-beings-that-could-escape-human-control-if-it-takes-over-you-dont-get-a-second-chance",
+      "published_at": "2026-10-14T12:22:14+00:00"
+    },
+    {
+      "headline": "Saylor Sees Bitcoin Above $100,000—So Why Is Strategy Willing to Sell?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/10/62349376/saylor-sees-bitcoin-above-100000-so-why-is-strategy-willing-to-sell",
+      "published_at": "2026-10-14T11:42:53+00:00"
+    },
+    {
+      "headline": "'Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight' - Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62348820/apple-openai-head-court-high-stakes-ai-trade-secret-fight-bloomberg",
+      "published_at": "2026-10-14T11:14:42+00:00"
+    },
+    {
+      "headline": "Danaher Brings NVIDIA AI Into Scientific Instruments in Push for Faster Discoveries",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62348770/danaher-brings-nvidia-ai-into-scientific-instruments-in-push-for-faster-discoveries",
+      "published_at": "2026-10-14T11:11:21+00:00"
+    },
+    {
+      "headline": "What's Going On With NVIDIA Stock Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62348372/whats-going-on-with-nvidia-stock-wednesday-6",
+      "published_at": "2026-10-14T11:01:16+00:00"
+    },
+    {
+      "headline": "Forget NVIDIA: Jim Cramer Says US Chip Stocks Are 'Joined at the Hip' With SK hynix",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62346658/forget-nvidia-jim-cramer-says-us-chip-stocks-are-joined-at-the-hip-with-sk-hynix",
+      "published_at": "2026-10-14T09:49:52+00:00"
+    },
+    {
+      "headline": "Micron Stock Gets Hammered Over China Fears — Jim Cramer Calls the Selloff 'Nonsense'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62346389/micron-stock-gets-hammered-over-china-fears-jim-cramer-calls-the-selloff-nonsense",
+      "published_at": "2026-10-14T09:32:38+00:00"
+    },
+    {
+      "headline": "Danaher And NVIDIA Team Up To Help Researchers Move Faster From AI Prediction To Experimental Evidence Via Continuous Learning Cycle",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/NVDA",
+      "published_at": "2026-10-14T06:06:08+00:00"
+    },
+    {
+      "headline": "Ron Baron Sees SpaceX Hitting $50 Trillion in a Decade, Up From $2 Trillion — Says Elon Musk Thinks His Estimate Is ‘Way Low’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62344172/ron-baron-sees-50-trillion-spacex-in-a-decade-musk-thinks-he-is-low",
+      "published_at": "2026-10-14T03:08:35+00:00"
+    },
+    {
+      "headline": "Dan Ives Says AI Stock Selloff ‘Opportunity to Own the Winners’: Here Are 7 Companies He Named",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62340990/dan-ives-says-ai-stock-selloff-opportunity-to-own-the-winners-here-are-7-companies-he-named",
+      "published_at": "2026-10-13T20:36:47+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for NVDA"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-14",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "343.71 pre-open, grinding higher (341.33 close 10-13), near records. Headline list EMPTY today and fundamentals unavailable, so yesterday's open questions (China sell-through, services growth) cannot be advanced. Price strength alone is not a thesis. Hold; falsify toward buy on second-source China sell-through or services acceleration, toward sell on quantified iPhone order cuts.",
+      "sources": [
+        "data/2026-10-14/AAPL.json (Alpaca price/bars; headline list EMPTY; fundamentals failed)"
+      ],
+      "timestamp": "2026-10-14T12:35:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "353.57, fifth straight higher close, at highs. Headline list EMPTY today; fundamentals unavailable. Nothing to advance yesterday's watch items (cloud backlog, search share, UK class action). Hold; falsify toward buy on quantified cloud backlog growth or search-share stability data, toward sell on measured search-share loss.",
+      "sources": [
+        "data/2026-10-14/GOOGL.json (Alpaca price/bars; headline list EMPTY; fundamentals failed)"
+      ],
+      "timestamp": "2026-10-14T12:35:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.45,
+      "thesis": "248.57 - fell 5.9% on earnings day (264.10 close 10-12 to 248.57 close 10-13) DESPITE the Q3 beat and raised FY26 guidance, implying the market read the talc charge or guidance quality negatively. Headline list EMPTY today, so the move is unexplainable from available data; yesterday's rejected buy is not resubmitted. Hold; falsify toward buy on sourced talc-resolution detail, toward sell on guidance walk-back.",
+      "sources": [
+        "data/2026-10-14/JNJ.json (Alpaca price/bars; headline list EMPTY; fundamentals failed)"
+      ],
+      "timestamp": "2026-10-14T12:35:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "546.33 pre-open vs 543.51 close 10-13, fresh highs. Headline list EMPTY today; the 10-13 Azure leadership reshuffle (single report) cannot be followed up. No tradeable number. Hold; falsify toward buy on Azure acceleration at earnings, toward sell on exec departures confirming execution trouble.",
+      "sources": [
+        "data/2026-10-14/MSFT.json (Alpaca price/bars; headline list EMPTY; fundamentals failed)"
+      ],
+      "timestamp": "2026-10-14T12:35:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "229.20, stabilizing after the fade (239.17 on 10-06 to 226.46 on 10-12, two small up closes since). Headline list EMPTY today; the China-share loss and ecosystem cash-stress threads cannot be advanced. Hold; falsify toward sell on hyperscaler capex cuts or a second China-share source, toward buy on a funded-demand datapoint from an investment-grade buyer.",
+      "sources": [
+        "data/2026-10-14/NVDA.json (Alpaca price/bars; headline list EMPTY; fundamentals failed)"
+      ],
+      "timestamp": "2026-10-14T12:35:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "377.56, flat post-earnings (379.31 on 10-09, 378.16, 377.56) - the Q3 beat and raise produced no follow-through. Headline list EMPTY today; Texas AG probe status unknowable without news. Yesterday's rejected buy is not resubmitted; the sector-unknown blocker persists anyway. Hold; falsify toward buy on probe resolution or cost-trend data, toward sell on probe escalation.",
+      "sources": [
+        "data/2026-10-14/UNH.json (Alpaca price/bars; headline list EMPTY; fundamentals failed)"
+      ],
+      "timestamp": "2026-10-14T12:35:00+00:00"
+    },
+    {
+      "ticker": "VOO",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "715.08, flat for a week through the opening of bank earnings season. Benchmark asset, not a trading vehicle - no action by design. Headline list EMPTY today, so the yield/earnings tape cannot be read. Falsifier for caution: index flat-to-down despite bank beats with 10-yr yields above 5.3%.",
+      "sources": [
+        "data/2026-10-14/VOO.json (Alpaca price/bars; headline list EMPTY; fundamentals failed)"
+      ],
+      "timestamp": "2026-10-14T12:35:00+00:00"
+    }
+  ],
+  "market_context": "Data pull PARTIAL and newly degraded: fundamentals failed for all 7 tickers (24th consecutive run) AND every ticker's headline list was EMPTY today - the first all-empty news day; only Alpaca prices/bars landed. Portfolio is 100% cash, so the holdings-only web sweep does not apply; with no headlines and no fundamentals there is no researchable catalyst, so every signal defaults to hold. Yesterday's JNJ/UNH buys were rejected (sector unknown - fundamentals gap); that blocker persists today and rejected signals are not resubmitted to seek a different outcome. Notable price-only observation: JNJ -5.9% on its earnings day (264.10 on 10-12 to 248.57 close 10-13) despite the beat/raise - unexplainable without news data; ambiguity resolves to no-trade."
+}

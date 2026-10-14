@@ -1,0 +1,314 @@
+{
+  "ticker": "UNH",
+  "as_of": "2026-10-14T12:28:30.910790+00:00",
+  "price": 377.56,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-01",
+      "open": 392.03,
+      "high": 399.445,
+      "low": 392.03,
+      "close": 396.365,
+      "volume": 159482.0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 399.43,
+      "high": 401.055,
+      "low": 396.675,
+      "close": 399.58,
+      "volume": 158402.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 400.36,
+      "high": 405.085,
+      "low": 395.62,
+      "close": 400.99,
+      "volume": 136146.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 398.19,
+      "high": 402.225,
+      "low": 395.27,
+      "close": 396.815,
+      "volume": 77475.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 392.99,
+      "high": 403.885,
+      "low": 390.555,
+      "close": 400.93,
+      "volume": 202914.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 405.465,
+      "high": 406.48,
+      "low": 378.21,
+      "close": 393.12,
+      "volume": 376961.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 396.46,
+      "high": 399.26,
+      "low": 387.615,
+      "close": 388.26,
+      "volume": 158375.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 391.015,
+      "high": 391.715,
+      "low": 375.99,
+      "close": 378.865,
+      "volume": 361016.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 381.63,
+      "high": 386.4,
+      "low": 381.435,
+      "close": 383.595,
+      "volume": 149458.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 383.15,
+      "high": 383.535,
+      "low": 375.565,
+      "close": 375.93,
+      "volume": 237522.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 375.91,
+      "high": 380.16,
+      "low": 373.63,
+      "close": 375.35,
+      "volume": 129024.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 376.655,
+      "high": 380.42,
+      "low": 374.66,
+      "close": 375.32,
+      "volume": 182062.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 375.51,
+      "high": 378.47,
+      "low": 372.545,
+      "close": 376.94,
+      "volume": 127827.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 378.17,
+      "high": 378.95,
+      "low": 373.955,
+      "close": 377.53,
+      "volume": 167686.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 380.44,
+      "high": 380.56,
+      "low": 372.585,
+      "close": 372.9,
+      "volume": 171526.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 369.99,
+      "high": 372.51,
+      "low": 366.1,
+      "close": 371.27,
+      "volume": 145416.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 371.99,
+      "high": 375.27,
+      "low": 368.775,
+      "close": 375.17,
+      "volume": 255526.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 377.39,
+      "high": 379.09,
+      "low": 371.305,
+      "close": 376.7,
+      "volume": 176537.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 376.685,
+      "high": 380.88,
+      "low": 374.62,
+      "close": 377.94,
+      "volume": 185049.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 376.095,
+      "high": 376.47,
+      "low": 371.355,
+      "close": 374.98,
+      "volume": 143841.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 373.95,
+      "high": 373.95,
+      "low": 365.8,
+      "close": 367.25,
+      "volume": 179338.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 367.52,
+      "high": 371.74,
+      "low": 362.66,
+      "close": 365.11,
+      "volume": 175654.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 364.86,
+      "high": 372.675,
+      "low": 364.645,
+      "close": 371.775,
+      "volume": 172855.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 373.49,
+      "high": 379.125,
+      "low": 368.31,
+      "close": 378.625,
+      "volume": 258647.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 379.095,
+      "high": 380.18,
+      "low": 373.72,
+      "close": 376.15,
+      "volume": 219249.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 376.595,
+      "high": 383.435,
+      "low": 372.07,
+      "close": 375.815,
+      "volume": 293825.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 374.9,
+      "high": 375.85,
+      "low": 368.61,
+      "close": 370.755,
+      "volume": 176722.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 373.2,
+      "high": 387.495,
+      "low": 373.2,
+      "close": 379.31,
+      "volume": 650448.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 381.57,
+      "high": 381.57,
+      "low": 373.78,
+      "close": 378.16,
+      "volume": 311713.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 397.625,
+      "high": 399.59,
+      "low": 373.22,
+      "close": 377.56,
+      "volume": 456630.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "UnitedHealth’s Optum Health CEO Outlines Road to Recovery, Says 6%-8% Margins Are a ‘Multi-Year Journey’ Despite Early Progress",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/10/62347538/unitedhealths-optum-health-ceo-outlines-road-to-recovery-says-6-8-margins-are-a-multi-year-journey-despite-early-progress",
+      "published_at": "2026-10-14T10:24:20+00:00"
+    },
+    {
+      "headline": "Stock Market Today: S&P 500, Dow Jones Futures Gain as Investors Await September Inflation Report— ASML, GME, UNH in Focus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62346692/stock-market-today-sp-500-dow-jones-futures-gain-as-investors-await-september-inflation-report-asml-gme-unh-in-focus",
+      "published_at": "2026-10-14T09:56:20+00:00"
+    },
+    {
+      "headline": "QUICK SPARK: UnitedHealth Calls 2026 the Bottom for Medicaid Margins",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/10/62339000/unitedhealth-calls-2026-the-bottom-for-medicaid-margins",
+      "published_at": "2026-10-13T19:39:57+00:00"
+    },
+    {
+      "headline": "UnitedHealth Raises Guidance: What It Means for XLV and Other Healthcare ETFs",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62334461/unitedhealth-raises-guidance-what-it-means-for-xlv-and-other-healthcare-etfs",
+      "published_at": "2026-10-13T17:11:06+00:00"
+    },
+    {
+      "headline": "UnitedHealth Stock Wobbles Despite 61% Profit Jump, Boosted Outlook (CORRECTED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/10/62332625/unitedhealth-stock-wobbles-despite-61-profit-jump-boosted-outlook",
+      "published_at": "2026-10-13T16:50:05+00:00"
+    },
+    {
+      "headline": "UnitedHealth Group Q3 2026 Earnings Call Transcript",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62323237/unitedhealth-group-q3-2026-earnings-call-transcript",
+      "published_at": "2026-10-13T13:11:49+00:00"
+    },
+    {
+      "headline": "UnitedHealth Says Wall Street May Be Underestimating Its 2027 Earnings Potential",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/10/62322165/unitedhealth-says-wall-street-may-be-underestimating-its-2027-earnings-potential",
+      "published_at": "2026-10-13T12:53:04+00:00"
+    },
+    {
+      "headline": "UnitedHealth Exec Sees Lower End Of Long-Term 13%-16% Growth Rate As Starting Point For 2027 EPS Forecast; Continues To See A Balanced Set Of Tailwinds And Headwinds In 2027; \"We Would Offer That Current Analyst Consensus For 2027 May Understate The Opportunity Ahead, And We See The Lower End Of Our Long-term 13%-16% Growth Rate As A More Reasonable Starting Point\"",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62321170/unitedhealth-exec-sees-lower-end-long-term-13-16-growth-rate-starting-point-2027-eps-forecast-contin",
+      "published_at": "2026-10-13T12:28:56+00:00"
+    },
+    {
+      "headline": "UnitedHealth Group Exec Says Care Intensity Remains Above Historical Norms Even As Trends Are Bending In A More Stable Direction; We Continue To View 2026 As A Trough Year For Core Medicaid Margins, Which We Now Expect To Be Moderately Better Than Negative 1%",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62320777/unitedhealth-group-exec-says-care-intensity-remains-above-historical-norms-even-trends-are-bending-m",
+      "published_at": "2026-10-13T12:16:09+00:00"
+    },
+    {
+      "headline": "UnitedHealth Exec Says Co Continues To Expect Growth In 2027 And Beyond Within Its 13-16 Percent Long-Term Target Growth Range",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62320646/unitedhealth-exec-says-co-continues-expect-growth-2027-and-beyond-within-its-13-16-percent-long-term",
+      "published_at": "2026-10-13T12:10:42+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for UNH"
+  ]
+}
