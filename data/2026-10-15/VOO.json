@@ -1,0 +1,308 @@
+{
+  "ticker": "VOO",
+  "as_of": "2026-10-15T12:24:46.162752+00:00",
+  "price": 705.23,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-02",
+      "open": 700.795,
+      "high": 704.47,
+      "low": 700.28,
+      "close": 703.34,
+      "volume": 43730.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 706.19,
+      "high": 711.39,
+      "low": 705.51,
+      "close": 710.7,
+      "volume": 45031.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 709.765,
+      "high": 710.3,
+      "low": 706.99,
+      "close": 707.86,
+      "volume": 56282.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 707.04,
+      "high": 707.43,
+      "low": 703.415,
+      "close": 704.16,
+      "volume": 70572.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 702.36,
+      "high": 702.43,
+      "low": 699.545,
+      "close": 700.805,
+      "volume": 48563.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 696.9,
+      "high": 698.55,
+      "low": 695.73,
+      "close": 696.69,
+      "volume": 47442.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 702.94,
+      "high": 704.46,
+      "low": 702.1,
+      "close": 702.52,
+      "volume": 72898.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 697.78,
+      "high": 701.72,
+      "low": 696.94,
+      "close": 699.35,
+      "volume": 53791.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 698.82,
+      "high": 698.905,
+      "low": 695.2,
+      "close": 696.29,
+      "volume": 57261.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 698.07,
+      "high": 699.99,
+      "low": 689.095,
+      "close": 693.215,
+      "volume": 60725.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 701.595,
+      "high": 701.695,
+      "low": 698.65,
+      "close": 700.97,
+      "volume": 47589.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 701.61,
+      "high": 702.16,
+      "low": 698.85,
+      "close": 701.85,
+      "volume": 49637.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 706.29,
+      "high": 714.075,
+      "low": 706.005,
+      "close": 712.76,
+      "volume": 125976.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 713.275,
+      "high": 714.225,
+      "low": 711.99,
+      "close": 712.69,
+      "volume": 149067.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 712.13,
+      "high": 712.38,
+      "low": 706.395,
+      "close": 707.28,
+      "volume": 147584.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 704.1,
+      "high": 708.505,
+      "low": 703.355,
+      "close": 707.28,
+      "volume": 141075.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 708.46,
+      "high": 711.615,
+      "low": 706.33,
+      "close": 710.705,
+      "volume": 164725.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 706.23,
+      "high": 707.22,
+      "low": 702.03,
+      "close": 703.6,
+      "volume": 62354.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 704.865,
+      "high": 704.865,
+      "low": 700.83,
+      "close": 702.27,
+      "volume": 101166.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 704.52,
+      "high": 707.2,
+      "low": 700.605,
+      "close": 700.605,
+      "volume": 61032.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 702.95,
+      "high": 703.43,
+      "low": 697.5,
+      "close": 702.255,
+      "volume": 51893.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 708.3,
+      "high": 710.09,
+      "low": 705.545,
+      "close": 707.35,
+      "volume": 134995.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 707.52,
+      "high": 713.82,
+      "low": 707.52,
+      "close": 712.41,
+      "volume": 60541.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 715.24,
+      "high": 718.43,
+      "low": 715.09,
+      "close": 716.29,
+      "volume": 86985.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 713.02,
+      "high": 715.0,
+      "low": 711.22,
+      "close": 714.66,
+      "volume": 23423.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 712.26,
+      "high": 714.11,
+      "low": 708.45,
+      "close": 711.23,
+      "volume": 41595.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 713.52,
+      "high": 716.37,
+      "low": 712.75,
+      "close": 715.58,
+      "volume": 70028.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 715.8,
+      "high": 716.29,
+      "low": 714.28,
+      "close": 715.315,
+      "volume": 32547.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 714.55,
+      "high": 715.725,
+      "low": 713.41,
+      "close": 715.08,
+      "volume": 25885.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 712.26,
+      "high": 713.52,
+      "low": 705.17,
+      "close": 707.44,
+      "volume": 54812.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Nasdaq 100 Drops 1% on Hot CPI, SOXX Falls 7th Day: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today",
+      "published_at": "2026-10-14T15:39:54+00:00"
+    },
+    {
+      "headline": "Chip Stocks Slide as South Korea's KOSPI Plunges, J&J Sinks 6%: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62333961/chip-stocks-slide-korea-kospi-plunges-5-percent-jj-drops-markets-tuesday",
+      "published_at": "2026-10-13T16:59:21+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Drops, SanDisk Tumbles 6% as AI Trade Falters: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday",
+      "published_at": "2026-10-12T17:02:31+00:00"
+    },
+    {
+      "headline": "S&P 500—What Happens In Q4 After A Negative September?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/10/62301581/sp500-what-happens-in-q4-after-a-negative-september",
+      "published_at": "2026-10-12T14:49:35+00:00"
+    },
+    {
+      "headline": "Dow Jones, S&P 500, Nasdaq 100 Outlook: Top Stock Market News This Week",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62289723/dow-jones-sp-500-nasdaq-100-outlook-top-stock-market-news-this-week",
+      "published_at": "2026-10-11T18:45:06+00:00"
+    },
+    {
+      "headline": "S&P 500 Earnings Preview: Will Strong Profits Fuel the Next Rally?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62288537/sp-500-earnings-preview-will-strong-profits-fuel-the-next-rally",
+      "published_at": "2026-10-10T18:41:04+00:00"
+    },
+    {
+      "headline": "Stock Market Today: Nasdaq 100 Rebounds From OpenAI Scare, T-Mobile Tumbles 12%",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62279599/stock-market-today-nasdaq-100-rebounds-t-mobile-tumbles",
+      "published_at": "2026-10-09T17:27:07+00:00"
+    },
+    {
+      "headline": "Stock Market Today: S&P 500 Slips as Oil Spikes 5%, 10-Year Yields Near 5.35%",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62255036/stock-market-today-sp-500-slips-oil-rallies-yields",
+      "published_at": "2026-10-08T17:19:59+00:00"
+    },
+    {
+      "headline": "AI Bubble Nearing a Breaking Point? Ray Dalio’s Warning Reveals a Risk Hiding in These ETFs",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62253994/ai-bubble-nearing-a-breaking-point-ray-dalios-warning-reveals-a-risk-hiding-in-these-etfs",
+      "published_at": "2026-10-08T16:55:57+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for VOO"
+  ]
+}

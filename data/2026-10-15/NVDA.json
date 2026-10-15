@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-10-15T12:24:38.156399+00:00",
+  "price": 221.49,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-02",
+      "open": 218.785,
+      "high": 227.95,
+      "low": 218.53,
+      "close": 224.435,
+      "volume": 4915686.0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 225.92,
+      "high": 230.4,
+      "low": 224.765,
+      "close": 228.54,
+      "volume": 3373106.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 231.11,
+      "high": 234.75,
+      "low": 229.635,
+      "close": 230.19,
+      "volume": 3592503.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 233.21,
+      "high": 233.69,
+      "low": 224.86,
+      "close": 225.82,
+      "volume": 3102034.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 225.2,
+      "high": 226.07,
+      "low": 223.46,
+      "close": 223.77,
+      "volume": 2177299.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 220.525,
+      "high": 220.98,
+      "low": 217.21,
+      "close": 218.37,
+      "volume": 2640914.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 221.22,
+      "high": 222.0,
+      "low": 218.17,
+      "close": 218.17,
+      "volume": 1719278.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 211.195,
+      "high": 212.745,
+      "low": 208.94,
+      "close": 211.0,
+      "volume": 2427233.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 213.285,
+      "high": 213.93,
+      "low": 211.16,
+      "close": 212.165,
+      "volume": 1960841.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 214.17,
+      "high": 216.755,
+      "low": 212.5,
+      "close": 213.94,
+      "volume": 2431203.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 218.18,
+      "high": 219.9,
+      "low": 217.145,
+      "close": 219.4,
+      "volume": 2712846.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 219.065,
+      "high": 222.69,
+      "low": 218.04,
+      "close": 222.04,
+      "volume": 2828110.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 222.93,
+      "high": 228.49,
+      "low": 221.58,
+      "close": 227.3,
+      "volume": 3200199.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 226.975,
+      "high": 229.97,
+      "low": 226.59,
+      "close": 228.85,
+      "volume": 2460762.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 230.89,
+      "high": 232.81,
+      "low": 227.035,
+      "close": 227.235,
+      "volume": 2508154.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 228.84,
+      "high": 232.355,
+      "low": 228.27,
+      "close": 228.29,
+      "volume": 2961971.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 229.73,
+      "high": 232.28,
+      "low": 228.19,
+      "close": 231.04,
+      "volume": 2319590.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 236.05,
+      "high": 237.835,
+      "low": 233.6,
+      "close": 234.0,
+      "volume": 3860633.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 236.145,
+      "high": 240.09,
+      "low": 235.2,
+      "close": 238.98,
+      "volume": 3726291.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 242.04,
+      "high": 243.34,
+      "low": 238.95,
+      "close": 239.17,
+      "volume": 2758644.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 237.69,
+      "high": 239.08,
+      "low": 236.39,
+      "close": 237.4,
+      "volume": 2623107.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 234.795,
+      "high": 237.05,
+      "low": 229.88,
+      "close": 230.57,
+      "volume": 3598041.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 233.79,
+      "high": 233.89,
+      "low": 229.115,
+      "close": 229.35,
+      "volume": 2316630.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 228.69,
+      "high": 228.795,
+      "low": 224.9,
+      "close": 226.46,
+      "volume": 1590973.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 224.265,
+      "high": 228.64,
+      "low": 223.12,
+      "close": 228.5,
+      "volume": 2400846.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 225.54,
+      "high": 225.975,
+      "low": 219.67,
+      "close": 221.49,
+      "volume": 3432102.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "SK Hynix Stock Extends Rout As South Korea's Chip Giants Face Brutal Selloff",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62375788/sk-hynix-stock-extends-rout-as-south-korea-enters-bear-market",
+      "published_at": "2026-10-15T10:35:06+00:00"
+    },
+    {
+      "headline": "Micron Stock Slides Again Thursday: What's Going On?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62374615/micron-stock-slides-again-thursday-whats-going-on",
+      "published_at": "2026-10-15T09:47:10+00:00"
+    },
+    {
+      "headline": "ASML Says AI Boom Is Boosting Pricing Power as Chipmakers Agree to Pay More",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62364842/asml-ai-pricing-power-chipmakers",
+      "published_at": "2026-10-14T17:50:35+00:00"
+    },
+    {
+      "headline": "Why Is Dell Technologies Stock Sinking Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62364730/why-is-dell-technologies-stock-sinking-wednesday",
+      "published_at": "2026-10-14T17:47:31+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/10/62364243/10-information-technology-stocks-whale-activity-today-s-session",
+      "published_at": "2026-10-14T17:35:11+00:00"
+    },
+    {
+      "headline": "Michael Dell Warns Memory Shortage Could Be a 'Four-Year Problem'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62363313/michael-dell-memory-shortage-four-years",
+      "published_at": "2026-10-14T17:08:44+00:00"
+    },
+    {
+      "headline": "ASML Earnings Signal Strong AI Demand Yet Stock Falls, Emphasizing Market Character Shift—CPI Squashes Hopium",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/10/62362386/asml-earnings-signal-strong-ai-demand-yet-stock-falls-emphasizing-market-character-shift-cpi-squashes-hopium",
+      "published_at": "2026-10-14T16:39:04+00:00"
+    },
+    {
+      "headline": "NVIDIA Expands CUDA-X AI Tools For Semiconductor Manufacturing, Delivering 2–3x Faster Atom-Level Simulations And 30x Faster Chipmaking Simulations",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62361565/nvidia-expands-cuda-x-ai-tools-semiconductor-manufacturing-delivering-2-3x-faster-atom-level-simulat",
+      "published_at": "2026-10-14T16:12:59+00:00"
+    },
+    {
+      "headline": "Why Is Super Micro Computer Stock Falling on Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62360670/why-is-super-micro-computer-stock-falling-on-wednesday-2",
+      "published_at": "2026-10-14T15:52:56+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Drops 1% on Hot CPI, SOXX Falls 7th Day: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today",
+      "published_at": "2026-10-14T15:39:54+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for NVDA"
+  ]
+}
