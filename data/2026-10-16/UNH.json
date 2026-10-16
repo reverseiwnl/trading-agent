@@ -1,0 +1,314 @@
+{
+  "ticker": "UNH",
+  "as_of": "2026-10-16T12:15:44.200969+00:00",
+  "price": 406.66,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-03",
+      "open": 400.36,
+      "high": 405.085,
+      "low": 395.62,
+      "close": 400.99,
+      "volume": 136146.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 398.19,
+      "high": 402.225,
+      "low": 395.27,
+      "close": 396.815,
+      "volume": 77475.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 392.99,
+      "high": 403.885,
+      "low": 390.555,
+      "close": 400.93,
+      "volume": 202914.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 405.465,
+      "high": 406.48,
+      "low": 378.21,
+      "close": 393.12,
+      "volume": 376961.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 396.46,
+      "high": 399.26,
+      "low": 387.615,
+      "close": 388.26,
+      "volume": 158375.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 391.015,
+      "high": 391.715,
+      "low": 375.99,
+      "close": 378.865,
+      "volume": 361016.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 381.63,
+      "high": 386.4,
+      "low": 381.435,
+      "close": 383.595,
+      "volume": 149458.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 383.15,
+      "high": 383.535,
+      "low": 375.565,
+      "close": 375.93,
+      "volume": 237522.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 375.91,
+      "high": 380.16,
+      "low": 373.63,
+      "close": 375.35,
+      "volume": 129024.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 376.655,
+      "high": 380.42,
+      "low": 374.66,
+      "close": 375.32,
+      "volume": 182062.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 375.51,
+      "high": 378.47,
+      "low": 372.545,
+      "close": 376.94,
+      "volume": 127827.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 378.17,
+      "high": 378.95,
+      "low": 373.955,
+      "close": 377.53,
+      "volume": 167686.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 380.44,
+      "high": 380.56,
+      "low": 372.585,
+      "close": 372.9,
+      "volume": 171526.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 369.99,
+      "high": 372.51,
+      "low": 366.1,
+      "close": 371.27,
+      "volume": 145416.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 371.99,
+      "high": 375.27,
+      "low": 368.775,
+      "close": 375.17,
+      "volume": 255526.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 377.39,
+      "high": 379.09,
+      "low": 371.305,
+      "close": 376.7,
+      "volume": 176537.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 376.685,
+      "high": 380.88,
+      "low": 374.62,
+      "close": 377.94,
+      "volume": 185049.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 376.095,
+      "high": 376.47,
+      "low": 371.355,
+      "close": 374.98,
+      "volume": 143841.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 373.95,
+      "high": 373.95,
+      "low": 365.8,
+      "close": 367.25,
+      "volume": 179338.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 367.52,
+      "high": 371.74,
+      "low": 362.66,
+      "close": 365.11,
+      "volume": 175654.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 364.86,
+      "high": 372.675,
+      "low": 364.645,
+      "close": 371.775,
+      "volume": 172855.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 373.49,
+      "high": 379.125,
+      "low": 368.31,
+      "close": 378.625,
+      "volume": 258647.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 379.095,
+      "high": 380.18,
+      "low": 373.72,
+      "close": 376.15,
+      "volume": 219249.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 376.595,
+      "high": 383.435,
+      "low": 372.07,
+      "close": 375.815,
+      "volume": 293825.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 374.9,
+      "high": 375.85,
+      "low": 368.61,
+      "close": 370.755,
+      "volume": 176722.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 373.2,
+      "high": 387.495,
+      "low": 373.2,
+      "close": 379.31,
+      "volume": 650448.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 381.57,
+      "high": 381.57,
+      "low": 373.78,
+      "close": 378.16,
+      "volume": 311713.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 397.625,
+      "high": 399.59,
+      "low": 373.22,
+      "close": 377.56,
+      "volume": 456630.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 383.075,
+      "high": 396.41,
+      "low": 382.91,
+      "close": 395.695,
+      "volume": 422673.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 401.06,
+      "high": 414.11,
+      "low": 400.29,
+      "close": 406.66,
+      "volume": 495897.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "$100 Invested In UnitedHealth Group 20 Years Ago Would Be Worth This Much Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62400110/100-invested-unitedhealth-group-20-years-ago-would-be-worth-much-today",
+      "published_at": "2026-10-15T20:31:01+00:00"
+    },
+    {
+      "headline": "UnitedHealth Stock Moves Higher: What's Going On?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62394476/unitedhealth-stock-moves-higher-whats-going-on",
+      "published_at": "2026-10-15T17:40:44+00:00"
+    },
+    {
+      "headline": "Defensives Lead Sectors In Thursday Trading As Technology Trails",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62388065/defensives-lead-sectors-in-thursday-trading-as-technology-trails",
+      "published_at": "2026-10-15T15:09:32+00:00"
+    },
+    {
+      "headline": "TD Cowen Reiterates Hold on UnitedHealth Group, Maintains $402 Price Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62382912/td-cowen-reiterates-hold-unitedhealth-group-maintains-402-price-target",
+      "published_at": "2026-10-15T13:50:46+00:00"
+    },
+    {
+      "headline": "Piper Sandler Maintains Overweight on UnitedHealth Group, Raises Price Target to $504",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62362488/piper-sandler-maintains-overweight-unitedhealth-group-raises-price-target-504",
+      "published_at": "2026-10-14T16:40:56+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Drops 1% on Hot CPI, SOXX Falls 7th Day: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today",
+      "published_at": "2026-10-14T15:39:54+00:00"
+    },
+    {
+      "headline": "UnitedHealth Stock Moves Higher: What's Happening?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62359518/unitedhealth-stock-moves-higher-whats-happening",
+      "published_at": "2026-10-14T15:24:25+00:00"
+    },
+    {
+      "headline": "8 Of 11 Sectors Fall Wednesday As Defensives Lead",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62359155/8-of-11-sectors-fall-wednesday-as-defensives-lead",
+      "published_at": "2026-10-14T15:14:53+00:00"
+    },
+    {
+      "headline": "UnitedHealth Analysts Slash Their Forecasts Following Q3 Results",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62356817/unitedhealth-analysts-slash-their-forecasts-following-q3-results",
+      "published_at": "2026-10-14T14:24:07+00:00"
+    },
+    {
+      "headline": "Barclays Maintains Overweight on UnitedHealth Group, Lowers Price Target to $440",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62355495/barclays-maintains-overweight-unitedhealth-group-lowers-price-target-440",
+      "published_at": "2026-10-14T14:01:47+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

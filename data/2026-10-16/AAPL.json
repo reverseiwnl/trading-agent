@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-10-16T12:15:37.582403+00:00",
+  "price": 344.11,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-03",
+      "open": 324.91,
+      "high": 330.79,
+      "low": 324.155,
+      "close": 328.22,
+      "volume": 1042722.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 328.39,
+      "high": 328.895,
+      "low": 317.86,
+      "close": 319.95,
+      "volume": 1224559.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 317.24,
+      "high": 320.7,
+      "low": 314.9,
+      "close": 316.26,
+      "volume": 1126523.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 315.59,
+      "high": 319.12,
+      "low": 309.92,
+      "close": 315.42,
+      "volume": 2458568.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 316.76,
+      "high": 326.66,
+      "low": 316.635,
+      "close": 326.615,
+      "volume": 2202355.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 327.45,
+      "high": 336.21,
+      "low": 326.57,
+      "close": 332.245,
+      "volume": 1563982.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 334.7,
+      "high": 335.5,
+      "low": 331.35,
+      "close": 333.0,
+      "volume": 1335636.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 330.445,
+      "high": 331.78,
+      "low": 328.41,
+      "close": 331.335,
+      "volume": 930284.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 332.44,
+      "high": 335.47,
+      "low": 330.71,
+      "close": 332.49,
+      "volume": 903206.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 334.805,
+      "high": 338.31,
+      "low": 330.23,
+      "close": 337.09,
+      "volume": 894177.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 337.96,
+      "high": 338.41,
+      "low": 332.545,
+      "close": 335.73,
+      "volume": 1141511.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 335.49,
+      "high": 339.62,
+      "low": 333.12,
+      "close": 339.0,
+      "volume": 929958.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 340.35,
+      "high": 345.28,
+      "low": 338.84,
+      "close": 339.85,
+      "volume": 986501.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 341.075,
+      "high": 341.73,
+      "low": 335.6,
+      "close": 336.87,
+      "volume": 1168450.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.72,
+      "high": 338.905,
+      "low": 334.33,
+      "close": 335.88,
+      "volume": 788509.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 335.955,
+      "high": 341.67,
+      "low": 334.6,
+      "close": 341.02,
+      "volume": 842202.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.55,
+      "high": 342.97,
+      "low": 338.04,
+      "close": 338.4,
+      "volume": 1081425.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 336.38,
+      "high": 336.56,
+      "low": 328.7,
+      "close": 329.58,
+      "volume": 1247778.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 330.26,
+      "high": 339.48,
+      "low": 330.18,
+      "close": 333.21,
+      "volume": 1479671.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 329.55,
+      "high": 332.47,
+      "low": 325.81,
+      "close": 330.44,
+      "volume": 988015.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 333.16,
+      "high": 334.525,
+      "low": 330.66,
+      "close": 333.75,
+      "volume": 841636.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 332.82,
+      "high": 336.19,
+      "low": 331.66,
+      "close": 333.11,
+      "volume": 1105512.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 332.305,
+      "high": 334.365,
+      "low": 330.635,
+      "close": 333.72,
+      "volume": 728478.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 337.015,
+      "high": 338.6,
+      "low": 332.82,
+      "close": 336.58,
+      "volume": 1211339.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 336.935,
+      "high": 341.57,
+      "low": 335.935,
+      "close": 340.43,
+      "volume": 1015370.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 331.685,
+      "high": 338.6,
+      "low": 330.72,
+      "close": 336.47,
+      "volume": 2132531.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 338.13,
+      "high": 342.615,
+      "low": 337.62,
+      "close": 341.045,
+      "volume": 664699.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 344.675,
+      "high": 348.11,
+      "low": 340.75,
+      "close": 341.33,
+      "volume": 1307464.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 344.605,
+      "high": 347.09,
+      "low": 341.72,
+      "close": 343.01,
+      "volume": 1874329.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 347.025,
+      "high": 347.72,
+      "low": 341.62,
+      "close": 341.91,
+      "volume": 983413.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Dan Ives Says Apple-Meta AI Partnership Could Help Unlock $75 Per Share in AI Value for AAPL Stock — 'Start of What Could Be Just a Massive Collaboration'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62406512/dan-ives-says-apple-meta-ai-partnership-could-help-unlock-75-per-share-in-ai-value-for-aapl-stock-start-of-what-could-be-just-a-massive-collaboration",
+      "published_at": "2026-10-16T11:18:12+00:00"
+    },
+    {
+      "headline": "Understanding Apple's Position In Technology Hardware, Storage &amp; Peripherals Industry Compared To Competitors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62404821/understanding-apple-s-position-technology-hardware-storage-amp-peripherals-industry-compared-competi",
+      "published_at": "2026-10-16T09:58:24+00:00"
+    },
+    {
+      "headline": "Taiwan Semiconductor Holds the Cards As NVIDIA, Apple and AMD Battle for Limited AI Chip Capacity",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62404541/taiwan-semiconductor-holds-the-cards-as-nvidia-apple-and-amd-battle-for-limited-ai-chip-capacity",
+      "published_at": "2026-10-16T09:35:15+00:00"
+    },
+    {
+      "headline": "Mark Zuckerberg Opens Meta's Massive Muse Spark AI Model, Says It Runs Great on Apple's New Mac Studios Thanks to John Ternus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62403354/meta-muse-spark-open-weight-apple-mac-studio",
+      "published_at": "2026-10-16T06:21:50+00:00"
+    },
+    {
+      "headline": "Anthropic Needs Nearly $2.7B in Additional Monthly Revenue to Reach $100B Run Rate by Year-End",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/Opinion/26/10/62396265/anthropic-needs-nearly-2700-million-in-additional-monthly-revenue-to-reach-100b-run-rate-by-year-end",
+      "published_at": "2026-10-15T18:33:56+00:00"
+    },
+    {
+      "headline": "Michael Burry's 'Red October' Warning: Why QQQ and SMH Could Face More Pain",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62395307/michael-burry-red-october-warning-qqq-smh-pain",
+      "published_at": "2026-10-15T18:04:31+00:00"
+    },
+    {
+      "headline": "Meta Announces Release Of Muse Spark Open, The Open Weights Version Of Muse Spark",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62393847/meta-announces-release-muse-spark-open-open-weights-version-muse-spark",
+      "published_at": "2026-10-15T17:26:44+00:00"
+    },
+    {
+      "headline": "'Apple and Meta team up to make Muse AI model run on Mac computers' - CNBC",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62392808/apple-and-meta-team-make-muse-ai-model-run-mac-computers-cnbc",
+      "published_at": "2026-10-15T17:04:44+00:00"
+    },
+    {
+      "headline": "Apple Hits $5 Trillion Market Cap as Nvidia's Lead Shrinks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62392089/apple-5-trillion-nvidia-market-cap",
+      "published_at": "2026-10-15T16:47:46+00:00"
+    },
+    {
+      "headline": "Defensives Lead Sectors In Thursday Trading As Technology Trails",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62388065/defensives-lead-sectors-in-thursday-trading-as-technology-trails",
+      "published_at": "2026-10-15T15:09:32+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

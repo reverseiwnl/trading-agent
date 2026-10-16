@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-10-16T12:15:39.266312+00:00",
+  "price": 349.27,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-03",
+      "open": 340.41,
+      "high": 344.555,
+      "low": 340.22,
+      "close": 342.39,
+      "volume": 644946.0
+    },
+    {
+      "date": "2026-09-04",
+      "open": 342.605,
+      "high": 343.505,
+      "low": 337.1,
+      "close": 338.34,
+      "volume": 586852.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 335.44,
+      "high": 339.64,
+      "low": 333.235,
+      "close": 338.39,
+      "volume": 752823.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.53,
+      "high": 331.685,
+      "low": 327.92,
+      "close": 330.655,
+      "volume": 1192931.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.165,
+      "high": 333.21,
+      "low": 327.79,
+      "close": 332.67,
+      "volume": 475560.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 335.05,
+      "high": 342.91,
+      "low": 335.05,
+      "close": 338.44,
+      "volume": 586340.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 342.995,
+      "high": 349.9,
+      "low": 342.35,
+      "close": 349.445,
+      "volume": 1245888.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 346.86,
+      "high": 348.03,
+      "low": 342.71,
+      "close": 344.98,
+      "volume": 552579.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 346.99,
+      "high": 348.39,
+      "low": 340.69,
+      "close": 342.94,
+      "volume": 588712.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.63,
+      "high": 349.45,
+      "low": 343.92,
+      "close": 347.41,
+      "volume": 642188.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.7,
+      "high": 364.09,
+      "low": 350.22,
+      "close": 351.18,
+      "volume": 1033346.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.25,
+      "high": 343.05,
+      "low": 336.235,
+      "close": 342.33,
+      "volume": 837155.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 342.5,
+      "high": 346.93,
+      "low": 341.155,
+      "close": 343.845,
+      "volume": 545552.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.38,
+      "high": 343.5,
+      "low": 339.59,
+      "close": 342.77,
+      "volume": 655719.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 342.035,
+      "high": 342.775,
+      "low": 338.02,
+      "close": 340.95,
+      "volume": 663441.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 344.235,
+      "high": 352.56,
+      "low": 341.0,
+      "close": 344.1,
+      "volume": 1005081.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 350.84,
+      "high": 352.99,
+      "low": 335.57,
+      "close": 338.38,
+      "volume": 915815.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 341.265,
+      "high": 345.73,
+      "low": 341.265,
+      "close": 343.47,
+      "volume": 587768.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 342.725,
+      "high": 348.03,
+      "low": 342.555,
+      "close": 346.46,
+      "volume": 765516.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 347.38,
+      "high": 349.03,
+      "low": 344.685,
+      "close": 347.72,
+      "volume": 425699.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 346.715,
+      "high": 350.795,
+      "low": 343.11,
+      "close": 350.53,
+      "volume": 749027.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 354.01,
+      "high": 356.8,
+      "low": 346.52,
+      "close": 348.3,
+      "volume": 666286.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 351.865,
+      "high": 354.62,
+      "low": 350.375,
+      "close": 351.63,
+      "volume": 483341.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 352.045,
+      "high": 356.31,
+      "low": 350.61,
+      "close": 352.77,
+      "volume": 549905.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 356.18,
+      "high": 358.55,
+      "low": 351.675,
+      "close": 353.57,
+      "volume": 600876.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 355.6,
+      "high": 359.375,
+      "low": 346.36,
+      "close": 347.78,
+      "volume": 818690.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 344.595,
+      "high": 352.15,
+      "low": 340.72,
+      "close": 349.27,
+      "volume": 498319.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "GameStop CEO Ryan Cohen Warns Humans Could Attack Smarter Robots — ‘Whether That Ends Up Being World War III, I Don’t Know’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62405671/gamestop-ceo-ryan-cohen-man-versus-machine-fight-ai",
+      "published_at": "2026-10-16T10:37:22+00:00"
+    },
+    {
+      "headline": "Zohran Mamdani Says Quantum Is Poised to Become a ‘Multi-Trillion Dollar Industry’ and New Yorkers Should ‘Share in That Profit’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62402629/zohran-mamdani-says-nyc-will-get-cut-quantum-facility",
+      "published_at": "2026-10-16T01:46:34+00:00"
+    },
+    {
+      "headline": "'Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say'- Reuters Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62401077/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-reute",
+      "published_at": "2026-10-15T21:07:07+00:00"
+    },
+    {
+      "headline": "Google Rolls Out Universal Cart In U.S. Across Google Search, Gemini",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62400507/google-rolls-out-universal-cart-u-s-across-google-search-gemini",
+      "published_at": "2026-10-15T20:41:25+00:00"
+    },
+    {
+      "headline": "𝕏 Product Creator Allegra Jacchia Posts \"We’re doubling down on video on 𝕏. Today, we're piloting Video Kickstart Bonus, an invite-only program that rewards creators for posting their video content here...\"",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62400487/product-creator-allegra-jacchia-posts-we-re-doubling-down-video-today-we-re-piloting-video-kickstart",
+      "published_at": "2026-10-15T20:40:21+00:00"
+    },
+    {
+      "headline": "Google Quantum AI Achieves 40-Fold Error Reduction In Magic State Cultivation, Advancing Practical Quantum Computing",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62395544/google-quantum-ai-achieves-40-fold-error-reduction-magic-state-cultivation-advancing-practical-quant",
+      "published_at": "2026-10-15T18:12:35+00:00"
+    },
+    {
+      "headline": "Google's $4 Billion Fuel-Cell Project Puts Bloom Energy's AI Power Backlog to the Test",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62395420/google-bloom-energy-ai-power",
+      "published_at": "2026-10-15T18:08:14+00:00"
+    },
+    {
+      "headline": "Michael Burry's 'Red October' Warning: Why QQQ and SMH Could Face More Pain",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62395307/michael-burry-red-october-warning-qqq-smh-pain",
+      "published_at": "2026-10-15T18:04:31+00:00"
+    },
+    {
+      "headline": "'CNN And Google Strike Multiyear Partnership To Embrace Generative AI' - Variety",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62394034/cnn-and-google-strike-multiyear-partnership-embrace-generative-ai-variety",
+      "published_at": "2026-10-15T17:30:57+00:00"
+    },
+    {
+      "headline": "Google Undercuts Some AI Rivals on Price as Gemini 4 Argon Reaches Enterprises",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62393416/google-undercuts-some-ai-rivals-on-price-as-gemini-4-argon-reaches-enterprises",
+      "published_at": "2026-10-15T17:17:33+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
