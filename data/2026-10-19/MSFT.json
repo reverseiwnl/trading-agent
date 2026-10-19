@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-10-19T12:16:08.093387+00:00",
+  "price": 529.69,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-04",
+      "open": 510.1,
+      "high": 510.82,
+      "low": 499.38,
+      "close": 499.545,
+      "volume": 542979.0
+    },
+    {
+      "date": "2026-09-08",
+      "open": 493.2,
+      "high": 495.05,
+      "low": 490.16,
+      "close": 493.92,
+      "volume": 478010.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 492.56,
+      "high": 494.22,
+      "low": 489.8,
+      "close": 491.65,
+      "volume": 327829.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 488.34,
+      "high": 494.46,
+      "low": 486.25,
+      "close": 492.49,
+      "volume": 358672.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 495.67,
+      "high": 498.825,
+      "low": 492.665,
+      "close": 495.58,
+      "volume": 368151.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 497.52,
+      "high": 509.92,
+      "low": 495.45,
+      "close": 505.72,
+      "volume": 830370.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 500.06,
+      "high": 505.78,
+      "low": 495.555,
+      "close": 497.105,
+      "volume": 729545.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 493.35,
+      "high": 495.815,
+      "low": 487.26,
+      "close": 490.45,
+      "volume": 636769.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 496.835,
+      "high": 501.4,
+      "low": 493.275,
+      "close": 497.67,
+      "volume": 534473.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 497.635,
+      "high": 498.14,
+      "low": 491.13,
+      "close": 493.1,
+      "volume": 659838.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 495.56,
+      "high": 501.71,
+      "low": 491.35,
+      "close": 501.64,
+      "volume": 798550.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 507.125,
+      "high": 508.0,
+      "low": 493.705,
+      "close": 498.0,
+      "volume": 598345.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 501.79,
+      "high": 509.34,
+      "low": 495.97,
+      "close": 500.62,
+      "volume": 543277.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 495.205,
+      "high": 498.79,
+      "low": 491.23,
+      "close": 497.585,
+      "volume": 787048.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 498.855,
+      "high": 519.39,
+      "low": 497.35,
+      "close": 516.155,
+      "volume": 1481325.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 505.47,
+      "high": 513.29,
+      "low": 502.38,
+      "close": 509.36,
+      "volume": 525669.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 508.31,
+      "high": 513.545,
+      "low": 502.56,
+      "close": 508.92,
+      "volume": 564770.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 511.205,
+      "high": 519.76,
+      "low": 510.42,
+      "close": 512.91,
+      "volume": 863492.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 519.765,
+      "high": 522.805,
+      "low": 512.24,
+      "close": 512.71,
+      "volume": 788881.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 519.12,
+      "high": 522.46,
+      "low": 513.74,
+      "close": 517.32,
+      "volume": 566824.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 521.96,
+      "high": 532.35,
+      "low": 521.91,
+      "close": 525.01,
+      "volume": 916366.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 531.615,
+      "high": 535.69,
+      "low": 528.83,
+      "close": 529.385,
+      "volume": 520480.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 530.725,
+      "high": 531.7,
+      "low": 524.725,
+      "close": 529.7,
+      "volume": 727327.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 530.435,
+      "high": 533.31,
+      "low": 518.83,
+      "close": 522.71,
+      "volume": 811233.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 528.27,
+      "high": 537.17,
+      "low": 526.36,
+      "close": 535.195,
+      "volume": 553742.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 537.49,
+      "high": 542.7,
+      "low": 536.08,
+      "close": 541.085,
+      "volume": 595543.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 544.625,
+      "high": 551.08,
+      "low": 543.07,
+      "close": 543.51,
+      "volume": 902625.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 545.085,
+      "high": 545.71,
+      "low": 532.56,
+      "close": 534.04,
+      "volume": 788908.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 533.655,
+      "high": 541.08,
+      "low": 531.455,
+      "close": 539.36,
+      "volume": 670262.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 541.25,
+      "high": 543.82,
+      "low": 524.48,
+      "close": 528.99,
+      "volume": 677672.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Microsoft To Rally Around 25%? Here Are 10 Top Analyst Forecasts For Monday",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62435564/microsoft-to-rally-around-25-here-are-10-top-analyst-forecasts-for-monday",
+      "published_at": "2026-10-19T12:06:10+00:00"
+    },
+    {
+      "headline": "Bernstein Maintains Outperform on Microsoft, Raises Price Target to $662",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62434574/bernstein-maintains-outperform-microsoft-raises-price-target-662",
+      "published_at": "2026-10-19T11:33:59+00:00"
+    },
+    {
+      "headline": "AI Boom Hits a Power Wall: Microsoft Walks Away From Nscale's UK Data Center Deal",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62433053/ai-boom-hits-a-power-wall-microsoft-walks-away-from-nscales-uk-data-center-deal",
+      "published_at": "2026-10-19T10:24:44+00:00"
+    },
+    {
+      "headline": "IREN Stock Drops Below Key Support as AI Pivot Faces Major Headwinds",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62429524/iren-stock-drops-below-key-support-as-ai-pivot-faces-major-headwinds",
+      "published_at": "2026-10-18T16:45:28+00:00"
+    },
+    {
+      "headline": "UK's Telegraph Reported Sunday, Microsoft Pulls Plug On Deal To Lease Computing Capacity From UK Start-Up Nscale At Essex Data Centre",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62429404/uk-s-telegraph-reported-sunday-microsoft-pulls-plug-deal-lease-computing-capacity-uk-start-nscale-es",
+      "published_at": "2026-10-18T15:00:08+00:00"
+    },
+    {
+      "headline": "Chamath Palihapitiya Says 6% Treasury Yield Could ‘Run Over’ AI Businesses",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62428751/chamath-palihapitiya-bond-yield-warning",
+      "published_at": "2026-10-18T02:23:11+00:00"
+    },
+    {
+      "headline": "Riot Platforms, IREN, and MARA Drop Further as Bitcoin Miners Wrestle With the AI Headwinds",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62428557/riot-platforms-iren-and-mara-drop-further-as-bitcoin-miners-wrestle-with-the-ai-headwinds",
+      "published_at": "2026-10-17T19:30:27+00:00"
+    },
+    {
+      "headline": "Nebius Stock Falls After Key Gartner Warning as Short Interest Nears 20%",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62428420/nebius-stock-falls-after-key-gartner-warning-as-short-interest-nears-20",
+      "published_at": "2026-10-17T16:30:21+00:00"
+    },
+    {
+      "headline": "UK Watchdog Proposes Strategic Market Tag for Microsoft, Puts Excel and Copilot AI Under Competition Scrutiny",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62427164/uk-watchdog-microsoft-competition-scrutiny",
+      "published_at": "2026-10-17T05:10:06+00:00"
+    },
+    {
+      "headline": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Contributors: Report (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62409115/trumps-330-million-white-house-ballroom-donor-list-reveals-nvidia-apple-and-google-among-top-tech-contributors-report",
+      "published_at": "2026-10-17T00:40:40+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for MSFT"
+  ]
+}
