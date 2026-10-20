@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-10-20T12:14:06.262659+00:00",
+  "price": 344.09,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-08",
+      "open": 335.44,
+      "high": 339.64,
+      "low": 333.235,
+      "close": 338.39,
+      "volume": 752823.0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 331.53,
+      "high": 331.685,
+      "low": 327.92,
+      "close": 330.655,
+      "volume": 1192931.0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 328.165,
+      "high": 333.21,
+      "low": 327.79,
+      "close": 332.67,
+      "volume": 475560.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 335.05,
+      "high": 342.91,
+      "low": 335.05,
+      "close": 338.44,
+      "volume": 586340.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 342.995,
+      "high": 349.9,
+      "low": 342.35,
+      "close": 349.445,
+      "volume": 1245888.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 346.86,
+      "high": 348.03,
+      "low": 342.71,
+      "close": 344.98,
+      "volume": 552579.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 346.99,
+      "high": 348.39,
+      "low": 340.69,
+      "close": 342.94,
+      "volume": 588712.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.63,
+      "high": 349.45,
+      "low": 343.92,
+      "close": 347.41,
+      "volume": 642188.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.7,
+      "high": 364.09,
+      "low": 350.22,
+      "close": 351.18,
+      "volume": 1033346.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.25,
+      "high": 343.05,
+      "low": 336.235,
+      "close": 342.33,
+      "volume": 837155.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 342.5,
+      "high": 346.93,
+      "low": 341.155,
+      "close": 343.845,
+      "volume": 545552.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.38,
+      "high": 343.5,
+      "low": 339.59,
+      "close": 342.77,
+      "volume": 655719.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 342.035,
+      "high": 342.775,
+      "low": 338.02,
+      "close": 340.95,
+      "volume": 663441.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 344.235,
+      "high": 352.56,
+      "low": 341.0,
+      "close": 344.1,
+      "volume": 1005081.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 350.84,
+      "high": 352.99,
+      "low": 335.57,
+      "close": 338.38,
+      "volume": 915815.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 341.265,
+      "high": 345.73,
+      "low": 341.265,
+      "close": 343.47,
+      "volume": 587768.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 342.725,
+      "high": 348.03,
+      "low": 342.555,
+      "close": 346.46,
+      "volume": 765516.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 347.38,
+      "high": 349.03,
+      "low": 344.685,
+      "close": 347.72,
+      "volume": 425699.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 346.715,
+      "high": 350.795,
+      "low": 343.11,
+      "close": 350.53,
+      "volume": 749027.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 354.01,
+      "high": 356.8,
+      "low": 346.52,
+      "close": 348.3,
+      "volume": 666286.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 351.865,
+      "high": 354.62,
+      "low": 350.375,
+      "close": 351.63,
+      "volume": 483341.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 352.045,
+      "high": 356.31,
+      "low": 350.61,
+      "close": 352.77,
+      "volume": 549905.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 356.18,
+      "high": 358.55,
+      "low": 351.675,
+      "close": 353.57,
+      "volume": 600876.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 355.6,
+      "high": 359.375,
+      "low": 346.36,
+      "close": 347.78,
+      "volume": 818690.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 344.595,
+      "high": 352.15,
+      "low": 340.72,
+      "close": 349.27,
+      "volume": 578247.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 348.325,
+      "high": 350.44,
+      "low": 339.14,
+      "close": 340.625,
+      "volume": 616183.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 343.76,
+      "high": 346.555,
+      "low": 341.9,
+      "close": 344.09,
+      "volume": 497856.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Google Cloud Services In Europe-West2 Face Errors And Intermittent Network Failures Since October 19, Engineers Investigating, Customers May Migrate Workloads If Feasible",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62459336/google-cloud-services-europe-west2-face-errors-and-intermittent-network-failures-october-19-engineer",
+      "published_at": "2026-10-20T09:50:50+00:00"
+    },
+    {
+      "headline": "TSLA Stock Could Surge Nearly 1,100% by 2031, Cathie Wood’s ARK Invest Says: Expects Tesla-SpaceX Merger Within Five Years",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62458813/tsla-stock-could-surge-nearly-1100-by-2031-cathie-woods-ark-invest-says-expects-tesla-spacex-merger-within-five-years",
+      "published_at": "2026-10-20T08:58:14+00:00"
+    },
+    {
+      "headline": "Jim Cramer Has a Warning for AI Data Center Investors Ahead of MSFT, GOOGL and AMZN Earnings: ‘Too Early to Say That the Coast Is Clear’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62458647/jim-cramer-has-a-warning-for-ai-data-center-investors-ahead-of-msft-googl-and-amzn-earnings-too-early-to-say-that-the-coast-is-clear",
+      "published_at": "2026-10-20T08:31:55+00:00"
+    },
+    {
+      "headline": "'Waymo Plans To Quintuple Its Fleet' - Semafor",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62457837/waymo-plans-quintuple-its-fleet-semafor",
+      "published_at": "2026-10-20T06:19:01+00:00"
+    },
+    {
+      "headline": "Reported Earlier, 'OpenAI Seeks to Accelerate Fundraising Ahead of Anthropic IPO, Sources Say' - Reuters Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62457733/reported-earlier-openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-reuters-exclusi",
+      "published_at": "2026-10-20T06:02:42+00:00"
+    },
+    {
+      "headline": "Eric Schmidt Wrote a Check to Anthropic Before the AI Boom: Here’s How Big the Payoff Could Get",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/ipos/26/10/62457427/former-google-ceo-eric-schmidt-reportedly-owns-1-percent-anthropic",
+      "published_at": "2026-10-20T04:33:53+00:00"
+    },
+    {
+      "headline": "'Eric Schmidt’s 1% Anthropic Stake Set to Pay Massive Windfall'- Bloomberg",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62455730/eric-schmidt-s-1-anthropic-stake-set-pay-massive-windfall-bloomberg",
+      "published_at": "2026-10-19T21:29:25+00:00"
+    },
+    {
+      "headline": "'Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal' - Bloomberg News",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62451753/nscale-anthropic-talks-45-billion-cloud-computing-deal-bloomberg-news",
+      "published_at": "2026-10-19T19:33:58+00:00"
+    },
+    {
+      "headline": "Cognizant, Google Cloud Expand Collaboration Over Adoption Of Agentic AI",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62444412/cognizant-google-cloud-expand-collaboration-over-adoption-agentic-ai",
+      "published_at": "2026-10-19T16:06:09+00:00"
+    },
+    {
+      "headline": "TeraWulf Rebounds 5% As CEO Distinguishes Model From Neoclouds",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62441860/terawulf-rebounds-5-as-ceo-distinguishes-model-from-neoclouds",
+      "published_at": "2026-10-19T14:59:34+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for GOOGL"
+  ]
+}

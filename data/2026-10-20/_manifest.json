@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T12:14:31.161209+00:00",
+  "holdings": [],
+  "tickers": {
+    "AAPL": "partial",
+    "GOOGL": "partial",
+    "JNJ": "partial",
+    "MSFT": "partial",
+    "NVDA": "partial",
+    "UNH": "partial",
+    "VOO": "partial"
+  },
+  "errors": [],
+  "clean": false
+}
