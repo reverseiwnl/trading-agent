@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-10-22T12:09:47.628851+00:00",
+  "price": 222.33,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-10",
+      "open": 220.525,
+      "high": 220.98,
+      "low": 217.21,
+      "close": 218.37,
+      "volume": 2640914.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 221.22,
+      "high": 222.0,
+      "low": 218.17,
+      "close": 218.17,
+      "volume": 1719278.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 211.195,
+      "high": 212.745,
+      "low": 208.94,
+      "close": 211.0,
+      "volume": 2427233.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 213.285,
+      "high": 213.93,
+      "low": 211.16,
+      "close": 212.165,
+      "volume": 1960841.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 214.17,
+      "high": 216.755,
+      "low": 212.5,
+      "close": 213.94,
+      "volume": 2431203.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 218.18,
+      "high": 219.9,
+      "low": 217.145,
+      "close": 219.4,
+      "volume": 2712846.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 219.065,
+      "high": 222.69,
+      "low": 218.04,
+      "close": 222.04,
+      "volume": 2828110.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 222.93,
+      "high": 228.49,
+      "low": 221.58,
+      "close": 227.3,
+      "volume": 3200199.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 226.975,
+      "high": 229.97,
+      "low": 226.59,
+      "close": 228.85,
+      "volume": 2460762.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 230.89,
+      "high": 232.81,
+      "low": 227.035,
+      "close": 227.235,
+      "volume": 2508154.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 228.84,
+      "high": 232.355,
+      "low": 228.27,
+      "close": 228.29,
+      "volume": 2961971.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 229.73,
+      "high": 232.28,
+      "low": 228.19,
+      "close": 231.04,
+      "volume": 2319590.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 236.05,
+      "high": 237.835,
+      "low": 233.6,
+      "close": 234.0,
+      "volume": 3860633.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 236.145,
+      "high": 240.09,
+      "low": 235.2,
+      "close": 238.98,
+      "volume": 3726291.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 242.04,
+      "high": 243.34,
+      "low": 238.95,
+      "close": 239.17,
+      "volume": 2758644.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 237.69,
+      "high": 239.08,
+      "low": 236.39,
+      "close": 237.4,
+      "volume": 2623107.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 234.795,
+      "high": 237.05,
+      "low": 229.88,
+      "close": 230.57,
+      "volume": 3598041.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 233.79,
+      "high": 233.89,
+      "low": 229.115,
+      "close": 229.35,
+      "volume": 2316630.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 228.69,
+      "high": 228.795,
+      "low": 224.9,
+      "close": 226.46,
+      "volume": 1590973.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 224.265,
+      "high": 228.64,
+      "low": 223.12,
+      "close": 228.5,
+      "volume": 2400846.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 225.54,
+      "high": 225.975,
+      "low": 219.67,
+      "close": 221.49,
+      "volume": 3432102.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 215.285,
+      "high": 218.46,
+      "low": 212.865,
+      "close": 217.33,
+      "volume": 4353216.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 216.525,
+      "high": 218.64,
+      "low": 213.33,
+      "close": 214.125,
+      "volume": 3704374.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 218.025,
+      "high": 219.6,
+      "low": 214.71,
+      "close": 217.085,
+      "volume": 2365992.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 215.985,
+      "high": 218.455,
+      "low": 212.78,
+      "close": 216.41,
+      "volume": 2760246.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 220.875,
+      "high": 222.18,
+      "low": 217.66,
+      "close": 221.9,
+      "volume": 2486314.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "LG Innotek Partners with NVIDIA for HSB-Enabled Sensing Solutions",
+      "source": "fiscal.ai",
+      "url": "https://www.tradingview.com/news/tradingview:092e45c947cea:0-lg-innotek-collaborates-with-nvidia-on-hsb-enabled-physical-ai-sensing/",
+      "published_at": "2026-10-22T11:31:36+00:00"
+    },
+    {
+      "headline": "Agility Robotics Standardizes Digit 5 Compute on NVIDIA IGX Thor",
+      "source": "fiscal.ai",
+      "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/agility-robotics-expands-nvidia-collaboration-as-it-prepares-digit-5-for-commercial-scale/2451676",
+      "published_at": "2026-10-22T11:31:36+00:00"
+    },
+    {
+      "headline": "Nokia's AI Business Soars 126%, Data Center Boom Is Becoming a Big Profit Story",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/10/62521128/nokias-ai-business-soars-126-data-center-boom-is-becoming-a-big-profit-story",
+      "published_at": "2026-10-22T11:09:26+00:00"
+    },
+    {
+      "headline": "Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62520190/nvidias-jensen-huang-says-ai-agents-have-sent-token-gpu-demand-through-the-roof-gene-munster-sees-15-million-bot-users-soaring-to-billions",
+      "published_at": "2026-10-22T10:48:55+00:00"
+    },
+    {
+      "headline": "NVIDIA and Tesla to Invest $2.8 Billion in Samsung Electro-Mechanics",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/nvidia-tesla-to-invest-2-80-billion-in-samsung-electro-mechanics-ce785cd9d089f722",
+      "published_at": "2026-10-22T10:31:47+00:00"
+    },
+    {
+      "headline": "TACTICA AI Collaborates with NVIDIA on Agentic AI",
+      "source": "fiscal.ai",
+      "url": "https://pressreleasehub.pa.media/article/tacticaai-and-nvidia-collaborate-to-scale-agentic-ai-capabilities-with-nvidia-nemotron-86850.html",
+      "published_at": "2026-10-22T10:31:47+00:00"
+    },
+    {
+      "headline": "Nvidia CEO Huang Said Trying To Establish Nvidia's Compute As A Financeable Asset",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/NVDA",
+      "published_at": "2026-10-22T09:53:18+00:00"
+    },
+    {
+      "headline": "Needham Reiterates Buy on NVIDIA, Maintains $300 Price Target",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62518542/needham-reiterates-buy-nvidia-maintains-300-price-target",
+      "published_at": "2026-10-22T09:52:51+00:00"
+    },
+    {
+      "headline": "NextDC's 40% Crash Is the Warning Shot for Data Center Trade",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62518531/nextdcs-40-crash-is-the-warning-shot-for-data-center-trade",
+      "published_at": "2026-10-22T09:51:11+00:00"
+    },
+    {
+      "headline": "Nvidia CEO Huang Said Demand For The Neoclouds Is Off The Charts",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/NVDA",
+      "published_at": "2026-10-22T09:48:27+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for NVDA"
+  ]
+}

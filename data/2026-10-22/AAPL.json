@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-10-22T12:09:30.902666+00:00",
+  "price": 343.52,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-10",
+      "open": 316.76,
+      "high": 326.66,
+      "low": 316.635,
+      "close": 326.615,
+      "volume": 2202355.0
+    },
+    {
+      "date": "2026-09-11",
+      "open": 327.45,
+      "high": 336.21,
+      "low": 326.57,
+      "close": 332.245,
+      "volume": 1563982.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 334.7,
+      "high": 335.5,
+      "low": 331.35,
+      "close": 333.0,
+      "volume": 1335636.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 330.445,
+      "high": 331.78,
+      "low": 328.41,
+      "close": 331.335,
+      "volume": 930284.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 332.44,
+      "high": 335.47,
+      "low": 330.71,
+      "close": 332.49,
+      "volume": 903206.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 334.805,
+      "high": 338.31,
+      "low": 330.23,
+      "close": 337.09,
+      "volume": 894177.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 337.96,
+      "high": 338.41,
+      "low": 332.545,
+      "close": 335.73,
+      "volume": 1141511.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 335.49,
+      "high": 339.62,
+      "low": 333.12,
+      "close": 339.0,
+      "volume": 929958.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 340.35,
+      "high": 345.28,
+      "low": 338.84,
+      "close": 339.85,
+      "volume": 986501.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 341.075,
+      "high": 341.73,
+      "low": 335.6,
+      "close": 336.87,
+      "volume": 1168450.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.72,
+      "high": 338.905,
+      "low": 334.33,
+      "close": 335.88,
+      "volume": 788509.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 335.955,
+      "high": 341.67,
+      "low": 334.6,
+      "close": 341.02,
+      "volume": 842202.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.55,
+      "high": 342.97,
+      "low": 338.04,
+      "close": 338.4,
+      "volume": 1081425.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 336.38,
+      "high": 336.56,
+      "low": 328.7,
+      "close": 329.58,
+      "volume": 1247778.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 330.26,
+      "high": 339.48,
+      "low": 330.18,
+      "close": 333.21,
+      "volume": 1479671.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 329.55,
+      "high": 332.47,
+      "low": 325.81,
+      "close": 330.44,
+      "volume": 988015.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 333.16,
+      "high": 334.525,
+      "low": 330.66,
+      "close": 333.75,
+      "volume": 841636.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 332.82,
+      "high": 336.19,
+      "low": 331.66,
+      "close": 333.11,
+      "volume": 1105512.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 332.305,
+      "high": 334.365,
+      "low": 330.635,
+      "close": 333.72,
+      "volume": 728478.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 337.015,
+      "high": 338.6,
+      "low": 332.82,
+      "close": 336.58,
+      "volume": 1211339.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 336.935,
+      "high": 341.57,
+      "low": 335.935,
+      "close": 340.43,
+      "volume": 1015370.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 331.685,
+      "high": 338.6,
+      "low": 330.72,
+      "close": 336.47,
+      "volume": 2132531.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 338.13,
+      "high": 342.615,
+      "low": 337.62,
+      "close": 341.045,
+      "volume": 664699.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 344.675,
+      "high": 348.11,
+      "low": 340.75,
+      "close": 341.33,
+      "volume": 1307464.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 344.605,
+      "high": 347.09,
+      "low": 341.72,
+      "close": 343.01,
+      "volume": 1874329.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 347.025,
+      "high": 347.72,
+      "low": 341.62,
+      "close": 341.91,
+      "volume": 1111639.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 346.085,
+      "high": 347.79,
+      "low": 340.475,
+      "close": 343.39,
+      "volume": 1454367.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 340.975,
+      "high": 346.0,
+      "low": 340.13,
+      "close": 342.99,
+      "volume": 971167.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 339.86,
+      "high": 343.06,
+      "low": 338.71,
+      "close": 339.66,
+      "volume": 834562.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 339.42,
+      "high": 345.185,
+      "low": 338.895,
+      "close": 343.935,
+      "volume": 864717.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Investigating Apple's Standing In Technology Hardware, Storage &amp; Peripherals Industry Compared To Competitors",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62518613/investigating-apple-s-standing-technology-hardware-storage-amp-peripherals-industry-compared-competi",
+      "published_at": "2026-10-22T09:58:59+00:00"
+    },
+    {
+      "headline": "Reported Earlier, Australian Court Orders Apple To Allow Alternative App Distribution, Payments For Australian Users From March 1, 2027; Rejects Epic’s Global Relief",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/EWA",
+      "published_at": "2026-10-22T06:21:12+00:00"
+    },
+    {
+      "headline": "Apple Confirms Apple Pencil Support for iPhone Duo via iOS 27.2",
+      "source": "fiscal.ai",
+      "url": "https://appleosophy.com/wire/396es5h/",
+      "published_at": "2026-10-21T20:31:36+00:00"
+    },
+    {
+      "headline": "‘Ergonomically Terrible’ — Steve Jobs Said Touchscreen MacBook Wouldn’t Work, but Apple Is Finally Doing It Anyway",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62508566/steve-jobs-said-touchscreen-macbook-wouldnt-work-apple-is-doing-it-anyway",
+      "published_at": "2026-10-21T19:00:22+00:00"
+    },
+    {
+      "headline": "Apple Music Unveils Refreshed Visual Identity",
+      "source": "fiscal.ai",
+      "url": "https://appleosophy.com/wire/1tciaux/",
+      "published_at": "2026-10-21T18:01:33+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/10/62505787/10-information-technology-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-10-21T17:35:14+00:00"
+    },
+    {
+      "headline": "SpaceX Jumps 10%, Nasdaq 100 Rises as AI Trade Returns: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62504696/spacex-jumps-nasdaq-100-ai-trade-netflix-att-stock-market-today",
+      "published_at": "2026-10-21T17:02:19+00:00"
+    },
+    {
+      "headline": "SpaceX's Strong AI Computing Returns And Hidden Risk",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/opinion/26/10/62501333/spacex-strong-ai-computing-returns-and-hidden-risk",
+      "published_at": "2026-10-21T15:32:22+00:00"
+    },
+    {
+      "headline": "Omdia Reports Global Smartphone Market Contraction in 3Q26",
+      "source": "fiscal.ai",
+      "url": "https://www.newswire.co.kr/newsRead.php?no=1045238",
+      "published_at": "2026-10-21T15:01:38+00:00"
+    },
+    {
+      "headline": "Cyclicals Top Sectors In Wednesday Trading As Defensives Trail",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62499965/cyclicals-top-sectors-in-wednesday-trading-as-defensives-trail",
+      "published_at": "2026-10-21T15:00:39+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for AAPL"
+  ]
+}
