@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-10-23T12:09:11.309853+00:00",
+  "price": 521.6,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-11",
+      "open": 495.67,
+      "high": 498.825,
+      "low": 492.665,
+      "close": 495.58,
+      "volume": 368151.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 497.52,
+      "high": 509.92,
+      "low": 495.45,
+      "close": 505.72,
+      "volume": 830370.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 500.06,
+      "high": 505.78,
+      "low": 495.555,
+      "close": 497.105,
+      "volume": 729545.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 493.35,
+      "high": 495.815,
+      "low": 487.26,
+      "close": 490.45,
+      "volume": 636769.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 496.835,
+      "high": 501.4,
+      "low": 493.275,
+      "close": 497.67,
+      "volume": 534473.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 497.635,
+      "high": 498.14,
+      "low": 491.13,
+      "close": 493.1,
+      "volume": 659838.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 495.56,
+      "high": 501.71,
+      "low": 491.35,
+      "close": 501.64,
+      "volume": 798550.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 507.125,
+      "high": 508.0,
+      "low": 493.705,
+      "close": 498.0,
+      "volume": 598345.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 501.79,
+      "high": 509.34,
+      "low": 495.97,
+      "close": 500.62,
+      "volume": 543277.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 495.205,
+      "high": 498.79,
+      "low": 491.23,
+      "close": 497.585,
+      "volume": 787048.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 498.855,
+      "high": 519.39,
+      "low": 497.35,
+      "close": 516.155,
+      "volume": 1481325.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 505.47,
+      "high": 513.29,
+      "low": 502.38,
+      "close": 509.36,
+      "volume": 525669.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 508.31,
+      "high": 513.545,
+      "low": 502.56,
+      "close": 508.92,
+      "volume": 564770.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 511.205,
+      "high": 519.76,
+      "low": 510.42,
+      "close": 512.91,
+      "volume": 863492.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 519.765,
+      "high": 522.805,
+      "low": 512.24,
+      "close": 512.71,
+      "volume": 788881.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 519.12,
+      "high": 522.46,
+      "low": 513.74,
+      "close": 517.32,
+      "volume": 566824.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 521.96,
+      "high": 532.35,
+      "low": 521.91,
+      "close": 525.01,
+      "volume": 916366.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 531.615,
+      "high": 535.69,
+      "low": 528.83,
+      "close": 529.385,
+      "volume": 520480.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 530.725,
+      "high": 531.7,
+      "low": 524.725,
+      "close": 529.7,
+      "volume": 727327.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 530.435,
+      "high": 533.31,
+      "low": 518.83,
+      "close": 522.71,
+      "volume": 811233.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 528.27,
+      "high": 537.17,
+      "low": 526.36,
+      "close": 535.195,
+      "volume": 553742.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 537.49,
+      "high": 542.7,
+      "low": 536.08,
+      "close": 541.085,
+      "volume": 595543.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 544.625,
+      "high": 551.08,
+      "low": 543.07,
+      "close": 543.51,
+      "volume": 902625.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 545.085,
+      "high": 545.71,
+      "low": 532.56,
+      "close": 534.04,
+      "volume": 788908.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 533.655,
+      "high": 541.08,
+      "low": 531.455,
+      "close": 539.36,
+      "volume": 670262.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 541.25,
+      "high": 543.82,
+      "low": 524.48,
+      "close": 528.99,
+      "volume": 677672.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 528.615,
+      "high": 535.55,
+      "low": 528.57,
+      "close": 533.645,
+      "volume": 546008.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 533.79,
+      "high": 534.17,
+      "low": 525.86,
+      "close": 532.02,
+      "volume": 463037.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 529.44,
+      "high": 533.28,
+      "low": 525.14,
+      "close": 532.8,
+      "volume": 386815.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 533.26,
+      "high": 533.26,
+      "low": 520.35,
+      "close": 521.6,
+      "volume": 675626.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Microsoft Researchers Develop AI Tool for Sequential Medical Diagnosis",
+      "source": "fiscal.ai",
+      "url": "https://www.chinadailyasia.com/article/641601",
+      "published_at": "2026-10-23T10:31:14+00:00"
+    },
+    {
+      "headline": "Anthropic’s Path to $1.5 Trillion Demands 30% Margins: Plausible, but Delivering Is Another Matter",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62552805/anthropics-path-to-1-5-trillion-demands-30-margins-plausible-but-delivering-is-another-matter",
+      "published_at": "2026-10-23T09:55:50+00:00"
+    },
+    {
+      "headline": "OpenAI Signs Agreement With Poland’s NASK To Explore Collaboration On AI Safety, Security And Technical Research, Strengthening Safeguards Against Emerging Risks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/MSFT",
+      "published_at": "2026-10-23T07:11:39+00:00"
+    },
+    {
+      "headline": "'OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors'- CNBC",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62546901/openai-nears-30-billion-funding-round-1-25-trillion-valuation-led-uae-investors-cnbc",
+      "published_at": "2026-10-22T20:21:48+00:00"
+    },
+    {
+      "headline": "Michael Burry Shares Chilling Song on AI: 'Watching Trillion-Dollar Monuments Become Obsolete'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62546332/michael-burry-shares-chilling-song-on-ai-watching-trillion-dollar-monuments-become-obsolete",
+      "published_at": "2026-10-22T20:12:46+00:00"
+    },
+    {
+      "headline": "OpenAI Makes The Decisions API Generally Available",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62544124/openai-makes-decisions-api-generally-available",
+      "published_at": "2026-10-22T19:40:30+00:00"
+    },
+    {
+      "headline": "Is A War Imminent? Concerns Overshadow Strong Meta, Tesla Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/opinion/26/10/62537507/is-a-war-imminent-concerns-overshadow-strong-meta-tesla-earnings",
+      "published_at": "2026-10-22T16:54:23+00:00"
+    },
+    {
+      "headline": "Uber Brings ChatGPT Work To All Employees With OpenAI",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62535612/uber-brings-chatgpt-work-all-employees-openai",
+      "published_at": "2026-10-22T16:13:56+00:00"
+    },
+    {
+      "headline": "Microsoft and Boehringer Ingelheim Announce Strategic AI Collaboration",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/10/22/3386225/0/en/boehringer-ingelheim-and-microsoft-partner-to-drive-patient-centric-and-ai-backed-clinical-development.html",
+      "published_at": "2026-10-22T15:01:40+00:00"
+    },
+    {
+      "headline": "Merck Collaborates with Microsoft, NVIDIA, and Dawn Health on Patient Support Programs",
+      "source": "fiscal.ai",
+      "url": "https://www.businesswirechina.com/en/news/64377.html",
+      "published_at": "2026-10-22T15:01:40+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

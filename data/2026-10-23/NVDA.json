@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-10-23T12:09:12.555161+00:00",
+  "price": 212.27,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-11",
+      "open": 221.22,
+      "high": 222.0,
+      "low": 218.17,
+      "close": 218.17,
+      "volume": 1719278.0
+    },
+    {
+      "date": "2026-09-14",
+      "open": 211.195,
+      "high": 212.745,
+      "low": 208.94,
+      "close": 211.0,
+      "volume": 2427233.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 213.285,
+      "high": 213.93,
+      "low": 211.16,
+      "close": 212.165,
+      "volume": 1960841.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 214.17,
+      "high": 216.755,
+      "low": 212.5,
+      "close": 213.94,
+      "volume": 2431203.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 218.18,
+      "high": 219.9,
+      "low": 217.145,
+      "close": 219.4,
+      "volume": 2712846.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 219.065,
+      "high": 222.69,
+      "low": 218.04,
+      "close": 222.04,
+      "volume": 2828110.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 222.93,
+      "high": 228.49,
+      "low": 221.58,
+      "close": 227.3,
+      "volume": 3200199.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 226.975,
+      "high": 229.97,
+      "low": 226.59,
+      "close": 228.85,
+      "volume": 2460762.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 230.89,
+      "high": 232.81,
+      "low": 227.035,
+      "close": 227.235,
+      "volume": 2508154.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 228.84,
+      "high": 232.355,
+      "low": 228.27,
+      "close": 228.29,
+      "volume": 2961971.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 229.73,
+      "high": 232.28,
+      "low": 228.19,
+      "close": 231.04,
+      "volume": 2319590.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 236.05,
+      "high": 237.835,
+      "low": 233.6,
+      "close": 234.0,
+      "volume": 3860633.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 236.145,
+      "high": 240.09,
+      "low": 235.2,
+      "close": 238.98,
+      "volume": 3726291.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 242.04,
+      "high": 243.34,
+      "low": 238.95,
+      "close": 239.17,
+      "volume": 2758644.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 237.69,
+      "high": 239.08,
+      "low": 236.39,
+      "close": 237.4,
+      "volume": 2623107.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 234.795,
+      "high": 237.05,
+      "low": 229.88,
+      "close": 230.57,
+      "volume": 3598041.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 233.79,
+      "high": 233.89,
+      "low": 229.115,
+      "close": 229.35,
+      "volume": 2316630.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 228.69,
+      "high": 228.795,
+      "low": 224.9,
+      "close": 226.46,
+      "volume": 1590973.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 224.265,
+      "high": 228.64,
+      "low": 223.12,
+      "close": 228.5,
+      "volume": 2400846.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 225.54,
+      "high": 225.975,
+      "low": 219.67,
+      "close": 221.49,
+      "volume": 3432102.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 215.285,
+      "high": 218.46,
+      "low": 212.865,
+      "close": 217.33,
+      "volume": 4353216.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 216.525,
+      "high": 218.64,
+      "low": 213.33,
+      "close": 214.125,
+      "volume": 3704374.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 218.025,
+      "high": 219.6,
+      "low": 214.71,
+      "close": 217.085,
+      "volume": 2365992.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 215.985,
+      "high": 218.455,
+      "low": 212.78,
+      "close": 216.41,
+      "volume": 2760246.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 220.875,
+      "high": 222.18,
+      "low": 217.66,
+      "close": 221.9,
+      "volume": 2486314.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 217.13,
+      "high": 218.86,
+      "low": 211.27,
+      "close": 212.27,
+      "volume": 4565631.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Pony AI, NVIDIA Take Their Robotaxi Ambitions to a New Market",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62555195/pony-ai-nvidia-take-their-robotaxi-ambitions-to-a-new-market",
+      "published_at": "2026-10-23T11:51:46+00:00"
+    },
+    {
+      "headline": "Pony AI, NVIDIA, and inDrive Collaborate on Autonomous Vehicles in Kazakhstan",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/pony-ai-unveils-collaboration-with-nvidia-indrive-to-explore-launch-of-autonomous-vehicles-in-kazak-ce785cdfd98af727",
+      "published_at": "2026-10-23T11:31:38+00:00"
+    },
+    {
+      "headline": "Nvidia’s China Market Has Effectively Vanished: ‘Every Restriction Also Gives Chinese Suppliers a Larger Captive Market,’ Says Shay Boloor",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62554065/nvidia-china-chip-curbs-domestic-rivals",
+      "published_at": "2026-10-23T11:00:19+00:00"
+    },
+    {
+      "headline": "Stellantis, Nvidia And AI Mobility Company Wayve Partner With French Government To Advance Deployment Of Autonomous Vehicles In France And Accelerating Their Development Across The EU",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62553743/stellantis-nvidia-and-ai-mobility-company-wayve-partner-french-government-advance-deployment-autonom",
+      "published_at": "2026-10-23T10:38:41+00:00"
+    },
+    {
+      "headline": "NVIDIA and Vertiv Launch Accelerated AI Factory Deployment Model",
+      "source": "fiscal.ai",
+      "url": "https://datacentremagazine.com/news/how-vertiv-and-nvidia-cut-ai-factory-deployment-time-in-half",
+      "published_at": "2026-10-23T10:31:28+00:00"
+    },
+    {
+      "headline": "Western Digital Warns HDD Price Growth Will Eventually Slow — But AI, Inference and Robotics Are Keeping Demand Strong",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/10/62552114/western-digital-price-growth-to-cool-storage-demand-ai-inference-robotic",
+      "published_at": "2026-10-23T08:30:15+00:00"
+    },
+    {
+      "headline": "Meta, Nvidia Lead Tech Sell-Off as AI Spending Fears Rattle Wall Street, But Gene Munster Sides With Musk, Zuckerberg and Huang: ‘We’re Still Early'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62551736/meta-nvidia-lead-tech-sell-off-as-ai-spending-fears-rattle-wall-street-but-gene-munster-sides-with-musk-zuckerberg-and-huang-were-still-early",
+      "published_at": "2026-10-23T07:19:22+00:00"
+    },
+    {
+      "headline": "Pony.ai And inDrive Plan Astana Launch Of Gen-7 Robotaxis, Pending Kazakhstan Government Agreement, Under MOU With NVIDIA To Explore Autonomous Mobility",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/NVDA",
+      "published_at": "2026-10-23T07:14:22+00:00"
+    },
+    {
+      "headline": "Nasdaq Records Worst Session Since June: Investor Sentiment Weakens, Greed Index Moves To ‘Extreme Fear’ Zone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/10/62550969/nasdaq-records-worst-session-since-june-investor-sentiment-weakens-greed-index-moves-to-extreme-fear-zone",
+      "published_at": "2026-10-23T05:54:06+00:00"
+    },
+    {
+      "headline": "Merck Collaborates with NVIDIA, Microsoft, and Dawn Health on Patient Support Model",
+      "source": "fiscal.ai",
+      "url": "https://www.businesswirechina.com/en/news/64377.html",
+      "published_at": "2026-10-22T20:31:20+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
