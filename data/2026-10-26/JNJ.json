@@ -1,0 +1,314 @@
+{
+  "ticker": "JNJ",
+  "as_of": "2026-10-26T12:09:57.145549+00:00",
+  "price": 263.84,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-14",
+      "open": 271.065,
+      "high": 271.46,
+      "low": 266.275,
+      "close": 266.4,
+      "volume": 200514.0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 265.8,
+      "high": 267.125,
+      "low": 260.76,
+      "close": 267.125,
+      "volume": 199884.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 266.72,
+      "high": 268.62,
+      "low": 266.295,
+      "close": 267.3,
+      "volume": 187645.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 268.17,
+      "high": 270.85,
+      "low": 267.425,
+      "close": 270.255,
+      "volume": 232169.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 268.745,
+      "high": 272.085,
+      "low": 267.27,
+      "close": 269.93,
+      "volume": 230038.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 268.825,
+      "high": 273.58,
+      "low": 268.61,
+      "close": 269.55,
+      "volume": 165951.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 266.53,
+      "high": 270.06,
+      "low": 265.08,
+      "close": 269.305,
+      "volume": 229270.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 269.7,
+      "high": 272.07,
+      "low": 266.545,
+      "close": 269.2,
+      "volume": 398932.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 269.535,
+      "high": 275.21,
+      "low": 269.235,
+      "close": 270.79,
+      "volume": 354692.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 271.445,
+      "high": 271.98,
+      "low": 269.335,
+      "close": 271.2,
+      "volume": 210874.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 270.04,
+      "high": 273.78,
+      "low": 270.03,
+      "close": 272.03,
+      "volume": 256041.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 269.45,
+      "high": 271.725,
+      "low": 265.645,
+      "close": 267.55,
+      "volume": 256175.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 268.205,
+      "high": 268.245,
+      "low": 264.61,
+      "close": 265.03,
+      "volume": 209034.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 263.38,
+      "high": 263.87,
+      "low": 258.335,
+      "close": 258.7,
+      "volume": 290436.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 259.07,
+      "high": 259.07,
+      "low": 255.125,
+      "close": 256.025,
+      "volume": 320601.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 255.74,
+      "high": 256.11,
+      "low": 252.51,
+      "close": 252.78,
+      "volume": 279460.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 253.49,
+      "high": 255.425,
+      "low": 251.29,
+      "close": 254.8,
+      "volume": 241108.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 256.55,
+      "high": 260.58,
+      "low": 255.985,
+      "close": 258.495,
+      "volume": 152793.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 257.47,
+      "high": 257.5,
+      "low": 251.955,
+      "close": 256.48,
+      "volume": 274173.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 255.05,
+      "high": 261.5,
+      "low": 254.985,
+      "close": 261.5,
+      "volume": 199530.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 261.6,
+      "high": 264.335,
+      "low": 260.955,
+      "close": 264.1,
+      "volume": 189236.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 253.92,
+      "high": 256.105,
+      "low": 245.21,
+      "close": 248.57,
+      "volume": 687202.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 249.095,
+      "high": 253.94,
+      "low": 248.85,
+      "close": 253.915,
+      "volume": 478299.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 257.1,
+      "high": 262.205,
+      "low": 252.68,
+      "close": 253.31,
+      "volume": 444064.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 255.96,
+      "high": 257.46,
+      "low": 254.1,
+      "close": 255.535,
+      "volume": 453809.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 254.45,
+      "high": 255.43,
+      "low": 251.59,
+      "close": 254.0,
+      "volume": 263672.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 257.395,
+      "high": 260.735,
+      "low": 256.8,
+      "close": 259.42,
+      "volume": 373211.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 257.75,
+      "high": 257.76,
+      "low": 254.6,
+      "close": 257.63,
+      "volume": 280888.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 260.3,
+      "high": 269.62,
+      "low": 259.14,
+      "close": 267.72,
+      "volume": 451844.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 265.75,
+      "high": 265.93,
+      "low": 262.42,
+      "close": 263.84,
+      "volume": 228941.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Johnson & Johnson Reports Phase 1b/2 Results for Subcutaneous Amivantamab in Head and Neck Cancer",
+      "source": "fiscal.ai",
+      "url": "https://www.jnj.com/media-center/press-releases/rybrevant-faspro-amivantamab-and-hyaluronidase-lpuj-combination-demonstrates-77-overall-response-rate-in-first-line-treatment-of-patients-with-advanced-head-and-neck-cancer",
+      "published_at": "2026-10-26T01:01:49+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Announced At ESMO Saturday, Phase 3 PROTEUS Substudy Data Showing Perioperative Apalutamide Plus ADT Reduced Risk Of Disease Recurrence Or Death By 62%, Metastasis Or Death By 51% Vs. Surgery Alone In High-Risk Prostate Cancer",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/JNJ",
+      "published_at": "2026-10-25T23:38:04+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Announced Sunday at ESMO, Phase 1b/2 OrigAMI-4 Data Showing 77% Response Rate, 14% Complete Responses With RYBREVANT Combination In First-Line HNSCC",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/JNJ",
+      "published_at": "2026-10-25T19:47:24+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Reports Positive Phase 1 Results for JNJ-6143 in Advanced Prostate Cancer",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-reports-75-tumor-response-rate-in-advanced-prostate-cancer-with-jnj-6143-a-first-in-class-riptac-molecule-302918733.html",
+      "published_at": "2026-10-25T13:01:43+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Announces Positive Phase 3 PROTEUS Substudy Results for Prostate Cancer Treatment",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-erleada-apalutamide-treatment-before-and-after-surgery-reduces-risk-of-recurrence-or-death-by-62-versus-surgery-alone-in-high-risk-prostate-cancer-302918654.html",
+      "published_at": "2026-10-24T13:01:38+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson's Icotrokinra Hydrochloride Receives Medicines And Healthcare Products Regulatory Agency Approval To Treat Moderate To Severe Plaque Psoriasis",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/government/26/10/62561591/johnson-johnson-s-icotrokinra-hydrochloride-receives-medicines-and-healthcare-products-regulatory-ag",
+      "published_at": "2026-10-23T14:27:16+00:00"
+    },
+    {
+      "headline": "UK Regulator Approves Johnson & Johnson's Oral Psoriasis Treatment",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/uk-regulator-oks-j-j-unit-s-plaque-psoriasis-treatment-ce785cdfdb89ff25",
+      "published_at": "2026-10-23T13:31:43+00:00"
+    },
+    {
+      "headline": "European Commission Approves TECVAYLI® Indication Extension for Multiple Myeloma",
+      "source": "fiscal.ai",
+      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/european-commission-approves-johnson-johnsons-tecvayli-teclistamab-monotherapy-for-relapsedrefractory-multiple-myeloma-expanding-treatment-options-from-first-relapse/2452705",
+      "published_at": "2026-10-23T11:31:37+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Orthopedics Merger Talks with Smith & Nephew Collapse",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/johnson-johnson-orthopedics-smith-nephew-merger-collapsed-over-leadership-dispute-ce785cded08ff523",
+      "published_at": "2026-10-23T10:31:46+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Named Strategic Enterprise by Hong Kong's OASES",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/apac/news-releases/johnson--johnson-deepens-its-long-term-commitment-to-hong-kong-through-oases-strategic-enterprise-collaboration-302917185.html",
+      "published_at": "2026-10-22T18:01:29+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
