@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-27",
+  "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "343.93, -1.1% vs Friday. iPhone Duo display defects near the hinge forced a replacement program ('Apple Offers Replacements for iPhone Duo Display Defects', benzinga 10-27) just as Duo waits stretch into January - a real but unquantified warranty/margin headwind on the new flagship. No fundamentals data for valuation or sector sizing. Hold; falsify toward sell if defect rates or program costs are quantified as material, toward buy on clean Duo sell-through once replacements normalize.",
+      "sources": [
+        "benzinga 2026-10-27: Apple Offers Replacements for iPhone Duo Display Defects",
+        "fiscal.ai 2026-10-27: Apple Initiates Replacement Program for iPhone Duo Units with Display Issues",
+        "benzinga 2026-10-26: Apple's iPhone Duo Buyers Face a Wait That Could Stretch Into January"
+      ],
+      "timestamp": "2026-10-27T12:30:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "317.68, -0.8% vs Friday, reports Q3 this week ('Alphabet Likely To Report Higher Q3 Earnings', benzinga 10-27). Anthropic's IPO filing shows $500B+ compute spend flowing partly to GOOGL (benzinga 10-27) - a cloud demand positive - but Michael Burry 'eyes the exit' on Alphabet (benzinga 10-26) and bubble chatter is loud. No fundamentals, no valuation anchor, earnings imminent. Hold into the print; falsify toward buy on Cloud/TPU acceleration, toward sell on capex-up/revenue-flat guidance.",
+      "sources": [
+        "benzinga 2026-10-27: Alphabet Likely To Report Higher Q3 Earnings",
+        "benzinga 2026-10-27: Anthropic's IPO Filing Reveals Over $500 Billion AI Compute Spending",
+        "benzinga 2026-10-26: Michael Burry Eyes the Exit on Walmart, Alphabet and Valero"
+      ],
+      "timestamp": "2026-10-27T12:30:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "266.35, +1.0% vs Friday, extending the defensive bid. New: Enterprise Business Review set for Dec 8 (benzinga/fiscal.ai 10-27) - a strategy catalyst, not earnings. ESMO oncology data remains positive but pipeline-stage (PROTEUS 62% recurrence/death risk reduction; OrigAMI-4 77% response, benzinga 10-25). No sector data for buy sizing and entry still chases a rotation spike. Hold; falsify toward buy on MedTech stabilization or a concrete value-unlock at the Dec 8 review.",
+      "sources": [
+        "benzinga 2026-10-27: Johnson & Johnson Plans To Hold Enterprise Business Review On Dec. 8",
+        "benzinga 2026-10-25: Phase 3 PROTEUS Substudy Data (perioperative apalutamide +ADT, -62% recurrence/death)"
+      ],
+      "timestamp": "2026-10-27T12:30:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "532.54, +1.6% vs Friday, earnings imminent ('Microsoft Earnings Are Imminent', benzinga 10-27). Analyst read of Copilot/Azure demand says AI monetization is strengthening (benzinga 10-26); Anthropic's filing points $500B+ compute spend partly at MSFT. But the print itself is the catalyst and fundamentals data is unavailable for sizing. Hold into the print; falsify toward buy on Azure acceleration with capex discipline, toward sell on soft Azure guidance.",
+      "sources": [
+        "benzinga 2026-10-27: Microsoft Earnings Are Imminent",
+        "benzinga 2026-10-26: Microsoft's Copilot, Azure Demand Signals Stronger AI Monetization: Analyst"
+      ],
+      "timestamp": "2026-10-27T12:30:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "216.18, +2.4%, rebounding with chips. New: NVIDIA invests $3B in Meta's equity offering and expands the Muse inference/training partnership (benzinga + fiscal.ai 10-27) - demand-affirming but also more vendor-financing optics, the exact pattern behind CoreWeave 'Lehman' whispers (benzinga 10-26). China AI stock rout adds noise. Two-sided tape, no fundamentals for sizing. Hold; falsify toward buy on funded non-vendor-financed orders, toward sell on neocloud credit contagion reaching NVDA.",
+      "sources": [
+        "benzinga 2026-10-27: NVIDIA Commits $3 Billion to Meta, Expands Muse Partnership",
+        "fiscal.ai 2026-10-27: NVIDIA and Meta Expand AI Partnership and Announce $3 Billion Investment",
+        "benzinga 2026-10-26: CoreWeave Debt Fears Hit a Record"
+      ],
+      "timestamp": "2026-10-27T12:30:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "410.45, -1.8% vs Friday. Today's snapshot is PT chatter only (Morgan Stanley to $531, Wells Fargo adjustment, 10-26/27) - ignored per policy. Substantive items stand from prior runs: employer lawsuit over claims handling (fiscal.ai 10-21) and White River Health exiting the Medicare Advantage network (fiscal.ai 10-23), a churn signal if repeated. No sector data for sizing. Hold; falsify toward sell on quantified lawsuit exposure or further defections, toward buy on a clean quarter.",
+      "sources": [
+        "fiscal.ai 2026-10-23: White River Health to Exit UnitedHealthcare Medicare Advantage Network",
+        "benzinga 2026-10-27: Morgan Stanley Maintains Overweight on UnitedHealth Group (PT chatter, noted and ignored)"
+      ],
+      "timestamp": "2026-10-27T12:30:00+00:00"
+    },
+    {
+      "ticker": "VOO",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "703.44, +0.7% vs Friday on a chip-led Nasdaq rebound ('Nasdaq 100 Rallies on Chip Rebound; Brazil ETF Sinks 21%', benzinga 10-26), but breadth remains poor (60% of stocks in a bear market, benzinga 10-23) and SCHD safe-haven outperformance persists into a 36%-of-S&P earnings week. VOO is the benchmark, not a trade target under current policy. Hold; benchmark tracking only.",
+      "sources": [
+        "benzinga 2026-10-26: Nasdaq 100 Rallies on Chip Rebound; Brazil ETF Sinks 21%",
+        "benzinga 2026-10-25: S&P 500, VOO, and SPY Outlook: What Investors Need to Watch This Week"
+      ],
+      "timestamp": "2026-10-27T12:30:00+00:00"
+    }
+  ],
+  "market_context": "Tuesday of mega-cap earnings week: 36% of S&P 500 earnings report this week (benzinga 10-26), MSFT and GOOGL imminent. Tape rebounded Monday on chips (Nasdaq +200pts, Fear & Greed up to 'Fear', benzinga 10-27) but AI-financing worry is the theme: CoreWeave 'Lehman' whispers, Warren's 2008 comparison, Cuban's meme-stock warning. Data pull PARTIAL again: prices and headlines OK, fundamentals blocked (proxy 403), so sector classification for buy sizing is unavailable and ambiguity resolves to no-trade. Portfolio is 100% cash, no holdings, so the holdings-only breaking-news web sweep did not apply. All seven signals are holds at 0.5 into the earnings prints."
+}

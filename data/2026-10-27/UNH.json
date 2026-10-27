@@ -1,0 +1,314 @@
+{
+  "ticker": "UNH",
+  "as_of": "2026-10-27T12:24:43.821424+00:00",
+  "price": 410.45,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-15",
+      "open": 383.15,
+      "high": 383.535,
+      "low": 375.565,
+      "close": 375.93,
+      "volume": 237522.0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 375.91,
+      "high": 380.16,
+      "low": 373.63,
+      "close": 375.35,
+      "volume": 129024.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 376.655,
+      "high": 380.42,
+      "low": 374.66,
+      "close": 375.32,
+      "volume": 182062.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 375.51,
+      "high": 378.47,
+      "low": 372.545,
+      "close": 376.94,
+      "volume": 127827.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 378.17,
+      "high": 378.95,
+      "low": 373.955,
+      "close": 377.53,
+      "volume": 167686.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 380.44,
+      "high": 380.56,
+      "low": 372.585,
+      "close": 372.9,
+      "volume": 171526.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 369.99,
+      "high": 372.51,
+      "low": 366.1,
+      "close": 371.27,
+      "volume": 145416.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 371.99,
+      "high": 375.27,
+      "low": 368.775,
+      "close": 375.17,
+      "volume": 255526.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 377.39,
+      "high": 379.09,
+      "low": 371.305,
+      "close": 376.7,
+      "volume": 176537.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 376.685,
+      "high": 380.88,
+      "low": 374.62,
+      "close": 377.94,
+      "volume": 185049.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 376.095,
+      "high": 376.47,
+      "low": 371.355,
+      "close": 374.98,
+      "volume": 143841.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 373.95,
+      "high": 373.95,
+      "low": 365.8,
+      "close": 367.25,
+      "volume": 179338.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 367.52,
+      "high": 371.74,
+      "low": 362.66,
+      "close": 365.11,
+      "volume": 175654.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 364.86,
+      "high": 372.675,
+      "low": 364.645,
+      "close": 371.775,
+      "volume": 172855.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 373.49,
+      "high": 379.125,
+      "low": 368.31,
+      "close": 378.625,
+      "volume": 258647.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 379.095,
+      "high": 380.18,
+      "low": 373.72,
+      "close": 376.15,
+      "volume": 219249.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 376.595,
+      "high": 383.435,
+      "low": 372.07,
+      "close": 375.815,
+      "volume": 293825.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 374.9,
+      "high": 375.85,
+      "low": 368.61,
+      "close": 370.755,
+      "volume": 176722.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 373.2,
+      "high": 387.495,
+      "low": 373.2,
+      "close": 379.31,
+      "volume": 650448.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 381.57,
+      "high": 381.57,
+      "low": 373.78,
+      "close": 378.16,
+      "volume": 311713.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 397.625,
+      "high": 399.59,
+      "low": 373.22,
+      "close": 377.56,
+      "volume": 456630.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 383.075,
+      "high": 396.41,
+      "low": 382.91,
+      "close": 395.695,
+      "volume": 422673.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 401.06,
+      "high": 414.11,
+      "low": 400.29,
+      "close": 406.66,
+      "volume": 536779.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 411.87,
+      "high": 412.03,
+      "low": 395.6,
+      "close": 401.455,
+      "volume": 533493.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 400.61,
+      "high": 408.4,
+      "low": 399.75,
+      "close": 406.92,
+      "volume": 304240.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 409.745,
+      "high": 422.345,
+      "low": 408.605,
+      "close": 419.47,
+      "volume": 448807.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 421.29,
+      "high": 421.35,
+      "low": 415.085,
+      "close": 416.86,
+      "volume": 242017.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 417.775,
+      "high": 426.47,
+      "low": 417.28,
+      "close": 424.895,
+      "volume": 263303.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 424.29,
+      "high": 424.92,
+      "low": 416.64,
+      "close": 418.06,
+      "volume": 285375.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 420.01,
+      "high": 420.77,
+      "low": 408.465,
+      "close": 410.45,
+      "volume": 196983.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "UnitedHealth Group To Rally Over 29%? Here Are 10 Top Analyst Forecasts For Tuesday",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62616131/unitedhealth-group-to-rally-over-29-here-are-10-top-analyst-forecasts-for-tuesday",
+      "published_at": "2026-10-27T12:19:07+00:00"
+    },
+    {
+      "headline": "Morgan Stanley Maintains Overweight on UnitedHealth Group, Raises Price Target to $531",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62614277/morgan-stanley-maintains-overweight-unitedhealth-group-raises-price-target-531",
+      "published_at": "2026-10-27T11:31:21+00:00"
+    },
+    {
+      "headline": "Morgan Stanley Adjusts Price Target on UnitedHealth Group",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/morgan-stanley-adjusts-price-target-on-unitedhealth-group-to-531-from-529-ce785cddd88ef120",
+      "published_at": "2026-10-27T10:31:41+00:00"
+    },
+    {
+      "headline": "Wells Fargo Adjusts Price Target on UnitedHealth Group",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/wells-fargo-adjusts-price-target-on-unitedhealth-to-487-from-526-ce785cdcdc8df025",
+      "published_at": "2026-10-26T18:01:54+00:00"
+    },
+    {
+      "headline": "10 Health Care Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/10/62569474/10-health-care-stocks-whale-activity-today-s-session",
+      "published_at": "2026-10-23T17:35:10+00:00"
+    },
+    {
+      "headline": "White River Health to Exit UnitedHealthcare Medicare Advantage Network",
+      "source": "fiscal.ai",
+      "url": "https://insurancenewsnet.com/oarticle/wrh-leaves-unitedhealthcare-medicare-advantage-network",
+      "published_at": "2026-10-23T13:32:05+00:00"
+    },
+    {
+      "headline": "Optum Ventures Participates in $45 Million Series B Financing for Oxbridge Health",
+      "source": "fiscal.ai",
+      "url": "https://natlawreview.com/press-releases/oxbridge-health-save-employers-much-25-health-benefits-2027",
+      "published_at": "2026-10-22T18:01:38+00:00"
+    },
+    {
+      "headline": "Tesla To Rally Around 23%? Here Are 10 Top Analyst Forecasts For Thursday",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62526491/tesla-to-rally-around-23-here-are-10-top-analyst-forecasts-for-thursday",
+      "published_at": "2026-10-22T13:33:09+00:00"
+    },
+    {
+      "headline": "UnitedHealthcare Announces Support for Northeast Missouri Health Council Maternal Healthcare",
+      "source": "fiscal.ai",
+      "url": "https://www.tradingview.com/news/corporate-activity/esg/",
+      "published_at": "2026-10-22T13:31:44+00:00"
+    },
+    {
+      "headline": "Mizuho Maintains Outperform on UnitedHealth Group, Raises Price Target to $500",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62523198/mizuho-maintains-outperform-unitedhealth-group-raises-price-target-500",
+      "published_at": "2026-10-22T12:12:00+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
