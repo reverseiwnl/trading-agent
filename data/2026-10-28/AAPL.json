@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-10-28T12:30:28.059733+00:00",
+  "price": 346.15,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-16",
+      "open": 332.44,
+      "high": 335.47,
+      "low": 330.71,
+      "close": 332.49,
+      "volume": 903206.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 334.805,
+      "high": 338.31,
+      "low": 330.23,
+      "close": 337.09,
+      "volume": 894177.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 337.96,
+      "high": 338.41,
+      "low": 332.545,
+      "close": 335.73,
+      "volume": 1141511.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 335.49,
+      "high": 339.62,
+      "low": 333.12,
+      "close": 339.0,
+      "volume": 929958.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 340.35,
+      "high": 345.28,
+      "low": 338.84,
+      "close": 339.85,
+      "volume": 986501.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 341.075,
+      "high": 341.73,
+      "low": 335.6,
+      "close": 336.87,
+      "volume": 1168450.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.72,
+      "high": 338.905,
+      "low": 334.33,
+      "close": 335.88,
+      "volume": 788509.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 335.955,
+      "high": 341.67,
+      "low": 334.6,
+      "close": 341.02,
+      "volume": 842202.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.55,
+      "high": 342.97,
+      "low": 338.04,
+      "close": 338.4,
+      "volume": 1081425.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 336.38,
+      "high": 336.56,
+      "low": 328.7,
+      "close": 329.58,
+      "volume": 1247778.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 330.26,
+      "high": 339.48,
+      "low": 330.18,
+      "close": 333.21,
+      "volume": 1479671.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 329.55,
+      "high": 332.47,
+      "low": 325.81,
+      "close": 330.44,
+      "volume": 988015.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 333.16,
+      "high": 334.525,
+      "low": 330.66,
+      "close": 333.75,
+      "volume": 841636.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 332.82,
+      "high": 336.19,
+      "low": 331.66,
+      "close": 333.11,
+      "volume": 1105512.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 332.305,
+      "high": 334.365,
+      "low": 330.635,
+      "close": 333.72,
+      "volume": 728478.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 337.015,
+      "high": 338.6,
+      "low": 332.82,
+      "close": 336.58,
+      "volume": 1211339.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 336.935,
+      "high": 341.57,
+      "low": 335.935,
+      "close": 340.43,
+      "volume": 1015370.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 331.685,
+      "high": 338.6,
+      "low": 330.72,
+      "close": 336.47,
+      "volume": 2132531.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 338.13,
+      "high": 342.615,
+      "low": 337.62,
+      "close": 341.045,
+      "volume": 664699.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 344.675,
+      "high": 348.11,
+      "low": 340.75,
+      "close": 341.33,
+      "volume": 1307464.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 344.605,
+      "high": 347.09,
+      "low": 341.72,
+      "close": 343.01,
+      "volume": 1874329.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 347.025,
+      "high": 347.72,
+      "low": 341.62,
+      "close": 341.91,
+      "volume": 1111639.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 346.085,
+      "high": 347.79,
+      "low": 340.475,
+      "close": 343.39,
+      "volume": 1454367.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 340.975,
+      "high": 346.0,
+      "low": 340.13,
+      "close": 342.99,
+      "volume": 971167.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 339.86,
+      "high": 343.06,
+      "low": 338.71,
+      "close": 339.66,
+      "volume": 834562.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 339.42,
+      "high": 345.185,
+      "low": 338.895,
+      "close": 343.935,
+      "volume": 864717.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 344.89,
+      "high": 348.34,
+      "low": 342.29,
+      "close": 348.34,
+      "volume": 980486.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 349.155,
+      "high": 351.68,
+      "low": 345.76,
+      "close": 347.69,
+      "volume": 960247.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 343.875,
+      "high": 347.085,
+      "low": 341.06,
+      "close": 343.93,
+      "volume": 960938.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 343.165,
+      "high": 347.77,
+      "low": 342.41,
+      "close": 347.1,
+      "volume": 1079424.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Delta Air, American Tower, Apple And A Health Care: CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62650810/delta-air-american-tower-apple-and-a-health-care-cnbcs-final-trades",
+      "published_at": "2026-10-28T12:06:18+00:00"
+    },
+    {
+      "headline": "‘Hard to Know If We’re in an AI Bubble’ Jeff Bezos Says, But Should a Retiree Buy AI Stocks? — ‘I Would Usually Tell a Retiree to Buy the S&P 500’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/gaming/26/10/62649082/hard-to-know-if-were-in-an-ai-bubble-jeff-bezos-says-but-should-a-retiree-buy-ai-stocks-i-would-usually-tell-a-retiree-to-buy-the-sp-500",
+      "published_at": "2026-10-28T11:21:04+00:00"
+    },
+    {
+      "headline": "South Korea Fines Apple Over App Store Payment Policies",
+      "source": "fiscal.ai",
+      "url": "https://www.koreaherald.com/article/10918101",
+      "published_at": "2026-10-28T10:31:36+00:00"
+    },
+    {
+      "headline": "Kevin O'Leary Warns Investors Could Get 'Slaughtered' by Ignoring Diversification, Shares His 5% Stock and 20% Sector Rule",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62644518/kevin-oleary-warns-investors-could-get-slaughtered-by-ignoring-diversification-shares-his-5-stock-and-20-sector-rule",
+      "published_at": "2026-10-28T08:06:22+00:00"
+    },
+    {
+      "headline": "Korea Media And Communications Commission Orders Google And Apple To Allow External Payments, Improve Commission Structures; Imposes KRW 42.9B (~$32M) Penalty On Google, KRW 20.81B On Apple",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/GOOGL",
+      "published_at": "2026-10-28T08:03:38+00:00"
+    },
+    {
+      "headline": "Jeff Bezos Just Got a New Boost in His Rivalry With Elon Musk — Amazon Wins FCC Approval for $11.5 Billion Globalstar Deal to Expand Satellite Connectivity",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62644373/jeff-bezos-rivalry-elon-musk-amazon-fcc-approval-11-5-billion-globalstar-deal",
+      "published_at": "2026-10-28T07:50:03+00:00"
+    },
+    {
+      "headline": "Apple Is Breaking Away From Big Tech in a Way Wall Street Has Rarely Seen: ‘Unprecedented’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62643849/apple-is-breaking-away-from-big-tech-in-a-way-wall-street-has-rarely-seen-unprecedented",
+      "published_at": "2026-10-28T06:46:31+00:00"
+    },
+    {
+      "headline": "Steve Jobs Thought They Were ‘Ergonomically Terrible,’ but Apple Is Reportedly Betting You’ll Pay a Premium for the Touchscreen MacBook Pro",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62643060/steve-jobs-touchscreen-macbook-pro-apple-premium-pricing",
+      "published_at": "2026-10-28T04:30:36+00:00"
+    },
+    {
+      "headline": "AI's Biggest Constraint Could Be Capital Availability—Anthropic, Meta And SpaceX Put Markets To The Test",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/opinion/26/10/62632804/ai-biggest-constraint-could-be-capital-availability-anthropic-meta-and-spacex-put-markets-to-the-test",
+      "published_at": "2026-10-27T18:42:47+00:00"
+    },
+    {
+      "headline": "Apple Creator Studio Update Adds MotionVFX and AI Assistants",
+      "source": "fiscal.ai",
+      "url": "https://appleosophy.com/wire/x2n4dvt/",
+      "published_at": "2026-10-27T18:01:26+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

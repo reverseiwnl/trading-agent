@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-10-28T12:30:29.460618+00:00",
+  "price": 320.6,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-16",
+      "open": 346.99,
+      "high": 348.39,
+      "low": 340.69,
+      "close": 342.94,
+      "volume": 588712.0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 348.63,
+      "high": 349.45,
+      "low": 343.92,
+      "close": 347.41,
+      "volume": 642188.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.7,
+      "high": 364.09,
+      "low": 350.22,
+      "close": 351.18,
+      "volume": 1033346.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.25,
+      "high": 343.05,
+      "low": 336.235,
+      "close": 342.33,
+      "volume": 837155.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 342.5,
+      "high": 346.93,
+      "low": 341.155,
+      "close": 343.845,
+      "volume": 545552.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.38,
+      "high": 343.5,
+      "low": 339.59,
+      "close": 342.77,
+      "volume": 655719.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 342.035,
+      "high": 342.775,
+      "low": 338.02,
+      "close": 340.95,
+      "volume": 663441.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 344.235,
+      "high": 352.56,
+      "low": 341.0,
+      "close": 344.1,
+      "volume": 1005081.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 350.84,
+      "high": 352.99,
+      "low": 335.57,
+      "close": 338.38,
+      "volume": 915815.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 341.265,
+      "high": 345.73,
+      "low": 341.265,
+      "close": 343.47,
+      "volume": 587768.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 342.725,
+      "high": 348.03,
+      "low": 342.555,
+      "close": 346.46,
+      "volume": 765516.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 347.38,
+      "high": 349.03,
+      "low": 344.685,
+      "close": 347.72,
+      "volume": 425699.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 346.715,
+      "high": 350.795,
+      "low": 343.11,
+      "close": 350.53,
+      "volume": 749027.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 354.01,
+      "high": 356.8,
+      "low": 346.52,
+      "close": 348.3,
+      "volume": 666286.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 351.865,
+      "high": 354.62,
+      "low": 350.375,
+      "close": 351.63,
+      "volume": 483341.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 352.045,
+      "high": 356.31,
+      "low": 350.61,
+      "close": 352.77,
+      "volume": 549905.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 356.18,
+      "high": 358.55,
+      "low": 351.675,
+      "close": 353.57,
+      "volume": 600876.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 355.6,
+      "high": 359.375,
+      "low": 346.36,
+      "close": 347.78,
+      "volume": 818690.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 344.595,
+      "high": 352.15,
+      "low": 340.72,
+      "close": 349.27,
+      "volume": 578247.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 348.325,
+      "high": 350.44,
+      "low": 339.14,
+      "close": 340.625,
+      "volume": 616183.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 343.76,
+      "high": 346.555,
+      "low": 341.9,
+      "close": 344.09,
+      "volume": 497856.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 343.65,
+      "high": 344.75,
+      "low": 338.36,
+      "close": 340.045,
+      "volume": 672495.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 336.975,
+      "high": 337.21,
+      "low": 330.4,
+      "close": 334.715,
+      "volume": 951012.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 330.195,
+      "high": 331.39,
+      "low": 322.0,
+      "close": 324.195,
+      "volume": 1083471.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 321.1,
+      "high": 324.485,
+      "low": 320.19,
+      "close": 320.23,
+      "volume": 446514.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 320.99,
+      "high": 321.43,
+      "low": 316.605,
+      "close": 316.81,
+      "volume": 990403.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 317.005,
+      "high": 323.82,
+      "low": 316.94,
+      "close": 320.6,
+      "volume": 959387.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Verisk Integrates Amazon Quick, Microsoft Copilot, Claude Into Its Operations",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62651483/verisk-integrates-amazon-quick-microsoft-copilot-claude-its-operations",
+      "published_at": "2026-10-28T12:27:16+00:00"
+    },
+    {
+      "headline": "‘Hard to Know If We’re in an AI Bubble’ Jeff Bezos Says, But Should a Retiree Buy AI Stocks? — ‘I Would Usually Tell a Retiree to Buy the S&P 500’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/gaming/26/10/62649082/hard-to-know-if-were-in-an-ai-bubble-jeff-bezos-says-but-should-a-retiree-buy-ai-stocks-i-would-usually-tell-a-retiree-to-buy-the-sp-500",
+      "published_at": "2026-10-28T11:21:04+00:00"
+    },
+    {
+      "headline": "YouTube Is Beating Netflix in the Living Room, but Crypto Bettors Doubt a $12 Billion Ad Quarter for the Alphabet Platform",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62647323/youtube-ad-revenue-netflix-earnings-alphabet",
+      "published_at": "2026-10-28T10:45:17+00:00"
+    },
+    {
+      "headline": "Stock Market Today: S&P 500, Dow Jones Futures Trade Mixed Ahead of Federal Reserve Interest Rate Decision — SKHY, STX, V, GOOGL in Focus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62645441/stock-market-today-sp-500-dow-jones-futures-trade-mixed-ahead-of-federal-reserve-interest-rate-decision-skhy-stx-v-googl-in-focus",
+      "published_at": "2026-10-28T09:47:15+00:00"
+    },
+    {
+      "headline": "Gary Black Has a Warning for Tesla Bulls Betting on Robotaxi Dominance: Same ‘Delusional Thinking’ That Underestimated Chinese EV Rivals",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62644925/gary-black-warning-tesla-bulls-betting-robotaxi-delusional-thinking-chinese-ev-rivals",
+      "published_at": "2026-10-28T08:57:35+00:00"
+    },
+    {
+      "headline": "Bernie Sanders Slams Microsoft Over 60,000 Workers Facing Buyouts and Trump-Era Tax Breaks Amid Billions in Profits: ‘A Total Scam’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/10/62644909/bernie-sanders-slams-microsoft-over-60000-workers-facing-buyouts-and-trump-era-tax-breaks-amid-billions-in-profits-a-total-scam",
+      "published_at": "2026-10-28T08:53:50+00:00"
+    },
+    {
+      "headline": "Google 'Putting Profits Over People' With AI Push In Classrooms, Says Richard Blumenthal: Warns Children’s Academic and Emotional Well-Being at Risk",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62644686/google-putting-profits-over-people-with-ai-push-in-classrooms-says-richard-blumenthal-warns-childrens-academic-and-emotional-well-being-at-risk",
+      "published_at": "2026-10-28T08:27:05+00:00"
+    },
+    {
+      "headline": "Korea Media And Communications Commission Orders Google And Apple To Allow External Payments, Improve Commission Structures; Imposes KRW 42.9B (~$32M) Penalty On Google, KRW 20.81B On Apple",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/GOOGL",
+      "published_at": "2026-10-28T08:03:38+00:00"
+    },
+    {
+      "headline": "'OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips' - The Information",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62644395/openai-longtime-nvidia-customer-plans-buy-google-s-ai-chips-information",
+      "published_at": "2026-10-28T07:51:40+00:00"
+    },
+    {
+      "headline": "Nasdaq Jumps Over 300 Points Amid Surge In Chip Stocks: Investor Sentiment Improves, Greed Index Remains In ‘Fear’ Zone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/10/62643930/nasdaq-jumps-over-300-points-amid-surge-in-chip-stocks-investor-sentiment-improves-greed-index-remains-in-fear-zone",
+      "published_at": "2026-10-28T07:02:08+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
