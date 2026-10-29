@@ -1,0 +1,314 @@
+{
+  "ticker": "VOO",
+  "as_of": "2026-10-29T12:17:08.669579+00:00",
+  "price": 706.65,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-17",
+      "open": 701.595,
+      "high": 701.695,
+      "low": 698.65,
+      "close": 700.97,
+      "volume": 47589.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 701.61,
+      "high": 702.16,
+      "low": 698.85,
+      "close": 701.85,
+      "volume": 49637.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 706.29,
+      "high": 714.075,
+      "low": 706.005,
+      "close": 712.76,
+      "volume": 125976.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 713.275,
+      "high": 714.225,
+      "low": 711.99,
+      "close": 712.69,
+      "volume": 149067.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 712.13,
+      "high": 712.38,
+      "low": 706.395,
+      "close": 707.28,
+      "volume": 147584.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 704.1,
+      "high": 708.505,
+      "low": 703.355,
+      "close": 707.28,
+      "volume": 141075.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 708.46,
+      "high": 711.615,
+      "low": 706.33,
+      "close": 710.705,
+      "volume": 164725.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 706.23,
+      "high": 707.22,
+      "low": 702.03,
+      "close": 703.6,
+      "volume": 62354.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 704.865,
+      "high": 704.865,
+      "low": 700.83,
+      "close": 702.27,
+      "volume": 101166.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 704.52,
+      "high": 707.2,
+      "low": 700.605,
+      "close": 700.605,
+      "volume": 61032.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 702.95,
+      "high": 703.43,
+      "low": 697.5,
+      "close": 702.255,
+      "volume": 51893.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 708.3,
+      "high": 710.09,
+      "low": 705.545,
+      "close": 707.35,
+      "volume": 134995.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 707.52,
+      "high": 713.82,
+      "low": 707.52,
+      "close": 712.41,
+      "volume": 60541.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 715.24,
+      "high": 718.43,
+      "low": 715.09,
+      "close": 716.29,
+      "volume": 86985.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 713.02,
+      "high": 715.0,
+      "low": 711.22,
+      "close": 714.66,
+      "volume": 23423.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 712.26,
+      "high": 714.11,
+      "low": 708.45,
+      "close": 711.23,
+      "volume": 41595.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 713.52,
+      "high": 716.37,
+      "low": 712.75,
+      "close": 715.58,
+      "volume": 70028.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 715.8,
+      "high": 716.29,
+      "low": 714.28,
+      "close": 715.315,
+      "volume": 32547.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 714.55,
+      "high": 715.725,
+      "low": 713.41,
+      "close": 715.08,
+      "volume": 25885.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 712.26,
+      "high": 713.52,
+      "low": 705.17,
+      "close": 707.44,
+      "volume": 54812.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 704.34,
+      "high": 710.32,
+      "low": 702.965,
+      "close": 709.37,
+      "volume": 43938.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 710.78,
+      "high": 710.78,
+      "low": 699.53,
+      "close": 701.745,
+      "volume": 26614.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 705.315,
+      "high": 708.1,
+      "low": 704.35,
+      "close": 704.47,
+      "volume": 32225.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 703.86,
+      "high": 709.72,
+      "low": 702.61,
+      "close": 706.33,
+      "volume": 26410.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 708.89,
+      "high": 711.78,
+      "low": 706.4,
+      "close": 710.7,
+      "volume": 24709.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 704.38,
+      "high": 705.59,
+      "low": 699.81,
+      "close": 702.02,
+      "volume": 62938.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 698.47,
+      "high": 701.52,
+      "low": 697.56,
+      "close": 698.33,
+      "volume": 34733.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 700.55,
+      "high": 705.64,
+      "low": 700.26,
+      "close": 703.435,
+      "volume": 55208.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 705.35,
+      "high": 708.77,
+      "low": 703.71,
+      "close": 707.46,
+      "volume": 30515.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 709.08,
+      "high": 710.77,
+      "low": 707.14,
+      "close": 710.0,
+      "volume": 40205.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "SK Hynix, Vertiv Rescue AI Trade As Oil Tops $102 Before Fed: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62664656/stock-market-today-sk-hynix-vertiv-ai-trade-oil-fed",
+      "published_at": "2026-10-28T16:30:24+00:00"
+    },
+    {
+      "headline": "S&P 500 Rose 14% In A Year And Got Cheaper",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/opinion/26/10/62636823/sp500-rose-14-percent-in-a-year-and-got-cheaper",
+      "published_at": "2026-10-27T20:12:04+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Climbs on Chip Rally, Boeing Sinks 10%: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62629254/stock-market-today-nasdaq-100-chip-rally-meta-boeing-737-delay",
+      "published_at": "2026-10-27T17:01:35+00:00"
+    },
+    {
+      "headline": "5 Myths And Misunderstandings About Investing In The Stock Market",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/opinion/26/10/62599914/5-myths-and-misunderstandings-about-investing-in-the-stock-market",
+      "published_at": "2026-10-26T17:55:44+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Rallies on Chip Rebound; Brazil ETF Sinks 21%: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62598326/nasdaq-100-chip-rebound-brazil-etf-ewz-stock-market-today",
+      "published_at": "2026-10-26T17:09:01+00:00"
+    },
+    {
+      "headline": "S&P 500, VOO, and SPY Outlook: What Investors Need to Watch This Week",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62579924/sp-500-voo-and-spy-outlook-what-investors-need-to-watch-this-week",
+      "published_at": "2026-10-25T16:00:28+00:00"
+    },
+    {
+      "headline": "S&P 500 and Nasdaq 100 Slip as Strong Earnings Collide With AI Bubble Fears and $117 Oil",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62578764/sp-500-and-nasdaq-100-slip-as-strong-earnings-collide-with-ai-bubble-fears-and-117-oil",
+      "published_at": "2026-10-24T19:45:41+00:00"
+    },
+    {
+      "headline": "Safe Haven Trade: SCHD Outperforms VOO and QQQ as AI Bubble Fears Mount",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62578639/safe-haven-trade-schd-outperforms-voo-and-qqq-as-ai-bubble-fears-mount",
+      "published_at": "2026-10-24T17:15:24+00:00"
+    },
+    {
+      "headline": "Oil Tops $100 on Iran Fears, Energy ETF XLE Hits New Record: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62568689/oil-tops-100-iran-energy-etf-record-stock-market-today",
+      "published_at": "2026-10-23T17:15:48+00:00"
+    },
+    {
+      "headline": "S&P 500 Near Record Highs, But 60% of Stocks Are in a Bear Market. Is SPY Hiding a Bigger Problem?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/10/62568378/sp500-near-record-highs-but-60-of-stocks-are-in-a-bear-market-is-spy-hiding-a-bigger-problem",
+      "published_at": "2026-10-23T17:06:50+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for VOO"
+  ]
+}

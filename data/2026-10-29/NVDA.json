@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-10-29T12:16:59.937131+00:00",
+  "price": 214.32,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-17",
+      "open": 218.18,
+      "high": 219.9,
+      "low": 217.145,
+      "close": 219.4,
+      "volume": 2712846.0
+    },
+    {
+      "date": "2026-09-18",
+      "open": 219.065,
+      "high": 222.69,
+      "low": 218.04,
+      "close": 222.04,
+      "volume": 2828110.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 222.93,
+      "high": 228.49,
+      "low": 221.58,
+      "close": 227.3,
+      "volume": 3200199.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 226.975,
+      "high": 229.97,
+      "low": 226.59,
+      "close": 228.85,
+      "volume": 2460762.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 230.89,
+      "high": 232.81,
+      "low": 227.035,
+      "close": 227.235,
+      "volume": 2508154.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 228.84,
+      "high": 232.355,
+      "low": 228.27,
+      "close": 228.29,
+      "volume": 2961971.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 229.73,
+      "high": 232.28,
+      "low": 228.19,
+      "close": 231.04,
+      "volume": 2319590.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 236.05,
+      "high": 237.835,
+      "low": 233.6,
+      "close": 234.0,
+      "volume": 3860633.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 236.145,
+      "high": 240.09,
+      "low": 235.2,
+      "close": 238.98,
+      "volume": 3726291.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 242.04,
+      "high": 243.34,
+      "low": 238.95,
+      "close": 239.17,
+      "volume": 2758644.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 237.69,
+      "high": 239.08,
+      "low": 236.39,
+      "close": 237.4,
+      "volume": 2623107.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 234.795,
+      "high": 237.05,
+      "low": 229.88,
+      "close": 230.57,
+      "volume": 3598041.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 233.79,
+      "high": 233.89,
+      "low": 229.115,
+      "close": 229.35,
+      "volume": 2316630.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 228.69,
+      "high": 228.795,
+      "low": 224.9,
+      "close": 226.46,
+      "volume": 1590973.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 224.265,
+      "high": 228.64,
+      "low": 223.12,
+      "close": 228.5,
+      "volume": 2400846.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 225.54,
+      "high": 225.975,
+      "low": 219.67,
+      "close": 221.49,
+      "volume": 3432102.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 215.285,
+      "high": 218.46,
+      "low": 212.865,
+      "close": 217.33,
+      "volume": 4353216.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 216.525,
+      "high": 218.64,
+      "low": 213.33,
+      "close": 214.125,
+      "volume": 3704374.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 218.025,
+      "high": 219.6,
+      "low": 214.71,
+      "close": 217.085,
+      "volume": 2365992.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 215.985,
+      "high": 218.455,
+      "low": 212.78,
+      "close": 216.41,
+      "volume": 2760246.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 220.875,
+      "high": 222.18,
+      "low": 217.66,
+      "close": 221.9,
+      "volume": 2486314.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 217.13,
+      "high": 218.86,
+      "low": 211.27,
+      "close": 212.27,
+      "volume": 4565631.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 210.995,
+      "high": 213.79,
+      "low": 210.22,
+      "close": 211.02,
+      "volume": 2911853.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 213.055,
+      "high": 217.74,
+      "low": 212.665,
+      "close": 216.01,
+      "volume": 3252237.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 218.33,
+      "high": 219.19,
+      "low": 215.535,
+      "close": 217.87,
+      "volume": 2379844.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 219.915,
+      "high": 219.915,
+      "low": 214.47,
+      "close": 215.34,
+      "volume": 2713311.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Lumentum Stock Lights Up Thursday: What's Going On?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62687945/lumentum-stock-lights-up-thursday-whats-going-on",
+      "published_at": "2026-10-29T11:00:23+00:00"
+    },
+    {
+      "headline": "Shopify CEO Doesn't Trust the AI Cloud With His Data — So He Built a Server in His Wine Cellar",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62687674/shopify-ceo-doesnt-trust-the-ai-cloud-with-his-data-so-he-built-a-server-in-his-wine-cellar",
+      "published_at": "2026-10-29T10:56:50+00:00"
+    },
+    {
+      "headline": "Why Is ServiceNow Stock Sinking Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62687315/why-is-servicenow-stock-sinking-thursday",
+      "published_at": "2026-10-29T10:48:02+00:00"
+    },
+    {
+      "headline": "NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB Model for On-Device AI",
+      "source": "fiscal.ai",
+      "url": "https://www.tech-critter.com/nvidia-rtx-neural-rendering-ai-characters-phantom-blade-zero/",
+      "published_at": "2026-10-29T10:31:37+00:00"
+    },
+    {
+      "headline": "Nvidia Faces DOJ Scrutiny Over $12.9 Billion Hugging Face Deal Amid Concerns About Unfair AI Advantage: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62684670/nvidia-faces-doj-scrutiny-over-12-9-billion-hugging-face-deal-amid-concerns-about-unfair-ai-advantage-report",
+      "published_at": "2026-10-29T09:39:25+00:00"
+    },
+    {
+      "headline": "Nvidia Stock Has Dropped Nearly 6% in a Month; Now Jim Cramer Is Asking Why ‘Anything Negative in Tech’ Immediately Crushes NVDA",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62681998/nvidia-stock-drops-6-percent-jim-cramer-tech-weakness-nvda",
+      "published_at": "2026-10-29T02:00:35+00:00"
+    },
+    {
+      "headline": "NVIDIA Schedules Third-Quarter Fiscal 2027 Earnings Conference Call",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/10/28/3390809/0/en/nvidia-sets-conference-call-for-third-quarter-financial-results.html",
+      "published_at": "2026-10-28T23:01:30+00:00"
+    },
+    {
+      "headline": "Lumentum Stock Soars 17% on Marvell Takeover Talk",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/m-a/26/10/62680188/lumentum-stock-soars-17-on-marvell-takeover-talk",
+      "published_at": "2026-10-28T21:55:11+00:00"
+    },
+    {
+      "headline": "US Department of Justice Investigating NVIDIA's Acquisition of Hugging Face",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/doj-probes-nvidia-s-hugging-face-deal-over-ai-competition-ce785cd3d98bf223",
+      "published_at": "2026-10-28T21:32:28+00:00"
+    },
+    {
+      "headline": "NVIDIA Expands RTX Spark Laptop Ecosystem",
+      "source": "fiscal.ai",
+      "url": "https://www.cgmagonline.com/news/nvidia-rtx-spark-laptops-expand-tools/",
+      "published_at": "2026-10-28T20:31:32+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for NVDA"
+  ]
+}
