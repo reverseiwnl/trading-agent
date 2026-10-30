@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-10-30T12:21:45.896673+00:00",
+  "price": 282.14,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-18",
+      "open": 357.305,
+      "high": 359.365,
+      "low": 348.48,
+      "close": 349.23,
+      "volume": 1132687.0
+    },
+    {
+      "date": "2026-09-21",
+      "open": 350.435,
+      "high": 357.545,
+      "low": 349.18,
+      "close": 354.93,
+      "volume": 825627.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 357.7,
+      "high": 364.09,
+      "low": 350.22,
+      "close": 351.18,
+      "volume": 1033346.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.25,
+      "high": 343.05,
+      "low": 336.235,
+      "close": 342.33,
+      "volume": 837155.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 342.5,
+      "high": 346.93,
+      "low": 341.155,
+      "close": 343.845,
+      "volume": 545552.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.38,
+      "high": 343.5,
+      "low": 339.59,
+      "close": 342.77,
+      "volume": 655719.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 342.035,
+      "high": 342.775,
+      "low": 338.02,
+      "close": 340.95,
+      "volume": 663441.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 344.235,
+      "high": 352.56,
+      "low": 341.0,
+      "close": 344.1,
+      "volume": 1005081.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 350.84,
+      "high": 352.99,
+      "low": 335.57,
+      "close": 338.38,
+      "volume": 915815.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 341.265,
+      "high": 345.73,
+      "low": 341.265,
+      "close": 343.47,
+      "volume": 587768.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 342.725,
+      "high": 348.03,
+      "low": 342.555,
+      "close": 346.46,
+      "volume": 765516.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 347.38,
+      "high": 349.03,
+      "low": 344.685,
+      "close": 347.72,
+      "volume": 425699.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 346.715,
+      "high": 350.795,
+      "low": 343.11,
+      "close": 350.53,
+      "volume": 749027.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 354.01,
+      "high": 356.8,
+      "low": 346.52,
+      "close": 348.3,
+      "volume": 666286.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 351.865,
+      "high": 354.62,
+      "low": 350.375,
+      "close": 351.63,
+      "volume": 483341.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 352.045,
+      "high": 356.31,
+      "low": 350.61,
+      "close": 352.77,
+      "volume": 549905.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 356.18,
+      "high": 358.55,
+      "low": 351.675,
+      "close": 353.57,
+      "volume": 600876.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 355.6,
+      "high": 359.375,
+      "low": 346.36,
+      "close": 347.78,
+      "volume": 818690.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 344.595,
+      "high": 352.15,
+      "low": 340.72,
+      "close": 349.27,
+      "volume": 578247.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 348.325,
+      "high": 350.44,
+      "low": 339.14,
+      "close": 340.625,
+      "volume": 616183.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 343.76,
+      "high": 346.555,
+      "low": 341.9,
+      "close": 344.09,
+      "volume": 497856.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 343.65,
+      "high": 344.75,
+      "low": 338.36,
+      "close": 340.045,
+      "volume": 672495.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 336.975,
+      "high": 337.21,
+      "low": 330.4,
+      "close": 334.715,
+      "volume": 951012.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 330.195,
+      "high": 331.39,
+      "low": 322.0,
+      "close": 324.195,
+      "volume": 1083471.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 321.1,
+      "high": 324.485,
+      "low": 320.19,
+      "close": 320.23,
+      "volume": 446514.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 320.99,
+      "high": 321.43,
+      "low": 316.605,
+      "close": 316.81,
+      "volume": 990403.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 317.005,
+      "high": 323.82,
+      "low": 316.94,
+      "close": 320.6,
+      "volume": 959387.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 323.4,
+      "high": 326.35,
+      "low": 322.66,
+      "close": 325.37,
+      "volume": 1388291.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 286.885,
+      "high": 288.325,
+      "low": 280.38,
+      "close": 283.56,
+      "volume": 4949248.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Trump Administration Moves to Block Chinese Telecom Firms From Accessing US Phone Numbers Amid Robocall Threats: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/10/62733244/trump-administration-moves-to-block-chinese-telecom-firms-from-accessing-us-phone-numbers-amid-robocall-threats-report",
+      "published_at": "2026-10-30T11:22:59+00:00"
+    },
+    {
+      "headline": "A Mega-Mine Pause Fails to Lift Copper As the AI Trade Cracks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/commodities/26/10/62731825/a-mega-mine-pause-fails-to-lift-copper-as-the-ai-trade-cracks",
+      "published_at": "2026-10-30T10:41:29+00:00"
+    },
+    {
+      "headline": "Billionaire Investor Dan Loeb’s Third Point Held $783 Million In Alphabet And Amazon In Q2 — How His Two Biggest Tech Bets Fared After Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62731295/dan-loeb-third-point-alphabet-amazon-stock-holdings-q3-earnings",
+      "published_at": "2026-10-30T10:26:13+00:00"
+    },
+    {
+      "headline": "Larry Page Said He Would Explore Galaxies at the Head of a Von Neumann Probe—Elon Musk Says He ‘Might Be Right’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/space/26/10/62730617/larry-page-said-he-would-explore-galaxies-at-the-head-of-a-von-neumann-probe-elon-musk-says-he-might-be-right",
+      "published_at": "2026-10-30T10:13:28+00:00"
+    },
+    {
+      "headline": "SK Hynix, Samsung Tumble in South Korea as Wall Street's AI Sell-Off Rattles Asian Markets — KOSPI Triggers Rare Sell-Side Trading Halt",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62729331/sk-hynix-samsung-tumble-in-south-korea-as-wall-streets-ai-sell-off-rattles-asian-markets-kospi-triggers-rare-sell-side-trading-halt",
+      "published_at": "2026-10-30T09:00:05+00:00"
+    },
+    {
+      "headline": "S&P 500 Ends Three-Day Surge as Alphabet Shares Plunge: Greed Index Remains in ‘Fear’ Zone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/10/62728869/sp-500-ends-three-day-surge-as-alphabet-shares-plunge-greed-index-remains-in-fear-zone",
+      "published_at": "2026-10-30T07:59:46+00:00"
+    },
+    {
+      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62727776/stock-market-will-sp-500-open-up-or-down-today-69",
+      "published_at": "2026-10-30T06:21:23+00:00"
+    },
+    {
+      "headline": "El-Sayed Leads Michigan Senate Poll by 7 Points, Wants 50% Public Ownership of OpenAI, Anthropic",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62724648/el-sayed-ai-ownership",
+      "published_at": "2026-10-29T22:00:30+00:00"
+    },
+    {
+      "headline": "Bernstein Maintains Market Perform on Alphabet, Lowers Price Target to $325",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62724275/bernstein-maintains-market-perform-alphabet-lowers-price-target-325",
+      "published_at": "2026-10-29T21:48:24+00:00"
+    },
+    {
+      "headline": "JP Morgan Maintains Overweight on Alphabet, Lowers Price Target to $375",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62720490/jp-morgan-maintains-overweight-alphabet-lowers-price-target-375",
+      "published_at": "2026-10-29T20:31:02+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for GOOGL"
+  ]
+}
