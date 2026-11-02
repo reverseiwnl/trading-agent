@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-11-02T12:20:08.564145+00:00",
+  "price": 204.74,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-21",
+      "open": 222.93,
+      "high": 228.49,
+      "low": 221.58,
+      "close": 227.3,
+      "volume": 3200199.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 226.975,
+      "high": 229.97,
+      "low": 226.59,
+      "close": 228.85,
+      "volume": 2460762.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 230.89,
+      "high": 232.81,
+      "low": 227.035,
+      "close": 227.235,
+      "volume": 2508154.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 228.84,
+      "high": 232.355,
+      "low": 228.27,
+      "close": 228.29,
+      "volume": 2961971.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 229.73,
+      "high": 232.28,
+      "low": 228.19,
+      "close": 231.04,
+      "volume": 2319590.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 236.05,
+      "high": 237.835,
+      "low": 233.6,
+      "close": 234.0,
+      "volume": 3860633.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 236.145,
+      "high": 240.09,
+      "low": 235.2,
+      "close": 238.98,
+      "volume": 3726291.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 242.04,
+      "high": 243.34,
+      "low": 238.95,
+      "close": 239.17,
+      "volume": 2758644.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 237.69,
+      "high": 239.08,
+      "low": 236.39,
+      "close": 237.4,
+      "volume": 2623107.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 234.795,
+      "high": 237.05,
+      "low": 229.88,
+      "close": 230.57,
+      "volume": 3598041.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 233.79,
+      "high": 233.89,
+      "low": 229.115,
+      "close": 229.35,
+      "volume": 2316630.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 228.69,
+      "high": 228.795,
+      "low": 224.9,
+      "close": 226.46,
+      "volume": 1590973.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 224.265,
+      "high": 228.64,
+      "low": 223.12,
+      "close": 228.5,
+      "volume": 2400846.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 225.54,
+      "high": 225.975,
+      "low": 219.67,
+      "close": 221.49,
+      "volume": 3432102.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 215.285,
+      "high": 218.46,
+      "low": 212.865,
+      "close": 217.33,
+      "volume": 4353216.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 216.525,
+      "high": 218.64,
+      "low": 213.33,
+      "close": 214.125,
+      "volume": 3704374.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 218.025,
+      "high": 219.6,
+      "low": 214.71,
+      "close": 217.085,
+      "volume": 2365992.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 215.985,
+      "high": 218.455,
+      "low": 212.78,
+      "close": 216.41,
+      "volume": 2760246.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 220.875,
+      "high": 222.18,
+      "low": 217.66,
+      "close": 221.9,
+      "volume": 2486314.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 217.13,
+      "high": 218.86,
+      "low": 211.27,
+      "close": 212.27,
+      "volume": 4565631.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 210.995,
+      "high": 213.79,
+      "low": 210.22,
+      "close": 211.02,
+      "volume": 2911853.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 213.055,
+      "high": 217.74,
+      "low": 212.665,
+      "close": 216.01,
+      "volume": 3252237.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 218.33,
+      "high": 219.19,
+      "low": 215.535,
+      "close": 217.87,
+      "volume": 2379844.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 219.915,
+      "high": 219.915,
+      "low": 214.47,
+      "close": 215.34,
+      "volume": 2713311.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 214.44,
+      "high": 215.32,
+      "low": 212.09,
+      "close": 213.7,
+      "volume": 2610378.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 208.7,
+      "high": 209.06,
+      "low": 200.95,
+      "close": 204.76,
+      "volume": 4650693.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Dynalene PG-D25 Coolant Qualified as NVIDIA DSX Ready Solution",
+      "source": "fiscal.ai",
+      "url": "https://www.einpresswire.com/article/951779537/dynalene-pg-25-qualifies-as-an-nvidia-dsx-ready-coolant-solution",
+      "published_at": "2026-11-02T11:31:32+00:00"
+    },
+    {
+      "headline": "Wall Street Veteran Dumps Most of His NVIDIA Stake, Warns of AI Spending Slowdown",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62770109/wall-street-veteran-dumps-most-of-his-nvidia-stake-warns-of-an-ai-spending-slowdown",
+      "published_at": "2026-11-02T10:10:37+00:00"
+    },
+    {
+      "headline": "Buying the Intel Dip Could Be a Mistake, Analyst Warns—‘Dead Money’ Until ‘Bad Planning’ and Capacity Woes Are Fixed",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62769860/buying-the-intel-dip-could-be-a-mistake-analyst-warns-dead-money-until-bad-planning-and-capacity-woes-are-fixed",
+      "published_at": "2026-11-02T09:47:42+00:00"
+    },
+    {
+      "headline": "Nasdaq Tumbles Over 700 Points as Chip Stocks Fall: Investor Sentiment Weakens, Greed Index Remains in ‘Fear’ Zone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/11/62769481/nasdaq-tumbles-over-700-points-as-chip-stocks-fall-investor-sentiment-weakens-greed-index-remains-in-fear-zone",
+      "published_at": "2026-11-02T08:55:30+00:00"
+    },
+    {
+      "headline": "Trump Labels Jensen Huang ‘Very Aboveboard’ Amid Chinese Spy Report Fallout, but Says It Is a ‘Very Complex Issue’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62767381/trump-jensen-huang-nvidia-chinese-spy-report-fallout",
+      "published_at": "2026-11-02T01:38:22+00:00"
+    },
+    {
+      "headline": "SOXX: Top Semiconductor ETF Targets $400 as AI Bubble Worries Linger",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/62766623/soxx-top-semiconductor-etf-targets-400-as-ai-bubble-worries-linger",
+      "published_at": "2026-11-01T20:55:05+00:00"
+    },
+    {
+      "headline": "AMD Stuck in Bear Market on Circular Investing Fears: Can Earnings Turn the Tide?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/62766585/amd-stock-is-stuck-in-a-bear-market-on-circular-investing-fears-can-earnings-turn-the-tide",
+      "published_at": "2026-11-01T20:35:05+00:00"
+    },
+    {
+      "headline": "$600B Tech Wipeout Meets $1.48T Margin Debt",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/11/62766282/600b-tech-wipeout-meets-1-48t-margin-debt",
+      "published_at": "2026-11-01T17:30:06+00:00"
+    },
+    {
+      "headline": "Apple Diverges From Magnificent 7 as Options Point to Jump to $355 After Earnings",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/62766171/apple-stock-diverges-from-magnificent-7-as-options-point-to-a-jump-to-355-after-earnings",
+      "published_at": "2026-11-01T16:15:06+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Former Goldman Sachs Analyst Turned Creator Says AI-Ready Workers Need More Than Prompting Skills — ‘You Can’t Outsource the Understanding’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62766123/exclusive-former-goldman-sachs-analyst-turned-creator-says-ai-ready-workers-need-more-than-prompting-skills-you-cant-outsource-the-understanding",
+      "published_at": "2026-11-01T15:30:06+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for NVDA"
+  ]
+}

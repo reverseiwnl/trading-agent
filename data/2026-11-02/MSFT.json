@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-11-02T12:20:05.581711+00:00",
+  "price": 521.85,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-21",
+      "open": 495.56,
+      "high": 501.71,
+      "low": 491.35,
+      "close": 501.64,
+      "volume": 798550.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 507.125,
+      "high": 508.0,
+      "low": 493.705,
+      "close": 498.0,
+      "volume": 598345.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 501.79,
+      "high": 509.34,
+      "low": 495.97,
+      "close": 500.62,
+      "volume": 543277.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 495.205,
+      "high": 498.79,
+      "low": 491.23,
+      "close": 497.585,
+      "volume": 787048.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 498.855,
+      "high": 519.39,
+      "low": 497.35,
+      "close": 516.155,
+      "volume": 1481325.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 505.47,
+      "high": 513.29,
+      "low": 502.38,
+      "close": 509.36,
+      "volume": 525669.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 508.31,
+      "high": 513.545,
+      "low": 502.56,
+      "close": 508.92,
+      "volume": 564770.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 511.205,
+      "high": 519.76,
+      "low": 510.42,
+      "close": 512.91,
+      "volume": 863492.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 519.765,
+      "high": 522.805,
+      "low": 512.24,
+      "close": 512.71,
+      "volume": 788881.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 519.12,
+      "high": 522.46,
+      "low": 513.74,
+      "close": 517.32,
+      "volume": 566824.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 521.96,
+      "high": 532.35,
+      "low": 521.91,
+      "close": 525.01,
+      "volume": 916366.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 531.615,
+      "high": 535.69,
+      "low": 528.83,
+      "close": 529.385,
+      "volume": 520480.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 530.725,
+      "high": 531.7,
+      "low": 524.725,
+      "close": 529.7,
+      "volume": 727327.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 530.435,
+      "high": 533.31,
+      "low": 518.83,
+      "close": 522.71,
+      "volume": 811233.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 528.27,
+      "high": 537.17,
+      "low": 526.36,
+      "close": 535.195,
+      "volume": 553742.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 537.49,
+      "high": 542.7,
+      "low": 536.08,
+      "close": 541.085,
+      "volume": 595543.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 544.625,
+      "high": 551.08,
+      "low": 543.07,
+      "close": 543.51,
+      "volume": 902625.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 545.085,
+      "high": 545.71,
+      "low": 532.56,
+      "close": 534.04,
+      "volume": 788908.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 533.655,
+      "high": 541.08,
+      "low": 531.455,
+      "close": 539.36,
+      "volume": 670262.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 541.25,
+      "high": 543.82,
+      "low": 524.48,
+      "close": 528.99,
+      "volume": 677672.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 528.615,
+      "high": 535.55,
+      "low": 528.57,
+      "close": 533.645,
+      "volume": 546008.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 533.79,
+      "high": 534.17,
+      "low": 525.86,
+      "close": 532.02,
+      "volume": 463037.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 529.44,
+      "high": 533.28,
+      "low": 525.14,
+      "close": 532.8,
+      "volume": 386815.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 533.26,
+      "high": 533.26,
+      "low": 520.35,
+      "close": 521.6,
+      "volume": 675626.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 517.745,
+      "high": 525.72,
+      "low": 515.79,
+      "close": 524.375,
+      "volume": 446134.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 527.33,
+      "high": 533.205,
+      "low": 521.93,
+      "close": 532.54,
+      "volume": 625026.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 532.36,
+      "high": 534.7,
+      "low": 528.405,
+      "close": 531.58,
+      "volume": 541284.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 530.97,
+      "high": 534.555,
+      "low": 526.3,
+      "close": 532.23,
+      "volume": 803668.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 540.31,
+      "high": 540.79,
+      "low": 519.59,
+      "close": 530.39,
+      "volume": 1173477.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 526.0,
+      "high": 526.0,
+      "low": 514.59,
+      "close": 521.97,
+      "volume": 906896.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Bill Ackman Says MSFT, AMZN and NFLX Fit His ‘Enormously Valuable’ 20-Year Investing Test",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/62769430/bill-ackman-says-msft-amzn-and-nflx-fit-his-enormously-valuable-20-year-investing-test",
+      "published_at": "2026-11-02T08:46:02+00:00"
+    },
+    {
+      "headline": "S&P 500, Dow Jones, and Nasdaq 100 Outlook: Top Drivers for US Stocks This Week",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/62766301/sp-500-dow-jones-and-nasdaq-100-outlook-top-drivers-for-us-stocks-this-week",
+      "published_at": "2026-11-01T17:45:07+00:00"
+    },
+    {
+      "headline": "$600B Tech Wipeout Meets $1.48T Margin Debt",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/11/62766282/600b-tech-wipeout-meets-1-48t-margin-debt",
+      "published_at": "2026-11-01T17:30:06+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Former Goldman Sachs Analyst Turned Creator Says AI-Ready Workers Need More Than Prompting Skills — ‘You Can’t Outsource the Understanding’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62766123/exclusive-former-goldman-sachs-analyst-turned-creator-says-ai-ready-workers-need-more-than-prompting-skills-you-cant-outsource-the-understanding",
+      "published_at": "2026-11-01T15:30:06+00:00"
+    },
+    {
+      "headline": "Bill Gates Says Alzheimer’s Breakthrough Is Here — But the System Is Failing Patients",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/11/62766060/bill-gates-alzheimers-breakthrough",
+      "published_at": "2026-11-01T14:38:34+00:00"
+    },
+    {
+      "headline": "Context Labs AI Distillery Now Available on Microsoft Marketplace",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/context-labs-ai-distillery-ermoglicht-es-unternehmen-souverane-ki-auf-ihren-eigenen-daten-zu-betreiben-302925726.html",
+      "published_at": "2026-11-01T14:01:33+00:00"
+    },
+    {
+      "headline": "Cybersecurity Campaign Exploits Microsoft 365 Authentication Sessions",
+      "source": "fiscal.ai",
+      "url": "https://www.varindia.com/news/hackers-hijack-microsoft-365-without-passwords",
+      "published_at": "2026-11-01T14:01:33+00:00"
+    },
+    {
+      "headline": "‘We Have About Four Years:’ Raoul Pal Warns Investors to Get Ready Before AI Changes How Markets Work",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62765496/we-have-about-four-years-raoul-pal-warns-investors-to-get-ready-before-ai-changes-how-markets-work",
+      "published_at": "2026-11-01T08:41:51+00:00"
+    },
+    {
+      "headline": "Micron, SanDisk, and Western Digital Remain in Bear Territory, But Key Catalysts Remain Intact",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62764072/micron-sandisk-and-western-digital-remain-in-bear-territory-but-key-catalysts-remain-intact",
+      "published_at": "2026-10-31T19:55:10+00:00"
+    },
+    {
+      "headline": "GOOGL, AMZN, INTC and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62763584/googl-amzn-intc-and-more-5-stocks-investors-couldnt-stop-buzzing-about-this-week",
+      "published_at": "2026-10-31T12:30:06+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for MSFT"
+  ]
+}

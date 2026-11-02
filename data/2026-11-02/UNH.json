@@ -1,0 +1,314 @@
+{
+  "ticker": "UNH",
+  "as_of": "2026-11-02T12:20:11.892404+00:00",
+  "price": 406.92,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-21",
+      "open": 378.17,
+      "high": 378.95,
+      "low": 373.955,
+      "close": 377.53,
+      "volume": 167686.0
+    },
+    {
+      "date": "2026-09-22",
+      "open": 380.44,
+      "high": 380.56,
+      "low": 372.585,
+      "close": 372.9,
+      "volume": 171526.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 369.99,
+      "high": 372.51,
+      "low": 366.1,
+      "close": 371.27,
+      "volume": 145416.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 371.99,
+      "high": 375.27,
+      "low": 368.775,
+      "close": 375.17,
+      "volume": 255526.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 377.39,
+      "high": 379.09,
+      "low": 371.305,
+      "close": 376.7,
+      "volume": 176537.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 376.685,
+      "high": 380.88,
+      "low": 374.62,
+      "close": 377.94,
+      "volume": 185049.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 376.095,
+      "high": 376.47,
+      "low": 371.355,
+      "close": 374.98,
+      "volume": 143841.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 373.95,
+      "high": 373.95,
+      "low": 365.8,
+      "close": 367.25,
+      "volume": 179338.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 367.52,
+      "high": 371.74,
+      "low": 362.66,
+      "close": 365.11,
+      "volume": 175654.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 364.86,
+      "high": 372.675,
+      "low": 364.645,
+      "close": 371.775,
+      "volume": 172855.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 373.49,
+      "high": 379.125,
+      "low": 368.31,
+      "close": 378.625,
+      "volume": 258647.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 379.095,
+      "high": 380.18,
+      "low": 373.72,
+      "close": 376.15,
+      "volume": 219249.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 376.595,
+      "high": 383.435,
+      "low": 372.07,
+      "close": 375.815,
+      "volume": 293825.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 374.9,
+      "high": 375.85,
+      "low": 368.61,
+      "close": 370.755,
+      "volume": 176722.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 373.2,
+      "high": 387.495,
+      "low": 373.2,
+      "close": 379.31,
+      "volume": 650448.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 381.57,
+      "high": 381.57,
+      "low": 373.78,
+      "close": 378.16,
+      "volume": 311713.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 397.625,
+      "high": 399.59,
+      "low": 373.22,
+      "close": 377.56,
+      "volume": 456630.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 383.075,
+      "high": 396.41,
+      "low": 382.91,
+      "close": 395.695,
+      "volume": 422673.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 401.06,
+      "high": 414.11,
+      "low": 400.29,
+      "close": 406.66,
+      "volume": 536779.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 411.87,
+      "high": 412.03,
+      "low": 395.6,
+      "close": 401.455,
+      "volume": 533493.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 400.61,
+      "high": 408.4,
+      "low": 399.75,
+      "close": 406.92,
+      "volume": 304240.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 409.745,
+      "high": 422.345,
+      "low": 408.605,
+      "close": 419.47,
+      "volume": 448807.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 421.29,
+      "high": 421.35,
+      "low": 415.085,
+      "close": 416.86,
+      "volume": 242017.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 417.775,
+      "high": 426.47,
+      "low": 417.28,
+      "close": 424.895,
+      "volume": 263303.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 424.29,
+      "high": 424.92,
+      "low": 416.64,
+      "close": 418.06,
+      "volume": 285375.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 420.01,
+      "high": 420.77,
+      "low": 408.465,
+      "close": 410.45,
+      "volume": 196983.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 411.95,
+      "high": 413.42,
+      "low": 408.23,
+      "close": 410.625,
+      "volume": 264719.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 406.72,
+      "high": 416.115,
+      "low": 405.14,
+      "close": 407.05,
+      "volume": 202079.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 414.36,
+      "high": 414.36,
+      "low": 404.39,
+      "close": 410.91,
+      "volume": 158385.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 414.21,
+      "high": 415.85,
+      "low": 405.96,
+      "close": 406.92,
+      "volume": 215856.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "‘We Need to Break Up Big Medicine’: Elizabeth Warren Says Trump DOJ Gave UnitedHealth ‘More Power’ in $3.3 Billion Amedisys Deal",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/62769650/elizabeth-warren-trump-doj-unitedhealth-amedisys-deal-raise-costs",
+      "published_at": "2026-11-02T09:12:33+00:00"
+    },
+    {
+      "headline": "Mark Cuban Alleges Public Companies Found Evidence of Overcharging by Major Insurers",
+      "source": "fiscal.ai",
+      "url": "https://www.tradingview.com/news/stocktwits:52628e2c9094b:0-mark-cuban-says-public-companies-found-they-were-ripped-off-on-healthcare-but-won-t-say-so-on-earnings-calls/",
+      "published_at": "2026-11-02T02:01:42+00:00"
+    },
+    {
+      "headline": "Mark Cuban Says AI Could 'Collapse' Big Healthcare Companies: 'The Cost of Healthcare… Would Drop Like a Rock'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/11/62766036/mark-cuban-ai-collapse-big-healthcare-companies",
+      "published_at": "2026-11-01T14:20:13+00:00"
+    },
+    {
+      "headline": "UnitedHealth Group Files Trademark Application for \"HPN\"",
+      "source": "fiscal.ai",
+      "url": "https://insurancenewsnet.com/oarticle/unitedhealth-group-incorporated-trademark-application-for-hpn-filed-unitedhealth-group-incorporated",
+      "published_at": "2026-10-31T02:01:54+00:00"
+    },
+    {
+      "headline": "UnitedHealth Implements Restrictive Policy for AMVUTTRA in Medicare Advantage",
+      "source": "fiscal.ai",
+      "url": "https://www.tradingview.com/news/stocktwits:8122d3c2a094b:0-alny-stock-hits-fresh-52-week-low-on-medicare-access-worries-and-pipeline-delays/",
+      "published_at": "2026-10-30T02:01:38+00:00"
+    },
+    {
+      "headline": "UnitedHealthcare Insurance Company Approved to Sell 2027 Small Business Plans in Washington",
+      "source": "fiscal.ai",
+      "url": "https://www.einnews.com/pr_news/953157974/nine-insurers-approved-to-sell-2027-health-insurance-plans-to-small-businesses",
+      "published_at": "2026-10-29T21:31:36+00:00"
+    },
+    {
+      "headline": "10 Health Care Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/10/62667210/10-health-care-stocks-whale-activity-today-s-session",
+      "published_at": "2026-10-28T17:35:11+00:00"
+    },
+    {
+      "headline": "Cyclicals Lead Sectors In Wednesday Trading As Real Estate Trails",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62660436/cyclicals-lead-sectors-in-wednesday-trading-as-real-estate-trails",
+      "published_at": "2026-10-28T15:00:23+00:00"
+    },
+    {
+      "headline": "'Drug Middlemen Will Soon Have to Share Details on How They Are Paid; New Labor Department regulation will require pharmacy-benefit managers to disclose information to employers' - WSJ Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/10/62651637/drug-middlemen-will-soon-have-share-details-how-they-are-paid-new-labor-department-regulation-will-r",
+      "published_at": "2026-10-28T12:30:23+00:00"
+    },
+    {
+      "headline": "Delta Air, American Tower, Apple And A Health Care: CNBC’s ‘Final Trades’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62650810/delta-air-american-tower-apple-and-a-health-care-cnbcs-final-trades",
+      "published_at": "2026-10-28T12:06:18+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for UNH"
+  ]
+}
