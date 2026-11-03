@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-11-03T12:09:35.185796+00:00",
+  "price": 202.205,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-22",
+      "open": 226.975,
+      "high": 229.97,
+      "low": 226.59,
+      "close": 228.85,
+      "volume": 2460762.0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 230.89,
+      "high": 232.81,
+      "low": 227.035,
+      "close": 227.235,
+      "volume": 2508154.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 228.84,
+      "high": 232.355,
+      "low": 228.27,
+      "close": 228.29,
+      "volume": 2961971.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 229.73,
+      "high": 232.28,
+      "low": 228.19,
+      "close": 231.04,
+      "volume": 2319590.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 236.05,
+      "high": 237.835,
+      "low": 233.6,
+      "close": 234.0,
+      "volume": 3860633.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 236.145,
+      "high": 240.09,
+      "low": 235.2,
+      "close": 238.98,
+      "volume": 3726291.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 242.04,
+      "high": 243.34,
+      "low": 238.95,
+      "close": 239.17,
+      "volume": 2758644.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 237.69,
+      "high": 239.08,
+      "low": 236.39,
+      "close": 237.4,
+      "volume": 2623107.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 234.795,
+      "high": 237.05,
+      "low": 229.88,
+      "close": 230.57,
+      "volume": 3598041.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 233.79,
+      "high": 233.89,
+      "low": 229.115,
+      "close": 229.35,
+      "volume": 2316630.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 228.69,
+      "high": 228.795,
+      "low": 224.9,
+      "close": 226.46,
+      "volume": 1590973.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 224.265,
+      "high": 228.64,
+      "low": 223.12,
+      "close": 228.5,
+      "volume": 2400846.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 225.54,
+      "high": 225.975,
+      "low": 219.67,
+      "close": 221.49,
+      "volume": 3432102.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 215.285,
+      "high": 218.46,
+      "low": 212.865,
+      "close": 217.33,
+      "volume": 4353216.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 216.525,
+      "high": 218.64,
+      "low": 213.33,
+      "close": 214.125,
+      "volume": 3704374.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 218.025,
+      "high": 219.6,
+      "low": 214.71,
+      "close": 217.085,
+      "volume": 2365992.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 215.985,
+      "high": 218.455,
+      "low": 212.78,
+      "close": 216.41,
+      "volume": 2760246.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 220.875,
+      "high": 222.18,
+      "low": 217.66,
+      "close": 221.9,
+      "volume": 2486314.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 217.13,
+      "high": 218.86,
+      "low": 211.27,
+      "close": 212.27,
+      "volume": 4565631.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 210.995,
+      "high": 213.79,
+      "low": 210.22,
+      "close": 211.02,
+      "volume": 2911853.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 213.055,
+      "high": 217.74,
+      "low": 212.665,
+      "close": 216.01,
+      "volume": 3252237.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 218.33,
+      "high": 219.19,
+      "low": 215.535,
+      "close": 217.87,
+      "volume": 2379844.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 219.915,
+      "high": 219.915,
+      "low": 214.47,
+      "close": 215.34,
+      "volume": 2713311.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 214.44,
+      "high": 215.32,
+      "low": 212.09,
+      "close": 213.7,
+      "volume": 2610378.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 208.7,
+      "high": 209.06,
+      "low": 200.95,
+      "close": 204.76,
+      "volume": 4650693.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 207.59,
+      "high": 209.965,
+      "low": 201.66,
+      "close": 202.205,
+      "volume": 4210604.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "NVIDIA Requires Cloud Clients to Limit Business With Chinese Customers",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/nvidia-requires-cloud-clients-to-limit-business-with-chinese-customers-ce785fd9de81ff21",
+      "published_at": "2026-11-03T11:31:52+00:00"
+    },
+    {
+      "headline": "Nvidia Tightens the Screws on China's AI Access — Cloud Partners Worldwide Must Restrict Chinese Customers Under New Revenue Rule: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62808888/nvidia-tightens-the-screws-on-chinas-ai-access-cloud-partners-worldwide-must-restrict-chinese-customers-under-new-revenue-rule-report",
+      "published_at": "2026-11-03T10:41:50+00:00"
+    },
+    {
+      "headline": "SPCX CEO Elon Musk Says Cooling AI Data Centers in Space Is 'Much Easier' — Here's How His Plan Could Work",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62808265/spcx-ceo-elon-musk-says-cooling-ai-data-centers-in-space-is-much-easier-heres-how-his-plan-could-work",
+      "published_at": "2026-11-03T10:16:06+00:00"
+    },
+    {
+      "headline": "'Nvidia Orders Data Centre Clients to Reduce China Exposure' - FT",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/62807428/nvidia-orders-data-centre-clients-reduce-china-exposure-ft",
+      "published_at": "2026-11-03T08:52:10+00:00"
+    },
+    {
+      "headline": "Nasdaq Dips Over 1% as Tech Stocks Fall: Investor Sentiment Weakens, Fear & Greed Index Moves to ‘Extreme Fear’ Zone",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/11/62806764/nasdaq-dips-over-1-as-tech-stocks-fall-investor-sentiment-weakens-fear-greed-index-moves-to-extreme-fear-zone",
+      "published_at": "2026-11-03T07:52:09+00:00"
+    },
+    {
+      "headline": "NVIDIA Begins Shipping Vera Rubin Platform",
+      "source": "fiscal.ai",
+      "url": "https://www.barchart.com/story/news/8597937/nvidia-stock-looks-surprisingly-cheap-why-nvda-could-rise-61",
+      "published_at": "2026-11-03T00:01:32+00:00"
+    },
+    {
+      "headline": "XMax Signs Five-Year AI Infrastructure Agreement Involving NVIDIA GPUs",
+      "source": "fiscal.ai",
+      "url": "https://www.tradingview.com/news/seekingalpha:4f9c10c46094b:0-xmax-signs-nvidia-gpu-deal-sees-100m-revenue/",
+      "published_at": "2026-11-03T00:01:32+00:00"
+    },
+    {
+      "headline": "Tech Selloff Doesn’t Spook Dan Ives for Halloween: Here Are His 6 AI Stock Picks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/11/62804236/tech-selloff-doesnt-spook-dan-ives-for-halloween-here-are-his-6-ai-stock-picks",
+      "published_at": "2026-11-02T22:46:19+00:00"
+    },
+    {
+      "headline": "NVIDIA Vera Rubin NVL72 Specification Discrepancies Highlighted",
+      "source": "fiscal.ai",
+      "url": "https://www.tradingview.com/news/gurufocus:fbc22b595094b:0-nvidia-stocks-rise-1-7-with-rubin-specification-gap-shifting-focus-to-workload-tests/",
+      "published_at": "2026-11-02T21:31:29+00:00"
+    },
+    {
+      "headline": "Jensen Huang Addresses CoreWeave Financial Position",
+      "source": "fiscal.ai",
+      "url": "https://www.tradingview.com/news/tradingview:70bca6fb36e66:0-weekly-recap-danish-data-center-expansion-and-nvidia-capacity-purchase/",
+      "published_at": "2026-11-02T20:01:24+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
