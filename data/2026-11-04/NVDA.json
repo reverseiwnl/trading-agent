@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-11-04T12:09:11.730634+00:00",
+  "price": 206.565,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-23",
+      "open": 228.06,
+      "high": 228.91,
+      "low": 224.02,
+      "close": 225.62,
+      "volume": 2280891.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 230.89,
+      "high": 232.81,
+      "low": 227.035,
+      "close": 227.235,
+      "volume": 2508154.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 228.84,
+      "high": 232.355,
+      "low": 228.27,
+      "close": 228.29,
+      "volume": 2961971.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 229.73,
+      "high": 232.28,
+      "low": 228.19,
+      "close": 231.04,
+      "volume": 2319590.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 236.05,
+      "high": 237.835,
+      "low": 233.6,
+      "close": 234.0,
+      "volume": 3860633.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 236.145,
+      "high": 240.09,
+      "low": 235.2,
+      "close": 238.98,
+      "volume": 3726291.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 242.04,
+      "high": 243.34,
+      "low": 238.95,
+      "close": 239.17,
+      "volume": 2758644.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 237.69,
+      "high": 239.08,
+      "low": 236.39,
+      "close": 237.4,
+      "volume": 2623107.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 234.795,
+      "high": 237.05,
+      "low": 229.88,
+      "close": 230.57,
+      "volume": 3598041.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 233.79,
+      "high": 233.89,
+      "low": 229.115,
+      "close": 229.35,
+      "volume": 2316630.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 228.69,
+      "high": 228.795,
+      "low": 224.9,
+      "close": 226.46,
+      "volume": 1590973.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 224.265,
+      "high": 228.64,
+      "low": 223.12,
+      "close": 228.5,
+      "volume": 2400846.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 225.54,
+      "high": 225.975,
+      "low": 219.67,
+      "close": 221.49,
+      "volume": 3432102.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 215.285,
+      "high": 218.46,
+      "low": 212.865,
+      "close": 217.33,
+      "volume": 4353216.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 216.525,
+      "high": 218.64,
+      "low": 213.33,
+      "close": 214.125,
+      "volume": 3704374.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 218.025,
+      "high": 219.6,
+      "low": 214.71,
+      "close": 217.085,
+      "volume": 2365992.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 215.985,
+      "high": 218.455,
+      "low": 212.78,
+      "close": 216.41,
+      "volume": 2760246.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 220.875,
+      "high": 222.18,
+      "low": 217.66,
+      "close": 221.9,
+      "volume": 2486314.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 217.13,
+      "high": 218.86,
+      "low": 211.27,
+      "close": 212.27,
+      "volume": 4565631.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 210.995,
+      "high": 213.79,
+      "low": 210.22,
+      "close": 211.02,
+      "volume": 2911853.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 213.055,
+      "high": 217.74,
+      "low": 212.665,
+      "close": 216.01,
+      "volume": 3252237.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 218.33,
+      "high": 219.19,
+      "low": 215.535,
+      "close": 217.87,
+      "volume": 2379844.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 219.915,
+      "high": 219.915,
+      "low": 214.47,
+      "close": 215.34,
+      "volume": 2713311.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 214.44,
+      "high": 215.32,
+      "low": 212.09,
+      "close": 213.7,
+      "volume": 2610378.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 208.7,
+      "high": 209.06,
+      "low": 200.95,
+      "close": 204.76,
+      "volume": 4650693.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 207.59,
+      "high": 209.965,
+      "low": 201.66,
+      "close": 202.205,
+      "volume": 4210604.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 207.71,
+      "high": 209.09,
+      "low": 205.95,
+      "close": 206.565,
+      "volume": 3123764.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "What Is Going On With Nvidia Stock on Wednesday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62857127/what-is-going-on-with-nvidia-stock-on-wednesday-2",
+      "published_at": "2026-11-04T11:43:07+00:00"
+    },
+    {
+      "headline": "NVIDIA Faces Supply Constraints for Chinese AI Chip Orders",
+      "source": "fiscal.ai",
+      "url": "https://www.tradingview.com/news/seekingalpha:9187a0185094b:0-nvidia-to-ship-1-of-70b-rtx-chips-ordered-by-alibaba-tencent-report/",
+      "published_at": "2026-11-04T11:31:39+00:00"
+    },
+    {
+      "headline": "Jim Cramer Sees These 'Non-Magnificent' Tech Stocks Emerging as Market Leaders While Nvidia, Microsoft Struggle: 'It's Just Not The Tech That's Led Us'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62854558/jim-cramer-sees-these-non-magnificent-tech-stocks-emerging-as-market-leaders-while-nvidia-microsoft-struggle-its-just-not-the-tech-thats-led-us",
+      "published_at": "2026-11-04T10:27:43+00:00"
+    },
+    {
+      "headline": "'Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered' - Bloomberg Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/62851824/nvidia-china-clients-get-1-70-billion-rtx-chips-ordered-bloomberg-exclusive",
+      "published_at": "2026-11-04T06:16:26+00:00"
+    },
+    {
+      "headline": "Grant Cardone Warns James Talarico's Texas Win Could Spell Trouble for Elon Musk's SPCX, AI Bets—Gina Hinojosa Governor Win Sparks Data Center Moratorium Talk",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/11/62851381/grant-cardone-warns-james-talaricos-texas-win-could-spell-trouble-for-elon-musks-spcx-ai-bets-gina-hinojosa-governor-win-sparks-data-center-moratorium-talk",
+      "published_at": "2026-11-04T05:08:49+00:00"
+    },
+    {
+      "headline": "AMD, Super Micro Computer, Arista Networks, Astera Labs and Nvidia: Why These 5 Stocks Are on Investors' Radars Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/62850282/amd-super-micro-computer-arista-networks-astera-labs-and-nvidia-why-these-5-stocks-are-on-investors-radars-today",
+      "published_at": "2026-11-04T01:03:53+00:00"
+    },
+    {
+      "headline": "DeepInfra Announces New Benefits for NVIDIA Inception Members",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/11/03/3394716/0/en/deepinfra-expands-startup-support-through-nvidia-inception-offering.html",
+      "published_at": "2026-11-04T00:01:37+00:00"
+    },
+    {
+      "headline": "Nancy Pelosi Isn't Running for Re-Election in 2026 Midterms: Say Goodbye to Her Stock Picks in Two Months",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/11/62849869/nancy-pelosi-isnt-running-for-re-election-in-2026-midterms-say-goodbye-to-her-stock-picks-in-two-months",
+      "published_at": "2026-11-03T23:55:14+00:00"
+    },
+    {
+      "headline": "Nate Silver Says Democrats Are Clear Senate Favorites: 'A Really Bad Night for Pollsters' if They Lose",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/62840524/nate-silver-senate",
+      "published_at": "2026-11-03T21:00:05+00:00"
+    },
+    {
+      "headline": "Growth And Cyclical Lead Sectors Tuesday",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/62838995/growth-and-cyclical-lead-sectors-tuesday",
+      "published_at": "2026-11-03T20:08:43+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for NVDA"
+  ]
+}

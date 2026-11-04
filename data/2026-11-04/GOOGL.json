@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-11-04T12:09:01.441520+00:00",
+  "price": 279.905,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-23",
+      "open": 349.78,
+      "high": 349.9,
+      "low": 337.59,
+      "close": 337.795,
+      "volume": 1207931.0
+    },
+    {
+      "date": "2026-09-24",
+      "open": 336.25,
+      "high": 343.05,
+      "low": 336.235,
+      "close": 342.33,
+      "volume": 837155.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 342.5,
+      "high": 346.93,
+      "low": 341.155,
+      "close": 343.845,
+      "volume": 545552.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.38,
+      "high": 343.5,
+      "low": 339.59,
+      "close": 342.77,
+      "volume": 655719.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 342.035,
+      "high": 342.775,
+      "low": 338.02,
+      "close": 340.95,
+      "volume": 663441.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 344.235,
+      "high": 352.56,
+      "low": 341.0,
+      "close": 344.1,
+      "volume": 1005081.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 350.84,
+      "high": 352.99,
+      "low": 335.57,
+      "close": 338.38,
+      "volume": 915815.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 341.265,
+      "high": 345.73,
+      "low": 341.265,
+      "close": 343.47,
+      "volume": 587768.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 342.725,
+      "high": 348.03,
+      "low": 342.555,
+      "close": 346.46,
+      "volume": 765516.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 347.38,
+      "high": 349.03,
+      "low": 344.685,
+      "close": 347.72,
+      "volume": 425699.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 346.715,
+      "high": 350.795,
+      "low": 343.11,
+      "close": 350.53,
+      "volume": 749027.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 354.01,
+      "high": 356.8,
+      "low": 346.52,
+      "close": 348.3,
+      "volume": 666286.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 351.865,
+      "high": 354.62,
+      "low": 350.375,
+      "close": 351.63,
+      "volume": 483341.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 352.045,
+      "high": 356.31,
+      "low": 350.61,
+      "close": 352.77,
+      "volume": 549905.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 356.18,
+      "high": 358.55,
+      "low": 351.675,
+      "close": 353.57,
+      "volume": 600876.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 355.6,
+      "high": 359.375,
+      "low": 346.36,
+      "close": 347.78,
+      "volume": 818690.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 344.595,
+      "high": 352.15,
+      "low": 340.72,
+      "close": 349.27,
+      "volume": 578247.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 348.325,
+      "high": 350.44,
+      "low": 339.14,
+      "close": 340.625,
+      "volume": 616183.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 343.76,
+      "high": 346.555,
+      "low": 341.9,
+      "close": 344.09,
+      "volume": 497856.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 343.65,
+      "high": 344.75,
+      "low": 338.36,
+      "close": 340.045,
+      "volume": 672495.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 336.975,
+      "high": 337.21,
+      "low": 330.4,
+      "close": 334.715,
+      "volume": 951012.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 330.195,
+      "high": 331.39,
+      "low": 322.0,
+      "close": 324.195,
+      "volume": 1083471.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 321.1,
+      "high": 324.485,
+      "low": 320.19,
+      "close": 320.23,
+      "volume": 446514.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 320.99,
+      "high": 321.43,
+      "low": 316.605,
+      "close": 316.81,
+      "volume": 990403.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 317.005,
+      "high": 323.82,
+      "low": 316.94,
+      "close": 320.6,
+      "volume": 959387.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 323.4,
+      "high": 326.35,
+      "low": 322.66,
+      "close": 325.37,
+      "volume": 1388291.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 286.885,
+      "high": 288.325,
+      "low": 280.38,
+      "close": 283.56,
+      "volume": 4949248.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 281.06,
+      "high": 283.125,
+      "low": 276.935,
+      "close": 279.9,
+      "volume": 1938594.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 282.38,
+      "high": 286.96,
+      "low": 278.92,
+      "close": 279.045,
+      "volume": 1726600.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 280.08,
+      "high": 281.605,
+      "low": 277.205,
+      "close": 279.905,
+      "volume": 1028642.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Bernie Sanders Accuses Google of 'Extortion' Over AI Use in Schools, Says Tech Giants Can't Be Trusted to Regulate Themselves",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62857301/bernie-sanders-accuses-google-of-extortion-over-ai-use-in-schools-says-tech-giants-cant-be-trusted-to-regulate-themselves",
+      "published_at": "2026-11-04T11:50:02+00:00"
+    },
+    {
+      "headline": "Jim Cramer Sees These 'Non-Magnificent' Tech Stocks Emerging as Market Leaders While Nvidia, Microsoft Struggle: 'It's Just Not The Tech That's Led Us'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62854558/jim-cramer-sees-these-non-magnificent-tech-stocks-emerging-as-market-leaders-while-nvidia-microsoft-struggle-its-just-not-the-tech-thats-led-us",
+      "published_at": "2026-11-04T10:27:43+00:00"
+    },
+    {
+      "headline": "'Google Extends Voluntary Buyout Offers To Employees in Several Countries' - Reuters Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/62853563/google-extends-voluntary-buyout-offers-employees-several-countries-reuters-exclusive",
+      "published_at": "2026-11-04T08:37:47+00:00"
+    },
+    {
+      "headline": "Elon Musk's SpaceX Could Build More Data Center Capacity in 18 Months Than Google Did in 27 Years, Says SemiAnalysis",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62853551/elon-musks-spacex-could-build-more-data-center-capacity-in-18-months-than-google-did-in-27-years-says-semianalysis",
+      "published_at": "2026-11-04T08:37:19+00:00"
+    },
+    {
+      "headline": "Zohran Mamdani Says Google Uses ‘Monopoly Power’ to Push AI Into Schools: Corporations Shouldn’t ‘Dictate’ How We Teach Children",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62850458/zohran-mamdani-google-force-ai-public-schools-monopoly-power",
+      "published_at": "2026-11-04T01:36:16+00:00"
+    },
+    {
+      "headline": "Nancy Pelosi Isn't Running for Re-Election in 2026 Midterms: Say Goodbye to Her Stock Picks in Two Months",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/11/62849869/nancy-pelosi-isnt-running-for-re-election-in-2026-midterms-say-goodbye-to-her-stock-picks-in-two-months",
+      "published_at": "2026-11-03T23:55:14+00:00"
+    },
+    {
+      "headline": "SpaceX Could Be Biggest Loser From Successful Anthropic IPO, Finance Professor Warns",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/62834282/anthropic-ipo-spacex",
+      "published_at": "2026-11-03T18:00:13+00:00"
+    },
+    {
+      "headline": "Wall Street's Growth Stocks Have a New Problem: Value Stocks Are Getting More Expensive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/11/62832356/value-stocks-growth-premium",
+      "published_at": "2026-11-03T17:20:52+00:00"
+    },
+    {
+      "headline": "Reported Earlier: 'Google Will Turn Off Search For Schools That Reject A.I.; Google Is Making It Easier To Restrict Its A.I. Tools For Students. But Schools That Block A.I. Entirely Will Lose Student Access To Google’s Search Engine' - NY Times",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/62831471/reported-earlier-google-will-turn-search-schools-reject-i-google-making-it-easier-restrict-its-i-too",
+      "published_at": "2026-11-03T17:03:17+00:00"
+    },
+    {
+      "headline": "'Google Parent Plans $1.5 Billion Prepaid Energy Deal Via Goldman' - Bloomberg News",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/62829185/google-parent-plans-1-5-billion-prepaid-energy-deal-goldman-bloomberg-news",
+      "published_at": "2026-11-03T16:16:15+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for GOOGL"
+  ]
+}
