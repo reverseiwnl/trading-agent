@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-11-05T12:10:17.074578+00:00",
+  "price": 200.17,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-24",
+      "open": 222.06,
+      "high": 224.86,
+      "low": 221.135,
+      "close": 224.58,
+      "volume": 2205256.0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 230.89,
+      "high": 232.81,
+      "low": 227.035,
+      "close": 227.235,
+      "volume": 2508154.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 228.84,
+      "high": 232.355,
+      "low": 228.27,
+      "close": 228.29,
+      "volume": 2961971.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 229.73,
+      "high": 232.28,
+      "low": 228.19,
+      "close": 231.04,
+      "volume": 2319590.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 236.05,
+      "high": 237.835,
+      "low": 233.6,
+      "close": 234.0,
+      "volume": 3860633.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 236.145,
+      "high": 240.09,
+      "low": 235.2,
+      "close": 238.98,
+      "volume": 3726291.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 242.04,
+      "high": 243.34,
+      "low": 238.95,
+      "close": 239.17,
+      "volume": 2758644.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 237.69,
+      "high": 239.08,
+      "low": 236.39,
+      "close": 237.4,
+      "volume": 2623107.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 234.795,
+      "high": 237.05,
+      "low": 229.88,
+      "close": 230.57,
+      "volume": 3598041.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 233.79,
+      "high": 233.89,
+      "low": 229.115,
+      "close": 229.35,
+      "volume": 2316630.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 228.69,
+      "high": 228.795,
+      "low": 224.9,
+      "close": 226.46,
+      "volume": 1590973.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 224.265,
+      "high": 228.64,
+      "low": 223.12,
+      "close": 228.5,
+      "volume": 2400846.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 225.54,
+      "high": 225.975,
+      "low": 219.67,
+      "close": 221.49,
+      "volume": 3432102.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 215.285,
+      "high": 218.46,
+      "low": 212.865,
+      "close": 217.33,
+      "volume": 4353216.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 216.525,
+      "high": 218.64,
+      "low": 213.33,
+      "close": 214.125,
+      "volume": 3704374.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 218.025,
+      "high": 219.6,
+      "low": 214.71,
+      "close": 217.085,
+      "volume": 2365992.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 215.985,
+      "high": 218.455,
+      "low": 212.78,
+      "close": 216.41,
+      "volume": 2760246.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 220.875,
+      "high": 222.18,
+      "low": 217.66,
+      "close": 221.9,
+      "volume": 2486314.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 217.13,
+      "high": 218.86,
+      "low": 211.27,
+      "close": 212.27,
+      "volume": 4565631.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 210.995,
+      "high": 213.79,
+      "low": 210.22,
+      "close": 211.02,
+      "volume": 2911853.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 213.055,
+      "high": 217.74,
+      "low": 212.665,
+      "close": 216.01,
+      "volume": 3252237.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 218.33,
+      "high": 219.19,
+      "low": 215.535,
+      "close": 217.87,
+      "volume": 2379844.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 219.915,
+      "high": 219.915,
+      "low": 214.47,
+      "close": 215.34,
+      "volume": 2713311.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 214.44,
+      "high": 215.32,
+      "low": 212.09,
+      "close": 213.7,
+      "volume": 2610378.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 208.7,
+      "high": 209.06,
+      "low": 200.95,
+      "close": 204.76,
+      "volume": 4650693.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 207.59,
+      "high": 209.965,
+      "low": 201.66,
+      "close": 202.205,
+      "volume": 4210604.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 207.71,
+      "high": 209.09,
+      "low": 205.95,
+      "close": 206.565,
+      "volume": 3123764.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 203.56,
+      "high": 206.79,
+      "low": 199.685,
+      "close": 200.17,
+      "volume": 6216755.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "China Has Yet To Approve Large-Quantity Imports Of Nvidia H200 Chips, Though Smaller Volumes Have Entered Through Unofficial Channels; ~600K H200 AI Chips Are In Hong Kong Awaiting Shipment To Mainland China; Major Chinese Internet Companies Have Each Received ~10K H200 Chips In Recent Months -- Reuters Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/TCEHY",
+      "published_at": "2026-11-05T11:41:59+00:00"
+    },
+    {
+      "headline": "Microsoft’s $5 Billion AI Spending Shortfall Puts IREN, Nebius Under Spotlight as Satellite Imagery Shows Data Center Delays: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62906647/microsofts-5-billion-ai-spending-shortfall-puts-iren-nebius-under-spotlight-as-satellite-imagery-shows-data-center-delays-report",
+      "published_at": "2026-11-05T10:30:55+00:00"
+    },
+    {
+      "headline": "Arm-based PCs Have Now Reached ~20% Of Global Shipments, Reflecting Growing Adoption Of Arm In Personal Computing. Google Introduced GoogleBook, A New Category Of AI-Native Laptops Built For Gemini Intelligence, With Arm Serving As A Primary Compute Platform For Many Models. NVIDIA’s RTX Spark, Built On Arm, Further Expands Our Reach Into Local AI, Content Creation And Gaming",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/NVDA",
+      "published_at": "2026-11-04T21:34:55+00:00"
+    },
+    {
+      "headline": "Fermaca Named First NVIDIA Cloud Partner in Mexico",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/fermaca-unveils-nvidia-powered-ai-factory-platform-to-power-mexico-and-latin-america-302929673.html",
+      "published_at": "2026-11-04T21:31:40+00:00"
+    },
+    {
+      "headline": "VTI Vs. SPY: Why Wall Street's Post-Midterm Rally Isn't as Broad as It Looks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/11/62885449/vti-vs-spy-why-wall-streets-post-midterm-rally-isnt-as-broad-as-it-looks",
+      "published_at": "2026-11-04T20:27:55+00:00"
+    },
+    {
+      "headline": "AMD's AI Data Center Guarantees Reach $8.5 Billion as It Challenges Nvidia",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/62878952/amd-data-center-guarantees",
+      "published_at": "2026-11-04T17:54:11+00:00"
+    },
+    {
+      "headline": "Dow Rallies 2.9%, Oil Sinks 7% After Midterms: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/62877866/stock-market-today-dow-rallies-oil-sinks-midterms-democrats-sweep-congress",
+      "published_at": "2026-11-04T17:31:02+00:00"
+    },
+    {
+      "headline": "Why Investors May Be Getting The Blue Wave Trade Wrong; Iran Remains The Wild Card",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/opinion/26/11/62876539/why-investors-may-be-getting-the-blue-wave-trade-wrong-iran-remains-the-wild-card",
+      "published_at": "2026-11-04T17:03:06+00:00"
+    },
+    {
+      "headline": "ModelOp Integrates AI Governance with NVIDIA OpenShell",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/11/04/3395334/0/en/modelop-unveils-industry-first-full-stack-ai-policy-enforcement-with-nvidia-openshell.html",
+      "published_at": "2026-11-04T16:01:48+00:00"
+    },
+    {
+      "headline": "Intel Stock Implodes, Sheds $434 Billion in 4 Months",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/62871314/intel-stock-implodes-sheds-434-billion-in-4-months",
+      "published_at": "2026-11-04T15:45:11+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
