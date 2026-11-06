@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-11-06T12:07:20.970326+00:00",
+  "price": 182.64,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-25",
+      "open": 225.2,
+      "high": 226.93,
+      "low": 223.15,
+      "close": 225.04,
+      "volume": 2559517.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 229.51,
+      "high": 233.2,
+      "low": 228.115,
+      "close": 228.89,
+      "volume": 4498379.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 230.89,
+      "high": 232.81,
+      "low": 227.035,
+      "close": 227.235,
+      "volume": 2508154.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 228.84,
+      "high": 232.355,
+      "low": 228.27,
+      "close": 228.29,
+      "volume": 2961971.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 229.73,
+      "high": 232.28,
+      "low": 228.19,
+      "close": 231.04,
+      "volume": 2319590.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 236.05,
+      "high": 237.835,
+      "low": 233.6,
+      "close": 234.0,
+      "volume": 3860633.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 236.145,
+      "high": 240.09,
+      "low": 235.2,
+      "close": 238.98,
+      "volume": 3726291.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 242.04,
+      "high": 243.34,
+      "low": 238.95,
+      "close": 239.17,
+      "volume": 2758644.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 237.69,
+      "high": 239.08,
+      "low": 236.39,
+      "close": 237.4,
+      "volume": 2623107.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 234.795,
+      "high": 237.05,
+      "low": 229.88,
+      "close": 230.57,
+      "volume": 3598041.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 233.79,
+      "high": 233.89,
+      "low": 229.115,
+      "close": 229.35,
+      "volume": 2316630.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 228.69,
+      "high": 228.795,
+      "low": 224.9,
+      "close": 226.46,
+      "volume": 1590973.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 224.265,
+      "high": 228.64,
+      "low": 223.12,
+      "close": 228.5,
+      "volume": 2400846.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 225.54,
+      "high": 225.975,
+      "low": 219.67,
+      "close": 221.49,
+      "volume": 3432102.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 215.285,
+      "high": 218.46,
+      "low": 212.865,
+      "close": 217.33,
+      "volume": 4353216.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 216.525,
+      "high": 218.64,
+      "low": 213.33,
+      "close": 214.125,
+      "volume": 3704374.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 218.025,
+      "high": 219.6,
+      "low": 214.71,
+      "close": 217.085,
+      "volume": 2365992.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 215.985,
+      "high": 218.455,
+      "low": 212.78,
+      "close": 216.41,
+      "volume": 2760246.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 220.875,
+      "high": 222.18,
+      "low": 217.66,
+      "close": 221.9,
+      "volume": 2486314.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 217.13,
+      "high": 218.86,
+      "low": 211.27,
+      "close": 212.27,
+      "volume": 4565631.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 210.995,
+      "high": 213.79,
+      "low": 210.22,
+      "close": 211.02,
+      "volume": 2911853.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 213.055,
+      "high": 217.74,
+      "low": 212.665,
+      "close": 216.01,
+      "volume": 3252237.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 218.33,
+      "high": 219.19,
+      "low": 215.535,
+      "close": 217.87,
+      "volume": 2379844.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 219.915,
+      "high": 219.915,
+      "low": 214.47,
+      "close": 215.34,
+      "volume": 2713311.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 214.44,
+      "high": 215.32,
+      "low": 212.09,
+      "close": 213.7,
+      "volume": 2610378.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 208.7,
+      "high": 209.06,
+      "low": 200.95,
+      "close": 204.76,
+      "volume": 4650693.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 207.59,
+      "high": 209.965,
+      "low": 201.66,
+      "close": 202.205,
+      "volume": 4210604.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 207.71,
+      "high": 209.09,
+      "low": 205.95,
+      "close": 206.565,
+      "volume": 3123764.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 203.56,
+      "high": 206.79,
+      "low": 199.685,
+      "close": 200.17,
+      "volume": 6216755.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 196.045,
+      "high": 196.17,
+      "low": 181.48,
+      "close": 181.59,
+      "volume": 11076400.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Nvidia CEO Jensen Huang Faces Congressional Scrutiny Over Alleged Chinese Spy Links as Republicans Warn of ‘Significant National Security Concerns’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62970670/nvidia-ceo-jensen-huang-faces-congressional-scrutiny-over-alleged-chinese-spy-links-as-republicans-warn-of-significant-national-security-concerns",
+      "published_at": "2026-11-06T11:48:40+00:00"
+    },
+    {
+      "headline": "Nasdaq’s 5.5% Wipeout And AI's Next Reality Check—IRS' New Tax Brackets",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/opinion/26/11/62970305/nasdaq-wipeout-ai-next-reality-check-irs-new-tax-brackets",
+      "published_at": "2026-11-06T11:38:52+00:00"
+    },
+    {
+      "headline": "NVIDIA Concludes $1 Billion Investment in Naver for AI Factory Expansion",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/nvidia-concludes-1-billion-investment-in-naver-to-fund-ai-factory-expansion-ce785fddd18ff126",
+      "published_at": "2026-11-06T11:31:48+00:00"
+    },
+    {
+      "headline": "NVIDIA Claws Back Losses After $400 Billion Bloodbath, but the AI Scare Isn't Over",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62969899/nvidia-claws-back-losses-after-400-billion-bloodbath-but-the-ai-scare-isnt-over",
+      "published_at": "2026-11-06T11:26:18+00:00"
+    },
+    {
+      "headline": "AI Bubble About to Burst? Top Tech Investor Warns Most Neocloud Players Could Go to Zero",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62968934/ai-bubble-about-to-burst-top-tech-investor-warns-most-neocloud-players-could-go-to-zero",
+      "published_at": "2026-11-06T10:56:26+00:00"
+    },
+    {
+      "headline": "IREN Shares Rally Nearly 15% Premarket as Daniel Newman Highlights $40 Million Per MW AI Deals, Calls Share-Price Weakness 'Disconnected' From Fundamentals",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62968845/iren-shares-rally-nearly-15-premarket-as-daniel-newman-highlights-40-million-per-mw-ai-deals-calls-share-price-weakness-disconnected-from-fundamentals",
+      "published_at": "2026-11-06T10:47:39+00:00"
+    },
+    {
+      "headline": "$3 Trillion Wiped Out, But This Strategist Says AI's Biggest Problem Isn't Demand: 'Compute Will Become More Scarce'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62967631/james-thorne-ai-selloff-leverage-slower-spending-compute-scarce",
+      "published_at": "2026-11-06T08:28:53+00:00"
+    },
+    {
+      "headline": "Asian Stocks Tumble After $3 Trillion US Wipeout as SK hynix Leads KOSPI Rout — Mohamed El-Erian Says 'When the Nasdaq Sneezes...'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62966567/asian-stocks-sk-hynix-samsung-electronics-tsmc-nikkei-kospi-nasdaq-selloff",
+      "published_at": "2026-11-06T05:56:19+00:00"
+    },
+    {
+      "headline": "Peter Schiff Sees More Pain Ahead After $3 Trillion Wipeout, While Gary Black Spots a Tech Buying Opportunity: 'The Market Has Reset'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62966353/peter-schiff-stock-market-gary-black",
+      "published_at": "2026-11-06T05:29:23+00:00"
+    },
+    {
+      "headline": "Nvidia Stock Loses $1.39 Trillion Since October Peak — Jim Cramer Says NVDA Can 'Buy and Reload'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62966118/jim-cramer-nvidia-buy-and-reload-stock-selloff-october-high",
+      "published_at": "2026-11-06T04:32:56+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for NVDA"
+  ]
+}

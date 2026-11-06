@@ -1,0 +1,314 @@
+{
+  "ticker": "JNJ",
+  "as_of": "2026-11-06T12:07:14.210358+00:00",
+  "price": 272.45,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-25",
+      "open": 271.445,
+      "high": 271.98,
+      "low": 269.335,
+      "close": 271.2,
+      "volume": 210874.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 270.04,
+      "high": 273.78,
+      "low": 270.03,
+      "close": 272.03,
+      "volume": 256041.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 269.45,
+      "high": 271.725,
+      "low": 265.645,
+      "close": 267.55,
+      "volume": 256175.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 268.205,
+      "high": 268.245,
+      "low": 264.61,
+      "close": 265.03,
+      "volume": 209034.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 263.38,
+      "high": 263.87,
+      "low": 258.335,
+      "close": 258.7,
+      "volume": 290436.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 259.07,
+      "high": 259.07,
+      "low": 255.125,
+      "close": 256.025,
+      "volume": 320601.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 255.74,
+      "high": 256.11,
+      "low": 252.51,
+      "close": 252.78,
+      "volume": 279460.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 253.49,
+      "high": 255.425,
+      "low": 251.29,
+      "close": 254.8,
+      "volume": 241108.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 256.55,
+      "high": 260.58,
+      "low": 255.985,
+      "close": 258.495,
+      "volume": 152793.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 257.47,
+      "high": 257.5,
+      "low": 251.955,
+      "close": 256.48,
+      "volume": 274173.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 255.05,
+      "high": 261.5,
+      "low": 254.985,
+      "close": 261.5,
+      "volume": 199530.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 261.6,
+      "high": 264.335,
+      "low": 260.955,
+      "close": 264.1,
+      "volume": 189236.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 253.92,
+      "high": 256.105,
+      "low": 245.21,
+      "close": 248.57,
+      "volume": 687202.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 249.095,
+      "high": 253.94,
+      "low": 248.85,
+      "close": 253.915,
+      "volume": 478299.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 257.1,
+      "high": 262.205,
+      "low": 252.68,
+      "close": 253.31,
+      "volume": 444064.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 255.96,
+      "high": 257.46,
+      "low": 254.1,
+      "close": 255.535,
+      "volume": 453809.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 254.45,
+      "high": 255.43,
+      "low": 251.59,
+      "close": 254.0,
+      "volume": 263672.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 257.395,
+      "high": 260.735,
+      "low": 256.8,
+      "close": 259.42,
+      "volume": 373211.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 257.75,
+      "high": 257.76,
+      "low": 254.6,
+      "close": 257.63,
+      "volume": 280888.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 260.3,
+      "high": 269.62,
+      "low": 259.14,
+      "close": 267.72,
+      "volume": 451844.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 265.75,
+      "high": 265.93,
+      "low": 262.42,
+      "close": 263.84,
+      "volume": 228941.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 266.23,
+      "high": 272.245,
+      "low": 265.01,
+      "close": 266.345,
+      "volume": 237544.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 265.14,
+      "high": 269.07,
+      "low": 264.955,
+      "close": 268.73,
+      "volume": 185814.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 265.695,
+      "high": 272.75,
+      "low": 264.78,
+      "close": 271.29,
+      "volume": 267254.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 274.875,
+      "high": 277.98,
+      "low": 273.6,
+      "close": 275.16,
+      "volume": 187880.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 279.77,
+      "high": 281.83,
+      "low": 273.205,
+      "close": 273.25,
+      "volume": 310340.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 272.135,
+      "high": 272.26,
+      "low": 267.44,
+      "close": 270.57,
+      "volume": 393198.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 268.565,
+      "high": 270.995,
+      "low": 265.28,
+      "close": 266.16,
+      "volume": 331148.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 272.02,
+      "high": 277.33,
+      "low": 267.75,
+      "close": 276.34,
+      "volume": 360438.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 279.0,
+      "high": 281.86,
+      "low": 271.64,
+      "close": 272.45,
+      "volume": 393656.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Reported Earlier, FDA Grants J&J Accelerated Approval For Rybrevant Faspro In Advanced Head And Neck Squamous Cell Carcinoma, Based On OrigAMI-4 Phase 1b/2 Trial Showing 42% Overall Response Rate",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/62966634/reported-earlier-fda-grants-j-j-accelerated-approval-rybrevant-faspro-advanced-head-and-neck-squamou",
+      "published_at": "2026-11-06T06:01:59+00:00"
+    },
+    {
+      "headline": "FDA Grants Accelerated Approval for RYBREVANT FASPRO in Head and Neck Squamous Cell Carcinoma",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-us-fda-approval-of-rybrevant-faspro-amivantamab-and-hyaluronidase-lpuj-as-first-and-only-dual-targeted-therapy-for-advanced-head-and-neck-cancer-302931583.html",
+      "published_at": "2026-11-06T03:01:38+00:00"
+    },
+    {
+      "headline": "FDA Grants Accelerated Approval To Rybrevant Faspro For Recurrent Or Metastatic Head And Neck Squamous Cell Carcinoma",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/general/biotech/26/11/62959203/fda-grants-accelerated-approval-rybrevant-faspro-recurrent-or-metastatic-head-and-neck-squamous-cell",
+      "published_at": "2026-11-05T22:36:50+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Receives NMPA Approval for Macitentan Dispersible Tablets",
+      "source": "fiscal.ai",
+      "url": "https://www.moomoo.com/news/post/1003628996/johnson-johnson-s-jnjus-new-drug-for-pulmonary-arterial-hypertension",
+      "published_at": "2026-11-05T20:01:43+00:00"
+    },
+    {
+      "headline": "Oxford BioDynamics Announces Commercial Agreement with Johnson & Johnson",
+      "source": "fiscal.ai",
+      "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-5-critical-metals-kromek-manx-next-ondine-oxford-biodynamics-potentially-ai-reveille-shearwater-solvonis-thor-explorations-677aa41",
+      "published_at": "2026-11-05T11:31:42+00:00"
+    },
+    {
+      "headline": "Reported Earlier: 'J&J's trispecific, Tibsovo's AML Win And Calquence's CLL Letdown As First ASH Abstracts Land' - Endpoints News",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/general/biotech/26/11/62879783/reported-earlier-j-j-s-trispecific-tibsovo-s-aml-win-and-calquence-s-cll-letdown-first-ash-abstracts",
+      "published_at": "2026-11-04T18:10:55+00:00"
+    },
+    {
+      "headline": "Jim Cramer Likes This Industrial Stock: ‘It’s Come Down A Great Deal’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/62814919/jim-cramer-likes-this-industrial-stock-its-come-down-a-great-deal",
+      "published_at": "2026-11-03T12:20:31+00:00"
+    },
+    {
+      "headline": "Growth And Cyclical Sectors Lead Monday Trading",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/62784060/growth-and-cyclical-sectors-lead-monday-trading",
+      "published_at": "2026-11-02T16:00:25+00:00"
+    },
+    {
+      "headline": "Reported Sunday, Johnson & Johnson Says Impella Outcomes Depend On Patient Selection, Timing And Post-Procedural Care, Citing Lower Mortality In Three TCT Analyses Versus CHIP-BCIS3; PROTECT IV Results Expected 2027",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/JNJ",
+      "published_at": "2026-11-02T06:53:57+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Reports Positive Clinical Outcomes for Impella Heart Pumps in HRPCI",
+      "source": "fiscal.ai",
+      "url": "https://natlawreview.com/press-releases/data-show-positive-survival-and-patient-outcomes-best-practice-impella",
+      "published_at": "2026-11-02T02:01:43+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for JNJ"
+  ]
+}

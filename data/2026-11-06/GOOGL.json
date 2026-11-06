@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-11-06T12:07:10.127529+00:00",
+  "price": 281.89,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-25",
+      "open": 342.5,
+      "high": 346.93,
+      "low": 341.155,
+      "close": 343.845,
+      "volume": 545552.0
+    },
+    {
+      "date": "2026-09-28",
+      "open": 340.38,
+      "high": 343.5,
+      "low": 339.59,
+      "close": 342.77,
+      "volume": 655719.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 342.035,
+      "high": 342.775,
+      "low": 338.02,
+      "close": 340.95,
+      "volume": 663441.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 344.235,
+      "high": 352.56,
+      "low": 341.0,
+      "close": 344.1,
+      "volume": 1005081.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 350.84,
+      "high": 352.99,
+      "low": 335.57,
+      "close": 338.38,
+      "volume": 915815.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 341.265,
+      "high": 345.73,
+      "low": 341.265,
+      "close": 343.47,
+      "volume": 587768.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 342.725,
+      "high": 348.03,
+      "low": 342.555,
+      "close": 346.46,
+      "volume": 765516.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 347.38,
+      "high": 349.03,
+      "low": 344.685,
+      "close": 347.72,
+      "volume": 425699.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 346.715,
+      "high": 350.795,
+      "low": 343.11,
+      "close": 350.53,
+      "volume": 749027.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 354.01,
+      "high": 356.8,
+      "low": 346.52,
+      "close": 348.3,
+      "volume": 666286.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 351.865,
+      "high": 354.62,
+      "low": 350.375,
+      "close": 351.63,
+      "volume": 483341.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 352.045,
+      "high": 356.31,
+      "low": 350.61,
+      "close": 352.77,
+      "volume": 549905.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 356.18,
+      "high": 358.55,
+      "low": 351.675,
+      "close": 353.57,
+      "volume": 600876.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 355.6,
+      "high": 359.375,
+      "low": 346.36,
+      "close": 347.78,
+      "volume": 818690.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 344.595,
+      "high": 352.15,
+      "low": 340.72,
+      "close": 349.27,
+      "volume": 578247.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 348.325,
+      "high": 350.44,
+      "low": 339.14,
+      "close": 340.625,
+      "volume": 616183.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 343.76,
+      "high": 346.555,
+      "low": 341.9,
+      "close": 344.09,
+      "volume": 497856.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 343.65,
+      "high": 344.75,
+      "low": 338.36,
+      "close": 340.045,
+      "volume": 672495.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 336.975,
+      "high": 337.21,
+      "low": 330.4,
+      "close": 334.715,
+      "volume": 951012.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 330.195,
+      "high": 331.39,
+      "low": 322.0,
+      "close": 324.195,
+      "volume": 1083471.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 321.1,
+      "high": 324.485,
+      "low": 320.19,
+      "close": 320.23,
+      "volume": 446514.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 320.99,
+      "high": 321.43,
+      "low": 316.605,
+      "close": 316.81,
+      "volume": 990403.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 317.005,
+      "high": 323.82,
+      "low": 316.94,
+      "close": 320.6,
+      "volume": 959387.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 323.4,
+      "high": 326.35,
+      "low": 322.66,
+      "close": 325.37,
+      "volume": 1388291.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 286.885,
+      "high": 288.325,
+      "low": 280.38,
+      "close": 283.56,
+      "volume": 4949248.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 281.06,
+      "high": 283.125,
+      "low": 276.935,
+      "close": 279.9,
+      "volume": 1938594.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 282.38,
+      "high": 286.96,
+      "low": 278.92,
+      "close": 279.045,
+      "volume": 1726600.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 280.08,
+      "high": 281.605,
+      "low": 277.205,
+      "close": 279.905,
+      "volume": 1028642.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 283.73,
+      "high": 296.46,
+      "low": 283.73,
+      "close": 288.99,
+      "volume": 1728889.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 293.995,
+      "high": 295.59,
+      "low": 277.14,
+      "close": 282.645,
+      "volume": 2068803.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Nasdaq’s 5.5% Wipeout And AI's Next Reality Check—IRS' New Tax Brackets",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/opinion/26/11/62970305/nasdaq-wipeout-ai-next-reality-check-irs-new-tax-brackets",
+      "published_at": "2026-11-06T11:38:52+00:00"
+    },
+    {
+      "headline": "AI Bubble About to Burst? Top Tech Investor Warns Most Neocloud Players Could Go to Zero",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62968934/ai-bubble-about-to-burst-top-tech-investor-warns-most-neocloud-players-could-go-to-zero",
+      "published_at": "2026-11-06T10:56:26+00:00"
+    },
+    {
+      "headline": "Stock Market Today: Dow Jones, S&P 500 Futures Trade Mixed Ahead of October's Jobs Report— Airbnb, Cloudflare, Lam Research in Focus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/62968424/stock-market-today-dow-jones-sp-500-futures-trade-mixed-ahead-of-octobers-jobs-report-airbnb-cloudflare-lam-research-in-focus",
+      "published_at": "2026-11-06T10:14:49+00:00"
+    },
+    {
+      "headline": "Dan Ives Forecasts 25% Drop In Capital Raises for MSFT, META, GOOGL, AMZN as 2027 CapEx Peak Sets Up ‘Massive’ Cash Flow Ramp by 2029",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/62968059/dan-ives-forecasts-25-drop-in-capital-raises-for-msft-meta-googl-amzn-as-2027-capex-peak-sets-up-massive-cash-flow-ramp-by-2029",
+      "published_at": "2026-11-06T09:28:34+00:00"
+    },
+    {
+      "headline": "Google, Meta and TikTok Sue California Over Gavin Newsom's Law Restricting Addictive Social Media Features for Children",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62967810/google-meta-and-tiktok-sue-california-over-gavin-newsoms-law-restricting-addictive-social-media-features-for-children",
+      "published_at": "2026-11-06T09:01:57+00:00"
+    },
+    {
+      "headline": "Robotaxis Aren't Killing Lyft's Business: CEO Says Company Is Growing in AV Markets, Details Waymo Partnership",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/26/11/62966806/robotaxis-arent-killing-lyfts-business-ceo-says-company-is-growing-in-av-markets-details-waymo-partnership",
+      "published_at": "2026-11-06T06:27:04+00:00"
+    },
+    {
+      "headline": "Peter Schiff Sees More Pain Ahead After $3 Trillion Wipeout, While Gary Black Spots a Tech Buying Opportunity: 'The Market Has Reset'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62966353/peter-schiff-stock-market-gary-black",
+      "published_at": "2026-11-06T05:29:23+00:00"
+    },
+    {
+      "headline": "Michael Burry Asks Whether Anthropic’s Partners Are Polishing Its IPO Numbers",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62948723/michael-burry-asks-whether-anthropics-partners-are-polishing-its-ipo-numbers",
+      "published_at": "2026-11-05T21:02:04+00:00"
+    },
+    {
+      "headline": "AMD CEO Lisa Su Calls This Market Moment ‘Short-Sighted’ on AI Spending",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62946994/amd-ceo-lisa-su-calls-this-market-moment-short-sighted-on-ai-spending",
+      "published_at": "2026-11-05T20:32:21+00:00"
+    },
+    {
+      "headline": "Google Says Fuel Cells For Wyoming Project Will Be Made In America By Bloom Energy",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/62943516/google-says-fuel-cells-wyoming-project-will-be-made-america-bloom-energy",
+      "published_at": "2026-11-05T19:20:02+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for GOOGL"
+  ]
+}
