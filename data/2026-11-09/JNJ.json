@@ -1,0 +1,314 @@
+{
+  "ticker": "JNJ",
+  "as_of": "2026-11-09T12:12:11.862658+00:00",
+  "price": 276.33,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-28",
+      "open": 270.04,
+      "high": 273.78,
+      "low": 270.03,
+      "close": 272.03,
+      "volume": 256041.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 269.45,
+      "high": 271.725,
+      "low": 265.645,
+      "close": 267.55,
+      "volume": 256175.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 268.205,
+      "high": 268.245,
+      "low": 264.61,
+      "close": 265.03,
+      "volume": 209034.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 263.38,
+      "high": 263.87,
+      "low": 258.335,
+      "close": 258.7,
+      "volume": 290436.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 259.07,
+      "high": 259.07,
+      "low": 255.125,
+      "close": 256.025,
+      "volume": 320601.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 255.74,
+      "high": 256.11,
+      "low": 252.51,
+      "close": 252.78,
+      "volume": 279460.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 253.49,
+      "high": 255.425,
+      "low": 251.29,
+      "close": 254.8,
+      "volume": 241108.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 256.55,
+      "high": 260.58,
+      "low": 255.985,
+      "close": 258.495,
+      "volume": 152793.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 257.47,
+      "high": 257.5,
+      "low": 251.955,
+      "close": 256.48,
+      "volume": 274173.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 255.05,
+      "high": 261.5,
+      "low": 254.985,
+      "close": 261.5,
+      "volume": 199530.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 261.6,
+      "high": 264.335,
+      "low": 260.955,
+      "close": 264.1,
+      "volume": 189236.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 253.92,
+      "high": 256.105,
+      "low": 245.21,
+      "close": 248.57,
+      "volume": 687202.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 249.095,
+      "high": 253.94,
+      "low": 248.85,
+      "close": 253.915,
+      "volume": 478299.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 257.1,
+      "high": 262.205,
+      "low": 252.68,
+      "close": 253.31,
+      "volume": 444064.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 255.96,
+      "high": 257.46,
+      "low": 254.1,
+      "close": 255.535,
+      "volume": 453809.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 254.45,
+      "high": 255.43,
+      "low": 251.59,
+      "close": 254.0,
+      "volume": 263672.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 257.395,
+      "high": 260.735,
+      "low": 256.8,
+      "close": 259.42,
+      "volume": 373211.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 257.75,
+      "high": 257.76,
+      "low": 254.6,
+      "close": 257.63,
+      "volume": 280888.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 260.3,
+      "high": 269.62,
+      "low": 259.14,
+      "close": 267.72,
+      "volume": 451844.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 265.75,
+      "high": 265.93,
+      "low": 262.42,
+      "close": 263.84,
+      "volume": 228941.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 266.23,
+      "high": 272.245,
+      "low": 265.01,
+      "close": 266.345,
+      "volume": 237544.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 265.14,
+      "high": 269.07,
+      "low": 264.955,
+      "close": 268.73,
+      "volume": 185814.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 265.695,
+      "high": 272.75,
+      "low": 264.78,
+      "close": 271.29,
+      "volume": 267254.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 274.875,
+      "high": 277.98,
+      "low": 273.6,
+      "close": 275.16,
+      "volume": 187880.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 279.77,
+      "high": 281.83,
+      "low": 273.205,
+      "close": 273.25,
+      "volume": 310340.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 272.135,
+      "high": 272.26,
+      "low": 267.44,
+      "close": 270.57,
+      "volume": 393198.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 268.565,
+      "high": 270.995,
+      "low": 265.28,
+      "close": 266.16,
+      "volume": 331148.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 272.02,
+      "high": 277.33,
+      "low": 267.75,
+      "close": 276.34,
+      "volume": 360438.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 279.0,
+      "high": 281.86,
+      "low": 271.64,
+      "close": 272.45,
+      "volume": 393656.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 266.995,
+      "high": 276.39,
+      "low": 265.65,
+      "close": 276.33,
+      "volume": 400143.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Reported Saturday, Johnson & Johnson Reports 57% Of Psoriatic Arthritis Patients With Qualifying Skin Involvement On ICOTYDE Achieved Clear Or Almost Clear Skin Versus 14% On Placebo, Alongside 58% ACR20 Response At Week 16",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/63023205/reported-saturday-johnson-johnson-reports-57-psoriatic-arthritis-patients-qualifying-skin-involvemen",
+      "published_at": "2026-11-09T08:39:42+00:00"
+    },
+    {
+      "headline": "Reported Saturday, Johnson & Johnson Says Patient Insights From Phase 2 DAHLIAS Study Helped Inform Phase 3 Nipocalimab Design, With 73.5% Of Interviewed Patients Satisfied Or Very Satisfied With Treatment In Sjögren’s Disease",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/63023194/reported-saturday-johnson-johnson-says-patient-insights-phase-2-dahlias-study-helped-inform-phase-3-",
+      "published_at": "2026-11-09T08:38:19+00:00"
+    },
+    {
+      "headline": "Reported Sunday, Johnson & Johnson Says Pasritamig And JNJ-9401 Achieve 73% PSA Response With No Grade 3 Or Higher Treatment-Related Adverse Events In Phase 1 Prostate Cancer Study, Supporting Outpatient Dosing",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/63022977/reported-sunday-johnson-johnson-says-pasritamig-and-jnj-9401-achieve-73-psa-response-no-grade-3-or-h",
+      "published_at": "2026-11-09T08:10:32+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Reports Phase 1 Results for Investigational Prostate Cancer Combination",
+      "source": "fiscal.ai",
+      "url": "https://www.finanzen.at/nachrichten/aktien/j&j-reports-strong-phase-1-results-for-dual-bispecific-antibody-regimen-in-prostate-cancer-1036733511",
+      "published_at": "2026-11-09T02:01:28+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Reports Positive Phase 3 Results for ICOTYDE in Psoriatic Arthritis",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html",
+      "published_at": "2026-11-08T02:01:48+00:00"
+    },
+    {
+      "headline": "Johnson & Johnson Announces Patient Experience Findings for Nipocalimab in Sjögren's Disease",
+      "source": "fiscal.ai",
+      "url": "https://investingnews.com/johnson-johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogren-s-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients/",
+      "published_at": "2026-11-08T02:01:48+00:00"
+    },
+    {
+      "headline": "First Therapy for Advanced Head & Neck Cancer in 10 Years: Johnson & Johnson Secures Accelerated FDA Nod",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/fda/26/11/62993414/first-therapy-for-advanced-head-neck-cancer-in-10-years-johnson-johnson-secures-accelerated-fda-nod",
+      "published_at": "2026-11-06T16:37:50+00:00"
+    },
+    {
+      "headline": "Reported Earlier, FDA Grants J&J Accelerated Approval For Rybrevant Faspro In Advanced Head And Neck Squamous Cell Carcinoma, Based On OrigAMI-4 Phase 1b/2 Trial Showing 42% Overall Response Rate",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/62966634/reported-earlier-fda-grants-j-j-accelerated-approval-rybrevant-faspro-advanced-head-and-neck-squamou",
+      "published_at": "2026-11-06T06:01:59+00:00"
+    },
+    {
+      "headline": "FDA Grants Accelerated Approval for RYBREVANT FASPRO in Head and Neck Squamous Cell Carcinoma",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-us-fda-approval-of-rybrevant-faspro-amivantamab-and-hyaluronidase-lpuj-as-first-and-only-dual-targeted-therapy-for-advanced-head-and-neck-cancer-302931583.html",
+      "published_at": "2026-11-06T03:01:38+00:00"
+    },
+    {
+      "headline": "FDA Grants Accelerated Approval To Rybrevant Faspro For Recurrent Or Metastatic Head And Neck Squamous Cell Carcinoma",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/general/biotech/26/11/62959203/fda-grants-accelerated-approval-rybrevant-faspro-recurrent-or-metastatic-head-and-neck-squamous-cell",
+      "published_at": "2026-11-05T22:36:50+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for JNJ"
+  ]
+}

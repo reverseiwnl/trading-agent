@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-11-09T12:12:15.524655+00:00",
+  "price": 530.58,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-28",
+      "open": 505.47,
+      "high": 513.29,
+      "low": 502.38,
+      "close": 509.36,
+      "volume": 525669.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 508.31,
+      "high": 513.545,
+      "low": 502.56,
+      "close": 508.92,
+      "volume": 564770.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 511.205,
+      "high": 519.76,
+      "low": 510.42,
+      "close": 512.91,
+      "volume": 863492.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 519.765,
+      "high": 522.805,
+      "low": 512.24,
+      "close": 512.71,
+      "volume": 788881.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 519.12,
+      "high": 522.46,
+      "low": 513.74,
+      "close": 517.32,
+      "volume": 566824.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 521.96,
+      "high": 532.35,
+      "low": 521.91,
+      "close": 525.01,
+      "volume": 916366.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 531.615,
+      "high": 535.69,
+      "low": 528.83,
+      "close": 529.385,
+      "volume": 520480.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 530.725,
+      "high": 531.7,
+      "low": 524.725,
+      "close": 529.7,
+      "volume": 727327.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 530.435,
+      "high": 533.31,
+      "low": 518.83,
+      "close": 522.71,
+      "volume": 811233.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 528.27,
+      "high": 537.17,
+      "low": 526.36,
+      "close": 535.195,
+      "volume": 553742.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 537.49,
+      "high": 542.7,
+      "low": 536.08,
+      "close": 541.085,
+      "volume": 595543.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 544.625,
+      "high": 551.08,
+      "low": 543.07,
+      "close": 543.51,
+      "volume": 902625.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 545.085,
+      "high": 545.71,
+      "low": 532.56,
+      "close": 534.04,
+      "volume": 788908.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 533.655,
+      "high": 541.08,
+      "low": 531.455,
+      "close": 539.36,
+      "volume": 670262.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 541.25,
+      "high": 543.82,
+      "low": 524.48,
+      "close": 528.99,
+      "volume": 677672.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 528.615,
+      "high": 535.55,
+      "low": 528.57,
+      "close": 533.645,
+      "volume": 546008.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 533.79,
+      "high": 534.17,
+      "low": 525.86,
+      "close": 532.02,
+      "volume": 463037.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 529.44,
+      "high": 533.28,
+      "low": 525.14,
+      "close": 532.8,
+      "volume": 386815.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 533.26,
+      "high": 533.26,
+      "low": 520.35,
+      "close": 521.6,
+      "volume": 675626.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 517.745,
+      "high": 525.72,
+      "low": 515.79,
+      "close": 524.375,
+      "volume": 446134.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 527.33,
+      "high": 533.205,
+      "low": 521.93,
+      "close": 532.54,
+      "volume": 625026.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 532.36,
+      "high": 534.7,
+      "low": 528.405,
+      "close": 531.58,
+      "volume": 541284.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 530.97,
+      "high": 534.555,
+      "low": 526.3,
+      "close": 532.23,
+      "volume": 803668.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 540.31,
+      "high": 540.79,
+      "low": 519.59,
+      "close": 530.39,
+      "volume": 1173477.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 526.0,
+      "high": 526.0,
+      "low": 514.59,
+      "close": 521.97,
+      "volume": 906896.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 524.105,
+      "high": 529.53,
+      "low": 505.0,
+      "close": 507.0,
+      "volume": 1051242.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 508.06,
+      "high": 523.385,
+      "low": 508.06,
+      "close": 520.84,
+      "volume": 779919.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 543.28,
+      "high": 559.12,
+      "low": 542.665,
+      "close": 556.07,
+      "volume": 1907869.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 555.31,
+      "high": 557.605,
+      "low": 532.68,
+      "close": 536.29,
+      "volume": 1726204.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 525.41,
+      "high": 538.24,
+      "low": 525.005,
+      "close": 530.58,
+      "volume": 830880.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Kevin O’Leary Calls AI an 'Amazing Opportunity' for Entrepreneurs, Says Nobody Wants to Stop 'Innovation' or 'Job Creation'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63025193/kevin-oleary-ai-amazing-opportunity-entrepreneurs-innovation-job-creation",
+      "published_at": "2026-11-09T11:21:57+00:00"
+    },
+    {
+      "headline": "Microsoft Confirms Official WSL Support for CachyOS",
+      "source": "fiscal.ai",
+      "url": "https://lxer.com/module/newswire/view/368992/index.html",
+      "published_at": "2026-11-09T02:01:40+00:00"
+    },
+    {
+      "headline": "President Trump, In CBS 60 Minutes Interview Sunday, Said AI Risks Can Be Managed, But Doesn't Mind Guardrails",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/ANT",
+      "published_at": "2026-11-09T00:36:06+00:00"
+    },
+    {
+      "headline": "CoreWeave Stock Is Eyeing Record Low Amid Insider Sales: Will It Rebound After Earnings?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63020421/coreweave-stock-is-eyeing-a-record-low-amid-insider-sales-will-it-rebound-after-earnings",
+      "published_at": "2026-11-08T18:45:23+00:00"
+    },
+    {
+      "headline": "Nebius Stock Ahead of Earnings: Options Traders Brace for a Big Move",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63020328/nebius-stock-ahead-of-earnings-options-traders-brace-for-a-big-move",
+      "published_at": "2026-11-08T17:30:07+00:00"
+    },
+    {
+      "headline": "CoreWeave and IREN Stocks Face Pressure as Microsoft Reassesses Its Computing Deals",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63018357/coreweave-and-iren-stocks-face-pressure-as-microsoft-reassesses-its-computing-deals",
+      "published_at": "2026-11-07T20:50:06+00:00"
+    },
+    {
+      "headline": "Oracle Stock Nears Death Cross as Microsoft Deal Unwinding Points to More Risks",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63018136/oracle-stock-nears-death-cross-as-microsoft-deal-unwinding-points-to-more-risks",
+      "published_at": "2026-11-07T18:15:35+00:00"
+    },
+    {
+      "headline": "Microsoft Launches AI Literacy Training for Filipino Educators",
+      "source": "fiscal.ai",
+      "url": "https://af.net/realtime/microsoft-and-philippines-deped-partner-to-train-2000-teachers-in-ai/",
+      "published_at": "2026-11-07T14:01:39+00:00"
+    },
+    {
+      "headline": "Microsoft Reportedly Looks to Cut Reliance on Some Neocloud Partners, Plans to Prioritize Its Own Data Centers",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63017347/microsoft-cuts-neocloud-partners-ai-data-center-expansion",
+      "published_at": "2026-11-07T06:08:27+00:00"
+    },
+    {
+      "headline": "Google, Meta and TikTok Sue California Over Gavin Newsom's Law Restricting Addictive Social Media Features for Children (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/62967810/google-meta-and-tiktok-sue-california-over-gavin-newsoms-law-restricting-addictive-social-media-features-for-children",
+      "published_at": "2026-11-07T01:06:10+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for MSFT"
+  ]
+}

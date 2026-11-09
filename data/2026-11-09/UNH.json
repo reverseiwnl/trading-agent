@@ -1,0 +1,314 @@
+{
+  "ticker": "UNH",
+  "as_of": "2026-11-09T12:12:21.767601+00:00",
+  "price": 394.22,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-28",
+      "open": 376.685,
+      "high": 380.88,
+      "low": 374.62,
+      "close": 377.94,
+      "volume": 185049.0
+    },
+    {
+      "date": "2026-09-29",
+      "open": 376.095,
+      "high": 376.47,
+      "low": 371.355,
+      "close": 374.98,
+      "volume": 143841.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 373.95,
+      "high": 373.95,
+      "low": 365.8,
+      "close": 367.25,
+      "volume": 179338.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 367.52,
+      "high": 371.74,
+      "low": 362.66,
+      "close": 365.11,
+      "volume": 175654.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 364.86,
+      "high": 372.675,
+      "low": 364.645,
+      "close": 371.775,
+      "volume": 172855.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 373.49,
+      "high": 379.125,
+      "low": 368.31,
+      "close": 378.625,
+      "volume": 258647.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 379.095,
+      "high": 380.18,
+      "low": 373.72,
+      "close": 376.15,
+      "volume": 219249.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 376.595,
+      "high": 383.435,
+      "low": 372.07,
+      "close": 375.815,
+      "volume": 293825.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 374.9,
+      "high": 375.85,
+      "low": 368.61,
+      "close": 370.755,
+      "volume": 176722.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 373.2,
+      "high": 387.495,
+      "low": 373.2,
+      "close": 379.31,
+      "volume": 650448.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 381.57,
+      "high": 381.57,
+      "low": 373.78,
+      "close": 378.16,
+      "volume": 311713.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 397.625,
+      "high": 399.59,
+      "low": 373.22,
+      "close": 377.56,
+      "volume": 456630.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 383.075,
+      "high": 396.41,
+      "low": 382.91,
+      "close": 395.695,
+      "volume": 422673.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 401.06,
+      "high": 414.11,
+      "low": 400.29,
+      "close": 406.66,
+      "volume": 536779.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 411.87,
+      "high": 412.03,
+      "low": 395.6,
+      "close": 401.455,
+      "volume": 533493.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 400.61,
+      "high": 408.4,
+      "low": 399.75,
+      "close": 406.92,
+      "volume": 304240.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 409.745,
+      "high": 422.345,
+      "low": 408.605,
+      "close": 419.47,
+      "volume": 448807.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 421.29,
+      "high": 421.35,
+      "low": 415.085,
+      "close": 416.86,
+      "volume": 242017.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 417.775,
+      "high": 426.47,
+      "low": 417.28,
+      "close": 424.895,
+      "volume": 263303.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 424.29,
+      "high": 424.92,
+      "low": 416.64,
+      "close": 418.06,
+      "volume": 285375.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 420.01,
+      "high": 420.77,
+      "low": 408.465,
+      "close": 410.45,
+      "volume": 196983.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 411.95,
+      "high": 413.42,
+      "low": 408.23,
+      "close": 410.625,
+      "volume": 264719.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 406.72,
+      "high": 416.115,
+      "low": 405.14,
+      "close": 407.05,
+      "volume": 202079.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 414.36,
+      "high": 414.36,
+      "low": 404.39,
+      "close": 410.91,
+      "volume": 158385.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 414.21,
+      "high": 415.85,
+      "low": 405.96,
+      "close": 406.92,
+      "volume": 215856.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 406.935,
+      "high": 408.53,
+      "low": 394.18,
+      "close": 400.455,
+      "volume": 236561.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 398.7,
+      "high": 405.4,
+      "low": 397.0,
+      "close": 403.91,
+      "volume": 204690.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 396.6,
+      "high": 415.985,
+      "low": 392.51,
+      "close": 409.28,
+      "volume": 489137.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 411.745,
+      "high": 415.62,
+      "low": 394.39,
+      "close": 395.75,
+      "volume": 334399.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 388.7,
+      "high": 396.67,
+      "low": 388.7,
+      "close": 394.22,
+      "volume": 230183.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Growth Lead Sectors In Friday Trading As Defensives Trail",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/62989618/growth-lead-sectors-in-friday-trading-as-defensives-trail",
+      "published_at": "2026-11-06T16:00:51+00:00"
+    },
+    {
+      "headline": "3 Health Care Stocks With Whale Alerts In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/11/62937861/3-health-care-stocks-whale-alerts-today-s-session",
+      "published_at": "2026-11-05T17:35:08+00:00"
+    },
+    {
+      "headline": "UnitedHealth Group Board Authorizes Quarterly Dividend",
+      "source": "fiscal.ai",
+      "url": "https://www.moomoo.com/hans/news/post/1003499410/press-release-unitedhealth-group-board-authorizes-payment-of-quarterly-dividend",
+      "published_at": "2026-11-04T19:01:50+00:00"
+    },
+    {
+      "headline": "UnitedHealth Stock Climbs: What's Going On?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/62878893/unitedhealth-stock-climbs-whats-going-on",
+      "published_at": "2026-11-04T17:53:16+00:00"
+    },
+    {
+      "headline": "UnitedHealth Group Board Authorizes Payment of Quarterly Dividend",
+      "source": "fiscal.ai",
+      "url": "https://www.businesswire.com/newsroom/industry/health",
+      "published_at": "2026-11-04T14:31:33+00:00"
+    },
+    {
+      "headline": "UnitedHealth Group Authorizes Additional 50 Million Share Buyback",
+      "source": "fiscal.ai",
+      "url": "https://www.tradingview.com/news/seekingalpha:4dd165dac094b:0-unitedhealth-group-authorizes-additional-50m-shares-for-buyback/",
+      "published_at": "2026-11-03T22:31:44+00:00"
+    },
+    {
+      "headline": "UnitedHealth Group Announces 50M Buyback Plan",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/62844722/unitedhealth-group-announces-50m-buyback-plan",
+      "published_at": "2026-11-03T21:29:13+00:00"
+    },
+    {
+      "headline": "Here’s How Much You Would Have Made Owning UnitedHealth Group Stock In The Last 20 Years",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/62828285/here-s-how-much-you-would-have-made-owning-unitedhealth-group-stock-last-20-years",
+      "published_at": "2026-11-03T16:01:24+00:00"
+    },
+    {
+      "headline": "CNBC Halftime Report Final Trades: Invesco S&P 500 Equal Weight Industrials Portfolio, Cleveland-Cliffs, UnitedHealth Group, Regeneron Pharmaceuticals",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/REGN",
+      "published_at": "2026-11-02T18:01:41+00:00"
+    },
+    {
+      "headline": "Growth And Cyclical Sectors Lead Monday Trading",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/62784060/growth-and-cyclical-sectors-lead-monday-trading",
+      "published_at": "2026-11-02T16:00:25+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for UNH"
+  ]
+}
