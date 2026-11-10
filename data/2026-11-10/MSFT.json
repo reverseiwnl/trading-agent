@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-11-10T12:09:12.676996+00:00",
+  "price": 544.59,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-29",
+      "open": 508.31,
+      "high": 513.545,
+      "low": 502.56,
+      "close": 508.92,
+      "volume": 564770.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 511.205,
+      "high": 519.76,
+      "low": 510.42,
+      "close": 512.91,
+      "volume": 863492.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 519.765,
+      "high": 522.805,
+      "low": 512.24,
+      "close": 512.71,
+      "volume": 788881.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 519.12,
+      "high": 522.46,
+      "low": 513.74,
+      "close": 517.32,
+      "volume": 566824.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 521.96,
+      "high": 532.35,
+      "low": 521.91,
+      "close": 525.01,
+      "volume": 916366.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 531.615,
+      "high": 535.69,
+      "low": 528.83,
+      "close": 529.385,
+      "volume": 520480.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 530.725,
+      "high": 531.7,
+      "low": 524.725,
+      "close": 529.7,
+      "volume": 727327.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 530.435,
+      "high": 533.31,
+      "low": 518.83,
+      "close": 522.71,
+      "volume": 811233.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 528.27,
+      "high": 537.17,
+      "low": 526.36,
+      "close": 535.195,
+      "volume": 553742.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 537.49,
+      "high": 542.7,
+      "low": 536.08,
+      "close": 541.085,
+      "volume": 595543.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 544.625,
+      "high": 551.08,
+      "low": 543.07,
+      "close": 543.51,
+      "volume": 902625.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 545.085,
+      "high": 545.71,
+      "low": 532.56,
+      "close": 534.04,
+      "volume": 788908.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 533.655,
+      "high": 541.08,
+      "low": 531.455,
+      "close": 539.36,
+      "volume": 670262.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 541.25,
+      "high": 543.82,
+      "low": 524.48,
+      "close": 528.99,
+      "volume": 677672.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 528.615,
+      "high": 535.55,
+      "low": 528.57,
+      "close": 533.645,
+      "volume": 546008.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 533.79,
+      "high": 534.17,
+      "low": 525.86,
+      "close": 532.02,
+      "volume": 463037.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 529.44,
+      "high": 533.28,
+      "low": 525.14,
+      "close": 532.8,
+      "volume": 386815.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 533.26,
+      "high": 533.26,
+      "low": 520.35,
+      "close": 521.6,
+      "volume": 675626.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 517.745,
+      "high": 525.72,
+      "low": 515.79,
+      "close": 524.375,
+      "volume": 446134.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 527.33,
+      "high": 533.205,
+      "low": 521.93,
+      "close": 532.54,
+      "volume": 625026.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 532.36,
+      "high": 534.7,
+      "low": 528.405,
+      "close": 531.58,
+      "volume": 541284.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 530.97,
+      "high": 534.555,
+      "low": 526.3,
+      "close": 532.23,
+      "volume": 803668.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 540.31,
+      "high": 540.79,
+      "low": 519.59,
+      "close": 530.39,
+      "volume": 1173477.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 526.0,
+      "high": 526.0,
+      "low": 514.59,
+      "close": 521.97,
+      "volume": 906896.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 524.105,
+      "high": 529.53,
+      "low": 505.0,
+      "close": 507.0,
+      "volume": 1051242.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 508.06,
+      "high": 523.385,
+      "low": 508.06,
+      "close": 520.84,
+      "volume": 779919.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 543.28,
+      "high": 559.12,
+      "low": 542.665,
+      "close": 556.07,
+      "volume": 1907869.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 555.31,
+      "high": 557.605,
+      "low": 532.68,
+      "close": 536.29,
+      "volume": 1726204.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 525.41,
+      "high": 538.24,
+      "low": 525.005,
+      "close": 530.58,
+      "volume": 830880.0
+    },
+    {
+      "date": "2026-11-09",
+      "open": 544.485,
+      "high": 548.27,
+      "low": 538.745,
+      "close": 545.22,
+      "volume": 862671.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Anthropic Files To Sell 801,351,354 IPO Shares At Expected Price $70-$78/Share; Selling Stockgholders To Sell An Additional 23,648,646 Shares",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/63081883/anthropic-files-sell-801-351-354-ipo-shares-expected-price-70-78-share-selling-stockgholders-sell-ad",
+      "published_at": "2026-11-10T11:38:34+00:00"
+    },
+    {
+      "headline": "ESET Researchers Identify 'Cereal' Toolset Targeting Microsoft Exchange Servers",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/11/10/3399227/0/en/eset-research-russia-aligned-turla-group-uses-novel-exchange-tool-to-spy-on-eu-nato-emails.html",
+      "published_at": "2026-11-10T11:32:31+00:00"
+    },
+    {
+      "headline": "Soprano Design Launches Integration for Microsoft Entra MFA Continuity",
+      "source": "fiscal.ai",
+      "url": "https://vir.com.vn/soprano-integrates-with-microsoft-entra-for-multi-factor-authentication-164812.html",
+      "published_at": "2026-11-10T11:32:31+00:00"
+    },
+    {
+      "headline": "'Microsoft presses Trump to scuttle expected ban on Chinese data center technology' - Reuters Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/content/63081257/microsoft-presses-trump-scuttle-expected-ban-chinese-data-center-technology-reuters-exclusive",
+      "published_at": "2026-11-10T11:09:33+00:00"
+    },
+    {
+      "headline": "Reported Earlier, 'Anthropic’s Nearly $70 Billion IPO Plan Briefly Circulated to Banks, Then Retracted' - Reuters Exclusive",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/63078936/reported-earlier-anthropic-s-nearly-70-billion-ipo-plan-briefly-circulated-banks-then-retracted-reut",
+      "published_at": "2026-11-10T07:07:26+00:00"
+    },
+    {
+      "headline": "Microsoft and Northern Trust Expand AI Collaboration",
+      "source": "fiscal.ai",
+      "url": "https://www.barchart.com/press-releases/8737579/northern-trust-and-microsoft-frontier-company-collaborate-to-transform-client-onboarding-through-ai",
+      "published_at": "2026-11-09T21:31:39+00:00"
+    },
+    {
+      "headline": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/options/26/11/63053234/10-information-technology-stocks-whale-activity-today-s-session",
+      "published_at": "2026-11-09T17:35:08+00:00"
+    },
+    {
+      "headline": "Nvidia Stock—Is the Huang Controversy a Long-Term Risk?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/opinion/26/11/63051990/nvidia-stock-is-the-huang-controversy-a-long-term-risk",
+      "published_at": "2026-11-09T17:20:00+00:00"
+    },
+    {
+      "headline": "Bill Ackman Says Jensen Huang ‘Has Done a Lot of Good for the World’: Hopes Damage From Affair Is ‘Minimal’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63049256/bill-ackman-says-jensen-huang-has-done-a-lot-of-good-for-the-world-hopes-damage-from-affair-is-minimal",
+      "published_at": "2026-11-09T16:45:09+00:00"
+    },
+    {
+      "headline": "Microsoft to Retire UWP Map Control and Windows Maps APIs",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/11/09/3398328/0/en/microsoft-uwp-map-control-retires-nov-30-2026-a-replacement-is-ready-today.html",
+      "published_at": "2026-11-09T14:32:23+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

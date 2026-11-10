@@ -1,0 +1,314 @@
+{
+  "ticker": "VOO",
+  "as_of": "2026-11-10T12:09:15.480124+00:00",
+  "price": 692.69,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-29",
+      "open": 704.865,
+      "high": 704.865,
+      "low": 700.83,
+      "close": 702.27,
+      "volume": 101166.0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 704.52,
+      "high": 707.2,
+      "low": 700.605,
+      "close": 700.605,
+      "volume": 61032.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 702.95,
+      "high": 703.43,
+      "low": 697.5,
+      "close": 702.255,
+      "volume": 51893.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 708.3,
+      "high": 710.09,
+      "low": 705.545,
+      "close": 707.35,
+      "volume": 134995.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 707.52,
+      "high": 713.82,
+      "low": 707.52,
+      "close": 712.41,
+      "volume": 60541.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 715.24,
+      "high": 718.43,
+      "low": 715.09,
+      "close": 716.29,
+      "volume": 86985.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 713.02,
+      "high": 715.0,
+      "low": 711.22,
+      "close": 714.66,
+      "volume": 23423.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 712.26,
+      "high": 714.11,
+      "low": 708.45,
+      "close": 711.23,
+      "volume": 41595.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 713.52,
+      "high": 716.37,
+      "low": 712.75,
+      "close": 715.58,
+      "volume": 70028.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 715.8,
+      "high": 716.29,
+      "low": 714.28,
+      "close": 715.315,
+      "volume": 32547.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 714.55,
+      "high": 715.725,
+      "low": 713.41,
+      "close": 715.08,
+      "volume": 25885.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 712.26,
+      "high": 713.52,
+      "low": 705.17,
+      "close": 707.44,
+      "volume": 54812.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 704.34,
+      "high": 710.32,
+      "low": 702.965,
+      "close": 709.37,
+      "volume": 43938.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 710.78,
+      "high": 710.78,
+      "low": 699.53,
+      "close": 701.745,
+      "volume": 26614.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 705.315,
+      "high": 708.1,
+      "low": 704.35,
+      "close": 704.47,
+      "volume": 32225.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 703.86,
+      "high": 709.72,
+      "low": 702.61,
+      "close": 706.33,
+      "volume": 26410.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 708.89,
+      "high": 711.78,
+      "low": 706.4,
+      "close": 710.7,
+      "volume": 24709.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 704.38,
+      "high": 705.59,
+      "low": 699.81,
+      "close": 702.02,
+      "volume": 62938.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 698.47,
+      "high": 701.52,
+      "low": 697.56,
+      "close": 698.33,
+      "volume": 34733.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 700.55,
+      "high": 705.64,
+      "low": 700.26,
+      "close": 703.435,
+      "volume": 55208.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 705.35,
+      "high": 708.77,
+      "low": 703.71,
+      "close": 707.46,
+      "volume": 30515.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 709.08,
+      "high": 710.77,
+      "low": 707.14,
+      "close": 710.0,
+      "volume": 40205.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 706.66,
+      "high": 708.25,
+      "low": 704.76,
+      "close": 707.32,
+      "volume": 23394.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 699.83,
+      "high": 699.93,
+      "low": 689.8,
+      "close": 694.7,
+      "volume": 106403.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 698.07,
+      "high": 702.05,
+      "low": 690.93,
+      "close": 691.185,
+      "volume": 58546.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 691.79,
+      "high": 695.9,
+      "low": 691.64,
+      "close": 693.57,
+      "volume": 34539.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 701.385,
+      "high": 706.92,
+      "low": 701.1,
+      "close": 704.76,
+      "volume": 67294.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 703.73,
+      "high": 703.9,
+      "low": 673.58,
+      "close": 673.94,
+      "volume": 170486.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 675.435,
+      "high": 681.44,
+      "low": 675.34,
+      "close": 676.02,
+      "volume": 109275.0
+    },
+    {
+      "date": "2026-11-09",
+      "open": 682.0,
+      "high": 694.33,
+      "low": 681.605,
+      "close": 691.93,
+      "volume": 89116.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Nasdaq 100 Jumps 3% as Chips Rebound; Nvidia Lags Most Since DeepSeek: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63055270/stock-market-today-nasdaq-100-chip-rebound-nvidia-deepseek",
+      "published_at": "2026-11-09T17:59:58+00:00"
+    },
+    {
+      "headline": "Dow Jones and S&P 500 Outlook: Stock Market News To Watch This Week",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63020394/dow-jones-and-sp-500-outlook-top-3-stock-market-news-this-week",
+      "published_at": "2026-11-08T18:30:05+00:00"
+    },
+    {
+      "headline": "S&P 500 Faces Double Top Risk as Rate Hike Bets Build and AI Fears Spread",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63018104/sp-500-faces-double-top-risk-as-rate-hike-bets-build-and-ai-fears-spread",
+      "published_at": "2026-11-07T17:46:09+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Rebounds 2% After Worst Day Since 2020, Payrolls Smash Estimates: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/62998202/stock-market-today-nasdaq-100-rebounds-chip-stocks-payrolls-beat",
+      "published_at": "2026-11-06T17:38:16+00:00"
+    },
+    {
+      "headline": "Warren Buffett's Retirement Strategy Has a Catch: VOO Alone May Not Be Enough in 2026",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/11/62942177/warren-buffetts-retirement-strategy-has-a-catch-voo-alone-may-not-be-enough-in-2026",
+      "published_at": "2026-11-05T18:54:36+00:00"
+    },
+    {
+      "headline": "VIX Spikes 39% as AI Tech Rout Wipes Out $2.2 Trillion: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/62939997/stock-market-today-vix-spikes-ai-tech-rout-wipes-out-2-trillion-nvidia-amd",
+      "published_at": "2026-11-05T18:13:10+00:00"
+    },
+    {
+      "headline": "Dow Rallies 2.9%, Oil Sinks 7% After Midterms: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/62877866/stock-market-today-dow-rallies-oil-sinks-midterms-democrats-sweep-congress",
+      "published_at": "2026-11-04T17:31:02+00:00"
+    },
+    {
+      "headline": "Overnight Trading On The S&P 500: Returns And Drawdowns In SPY",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/opinion/26/11/62875511/overnight-trading-on-sp500-returns-drawdowns-in-spy",
+      "published_at": "2026-11-04T16:43:22+00:00"
+    },
+    {
+      "headline": "This Midterm Nightmare Scenario Puts S&P 500 Down 10% by Year-End, Evercore Warns",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/11/62836517/this-midterm-nightmare-scenario-puts-sp-500-down-10-by-year-end-evercore-warns",
+      "published_at": "2026-11-03T18:56:35+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Gets a Lift As Nvidia Overtakes Apple: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/62832505/stock-market-today-nvidia-overtakes-apple-chip-rally-nasdaq-jolts-yields",
+      "published_at": "2026-11-03T17:24:36+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}

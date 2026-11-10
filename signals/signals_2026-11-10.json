@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-10",
+  "market_context": "Rebound extended Monday: Nasdaq 100 jumped 3% as chips bounced, though Nvidia lagged the most since DeepSeek on the deepening Huang controversy (benzinga 11-09/11-10); S&P 500 double-top risk and December rate-hike bets persist (benzinga 11-07/11-08). Portfolio is 100% cash, no holdings, so the holdings-only breaking-news web sweep did not apply. fetch_data.py exited 1 (PARTIAL, 6th consecutive run): Alpaca prices/headlines arrived for all 7 tickers but yfinance fundamentals incl. sector remain blocked (proxy 403), so the engine cannot enforce the 20% sector cap and would reject any buy. All signals today are holds: no new catalyst clears the bar, and the JNJ buy thesis from 11-09 is unchanged with the identical data gap that forced its rejection, so resubmitting it could not produce a different outcome.",
+  "signals": [
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "282.12, +2% since the 11-09 buy signal the engine rejected (sector unknown). Pipeline momentum intact: positive trial data for key autoimmune therapies showcased (benzinga 11-09) and JJDC joined a $100M Delix Therapeutics financing (fiscal.ai 11-09) - minor, not a new catalyst. Sector data is still missing, so an identical resubmission is barred. Falsifiable: buy case reopens when sector data returns; fails if ICOTYDE does not progress to filing or oncology momentum stalls over two quarters.",
+      "sources": [
+        "data/2026-11-10/JNJ.json (alpaca price, headlines)",
+        "benzinga 11-09: Johnson & Johnson Showcases Positive Trial Data For Key Autoimmune Therapies",
+        "fiscal.ai 11-09: Johnson & Johnson's JJDC Participates in $100M Financing for Delix Therapeutics"
+      ],
+      "timestamp": "2026-11-10T12:15:00+00:00"
+    },
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.7,
+      "thesis": "178.24, lagging the chip rebound most since DeepSeek (benzinga 11-09). Scandal deepened: The Information details Huang's ties to Alice Huang facilitating $7.5B of chip sales to China (benzinga 11-10) and a former SEC chair questions his board disclosures (benzinga 11-10); an analyst argues he is unlikely to exit. Wells Fargo PT cut is chatter, ignored. Governance risk ahead of earnings remains the no-trade case. Falsifiable: reassess when the board investigation concludes or earnings print.",
+      "sources": [
+        "data/2026-11-10/NVDA.json (alpaca price, headlines)",
+        "benzinga 11-10: 'How Jensen Huang's Yearslong Ties to Alice Huang Enabled Nvidia Chip Sales to China' - The Information",
+        "benzinga 11-10: Former SEC Chair Questions Jensen Huang's Nvidia Disclosures"
+      ],
+      "timestamp": "2026-11-10T12:15:00+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "350.87, reclaimed the $5T crown (benzinga 11-09). Real positives: regulatory clearance for AI services in China (fiscal.ai 11-10) and new paid 'Intelligence Usage Packs' monetizing AI features (fiscal.ai 11-09), but both are single-source and unquantified against yesterday's UBS cooling-demand signal; Citic PT chatter ignored. Not initiating at a record cap in a volatile tape. Falsifiable: reassess when China AI services revenue or usage-pack uptake is quantified or guidance changes.",
+      "sources": [
+        "data/2026-11-10/AAPL.json (alpaca price, headlines)",
+        "fiscal.ai 11-10: Apple Receives Regulatory Clearance for AI Services in China",
+        "fiscal.ai 11-09: Apple Introduces Paid 'Intelligence Usage Packs' for AI Features"
+      ],
+      "timestamp": "2026-11-10T12:15:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "544.59. Microsoft is pressing Trump to scuttle an expected ban on Chinese data center technology (Reuters via benzinga 11-10) - policy risk to data-center buildout costs either way - while ESET flagged a 'Cereal' toolset targeting Exchange servers (fiscal.ai 11-10), a contained security headline. Capex-discipline theme from last week stays unquantified. No initiation case. Falsifiable: reassess if the ban decision lands, Azure growth shifts, or guidance quantifies the capex pivot.",
+      "sources": [
+        "data/2026-11-10/MSFT.json (alpaca price, headlines)",
+        "benzinga 11-10: 'Microsoft presses Trump to scuttle expected ban on Chinese data center technology' - Reuters Exclusive",
+        "fiscal.ai 11-10: ESET Researchers Identify 'Cereal' Toolset Targeting Microsoft Exchange Servers"
+      ],
+      "timestamp": "2026-11-10T12:15:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "288.15. Google is escalating its Nvidia rivalry with specialized AI-chip versions (Bloomberg via benzinga 11-09) and gave AMD a key role in its new AI chip system (benzinga 11-09) - strategic positive, unquantified. Offset: NHTSA opened a recall query into Waymo robotaxis passing stopped school buses (benzinga 11-09). No near-term earnings mover. Falsifiable: reassess on TPU/cloud revenue data or if the Waymo probe produces an operational restriction.",
+      "sources": [
+        "data/2026-11-10/GOOGL.json (alpaca price, headlines)",
+        "benzinga 11-09: 'Google Escalates Nvidia Rivalry With Specialized Versions of AI Chips' - Bloomberg Exclusive",
+        "benzinga 11-09: NHTSA Opens Recall Query Into Waymo Robotaxis"
+      ],
+      "timestamp": "2026-11-10T12:15:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "397.61, firm. Capital-return thesis intact, but new regulatory overhang: Senate Democrats launched an inquiry into health insurers' coverage terminations (fiscal.ai 11-10), and Surgery Partners rejected UNH's $28/share bid (fiscal.ai 11-09), stalling the M&A angle. Medicaid-expansion openings post-election (STAT via benzinga 11-10) are a modest tailwind. Whale-alert chatter ignored. Falsifiable: fails if the Senate inquiry produces coverage mandates or MCR guidance deteriorates.",
+      "sources": [
+        "data/2026-11-10/UNH.json (alpaca price, headlines)",
+        "fiscal.ai 11-10: Senate Democrats Launch Inquiry into Health Insurers' Coverage Terminations",
+        "fiscal.ai 11-09: Surgery Partners Rejects $28 Per Share Bid from UnitedHealth Group"
+      ],
+      "timestamp": "2026-11-10T12:15:00+00:00"
+    },
+    {
+      "ticker": "VOO",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "692.69 (benchmark). Nasdaq 100 jumped 3% Monday as chips rebounded with Nvidia lagging most since DeepSeek (benzinga 11-09); double-top risk on the S&P 500 and building December rate-hike bets remain live (benzinga 11-07/11-08). Two green days inside a volatility spike is not yet a regime change. Falsifiable: reassess when VIX normalizes or the rate path clarifies after the December Fed meeting.",
+      "sources": [
+        "data/2026-11-10/VOO.json (alpaca price, headlines)",
+        "benzinga 11-09: Nasdaq 100 Jumps 3% as Chips Rebound; Nvidia Lags Most Since DeepSeek",
+        "benzinga 11-07: S&P 500 Faces Double Top Risk as Rate Hike Bets Build and AI Fears Spread"
+      ],
+      "timestamp": "2026-11-10T12:15:00+00:00"
+    }
+  ]
+}
