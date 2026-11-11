@@ -1,0 +1,314 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-11-11T12:08:42.319757+00:00",
+  "price": 348.49,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-09-30",
+      "open": 330.26,
+      "high": 339.48,
+      "low": 330.18,
+      "close": 333.21,
+      "volume": 1479671.0
+    },
+    {
+      "date": "2026-10-01",
+      "open": 329.55,
+      "high": 332.47,
+      "low": 325.81,
+      "close": 330.44,
+      "volume": 988015.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 333.16,
+      "high": 334.525,
+      "low": 330.66,
+      "close": 333.75,
+      "volume": 841636.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 332.82,
+      "high": 336.19,
+      "low": 331.66,
+      "close": 333.11,
+      "volume": 1105512.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 332.305,
+      "high": 334.365,
+      "low": 330.635,
+      "close": 333.72,
+      "volume": 728478.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 337.015,
+      "high": 338.6,
+      "low": 332.82,
+      "close": 336.58,
+      "volume": 1211339.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 336.935,
+      "high": 341.57,
+      "low": 335.935,
+      "close": 340.43,
+      "volume": 1015370.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 331.685,
+      "high": 338.6,
+      "low": 330.72,
+      "close": 336.47,
+      "volume": 2132531.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 338.13,
+      "high": 342.615,
+      "low": 337.62,
+      "close": 341.045,
+      "volume": 664699.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 344.675,
+      "high": 348.11,
+      "low": 340.75,
+      "close": 341.33,
+      "volume": 1307464.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 344.605,
+      "high": 347.09,
+      "low": 341.72,
+      "close": 343.01,
+      "volume": 1874329.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 347.025,
+      "high": 347.72,
+      "low": 341.62,
+      "close": 341.91,
+      "volume": 1111639.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 346.085,
+      "high": 347.79,
+      "low": 340.475,
+      "close": 343.39,
+      "volume": 1454367.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 340.975,
+      "high": 346.0,
+      "low": 340.13,
+      "close": 342.99,
+      "volume": 971167.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 339.86,
+      "high": 343.06,
+      "low": 338.71,
+      "close": 339.66,
+      "volume": 834562.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 339.42,
+      "high": 345.185,
+      "low": 338.895,
+      "close": 343.935,
+      "volume": 864717.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 344.89,
+      "high": 348.34,
+      "low": 342.29,
+      "close": 348.34,
+      "volume": 980486.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 349.155,
+      "high": 351.68,
+      "low": 345.76,
+      "close": 347.69,
+      "volume": 960247.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 343.875,
+      "high": 347.085,
+      "low": 341.06,
+      "close": 343.93,
+      "volume": 960938.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 343.165,
+      "high": 347.77,
+      "low": 342.41,
+      "close": 347.1,
+      "volume": 1079424.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 346.885,
+      "high": 347.12,
+      "low": 343.53,
+      "close": 344.06,
+      "volume": 882011.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 348.03,
+      "high": 351.365,
+      "low": 347.42,
+      "close": 348.98,
+      "volume": 974472.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 346.945,
+      "high": 349.19,
+      "low": 342.39,
+      "close": 344.77,
+      "volume": 1882686.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 342.755,
+      "high": 343.73,
+      "low": 335.86,
+      "close": 338.7,
+      "volume": 1973519.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 325.595,
+      "high": 334.48,
+      "low": 325.595,
+      "close": 331.7,
+      "volume": 1814925.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 341.88,
+      "high": 354.47,
+      "low": 341.01,
+      "close": 349.555,
+      "volume": 2407575.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 353.905,
+      "high": 355.29,
+      "low": 342.1,
+      "close": 344.6,
+      "volume": 3422622.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 338.59,
+      "high": 345.765,
+      "low": 338.59,
+      "close": 342.41,
+      "volume": 1313258.0
+    },
+    {
+      "date": "2026-11-09",
+      "open": 345.005,
+      "high": 352.28,
+      "low": 344.78,
+      "close": 350.53,
+      "volume": 1438187.0
+    },
+    {
+      "date": "2026-11-10",
+      "open": 351.435,
+      "high": 353.785,
+      "low": 346.47,
+      "close": 348.49,
+      "volume": 1256844.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "China Renaissance Upgrades Apple to Buy From Hold",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/china-renaissance-upgrades-apple-to-buy-from-hold-price-target-is-425-ce785edbdd89f124",
+      "published_at": "2026-11-11T11:31:47+00:00"
+    },
+    {
+      "headline": "Dan Niles Buys Nvidia Dip, Says Apple's 2011 Rally After Steve Jobs' Exit Shows Why Losing a Visionary Isn't the End: 'Don't Know How It Gets Much More Negative'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63133037/dan-niles-buys-nvidia-dip-says-apples-2011-rally-after-steve-jobs-exit-shows-why-losing-a-visionary-isnt-the-end-dont-know-how-it-gets-much-more-negative",
+      "published_at": "2026-11-11T11:28:25+00:00"
+    },
+    {
+      "headline": "Apple to Shut Down Support Community Forums on November 20",
+      "source": "fiscal.ai",
+      "url": "https://appleosophy.com/wire/3qyakii/",
+      "published_at": "2026-11-11T03:01:24+00:00"
+    },
+    {
+      "headline": "Apple Adds Sign Language Interpretation to Apple TV Originals",
+      "source": "fiscal.ai",
+      "url": "https://appleosophy.com/wire/ghjxmy6/",
+      "published_at": "2026-11-11T01:01:29+00:00"
+    },
+    {
+      "headline": "AI Investing App Ulys Launches on Apple App Store",
+      "source": "fiscal.ai",
+      "url": "https://www.newswire.com/news/ulys-unveils-ai-app-that-builds-investment-portfolios-from-simple-text-prompts",
+      "published_at": "2026-11-11T00:01:27+00:00"
+    },
+    {
+      "headline": "Microsoft Briefly Overtakes Nvidia as Jensen Huang Affair Helps Erase $1.8 Trillion Lead",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63128428/microsoft-overtakes-nvidia",
+      "published_at": "2026-11-10T23:00:16+00:00"
+    },
+    {
+      "headline": "SketchUp Introduces Spatial Preview for Apple Vision Pro",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/trimble-expands-design-and-constructability-workflows-with-new-sketchup-capabilities-302933970.html",
+      "published_at": "2026-11-10T21:31:17+00:00"
+    },
+    {
+      "headline": "Semiconductor Rally Defies Nvidia Scandal; Hot CPI; CoreWeave Earnings Ahead",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/opinion/26/11/63121292/semiconductor-rally-defies-nvidia-scandal-hot-cpi-coreweave-earnings-ahead",
+      "published_at": "2026-11-10T21:00:21+00:00"
+    },
+    {
+      "headline": "ShiftCam ProRig Filmmaker Kit Launches at Apple Stores",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/11/10/3400016/0/en/shiftcam-prorig-now-available-in-apple-stores-and-online.html",
+      "published_at": "2026-11-10T19:01:28+00:00"
+    },
+    {
+      "headline": "11 Of 11 Sectors Fall In Tuesday Trading As Leaders Move Together",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63100567/11-of-11-sectors-fall-in-tuesday-trading-as-leaders-move-together",
+      "published_at": "2026-11-10T16:00:59+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
