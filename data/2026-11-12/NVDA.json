@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-11-12T12:09:14.053364+00:00",
+  "price": 168.27,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-10-01",
+      "open": 229.73,
+      "high": 232.28,
+      "low": 228.19,
+      "close": 231.04,
+      "volume": 2319590.0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 236.05,
+      "high": 237.835,
+      "low": 233.6,
+      "close": 234.0,
+      "volume": 3860633.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 236.145,
+      "high": 240.09,
+      "low": 235.2,
+      "close": 238.98,
+      "volume": 3726291.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 242.04,
+      "high": 243.34,
+      "low": 238.95,
+      "close": 239.17,
+      "volume": 2758644.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 237.69,
+      "high": 239.08,
+      "low": 236.39,
+      "close": 237.4,
+      "volume": 2623107.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 234.795,
+      "high": 237.05,
+      "low": 229.88,
+      "close": 230.57,
+      "volume": 3598041.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 233.79,
+      "high": 233.89,
+      "low": 229.115,
+      "close": 229.35,
+      "volume": 2316630.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 228.69,
+      "high": 228.795,
+      "low": 224.9,
+      "close": 226.46,
+      "volume": 1590973.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 224.265,
+      "high": 228.64,
+      "low": 223.12,
+      "close": 228.5,
+      "volume": 2400846.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 225.54,
+      "high": 225.975,
+      "low": 219.67,
+      "close": 221.49,
+      "volume": 3432102.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 215.285,
+      "high": 218.46,
+      "low": 212.865,
+      "close": 217.33,
+      "volume": 4353216.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 216.525,
+      "high": 218.64,
+      "low": 213.33,
+      "close": 214.125,
+      "volume": 3704374.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 218.025,
+      "high": 219.6,
+      "low": 214.71,
+      "close": 217.085,
+      "volume": 2365992.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 215.985,
+      "high": 218.455,
+      "low": 212.78,
+      "close": 216.41,
+      "volume": 2760246.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 220.875,
+      "high": 222.18,
+      "low": 217.66,
+      "close": 221.9,
+      "volume": 2486314.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 217.13,
+      "high": 218.86,
+      "low": 211.27,
+      "close": 212.27,
+      "volume": 4565631.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 210.995,
+      "high": 213.79,
+      "low": 210.22,
+      "close": 211.02,
+      "volume": 2911853.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 213.055,
+      "high": 217.74,
+      "low": 212.665,
+      "close": 216.01,
+      "volume": 3252237.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 218.33,
+      "high": 219.19,
+      "low": 215.535,
+      "close": 217.87,
+      "volume": 2379844.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 219.915,
+      "high": 219.915,
+      "low": 214.47,
+      "close": 215.34,
+      "volume": 2713311.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 214.44,
+      "high": 215.32,
+      "low": 212.09,
+      "close": 213.7,
+      "volume": 2610378.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 208.7,
+      "high": 209.06,
+      "low": 200.95,
+      "close": 204.76,
+      "volume": 4650693.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 207.59,
+      "high": 209.965,
+      "low": 201.66,
+      "close": 202.205,
+      "volume": 4210604.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 207.71,
+      "high": 209.09,
+      "low": 205.95,
+      "close": 206.565,
+      "volume": 3123764.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 203.56,
+      "high": 206.79,
+      "low": 199.685,
+      "close": 200.17,
+      "volume": 6216755.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 196.045,
+      "high": 196.17,
+      "low": 181.48,
+      "close": 181.59,
+      "volume": 11076400.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 191.25,
+      "high": 194.89,
+      "low": 185.225,
+      "close": 186.7,
+      "volume": 6280666.0
+    },
+    {
+      "date": "2026-11-09",
+      "open": 173.025,
+      "high": 179.91,
+      "low": 170.24,
+      "close": 178.64,
+      "volume": 25226718.0
+    },
+    {
+      "date": "2026-11-10",
+      "open": 173.97,
+      "high": 174.66,
+      "low": 165.89,
+      "close": 168.785,
+      "volume": 18141420.0
+    },
+    {
+      "date": "2026-11-11",
+      "open": 172.71,
+      "high": 177.515,
+      "low": 170.88,
+      "close": 173.85,
+      "volume": 10232454.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Cantor Fitzgerald Maintains Overweight on NVIDIA, Lowers Price Target to $250",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/63178198/cantor-fitzgerald-maintains-overweight-nvidia-lowers-price-target-250",
+      "published_at": "2026-11-12T12:04:18+00:00"
+    },
+    {
+      "headline": "AMD, Broadcom Stocks Gain as Investors Rotate Away From Nvidia: What’s Going On?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63177290/amd-broadcom-stocks-gain-as-investors-rotate-away-from-nvidia-whats-going-on",
+      "published_at": "2026-11-12T11:51:28+00:00"
+    },
+    {
+      "headline": "Nvidia Board Weighs CFO Colette Kress For Interim CEO Role Amid Uncertainty Over Jensen Huang’s Future: Report",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63176842/nvidia-board-weighs-cfo-colette-kress-for-interim-ceo-role-amid-uncertainty-over-jensen-huangs-future-report",
+      "published_at": "2026-11-12T11:40:56+00:00"
+    },
+    {
+      "headline": "'Do Not Fire Jensen Huang,' Kobeissi Letter Says, Warning Ousting CEO Could Be a 'Costly Mistake' and a 'Net Negative for Nvidia'",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63176347/do-not-fire-jensen-huang-kobeissi-letter-says-warning-ousting-ceo-could-be-a-costly-mistake-and-a-net-negative-for-nvidia",
+      "published_at": "2026-11-12T11:28:54+00:00"
+    },
+    {
+      "headline": "Evercore ISI Group Downgrades NVIDIA to In-Line, Lowers Price Target to $186",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/63176059/evercore-isi-group-downgrades-nvidia-line-lowers-price-target-186",
+      "published_at": "2026-11-12T11:17:26+00:00"
+    },
+    {
+      "headline": "Megaspeed In A Statement Thursday, Said The Company \"Has Cooperated With Inspections By The U.S. Department Of Commerce’s Bureau Of Industry And Security (BIS) And Stands Ready To Cooperate Fully With Any Other Relevant U.S. Government Authority\"",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/quote/FXI",
+      "published_at": "2026-11-12T10:41:49+00:00"
+    },
+    {
+      "headline": "Stock Market Today: Nvidia Rout Sinks Nasdaq, S&P 500 Futures as Board Weighs Jensen Huang’s Future — CRWV, TTEK, FNV in Focus",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63174263/stock-market-today-nvda-rout-drags-nasdaq-sp-500-futures-lower-as-nvidia-board-weighs-jensen-huangs-future-crwv-ttek-fnv-in-focus",
+      "published_at": "2026-11-12T10:26:55+00:00"
+    },
+    {
+      "headline": "Why Is Alibaba Stock Falling Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63174214/why-is-alibaba-stock-falling-thursday",
+      "published_at": "2026-11-12T10:16:45+00:00"
+    },
+    {
+      "headline": "Jensen Huang's Biggest Strength Isn't His Tech Knowledge but His Decision-Making, Analyst Says Amid NVDA Ouster Reports",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63173916/nvidia-jensen-huang-departure-strategic-risk",
+      "published_at": "2026-11-12T09:52:44+00:00"
+    },
+    {
+      "headline": "Nvidia (NVDA) Stock Is Trending in Pre-Market: Here’s What Is Happening",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63173709/nvidia-shares-fall-premarket-jensen-huang-affair-report",
+      "published_at": "2026-11-12T09:19:01+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: Failed to perform, curl: (56) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  ]
+}
