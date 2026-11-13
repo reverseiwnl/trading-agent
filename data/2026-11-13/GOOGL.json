@@ -1,0 +1,314 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-11-13T12:07:42.045502+00:00",
+  "price": 299.71,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-10-02",
+      "open": 341.265,
+      "high": 345.73,
+      "low": 341.265,
+      "close": 343.47,
+      "volume": 587768.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 342.725,
+      "high": 348.03,
+      "low": 342.555,
+      "close": 346.46,
+      "volume": 765516.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 347.38,
+      "high": 349.03,
+      "low": 344.685,
+      "close": 347.72,
+      "volume": 425699.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 346.715,
+      "high": 350.795,
+      "low": 343.11,
+      "close": 350.53,
+      "volume": 749027.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 354.01,
+      "high": 356.8,
+      "low": 346.52,
+      "close": 348.3,
+      "volume": 666286.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 351.865,
+      "high": 354.62,
+      "low": 350.375,
+      "close": 351.63,
+      "volume": 483341.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 352.045,
+      "high": 356.31,
+      "low": 350.61,
+      "close": 352.77,
+      "volume": 549905.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 356.18,
+      "high": 358.55,
+      "low": 351.675,
+      "close": 353.57,
+      "volume": 600876.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 355.6,
+      "high": 359.375,
+      "low": 346.36,
+      "close": 347.78,
+      "volume": 818690.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 344.595,
+      "high": 352.15,
+      "low": 340.72,
+      "close": 349.27,
+      "volume": 578247.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 348.325,
+      "high": 350.44,
+      "low": 339.14,
+      "close": 340.625,
+      "volume": 616183.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 343.76,
+      "high": 346.555,
+      "low": 341.9,
+      "close": 344.09,
+      "volume": 497856.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 343.65,
+      "high": 344.75,
+      "low": 338.36,
+      "close": 340.045,
+      "volume": 672495.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 336.975,
+      "high": 337.21,
+      "low": 330.4,
+      "close": 334.715,
+      "volume": 951012.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 330.195,
+      "high": 331.39,
+      "low": 322.0,
+      "close": 324.195,
+      "volume": 1083471.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 321.1,
+      "high": 324.485,
+      "low": 320.19,
+      "close": 320.23,
+      "volume": 446514.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 320.99,
+      "high": 321.43,
+      "low": 316.605,
+      "close": 316.81,
+      "volume": 990403.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 317.005,
+      "high": 323.82,
+      "low": 316.94,
+      "close": 320.6,
+      "volume": 959387.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 323.4,
+      "high": 326.35,
+      "low": 322.66,
+      "close": 325.37,
+      "volume": 1388291.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 286.885,
+      "high": 288.325,
+      "low": 280.38,
+      "close": 283.56,
+      "volume": 4949248.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 281.06,
+      "high": 283.125,
+      "low": 276.935,
+      "close": 279.9,
+      "volume": 1938594.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 282.38,
+      "high": 286.96,
+      "low": 278.92,
+      "close": 279.045,
+      "volume": 1726600.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 280.08,
+      "high": 281.605,
+      "low": 277.205,
+      "close": 279.905,
+      "volume": 1028642.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 283.73,
+      "high": 296.46,
+      "low": 283.73,
+      "close": 288.99,
+      "volume": 1728889.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 293.995,
+      "high": 295.59,
+      "low": 277.14,
+      "close": 282.645,
+      "volume": 2068803.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 284.92,
+      "high": 290.465,
+      "low": 284.64,
+      "close": 284.72,
+      "volume": 1166396.0
+    },
+    {
+      "date": "2026-11-09",
+      "open": 292.08,
+      "high": 296.32,
+      "low": 288.01,
+      "close": 288.15,
+      "volume": 1542029.0
+    },
+    {
+      "date": "2026-11-10",
+      "open": 289.1,
+      "high": 291.99,
+      "low": 285.7,
+      "close": 287.445,
+      "volume": 1082193.0
+    },
+    {
+      "date": "2026-11-11",
+      "open": 290.105,
+      "high": 295.71,
+      "low": 289.5,
+      "close": 293.55,
+      "volume": 1068732.0
+    },
+    {
+      "date": "2026-11-12",
+      "open": 293.935,
+      "high": 302.54,
+      "low": 293.875,
+      "close": 298.695,
+      "volume": 2049494.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "NVIDIA's Board Was 'Very Deferential' To Jensen Huang: Expert",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63232830/nvidias-board-was-very-deferential-to-jensen-huang-expert",
+      "published_at": "2026-11-13T11:45:50+00:00"
+    },
+    {
+      "headline": "NVIDIA’s Shakeup Clouds Copper’s AI Boom",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/commodities/26/11/63231752/nvidias-shakeup-clouds-coppers-ai-boom",
+      "published_at": "2026-11-13T10:58:16+00:00"
+    },
+    {
+      "headline": "Reported Earlier, South Korea Says Google Removed Map Coordinates, Will Delete Military And Security Facility Street View Imagery Under February Data Export Permit",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/63230584/reported-earlier-south-korea-says-google-removed-map-coordinates-will-delete-military-and-security-f",
+      "published_at": "2026-11-13T08:21:42+00:00"
+    },
+    {
+      "headline": "AOC Says Five Guys in Tuxedos Shouldn’t Control the Economy: ‘We Need to Check These Guys Power’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/11/63227251/aoc-says-five-guys-in-tuxedos-shouldnt-control-the-economy-we-need-to-check-these-guys-power",
+      "published_at": "2026-11-12T22:30:18+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Jay Woods Names ‘Stock to Watch in 2027’ Amid Potential Democratic Big Tech Breakups",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63226690/exclusive-jay-woods-names-stock-to-watch-in-2027-amid-potential-democratic-big-tech-breakups",
+      "published_at": "2026-11-12T22:12:57+00:00"
+    },
+    {
+      "headline": "Nvidia at 11X Earnings? One Wall Street Bull Says Investors Are Getting a Rare Bargain",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63222411/nvidia-stock-11x-earnings-bargain",
+      "published_at": "2026-11-12T21:10:07+00:00"
+    },
+    {
+      "headline": "EXCLUSIVE: Google, Microsoft ‘Fail to Sway’ Democrats With AI Power Pledge",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63214835/google-microsoft-ai-power-scrutiny",
+      "published_at": "2026-11-12T19:24:59+00:00"
+    },
+    {
+      "headline": "What's Going On With Alphabet Stock Thursday?",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63211052/whats-going-on-with-alphabet-stock-thursday-2",
+      "published_at": "2026-11-12T18:17:43+00:00"
+    },
+    {
+      "headline": "Nasdaq 100 Turns Green Despite Nvidia's 5% Drop on Huang Exit: Stock Market Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63210863/stock-market-today-nvidia-huang-exit-amd-broadcom-rally",
+      "published_at": "2026-11-12T18:16:23+00:00"
+    },
+    {
+      "headline": "Google Launches Gemini App On Apple Carplay For iOS Users",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/63208142/google-launches-gemini-app-apple-carplay-ios-users",
+      "published_at": "2026-11-12T17:34:02+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for GOOGL"
+  ]
+}

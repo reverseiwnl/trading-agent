@@ -1,0 +1,314 @@
+{
+  "ticker": "UNH",
+  "as_of": "2026-11-13T12:07:57.891667+00:00",
+  "price": 405.13,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-10-02",
+      "open": 364.86,
+      "high": 372.675,
+      "low": 364.645,
+      "close": 371.775,
+      "volume": 172855.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 373.49,
+      "high": 379.125,
+      "low": 368.31,
+      "close": 378.625,
+      "volume": 258647.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 379.095,
+      "high": 380.18,
+      "low": 373.72,
+      "close": 376.15,
+      "volume": 219249.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 376.595,
+      "high": 383.435,
+      "low": 372.07,
+      "close": 375.815,
+      "volume": 293825.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 374.9,
+      "high": 375.85,
+      "low": 368.61,
+      "close": 370.755,
+      "volume": 176722.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 373.2,
+      "high": 387.495,
+      "low": 373.2,
+      "close": 379.31,
+      "volume": 650448.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 381.57,
+      "high": 381.57,
+      "low": 373.78,
+      "close": 378.16,
+      "volume": 311713.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 397.625,
+      "high": 399.59,
+      "low": 373.22,
+      "close": 377.56,
+      "volume": 456630.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 383.075,
+      "high": 396.41,
+      "low": 382.91,
+      "close": 395.695,
+      "volume": 422673.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 401.06,
+      "high": 414.11,
+      "low": 400.29,
+      "close": 406.66,
+      "volume": 536779.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 411.87,
+      "high": 412.03,
+      "low": 395.6,
+      "close": 401.455,
+      "volume": 533493.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 400.61,
+      "high": 408.4,
+      "low": 399.75,
+      "close": 406.92,
+      "volume": 304240.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 409.745,
+      "high": 422.345,
+      "low": 408.605,
+      "close": 419.47,
+      "volume": 448807.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 421.29,
+      "high": 421.35,
+      "low": 415.085,
+      "close": 416.86,
+      "volume": 242017.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 417.775,
+      "high": 426.47,
+      "low": 417.28,
+      "close": 424.895,
+      "volume": 263303.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 424.29,
+      "high": 424.92,
+      "low": 416.64,
+      "close": 418.06,
+      "volume": 285375.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 420.01,
+      "high": 420.77,
+      "low": 408.465,
+      "close": 410.45,
+      "volume": 196983.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 411.95,
+      "high": 413.42,
+      "low": 408.23,
+      "close": 410.625,
+      "volume": 264719.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 406.72,
+      "high": 416.115,
+      "low": 405.14,
+      "close": 407.05,
+      "volume": 202079.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 414.36,
+      "high": 414.36,
+      "low": 404.39,
+      "close": 410.91,
+      "volume": 158385.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 414.21,
+      "high": 415.85,
+      "low": 405.96,
+      "close": 406.92,
+      "volume": 215856.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 406.935,
+      "high": 408.53,
+      "low": 394.18,
+      "close": 400.455,
+      "volume": 236561.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 398.7,
+      "high": 405.4,
+      "low": 397.0,
+      "close": 403.91,
+      "volume": 204690.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 396.6,
+      "high": 415.985,
+      "low": 392.51,
+      "close": 409.28,
+      "volume": 489137.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 411.745,
+      "high": 415.62,
+      "low": 394.39,
+      "close": 395.75,
+      "volume": 334399.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 388.7,
+      "high": 396.67,
+      "low": 388.7,
+      "close": 394.22,
+      "volume": 230183.0
+    },
+    {
+      "date": "2026-11-09",
+      "open": 397.985,
+      "high": 398.83,
+      "low": 394.09,
+      "close": 397.61,
+      "volume": 278634.0
+    },
+    {
+      "date": "2026-11-10",
+      "open": 398.735,
+      "high": 406.65,
+      "low": 397.315,
+      "close": 405.06,
+      "volume": 241167.0
+    },
+    {
+      "date": "2026-11-11",
+      "open": 404.39,
+      "high": 404.39,
+      "low": 396.95,
+      "close": 403.0,
+      "volume": 226340.0
+    },
+    {
+      "date": "2026-11-12",
+      "open": 405.5,
+      "high": 406.12,
+      "low": 400.67,
+      "close": 405.13,
+      "volume": 143477.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "If You Invested $1000 In UnitedHealth Group Stock 20 Years Ago, You Would Have This Much Today",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/63225411/if-you-invested-1000-unitedhealth-group-stock-20-years-ago-you-would-have-much-today",
+      "published_at": "2026-11-12T21:45:15+00:00"
+    },
+    {
+      "headline": "Cyclicals Lead Sectors In Wednesday Trading As Defensives Trail",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63148059/cyclicals-lead-sectors-in-wednesday-trading-as-defensives-trail",
+      "published_at": "2026-11-11T16:00:22+00:00"
+    },
+    {
+      "headline": "UnitedHealthcare Discontinues Supplemental Medicare Plan in Wyoming",
+      "source": "fiscal.ai",
+      "url": "https://insurancenewsnet.com/topics/health-employee-benefits/page/topics/newswires?archive_date=2026-11",
+      "published_at": "2026-11-10T19:02:14+00:00"
+    },
+    {
+      "headline": "At Least 11 States Are Offering Extra Obamacare Premium Aid In 2027 as Enhanced Federal Subsidies Expire, With Two Launching New Programs",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/health-care/26/11/63087611/at-least-11-states-are-offering-extra-obamacare-premium-aid-in-2027-as-enhanced-federal-subsidies-expire-with-two-launching-new-programs",
+      "published_at": "2026-11-10T13:42:33+00:00"
+    },
+    {
+      "headline": "Senate Democrats Launch Inquiry into Health Insurers' Coverage Terminations",
+      "source": "fiscal.ai",
+      "url": "https://insurancenewsnet.com/oarticle/hirono-wyden-sanders-senate-democrats-call-out-insurance-company-collaboration-with-trump-administration-to-kick-thousands-of-americans-off-health-insurance",
+      "published_at": "2026-11-10T11:32:16+00:00"
+    },
+    {
+      "headline": "'State Democratic wins make Medicaid expansion a possibility for more than a million people' - STAT News",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/63080614/state-democratic-wins-make-medicaid-expansion-possibility-more-million-people-stat-news",
+      "published_at": "2026-11-10T10:38:35+00:00"
+    },
+    {
+      "headline": "UnitedHealth Group Appoints Madeline Bell as Independent Director",
+      "source": "fiscal.ai",
+      "url": "https://www.tradingview.com/news/tradingview:021892220c61e:0-unitedhealth-group-appoints-madeline-bell-as-independent-director/",
+      "published_at": "2026-11-10T00:01:46+00:00"
+    },
+    {
+      "headline": "UnitedHealthcare Seeks Dismissal of Fairview Health Services Lawsuit",
+      "source": "fiscal.ai",
+      "url": "https://insurancenewsnet.com/oarticle/unitedhealthcare-calls-fairview-lawsuit-mudslinging-asks-judge-to-dismiss-it",
+      "published_at": "2026-11-09T20:01:28+00:00"
+    },
+    {
+      "headline": "Surgery Partners Rejects $28 Per Share Bid from UnitedHealth Group",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/surgery-partners-said-to-reject-28-share-bid-from-unitedhealth-bloomberg-reports-ce785fd3df8cf220",
+      "published_at": "2026-11-09T19:01:50+00:00"
+    },
+    {
+      "headline": "UnitedHealthcare Provider Network Updates in Florida",
+      "source": "fiscal.ai",
+      "url": "https://www.einpresswire.com/article/954806597/orthopedic-center-of-florida-welcomes-unitedhealthcare-members-for-orthopedic-care-in-southwest-florida",
+      "published_at": "2026-11-09T16:01:44+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for UNH"
+  ]
+}

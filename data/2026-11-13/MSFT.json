@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-11-13T12:07:49.977165+00:00",
+  "price": 523.0,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-10-02",
+      "open": 519.12,
+      "high": 522.46,
+      "low": 513.74,
+      "close": 517.32,
+      "volume": 566824.0
+    },
+    {
+      "date": "2026-10-05",
+      "open": 521.96,
+      "high": 532.35,
+      "low": 521.91,
+      "close": 525.01,
+      "volume": 916366.0
+    },
+    {
+      "date": "2026-10-06",
+      "open": 531.615,
+      "high": 535.69,
+      "low": 528.83,
+      "close": 529.385,
+      "volume": 520480.0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 530.725,
+      "high": 531.7,
+      "low": 524.725,
+      "close": 529.7,
+      "volume": 727327.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 530.435,
+      "high": 533.31,
+      "low": 518.83,
+      "close": 522.71,
+      "volume": 811233.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 528.27,
+      "high": 537.17,
+      "low": 526.36,
+      "close": 535.195,
+      "volume": 553742.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 537.49,
+      "high": 542.7,
+      "low": 536.08,
+      "close": 541.085,
+      "volume": 595543.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 544.625,
+      "high": 551.08,
+      "low": 543.07,
+      "close": 543.51,
+      "volume": 902625.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 545.085,
+      "high": 545.71,
+      "low": 532.56,
+      "close": 534.04,
+      "volume": 788908.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 533.655,
+      "high": 541.08,
+      "low": 531.455,
+      "close": 539.36,
+      "volume": 670262.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 541.25,
+      "high": 543.82,
+      "low": 524.48,
+      "close": 528.99,
+      "volume": 677672.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 528.615,
+      "high": 535.55,
+      "low": 528.57,
+      "close": 533.645,
+      "volume": 546008.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 533.79,
+      "high": 534.17,
+      "low": 525.86,
+      "close": 532.02,
+      "volume": 463037.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 529.44,
+      "high": 533.28,
+      "low": 525.14,
+      "close": 532.8,
+      "volume": 386815.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 533.26,
+      "high": 533.26,
+      "low": 520.35,
+      "close": 521.6,
+      "volume": 675626.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 517.745,
+      "high": 525.72,
+      "low": 515.79,
+      "close": 524.375,
+      "volume": 446134.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 527.33,
+      "high": 533.205,
+      "low": 521.93,
+      "close": 532.54,
+      "volume": 625026.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 532.36,
+      "high": 534.7,
+      "low": 528.405,
+      "close": 531.58,
+      "volume": 541284.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 530.97,
+      "high": 534.555,
+      "low": 526.3,
+      "close": 532.23,
+      "volume": 803668.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 540.31,
+      "high": 540.79,
+      "low": 519.59,
+      "close": 530.39,
+      "volume": 1173477.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 526.0,
+      "high": 526.0,
+      "low": 514.59,
+      "close": 521.97,
+      "volume": 906896.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 524.105,
+      "high": 529.53,
+      "low": 505.0,
+      "close": 507.0,
+      "volume": 1051242.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 508.06,
+      "high": 523.385,
+      "low": 508.06,
+      "close": 520.84,
+      "volume": 779919.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 543.28,
+      "high": 559.12,
+      "low": 542.665,
+      "close": 556.07,
+      "volume": 1907869.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 555.31,
+      "high": 557.605,
+      "low": 532.68,
+      "close": 536.29,
+      "volume": 1726204.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 525.41,
+      "high": 538.24,
+      "low": 525.005,
+      "close": 530.58,
+      "volume": 830880.0
+    },
+    {
+      "date": "2026-11-09",
+      "open": 544.485,
+      "high": 548.27,
+      "low": 538.745,
+      "close": 545.22,
+      "volume": 862671.0
+    },
+    {
+      "date": "2026-11-10",
+      "open": 543.485,
+      "high": 544.19,
+      "low": 526.5,
+      "close": 533.18,
+      "volume": 1031379.0
+    },
+    {
+      "date": "2026-11-11",
+      "open": 534.175,
+      "high": 534.5,
+      "low": 518.535,
+      "close": 520.63,
+      "volume": 1138454.0
+    },
+    {
+      "date": "2026-11-12",
+      "open": 521.92,
+      "high": 529.51,
+      "low": 520.59,
+      "close": 523.0,
+      "volume": 682954.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Cohesity Expands Data Resilience Capabilities for Microsoft Ecosystem",
+      "source": "fiscal.ai",
+      "url": "https://www.kipost.net/news/articleViewAmp.html?idxno=343273",
+      "published_at": "2026-11-13T11:31:37+00:00"
+    },
+    {
+      "headline": "NVIDIA’s Shakeup Clouds Copper’s AI Boom",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/commodities/26/11/63231752/nvidias-shakeup-clouds-coppers-ai-boom",
+      "published_at": "2026-11-13T10:58:16+00:00"
+    },
+    {
+      "headline": "Nvidia-Backed Nscale Warns It Needs More 'Financing' Amid $44.6B Anthropic Contract Ahead of US IPO As Nine-Month Loss Widens to $1.69 Billion",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/private-markets/26/11/63231331/nvidia-backed-nscale-warns-it-needs-more-financing-amid-44-6b-anthropic-contract-ahead-of-us-ipo-as-nine-month-loss-widens-to-1-69-billion",
+      "published_at": "2026-11-13T10:10:30+00:00"
+    },
+    {
+      "headline": "Cerebras (CBRS) Stock Is Trending Pre-Market: Here's Why",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63230833/cerebras-stock-surges-premarket-q3-results-microsoft-deal",
+      "published_at": "2026-11-13T09:14:43+00:00"
+    },
+    {
+      "headline": "Microsoft Outlook Outage Hits Colorado Jail, Forces Families to Post Bail In Person to Secure Release",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63230820/microsoft-outlook-outage-hits-colorado-jail-forces-families-to-post-bail-in-person-to-secure-release",
+      "published_at": "2026-11-13T09:09:58+00:00"
+    },
+    {
+      "headline": "Microsoft Outage Triggers Chaos Across Outlook, Teams and Copilot — Spills Over to OpenAI and Anthropic (UPDATED)",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63229102/microsoft-outage-triggers-chaos-across-outlook-teams-and-copilot-spills-over-to-openai-and-anthropic",
+      "published_at": "2026-11-13T04:41:35+00:00"
+    },
+    {
+      "headline": "Microsoft 365 Incident: Microsoft Not Aware Of Malicious Activity, Sees Stability Gains After Partial Patch, Working To Expand Fix To Active Regions",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/26/11/63230428/microsoft-365-incident-microsoft-not-aware-malicious-activity-sees-stability-gains-after-partial-pat",
+      "published_at": "2026-11-13T08:10:26+00:00"
+    },
+    {
+      "headline": "Elon Musk Warns Against Pushing Founders Out — Steve Jobs and Travis Kalanick Lessons Resurface as Jensen Huang Exits Nvidia",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63229525/elon-musk-warns-founders-out-steve-jobs-travis-kalanick-jensen-huang-nvidia-exit",
+      "published_at": "2026-11-13T05:46:54+00:00"
+    },
+    {
+      "headline": "Microsoft 365 Experiences Service Outage",
+      "source": "fiscal.ai",
+      "url": "https://www.manilatimes.net/2026/11/13/world/americas-emea/major-outage-hits-microsoft-outlook/2469181",
+      "published_at": "2026-11-12T22:31:35+00:00"
+    },
+    {
+      "headline": "AOC Says Five Guys in Tuxedos Shouldn’t Control the Economy: ‘We Need to Check These Guys Power’",
+      "source": "benzinga",
+      "url": "https://www.benzinga.com/news/politics/26/11/63227251/aoc-says-five-guys-in-tuxedos-shouldnt-control-the-economy-we-need-to-check-these-guys-power",
+      "published_at": "2026-11-12T22:30:18+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for MSFT"
+  ]
+}

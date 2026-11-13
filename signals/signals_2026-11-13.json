@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-13",
+  "market_context": "Huang era ends: Jensen Huang resigned as Nvidia CEO; NVDA fell 5% Thursday yet the Nasdaq 100 turned green ('Nasdaq 100 Turns Green Despite Nvidia's 5% Drop on Huang Exit', benzinga 11-12), and Friday futures rose with the exit 'in focus' (benzinga 11-13). Macro unchanged: hot CPI has the 10-year at 5% and rate-hike bets persist; retail keeps buying ETFs while hedge funds go underweight AI. VOO headline cited: 'Nasdaq 100 Turns Green Despite Nvidia's 5% Drop on Huang Exit' (benzinga 11-12); no ticker's headline list was empty. Portfolio is 100% cash with no holdings, so the holdings-only breaking-news web sweep did not apply. fetch_data.py exited 1 (PARTIAL, 10th consecutive): Alpaca prices/headlines fine, yfinance fundamentals incl. sector still blocked, so the sector cap cannot be enforced and any buy would be rejected. All six signals are holds.",
+  "signals": [
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.7,
+      "thesis": "Huang has resigned as CEO; Trump reportedly urged him to 'keep fighting' two days prior (benzinga 11-13). Closed 166.07 Thu (-4.5%). Succession unresolved, Cathie Wood warns 5-yr CAGR could halve, and 'NVIDIA-Linked Chinese AI Projects Face Increased US Scrutiny' (fiscal.ai 11-13) keeps export risk live. PT moves ($465 to $186) ignored as chatter. No position; not catching this knife. Falsifiable: reassess on a permanent-CEO appointment, BIS outcome, or earnings.",
+      "sources": [
+        "data/2026-11-13/NVDA.json headlines (benzinga 11-12/11-13, fiscal.ai 11-13)"
+      ],
+      "timestamp": "2026-11-13T12:15:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "523.00 Thu, stabilizing after Wed's -2.35%. New overhang: a Microsoft 365 outage hit Outlook, Teams and Copilot and spilled over to OpenAI/Anthropic; Microsoft says no malicious activity, partial patch stabilizing (benzinga 11-13). An ops incident, not a demand signal, but it feeds the Copilot-credibility narrative from 11-11. No initiation case; sector-data gap bars buys anyway. Falsifiable: reassess on quantified Azure/Copilot impact or extended outage.",
+      "sources": [
+        "data/2026-11-13/MSFT.json headlines (benzinga 11-13)"
+      ],
+      "timestamp": "2026-11-13T12:15:00+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "354.85 Thu, flat (-0.3%) and insulated from the NVDA drama. Snapshot is thin on company-specific news: 'Apple Releases HomeView Software 27.2' (fiscal.ai 11-13) is a routine update; the rest is NVDA-spillover commentary ('What Is Going on With Apple Stock on Thursday?', benzinga 11-12). No catalyst to act on. Falsifiable: reassess on quantified Apple Intelligence or China demand data, or any guidance change.",
+      "sources": [
+        "data/2026-11-13/AAPL.json headlines (fiscal.ai 11-13, benzinga 11-12)"
+      ],
+      "timestamp": "2026-11-13T12:15:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "298.70 Thu, +1.8% and a relative winner of the NVDA shakeout. New wrinkle: South Korea says Google removed map coordinates and will delete military-facility Street View imagery under a data-export permit (benzinga 11-13) - compliance noise, not thesis-changing. Big Tech breakup chatter ('Fail to Sway Democrats', benzinga 11-12) is a slow-burn risk. Buys barred by the sector-data gap regardless. Falsifiable: reassess on cloud/TPU revenue data or concrete antitrust action.",
+      "sources": [
+        "data/2026-11-13/GOOGL.json headlines (benzinga 11-12/11-13)"
+      ],
+      "timestamp": "2026-11-13T12:15:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "283.56 Thu, +1.2% to a week high. Pipeline momentum intact: favorable bipolar study data (benzinga 11-11) and the ASH 2026 hematology showcase (fiscal.ai 11-11); talc drip continues ($34.21M California verdict, fiscal.ai 11-10). The buy case stays parked for the 10th run: missing sector data means any buy fails the 20% sector-cap check. Falsifiable: buy case reopens when sector data returns with pipeline momentum intact.",
+      "sources": [
+        "data/2026-11-13/JNJ.json headlines (benzinga 11-11, fiscal.ai 11-10/11-11)"
+      ],
+      "timestamp": "2026-11-13T12:15:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "405.13 Thu, steady near recent highs. Headlines are policy-heavy and two-sided: Senate Democrats' inquiry into coverage terminations (fiscal.ai 11-10) and a discontinued Wyoming Medicare supplement vs state Medicaid-expansion prospects (benzinga 11-10). The 20-years-ago retrospective (benzinga 11-12) is filler. Regulatory fog plus the sector-data gap keeps this a hold. Falsifiable: reassess on the Senate inquiry's scope or 2027 guidance.",
+      "sources": [
+        "data/2026-11-13/UNH.json headlines (fiscal.ai 11-10, benzinga 11-10/11-12)"
+      ],
+      "timestamp": "2026-11-13T12:15:00+00:00"
+    }
+  ]
+}
