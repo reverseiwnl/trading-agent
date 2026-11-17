@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-17",
+  "market_context": "Monday open, portfolio 100% cash so the holdings-only breaking-news web sweep did not apply. Broad tape soft: VOO closed 680.36 on 11-16, -1.8%, third straight down day; VOO's headline list was empty today, as was GOOGL's — all other tickers had headlines, each cited in its thesis. fetch_data.py exited 1 (PARTIAL, 12th consecutive run): Alpaca prices/headlines fine, yfinance fundamentals incl. sector still blocked, so the 20% sector cap cannot be verified and any buy would be rejected by the engine. All signals are holds.",
+  "signals": [
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.7,
+      "thesis": "156.66, fifth straight decline since the 11-12 CEO resignation. 'NVIDIA Establishes National Security and Export Control Oversight Committee' (fiscal.ai 11-17) answers 'Multiple US Department of Justice Probes' (11-13) and lawsuit risk (11-16). Demand stays strong (Corvex $103M Blackwell deal 11-16) but leadership and legal risk unresolved; no position, stay out. Falsifiable: reassess on permanent CEO or probe outcomes.",
+      "sources": [
+        "data/2026-11-17/NVDA.json (fiscal.ai headlines 11-12..11-17)",
+        "data/2026-11-17/NVDA.json (Alpaca bars/price)"
+      ],
+      "timestamp": "2026-11-17T12:30:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "518.23, -1.1% on 11-16. Outage aftermath turned legal: 'Class Action Lawsuit Filed Against Microsoft Following Global 365 Outage' (fiscal.ai 11-16) follows restoration (11-14); 'Preliminary Report on Recent 365 Service Outage' (11-17) covers root cause. Ops risk closed, legal tail open but unquantified; no initiation case and sector-data gap bars buys anyway. Falsifiable: reassess on report findings or quantified guidance impact.",
+      "sources": [
+        "data/2026-11-17/MSFT.json (fiscal.ai headlines 11-13..11-17)",
+        "data/2026-11-17/MSFT.json (Alpaca bars/price)"
+      ],
+      "timestamp": "2026-11-17T12:30:00+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "352.66, drifting lower with the tape. New legal item: 'Apple Faces French Trial Over Alleged Planned Obsolescence' (fiscal.ai 11-17) adds to the Epic Supreme Court contempt case (11-13); offsetting incremental positives in product/payments ('Apple Appoints Corey Fugman to Lead Payments and Wallet Unit', 'KakaoBank Launches Apple Pay in South Korea', both 11-16). Nothing thesis-changing either way. Falsifiable: reassess on French trial outcome, Supreme Court ruling, or demand data.",
+      "sources": [
+        "data/2026-11-17/AAPL.json (fiscal.ai headlines 11-13..11-17)",
+        "data/2026-11-17/AAPL.json (Alpaca bars/price)"
+      ],
+      "timestamp": "2026-11-17T12:30:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "284.19 after a -4.3% drop on 11-16 (298.70 on 11-12 to 283.80), the sharpest mover on the watchlist. GOOGL's headline list was empty today, so the snapshot offers no explanation for the decline; with no holdings there is no mandate for a web sweep, and acting on an unexplained move in either direction would be guessing. Hold at low conviction pending an attributable catalyst. Falsifiable: reassess when headlines return or the move reverses/extends with news.",
+      "sources": [
+        "data/2026-11-17/GOOGL.json (Alpaca bars/price; headline list empty)"
+      ],
+      "timestamp": "2026-11-17T12:30:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "282.62, -1.2% on 11-16, giving back the post-deal pop. No new headline since 'Johnson & Johnson to Acquire Ollin Biosciences for Up to $3.4 Billion' (fiscal.ai 11-16); pipeline momentum (CAPLYTA Phase 3, 11-10) and talc drip ($34.21M verdict, 11-10) unchanged. The buy case stays parked for the 12th run: missing sector data means any buy fails the 20% sector-cap check. Falsifiable: buy case reopens when sector data returns and price/thesis still hold.",
+      "sources": [
+        "data/2026-11-17/JNJ.json (fiscal.ai headlines 11-10..11-16)",
+        "data/2026-11-17/JNJ.json (Alpaca bars/price)"
+      ],
+      "timestamp": "2026-11-17T12:30:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "412.07, bucking the tape with a third straight up day. Mixed news: 'Mubadala Investment Co. PJSC Increases Stake in UnitedHealth Group' (fiscal.ai 11-16) and 'UnitedHealthcare of Ohio Remains in State Marketplace for 2027' (11-17) are supportive, but the Senate prior-authorization inquiry (11-15) keeps regulatory fog thick. Price strength vs policy risk still unresolved; stay flat. Falsifiable: reassess on inquiry scope/subpoenas or 2027 guidance.",
+      "sources": [
+        "data/2026-11-17/UNH.json (fiscal.ai headlines 11-10..11-17)",
+        "data/2026-11-17/UNH.json (Alpaca bars/price)"
+      ],
+      "timestamp": "2026-11-17T12:30:00+00:00"
+    }
+  ]
+}
