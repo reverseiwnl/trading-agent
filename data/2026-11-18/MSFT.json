@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-11-18T12:10:13.266894+00:00",
+  "price": 506.07,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-10-07",
+      "open": 530.725,
+      "high": 531.7,
+      "low": 524.725,
+      "close": 529.7,
+      "volume": 727327.0
+    },
+    {
+      "date": "2026-10-08",
+      "open": 530.435,
+      "high": 533.31,
+      "low": 518.83,
+      "close": 522.71,
+      "volume": 811233.0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 528.27,
+      "high": 537.17,
+      "low": 526.36,
+      "close": 535.195,
+      "volume": 553742.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 537.49,
+      "high": 542.7,
+      "low": 536.08,
+      "close": 541.085,
+      "volume": 595543.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 544.625,
+      "high": 551.08,
+      "low": 543.07,
+      "close": 543.51,
+      "volume": 902625.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 545.085,
+      "high": 545.71,
+      "low": 532.56,
+      "close": 534.04,
+      "volume": 788908.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 533.655,
+      "high": 541.08,
+      "low": 531.455,
+      "close": 539.36,
+      "volume": 670262.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 541.25,
+      "high": 543.82,
+      "low": 524.48,
+      "close": 528.99,
+      "volume": 677672.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 528.615,
+      "high": 535.55,
+      "low": 528.57,
+      "close": 533.645,
+      "volume": 546008.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 533.79,
+      "high": 534.17,
+      "low": 525.86,
+      "close": 532.02,
+      "volume": 463037.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 529.44,
+      "high": 533.28,
+      "low": 525.14,
+      "close": 532.8,
+      "volume": 386815.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 533.26,
+      "high": 533.26,
+      "low": 520.35,
+      "close": 521.6,
+      "volume": 675626.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 517.745,
+      "high": 525.72,
+      "low": 515.79,
+      "close": 524.375,
+      "volume": 446134.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 527.33,
+      "high": 533.205,
+      "low": 521.93,
+      "close": 532.54,
+      "volume": 625026.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 532.36,
+      "high": 534.7,
+      "low": 528.405,
+      "close": 531.58,
+      "volume": 541284.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 530.97,
+      "high": 534.555,
+      "low": 526.3,
+      "close": 532.23,
+      "volume": 803668.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 540.31,
+      "high": 540.79,
+      "low": 519.59,
+      "close": 530.39,
+      "volume": 1173477.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 526.0,
+      "high": 526.0,
+      "low": 514.59,
+      "close": 521.97,
+      "volume": 906896.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 524.105,
+      "high": 529.53,
+      "low": 505.0,
+      "close": 507.0,
+      "volume": 1051242.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 508.06,
+      "high": 523.385,
+      "low": 508.06,
+      "close": 520.84,
+      "volume": 779919.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 543.28,
+      "high": 559.12,
+      "low": 542.665,
+      "close": 556.07,
+      "volume": 1907869.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 555.31,
+      "high": 557.605,
+      "low": 532.68,
+      "close": 536.29,
+      "volume": 1726204.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 525.41,
+      "high": 538.24,
+      "low": 525.005,
+      "close": 530.58,
+      "volume": 830880.0
+    },
+    {
+      "date": "2026-11-09",
+      "open": 544.485,
+      "high": 548.27,
+      "low": 538.745,
+      "close": 545.22,
+      "volume": 862671.0
+    },
+    {
+      "date": "2026-11-10",
+      "open": 543.485,
+      "high": 544.19,
+      "low": 526.5,
+      "close": 533.18,
+      "volume": 1031379.0
+    },
+    {
+      "date": "2026-11-11",
+      "open": 534.175,
+      "high": 534.5,
+      "low": 518.535,
+      "close": 520.63,
+      "volume": 1138454.0
+    },
+    {
+      "date": "2026-11-12",
+      "open": 521.92,
+      "high": 529.51,
+      "low": 520.59,
+      "close": 523.0,
+      "volume": 682954.0
+    },
+    {
+      "date": "2026-11-13",
+      "open": 519.745,
+      "high": 526.31,
+      "low": 513.905,
+      "close": 524.19,
+      "volume": 728275.0
+    },
+    {
+      "date": "2026-11-16",
+      "open": 524.5,
+      "high": 527.55,
+      "low": 516.85,
+      "close": 518.23,
+      "volume": 799502.0
+    },
+    {
+      "date": "2026-11-17",
+      "open": 514.565,
+      "high": 515.515,
+      "low": 496.56,
+      "close": 506.07,
+      "volume": 1275244.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "StackGen Launches Shipyard on Microsoft Marketplace",
+      "source": "fiscal.ai",
+      "url": "https://cioinfluence.com/machine-learning/shipyard-by-stackgen-now-available-in-microsoft-marketplace/",
+      "published_at": "2026-11-18T11:31:15+00:00"
+    },
+    {
+      "headline": "Microsoft Launches AI Transparency Initiative",
+      "source": "fiscal.ai",
+      "url": "https://stockhouse.com/news/newswire/2026/11/17/microsoft-launches-ai-transparency-initiative-with-40-organisations",
+      "published_at": "2026-11-17T19:02:16+00:00"
+    },
+    {
+      "headline": "Microsoft Commences Ignite 2026 Conference",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/11/17/3404380/0/en/microsoft-selects-haivision-video-contribution-ecosystem-and-makito-one-video-transport-platform-to-power-global-live-event-productions.html",
+      "published_at": "2026-11-17T14:31:24+00:00"
+    },
+    {
+      "headline": "Microsoft Expands Use of Haivision Live Video Ecosystem",
+      "source": "fiscal.ai",
+      "url": "https://www.moomoo.com/news/post/1004882664/microsoft-selects-haivision-video-contribution-ecosystem-and-makito-one-video",
+      "published_at": "2026-11-17T11:31:30+00:00"
+    },
+    {
+      "headline": "Microsoft Releases Preliminary Report on Recent 365 Service Outage",
+      "source": "fiscal.ai",
+      "url": "https://www.newswire.ca/news-releases/microsoft-outage-triggers-canada-wide-class-action-lawsuit-852582849.html",
+      "published_at": "2026-11-17T03:01:25+00:00"
+    },
+    {
+      "headline": "Class Action Lawsuit Filed Against Microsoft Following Global 365 Outage",
+      "source": "fiscal.ai",
+      "url": "https://www.newswire.ca/news-releases/microsoft-outage-triggers-canada-wide-class-action-lawsuit-852582849.html",
+      "published_at": "2026-11-16T22:31:21+00:00"
+    },
+    {
+      "headline": "Thread AI Joins Microsoft for Startups Pegasus Program",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/thread-ai-joins-the-microsoft-for-startups-pegasus-program-to-deliver-its-ai-workflow-orchestration-platform-on-microsoft-marketplace-302940646.html",
+      "published_at": "2026-11-16T19:01:20+00:00"
+    },
+    {
+      "headline": "Microsoft Addresses Recent 365 Service Disruption",
+      "source": "fiscal.ai",
+      "url": "https://businesschief.com/news/microsoft-outage-loss-could-total-us-700m-analysts-say",
+      "published_at": "2026-11-16T16:01:21+00:00"
+    },
+    {
+      "headline": "Microsoft Authorizes Parallels Desktop for Windows on Apple Silicon",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/best-windows-software-for-mac-2026-parallels-named-top-pick-for-easy-setup-and-mac-integration-by-software-experts-302939773.html",
+      "published_at": "2026-11-16T13:01:21+00:00"
+    },
+    {
+      "headline": "Microsoft Verifies InTouch123 Inc. in Partner Center",
+      "source": "fiscal.ai",
+      "url": "https://natlawreview.com/press-releases/microsoft-verifies-referna-partner-center",
+      "published_at": "2026-11-16T13:01:21+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for MSFT"
+  ]
+}
