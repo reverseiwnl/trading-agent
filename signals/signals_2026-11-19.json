@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-19",
+  "market_context": "Risk-off tape persists: VOO closed 671.26 on 11-18, a sixth straight decline (-3.9% from 11-13's 693.05); VOO's and GOOGL's headline lists were empty (GOOGL's third straight day) \u2014 every other ticker's cited headlines come from its 11-19 snapshot. Portfolio is 100% cash, so the holdings-only breaking-news web sweep did not apply. fetch_data.py exited 1 (PARTIAL, 14th consecutive run): Alpaca prices/headlines fine, yfinance fundamentals incl. sector still blocked, so the 20% sector cap cannot be verified and any buy would be rejected by the engine. Standouts: UNH collapsed another -10.2% to 349.90 (-14.2% over two sessions) in Medicare Advantage audit-framework fallout; NVDA's snapshot now names an SEC investigation alongside the delayed 10-Q. All signals are holds; no-trade is the correct outcome.",
+  "signals": [
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.65,
+      "thesis": "150.86, seventh straight decline. 'NVIDIA Faces SEC Investigation and Delays Quarterly 10-Q Filing' (fiscal.ai 11-18) escalates the governance red flag from yesterday's delayed-10-Q report; 'NVIDIA Co-Founder Jensen Huang Retains Director Nomination Rights' (11-18) adds governance churn with the CEO seat still vacant. Uninvestable until filings are current. Falsifiable: reassess when the 10-Q is filed and SEC scope is disclosed, or a permanent CEO is named.",
+      "sources": [
+        "data/2026-11-19/NVDA.json headlines (fiscal.ai 2026-11-18)"
+      ],
+      "timestamp": "2026-11-19T12:08:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "349.90, -10.2% on 11-18 after -5.4% on 11-17. Snapshot attributes the slide to 'UnitedHealth Group Shares Decline Following Proposed Medicare Advantage Audit Framework' (fiscal.ai 11-17) plus breakup calls ('Senator Elizabeth Warren Calls for Breakup...', 11-17); 11-18's only item, pharmacist-compensation expansion, cannot explain -10%. Regulatory repricing mid-flight; no position, no knife-catching. Falsifiable: reassess on audit-framework finalization or 2027 guidance.",
+      "sources": [
+        "data/2026-11-19/UNH.json headlines (fiscal.ai 2026-11-15..18)"
+      ],
+      "timestamp": "2026-11-19T12:08:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "272.72, -2.2% on 11-18, below the pre-Ollin-deal level. New today: 'Anvisa Approves Johnson & Johnson's ICOTYDE (icotroquinra) for Plaque Psoriasis' (fiscal.ai 11-18) \u2014 incrementally positive but small; BofA price-target item disregarded per policy. Possible sympathy pressure from UNH's healthcare-regulation selloff. Buy case stays parked a 14th run: missing sector data fails the 20% sector-cap check. Falsifiable: buy case reopens when sector data returns and thesis holds.",
+      "sources": [
+        "data/2026-11-19/JNJ.json headlines (fiscal.ai 2026-11-16..18)"
+      ],
+      "timestamp": "2026-11-19T12:08:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "508.51, +0.5% bounce after -2.3%. 'Microsoft and Intel Announce Joint Infrastructure Investments' (fiscal.ai 11-18) is the one substantive Ignite-week item so far; rest is partner-ecosystem noise. 365 outage tail open: 'Microsoft Releases Preliminary Report on Recent 365 Service Outage' (11-17). No initiation case and the sector-data gap bars buys anyway. Falsifiable: reassess on quantified Intel-deal terms, material Ignite announcements, or outage liability figures.",
+      "sources": [
+        "data/2026-11-19/MSFT.json headlines (fiscal.ai 2026-11-17..18)"
+      ],
+      "timestamp": "2026-11-19T12:08:00+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "352.30, flat (+0.1%) and holding up better than the tape. Snapshot is operational noise: 'Apple Services Experience Outage Following Internal Update' (fiscal.ai 11-18) extends the 11-17 outage story; 'South Korean Regulator Orders Apple to Designate Legal Representatives' (11-18) and the French obsolescence trial (11-17) are minor legal overhangs. Nothing thesis-changing either way. Falsifiable: reassess on outage root cause, DRAM-deal confirmation, or demand data.",
+      "sources": [
+        "data/2026-11-19/AAPL.json headlines (fiscal.ai 2026-11-16..18)"
+      ],
+      "timestamp": "2026-11-19T12:08:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "282.36, +0.8% bounce but still ~5.5% below the 11-12 close of 298.70. GOOGL's headline list was empty for a third straight day, so both the slide and the bounce remain unexplained by the snapshot. No position means no mandate for a web sweep; acting on an unexplained move would be guessing. Hold at low conviction. Falsifiable: reassess when headlines return or the move extends/reverses with attributable news.",
+      "sources": [
+        "data/2026-11-19/GOOGL.json (headline list empty; Alpaca bars)"
+      ],
+      "timestamp": "2026-11-19T12:08:00+00:00"
+    },
+    {
+      "ticker": "VOO",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "671.26, sixth straight decline, -3.9% from 11-13's 693.05. VOO's headline list was empty today, as it has been all week; the decline is the market-wide risk-off move visible across the watchlist (NVDA -13% over the stretch, UNH -14% in two days). Benchmark holding only in the counterfactual \u2014 no action available or warranted. Falsifiable: reassess if drawdown exceeds the backtest's modeled regime or breadth improves.",
+      "sources": [
+        "data/2026-11-19/VOO.json (headline list empty; Alpaca bars)"
+      ],
+      "timestamp": "2026-11-19T12:08:00+00:00"
+    }
+  ]
+}
