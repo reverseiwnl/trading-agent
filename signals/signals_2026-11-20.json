@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-20",
+  "market_context": "Seventh straight down day: VOO closed 658.05 on 11-19, -5.5% from 11-12's 696.04; VOO's and GOOGL's headline lists were empty (GOOGL's fourth straight day) — every other ticker's cited headlines come from its 11-20 snapshot. Portfolio is 100% cash, so the holdings-only breaking-news web sweep did not apply. fetch_data.py exited 1 (PARTIAL, 15th consecutive run): Alpaca prices/headlines fine, yfinance fundamentals incl. sector still blocked, so the 20% sector cap cannot be verified and any buy would fail validation. Standouts: UNH fell another -5.6% to 330.36 (-18.9% in four sessions) after the CRUSH rule landed on top of the Medicare Advantage audit framework; NVDA slid to 145.99 with a congressional probe now stacked on the SEC investigation, delayed 10-Q and CEO resignation. All signals are holds; no-trade remains the correct outcome.",
+  "signals": [
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.65,
+      "thesis": "145.99 close, eighth straight decline (-12.1% from 11-12). 'Democrats Open Probe Into Nvidia Influence on US Megaspeed Investigation' (fiscal.ai 11-20) stacks congressional scrutiny on the SEC investigation and delayed 10-Q (11-18) and the post-CEO-resignation downgrades (11-19). Uninvestable until filings are current. Falsifiable: reassess when the 10-Q is filed, probe scope is disclosed, or a permanent CEO is named.",
+      "sources": [
+        "data/2026-11-20/NVDA.json headlines (fiscal.ai 2026-11-18 through 2026-11-20)"
+      ],
+      "timestamp": "2026-11-20T12:10:00+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "330.36 close, -5.6% on 11-19 and -18.9% from 11-16's 412.07. 'UnitedHealth Group Shares Decline Following Introduction of CRUSH Rule' (fiscal.ai 11-19) is a second regulatory shoe after the Medicare Advantage audit framework (11-17), with breakup calls still live (11-17). Regulatory repricing remains mid-flight; no position, no knife-catching. Falsifiable: reassess on CRUSH/audit-framework finalization, management response, or 2027 guidance.",
+      "sources": [
+        "data/2026-11-20/UNH.json headlines (fiscal.ai 2026-11-15 through 2026-11-19)"
+      ],
+      "timestamp": "2026-11-20T12:10:00+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "267.23, sixth straight decline (-6.6% from 11-13), dragged by the healthcare-regulation selloff. 'Johnson & Johnson Submits sNDA for Caplyta in Bipolar Mania' and the first installation of its new robotic surgical system (both fiscal.ai 11-19) are incrementally positive but too small to offset sector pressure. Buy case stays parked a 15th run: missing sector data fails the 20% sector-cap check. Falsifiable: buy case reopens when sector data returns and the pipeline thesis holds.",
+      "sources": [
+        "data/2026-11-20/JNJ.json headlines (fiscal.ai 2026-11-16 through 2026-11-20)"
+      ],
+      "timestamp": "2026-11-20T12:10:00+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "498.45, -2.0% on 11-19, first close below 500 in this selloff. 'Microsoft Announces AI Innovations and Salesforce Partnership at Ignite' (fiscal.ai 11-19) headlines an otherwise partner-ecosystem news flow; still nothing quantified on the Intel joint infrastructure investment (11-18). No initiation case, and the sector-data gap bars buys anyway. Falsifiable: reassess on quantified Ignite/Intel deal economics or a demand-relevant datapoint.",
+      "sources": [
+        "data/2026-11-20/MSFT.json headlines (fiscal.ai 2026-11-17 through 2026-11-19)"
+      ],
+      "timestamp": "2026-11-20T12:10:00+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "349.09, -0.9% on 11-19, still outperforming the tape (-2.2% from 11-12 vs VOO -5.5%). 'U.K. Tribunal Orders Government to Confirm Secret Demand for Apple Customer Data' and camera/photos chief Jon McCormack's departure (both fiscal.ai 11-19) are modest overhangs; the Black Friday event announcement (11-19) is routine. Nothing thesis-changing. Falsifiable: reassess on exec-departure follow-on, DRAM-deal confirmation, or holiday demand data.",
+      "sources": [
+        "data/2026-11-20/AAPL.json headlines (fiscal.ai 2026-11-17 through 2026-11-19)"
+      ],
+      "timestamp": "2026-11-20T12:10:00+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "272.48, -3.5% on 11-19 and -8.8% from 11-12, worst of the watchlist mega-caps this week. GOOGL's headline list was empty a fourth straight day, so the move is uncorroborated by snapshot news. No position and no verifiable catalyst either way. Falsifiable: reassess when headline coverage resumes or an identifiable catalyst explains the underperformance.",
+      "sources": [
+        "data/2026-11-20/GOOGL.json (Alpaca bars; headline list empty)"
+      ],
+      "timestamp": "2026-11-20T12:10:00+00:00"
+    },
+    {
+      "ticker": "VOO",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "658.05, seventh straight decline, -5.5% from 11-12's 696.04; VOO's headline list was empty again. Benchmark tracking only — not a trading candidate; monitored for the circuit breaker and digest comparison. Falsifiable: reassess posture after two consecutive up closes, or if drawdown from 11-12 exceeds -10%.",
+      "sources": [
+        "data/2026-11-20/VOO.json (Alpaca bars; headline list empty)"
+      ],
+      "timestamp": "2026-11-20T12:10:00+00:00"
+    }
+  ]
+}

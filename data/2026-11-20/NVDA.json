@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-11-20T12:07:47.230522+00:00",
+  "price": 145.29,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-10-09",
+      "open": 233.79,
+      "high": 233.89,
+      "low": 229.115,
+      "close": 229.35,
+      "volume": 2316630.0
+    },
+    {
+      "date": "2026-10-12",
+      "open": 228.69,
+      "high": 228.795,
+      "low": 224.9,
+      "close": 226.46,
+      "volume": 1590973.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 224.265,
+      "high": 228.64,
+      "low": 223.12,
+      "close": 228.5,
+      "volume": 2400846.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 225.54,
+      "high": 225.975,
+      "low": 219.67,
+      "close": 221.49,
+      "volume": 3432102.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 215.285,
+      "high": 218.46,
+      "low": 212.865,
+      "close": 217.33,
+      "volume": 4353216.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 216.525,
+      "high": 218.64,
+      "low": 213.33,
+      "close": 214.125,
+      "volume": 3704374.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 218.025,
+      "high": 219.6,
+      "low": 214.71,
+      "close": 217.085,
+      "volume": 2365992.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 215.985,
+      "high": 218.455,
+      "low": 212.78,
+      "close": 216.41,
+      "volume": 2760246.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 220.875,
+      "high": 222.18,
+      "low": 217.66,
+      "close": 221.9,
+      "volume": 2486314.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 217.13,
+      "high": 218.86,
+      "low": 211.27,
+      "close": 212.27,
+      "volume": 4565631.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 210.995,
+      "high": 213.79,
+      "low": 210.22,
+      "close": 211.02,
+      "volume": 2911853.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 213.055,
+      "high": 217.74,
+      "low": 212.665,
+      "close": 216.01,
+      "volume": 3252237.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 218.33,
+      "high": 219.19,
+      "low": 215.535,
+      "close": 217.87,
+      "volume": 2379844.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 219.915,
+      "high": 219.915,
+      "low": 214.47,
+      "close": 215.34,
+      "volume": 2713311.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 214.44,
+      "high": 215.32,
+      "low": 212.09,
+      "close": 213.7,
+      "volume": 2610378.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 208.7,
+      "high": 209.06,
+      "low": 200.95,
+      "close": 204.76,
+      "volume": 4650693.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 207.59,
+      "high": 209.965,
+      "low": 201.66,
+      "close": 202.205,
+      "volume": 4210604.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 207.71,
+      "high": 209.09,
+      "low": 205.95,
+      "close": 206.565,
+      "volume": 3123764.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 203.56,
+      "high": 206.79,
+      "low": 199.685,
+      "close": 200.17,
+      "volume": 6216755.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 196.045,
+      "high": 196.17,
+      "low": 181.48,
+      "close": 181.59,
+      "volume": 11076400.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 191.25,
+      "high": 194.89,
+      "low": 185.225,
+      "close": 186.7,
+      "volume": 6280666.0
+    },
+    {
+      "date": "2026-11-09",
+      "open": 173.025,
+      "high": 179.91,
+      "low": 170.24,
+      "close": 178.64,
+      "volume": 25226718.0
+    },
+    {
+      "date": "2026-11-10",
+      "open": 173.97,
+      "high": 174.66,
+      "low": 165.89,
+      "close": 168.785,
+      "volume": 18141420.0
+    },
+    {
+      "date": "2026-11-11",
+      "open": 172.71,
+      "high": 177.515,
+      "low": 170.88,
+      "close": 173.85,
+      "volume": 10232454.0
+    },
+    {
+      "date": "2026-11-12",
+      "open": 150.99,
+      "high": 167.14,
+      "low": 148.8,
+      "close": 166.07,
+      "volume": 24090837.0
+    },
+    {
+      "date": "2026-11-13",
+      "open": 169.81,
+      "high": 169.98,
+      "low": 158.4,
+      "close": 162.84,
+      "volume": 10980464.0
+    },
+    {
+      "date": "2026-11-16",
+      "open": 158.98,
+      "high": 162.535,
+      "low": 155.02,
+      "close": 156.145,
+      "volume": 11877170.0
+    },
+    {
+      "date": "2026-11-17",
+      "open": 156.92,
+      "high": 157.43,
+      "low": 150.34,
+      "close": 155.49,
+      "volume": 17854499.0
+    },
+    {
+      "date": "2026-11-18",
+      "open": 159.205,
+      "high": 159.68,
+      "low": 150.41,
+      "close": 150.86,
+      "volume": 8953568.0
+    },
+    {
+      "date": "2026-11-19",
+      "open": 152.895,
+      "high": 158.11,
+      "low": 145.71,
+      "close": 145.985,
+      "volume": 8068954.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Democrats Open Probe Into Nvidia Influence on US Megaspeed Investigation",
+      "source": "fiscal.ai",
+      "url": "https://www.fidelity.com/news/article/technology/202611200600PR_NEWS_USPR_____SF03279",
+      "published_at": "2026-11-20T11:32:28+00:00"
+    },
+    {
+      "headline": "Nvidia Eyes Inception Acquisition to Strengthen Nemotron AI Models",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/nvidia-eyes-inception-acquisition-to-strengthen-nemotron-ai-models-ce785ed3d98bf025",
+      "published_at": "2026-11-20T11:32:28+00:00"
+    },
+    {
+      "headline": "NVIDIA to Present at 30th Annual UBS Global Technology and AI Conference",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/11/19/3407166/0/en/nvidia-announces-upcoming-event-for-financial-community.html",
+      "published_at": "2026-11-19T22:31:33+00:00"
+    },
+    {
+      "headline": "NVIDIA Receives Analyst Downgrades Following CEO Resignation",
+      "source": "fiscal.ai",
+      "url": "https://www.morningstar.com/news/marketwatch/20261119102/nvidias-turmoil-has-me-spooked-should-i-sell-my-stocks-and-buy-real-estate-or-ride-out-the-storm",
+      "published_at": "2026-11-19T14:31:01+00:00"
+    },
+    {
+      "headline": "Daiwa Securities Adjusts Price Target on Nvidia to $185 From $245",
+      "source": "fiscal.ai",
+      "url": "https://www.moomoo.com/stock/NVDA-US?chain_id=Name1K9-3FXPhg.1lftllg&global_content=%7B%22promote_id%22%3A%22%22%2C%22sub_promote_id%22%3A64%2C%22subpromote_id%22%3A%22%22%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Falex-gui-102899785%22%7D",
+      "published_at": "2026-11-19T13:02:23+00:00"
+    },
+    {
+      "headline": "Cantor Fitzgerald Maintains $250 Price Target on NVIDIA",
+      "source": "fiscal.ai",
+      "url": "https://www.moomoo.com/stock/NVDA-US?chain_id=Name1K9-3FXPhg.1lftekg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FCRWD-US%2Fcommunity%22%7D",
+      "published_at": "2026-11-19T12:32:36+00:00"
+    },
+    {
+      "headline": "US Commerce Department Expedited H200 China Export Approvals for NVIDIA",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/nvidia-s-h200-china-export-approvals-were-rushed-by-us-commerce-department-ce785ed2d98af026",
+      "published_at": "2026-11-19T12:32:36+00:00"
+    },
+    {
+      "headline": "NVIDIA Announces Expanded Multiyear Supply Chain Commitments",
+      "source": "fiscal.ai",
+      "url": "https://supplychaindigital.com/news/nvidia-extends-ai-supply-chain-with-long-term-supply-deals",
+      "published_at": "2026-11-18T19:01:32+00:00"
+    },
+    {
+      "headline": "NVIDIA Faces SEC Investigation and Delays Quarterly 10-Q Filing",
+      "source": "fiscal.ai",
+      "url": "https://www.morningstar.com/news/marketwatch/2026111879/why-nvidia-broke-with-its-usual-practice-in-holding-back-its-quarterly-sec-report",
+      "published_at": "2026-11-18T13:01:26+00:00"
+    },
+    {
+      "headline": "NVIDIA Co-Founder Jensen Huang Retains Director Nomination Rights",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/nvidia-co-founder-jensen-huang-retains-right-to-nominate-two-directors-ce785eddd989f120",
+      "published_at": "2026-11-18T12:31:53+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for NVDA"
+  ]
+}
