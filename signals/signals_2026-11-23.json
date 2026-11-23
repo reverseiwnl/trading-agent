@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-23",
+  "market_context": "Eighth straight down day Friday 11-20: VOO closed 635.01, -8.8% from 11-12's 696.04, on the heaviest VOO volume of the slide. NVDA crashed -13.9% Friday to 125.65; its 11-23 snapshot leads with the Trump administration pushing for Jensen Huang's reinstatement as CEO, a bounce catalyst but also more leadership chaos. GOOGL's and VOO's headline lists were empty again (GOOGL's fifth straight day); every other ticker's cited headline comes from its 11-23 snapshot. Portfolio is 100% cash, so the holdings-only breaking-news web sweep did not apply. fetch_data.py exited 1 (PARTIAL, 16th consecutive run): Alpaca prices/headlines fine, yfinance fundamentals incl. sector still blocked, so the 20% sector cap cannot be verified and any buy would fail validation. All signals are holds; no-trade remains the correct outcome.",
+  "signals": [
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "125.65 Friday close, -13.9% on the day and -23% from 11-12, heaviest volume of the slide. 'Trump Administration Pushes for Reinstatement of Jensen Huang as NVIDIA CEO' (fiscal.ai 11-23) may spark a bounce but deepens governance chaos atop the congressional probe and California AG investigation (both 11-20), the SEC investigation and the delayed 10-Q. Uninvestable until filings are current. Falsifiable: reassess when the 10-Q is filed or a permanent CEO is confirmed.",
+      "sources": [
+        "fiscal.ai headlines in data/2026-11-23/NVDA.json",
+        "Alpaca IEX bars in data/2026-11-23/NVDA.json"
+      ],
+      "timestamp": "2026-11-23T12:09:05+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "340.03 Friday, +2.9%, first up day after a -19.8% four-session slide. Snapshot adds no new fundamentals: 'UnitedHealthcare Expands Program to Compensate Pharmacists for Medical Services' (fiscal.ai 11-18) is minor, and the CRUSH rule (11-19) plus Medicare Advantage audit framework (11-17) remain unresolved; price-target items ignored per rules. One up day is not a regulatory resolution. Falsifiable: reassess on CRUSH/audit finalization or 2027 guidance.",
+      "sources": [
+        "fiscal.ai headlines in data/2026-11-23/UNH.json",
+        "Alpaca IEX bars in data/2026-11-23/UNH.json"
+      ],
+      "timestamp": "2026-11-23T12:09:05+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "270.83, +1.4% Friday, first up day in seven. 'Johnson & Johnson Announces Positive Phase 4 STAR Study Results for TREMFYA in Psoriatic Arthritis' (fiscal.ai 11-20) and Anvisa approval of ICOTYDE for plaque psoriasis (11-18) keep the pipeline thesis alive, but the buy case stays parked a 16th run: missing sector data fails the 20% sector-cap check. Falsifiable: buy case reopens when sector data returns and the pipeline thesis still holds.",
+      "sources": [
+        "fiscal.ai headlines in data/2026-11-23/JNJ.json",
+        "Alpaca IEX bars in data/2026-11-23/JNJ.json"
+      ],
+      "timestamp": "2026-11-23T12:09:05+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "485.34, -2.6% Friday, -7.4% from 11-13 and below 500 for a second session. 'Microsoft and Audi Launch Mobile Work Agent for In-Vehicle Productivity' (fiscal.ai 11-23) tops a routine partner-ecosystem flow; the To Do retirement (11-23) is immaterial and the Intel joint infrastructure investment (11-18) is still unquantified. No initiation case, and the sector-data gap bars buys anyway. Falsifiable: reassess on quantified Intel/Ignite deal economics or a demand datapoint.",
+      "sources": [
+        "fiscal.ai headlines in data/2026-11-23/MSFT.json",
+        "Alpaca IEX bars in data/2026-11-23/MSFT.json"
+      ],
+      "timestamp": "2026-11-23T12:09:05+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "343.40, -1.6% Friday, still outperforming the tape (-3.6% from 11-13 vs VOO -8.4%). 'Apple Developing Autonomous AI Agent' (fiscal.ai 11-20) is early-stage; the U.K. tribunal order on the secret data demand (11-19) and the services outage (11-18) are modest overhangs; the Black Friday event is routine. Nothing thesis-changing either way. Falsifiable: reassess on holiday demand data or follow-on from the camera-chief departure.",
+      "sources": [
+        "fiscal.ai headlines in data/2026-11-23/AAPL.json",
+        "Alpaca IEX bars in data/2026-11-23/AAPL.json"
+      ],
+      "timestamp": "2026-11-23T12:09:05+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "265.62, -2.5% Friday and -10.2% from 11-13, worst of the watchlist mega-caps. GOOGL's headline list was empty a fifth straight day, so the slide remains uncorroborated by snapshot news. No position and no verifiable catalyst either way; initiating on an unexplained decline would be guessing. Falsifiable: reassess when headline coverage resumes or an identifiable catalyst explains the underperformance.",
+      "sources": [
+        "fiscal.ai headlines in data/2026-11-23/GOOGL.json",
+        "Alpaca IEX bars in data/2026-11-23/GOOGL.json"
+      ],
+      "timestamp": "2026-11-23T12:09:05+00:00"
+    },
+    {
+      "ticker": "VOO",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "635.01, eighth straight decline, -8.8% from 11-12's 696.04; VOO's headline list was empty again. Benchmark tracking only, not a trading candidate; monitored for the circuit breaker and digest comparison. Drawdown is nearing the -10% reassessment trigger set on 11-20 but has not hit it. Falsifiable: reassess posture after two consecutive up closes or if drawdown from 11-12 exceeds -10%.",
+      "sources": [
+        "fiscal.ai headlines in data/2026-11-23/VOO.json",
+        "Alpaca IEX bars in data/2026-11-23/VOO.json"
+      ],
+      "timestamp": "2026-11-23T12:09:05+00:00"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-11-23T12:07:16.610964+00:00",
+  "price": 485.34,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-10-12",
+      "open": 537.49,
+      "high": 542.7,
+      "low": 536.08,
+      "close": 541.085,
+      "volume": 595543.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 544.625,
+      "high": 551.08,
+      "low": 543.07,
+      "close": 543.51,
+      "volume": 902625.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 545.085,
+      "high": 545.71,
+      "low": 532.56,
+      "close": 534.04,
+      "volume": 788908.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 533.655,
+      "high": 541.08,
+      "low": 531.455,
+      "close": 539.36,
+      "volume": 670262.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 541.25,
+      "high": 543.82,
+      "low": 524.48,
+      "close": 528.99,
+      "volume": 677672.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 528.615,
+      "high": 535.55,
+      "low": 528.57,
+      "close": 533.645,
+      "volume": 546008.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 533.79,
+      "high": 534.17,
+      "low": 525.86,
+      "close": 532.02,
+      "volume": 463037.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 529.44,
+      "high": 533.28,
+      "low": 525.14,
+      "close": 532.8,
+      "volume": 386815.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 533.26,
+      "high": 533.26,
+      "low": 520.35,
+      "close": 521.6,
+      "volume": 675626.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 517.745,
+      "high": 525.72,
+      "low": 515.79,
+      "close": 524.375,
+      "volume": 446134.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 527.33,
+      "high": 533.205,
+      "low": 521.93,
+      "close": 532.54,
+      "volume": 625026.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 532.36,
+      "high": 534.7,
+      "low": 528.405,
+      "close": 531.58,
+      "volume": 541284.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 530.97,
+      "high": 534.555,
+      "low": 526.3,
+      "close": 532.23,
+      "volume": 803668.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 540.31,
+      "high": 540.79,
+      "low": 519.59,
+      "close": 530.39,
+      "volume": 1173477.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 526.0,
+      "high": 526.0,
+      "low": 514.59,
+      "close": 521.97,
+      "volume": 906896.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 524.105,
+      "high": 529.53,
+      "low": 505.0,
+      "close": 507.0,
+      "volume": 1051242.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 508.06,
+      "high": 523.385,
+      "low": 508.06,
+      "close": 520.84,
+      "volume": 779919.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 543.28,
+      "high": 559.12,
+      "low": 542.665,
+      "close": 556.07,
+      "volume": 1907869.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 555.31,
+      "high": 557.605,
+      "low": 532.68,
+      "close": 536.29,
+      "volume": 1726204.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 525.41,
+      "high": 538.24,
+      "low": 525.005,
+      "close": 530.58,
+      "volume": 830880.0
+    },
+    {
+      "date": "2026-11-09",
+      "open": 544.485,
+      "high": 548.27,
+      "low": 538.745,
+      "close": 545.22,
+      "volume": 862671.0
+    },
+    {
+      "date": "2026-11-10",
+      "open": 543.485,
+      "high": 544.19,
+      "low": 526.5,
+      "close": 533.18,
+      "volume": 1031379.0
+    },
+    {
+      "date": "2026-11-11",
+      "open": 534.175,
+      "high": 534.5,
+      "low": 518.535,
+      "close": 520.63,
+      "volume": 1138454.0
+    },
+    {
+      "date": "2026-11-12",
+      "open": 521.92,
+      "high": 529.51,
+      "low": 520.59,
+      "close": 523.0,
+      "volume": 682954.0
+    },
+    {
+      "date": "2026-11-13",
+      "open": 519.745,
+      "high": 526.31,
+      "low": 513.905,
+      "close": 524.19,
+      "volume": 728275.0
+    },
+    {
+      "date": "2026-11-16",
+      "open": 524.5,
+      "high": 527.55,
+      "low": 516.85,
+      "close": 518.23,
+      "volume": 799502.0
+    },
+    {
+      "date": "2026-11-17",
+      "open": 514.565,
+      "high": 515.515,
+      "low": 496.56,
+      "close": 506.07,
+      "volume": 1275244.0
+    },
+    {
+      "date": "2026-11-18",
+      "open": 505.5,
+      "high": 510.36,
+      "low": 501.125,
+      "close": 508.505,
+      "volume": 1198340.0
+    },
+    {
+      "date": "2026-11-19",
+      "open": 518.81,
+      "high": 526.49,
+      "low": 498.31,
+      "close": 498.45,
+      "volume": 1398753.0
+    },
+    {
+      "date": "2026-11-20",
+      "open": 493.14,
+      "high": 503.735,
+      "low": 481.11,
+      "close": 485.34,
+      "volume": 1980588.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Microsoft and Audi Launch Mobile Work Agent for In-Vehicle Productivity",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408055/0/en/audi-debuts-cerence-ai-s-mobile-work-agent-bringing-enterprise-trusted-access-to-microsoft-365-to-the-car.html",
+      "published_at": "2026-11-23T11:31:23+00:00"
+    },
+    {
+      "headline": "Microsoft to Retire Microsoft To Do App in 2027",
+      "source": "fiscal.ai",
+      "url": "https://infosertecla.com/2026/11/22/microsoft-cerrara-to-do-el-30-de-junio-de-2027/",
+      "published_at": "2026-11-23T02:01:29+00:00"
+    },
+    {
+      "headline": "Danaher Collaborates with Microsoft to Advance AI-Powered Scientific Instrument Connectivity",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/danaher-collaborates-with-microsoft-to-make-scientific-instruments-agentically-connected-and-laboratories-more-intelligent-302946263.html",
+      "published_at": "2026-11-20T16:01:27+00:00"
+    },
+    {
+      "headline": "Profound Launches Integrations for Microsoft Teams and Microsoft 365",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/11/19/3406573/0/en/profound-brings-your-ai-marketer-into-microsoft-teams-and-microsoft-365.html",
+      "published_at": "2026-11-19T16:01:19+00:00"
+    },
+    {
+      "headline": "Microsoft Integrates IDEMIA Mobile Driver's License Verification into Entra",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/idemia-public-security-to-bring-mobile-drivers-license-verification-to-the-microsoft-entra-verified-id-ecosystem-302945574.html",
+      "published_at": "2026-11-19T14:31:30+00:00"
+    },
+    {
+      "headline": "Microsoft Announces AI Innovations and Salesforce Partnership at Ignite",
+      "source": "fiscal.ai",
+      "url": "https://aimagazine.com/news/microsoft-unveils-copilot-workspaces-and-salesforce-deal",
+      "published_at": "2026-11-19T12:31:20+00:00"
+    },
+    {
+      "headline": "Splashtop Joins Microsoft Virus Initiative",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/11/18/3406049/0/en/splashtop-joins-microsoft-virus-initiative-strengthening-protection-for-microsoft-environments.html",
+      "published_at": "2026-11-18T20:01:31+00:00"
+    },
+    {
+      "headline": "Microsoft and Intel Announce Joint Infrastructure Investments",
+      "source": "fiscal.ai",
+      "url": "https://stockhouse.com/news/newswire/2026/11/18/microsoft-and-intel-expand-azure-infrastructure-agreement",
+      "published_at": "2026-11-18T19:03:47+00:00"
+    },
+    {
+      "headline": "Ema Launches AI Employees for HR, IT, and Finance on Microsoft Marketplace",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/11/18/3405850/0/en/ema-ai-employees-for-hr-it-and-finance-now-available-in-microsoft-marketplace.html",
+      "published_at": "2026-11-18T19:03:47+00:00"
+    },
+    {
+      "headline": "BCG and Microsoft Expand Collaboration for AI-Powered Business Reimagination",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/bcg-and-microsoft-expand-collaboration-with-new-model-for-ai-powered-business-reimagination-302943516.html",
+      "published_at": "2026-11-18T16:01:33+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for MSFT"
+  ]
+}

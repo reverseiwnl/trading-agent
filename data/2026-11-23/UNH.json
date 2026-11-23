@@ -1,0 +1,302 @@
+{
+  "ticker": "UNH",
+  "as_of": "2026-11-23T12:07:23.140622+00:00",
+  "price": 340.03,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-10-12",
+      "open": 381.57,
+      "high": 381.57,
+      "low": 373.78,
+      "close": 378.16,
+      "volume": 311713.0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 397.625,
+      "high": 399.59,
+      "low": 373.22,
+      "close": 377.56,
+      "volume": 456630.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 383.075,
+      "high": 396.41,
+      "low": 382.91,
+      "close": 395.695,
+      "volume": 422673.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 401.06,
+      "high": 414.11,
+      "low": 400.29,
+      "close": 406.66,
+      "volume": 536779.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 411.87,
+      "high": 412.03,
+      "low": 395.6,
+      "close": 401.455,
+      "volume": 533493.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 400.61,
+      "high": 408.4,
+      "low": 399.75,
+      "close": 406.92,
+      "volume": 304240.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 409.745,
+      "high": 422.345,
+      "low": 408.605,
+      "close": 419.47,
+      "volume": 448807.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 421.29,
+      "high": 421.35,
+      "low": 415.085,
+      "close": 416.86,
+      "volume": 242017.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 417.775,
+      "high": 426.47,
+      "low": 417.28,
+      "close": 424.895,
+      "volume": 263303.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 424.29,
+      "high": 424.92,
+      "low": 416.64,
+      "close": 418.06,
+      "volume": 285375.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 420.01,
+      "high": 420.77,
+      "low": 408.465,
+      "close": 410.45,
+      "volume": 196983.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 411.95,
+      "high": 413.42,
+      "low": 408.23,
+      "close": 410.625,
+      "volume": 264719.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 406.72,
+      "high": 416.115,
+      "low": 405.14,
+      "close": 407.05,
+      "volume": 202079.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 414.36,
+      "high": 414.36,
+      "low": 404.39,
+      "close": 410.91,
+      "volume": 158385.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 414.21,
+      "high": 415.85,
+      "low": 405.96,
+      "close": 406.92,
+      "volume": 215856.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 406.935,
+      "high": 408.53,
+      "low": 394.18,
+      "close": 400.455,
+      "volume": 236561.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 398.7,
+      "high": 405.4,
+      "low": 397.0,
+      "close": 403.91,
+      "volume": 204690.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 396.6,
+      "high": 415.985,
+      "low": 392.51,
+      "close": 409.28,
+      "volume": 489137.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 411.745,
+      "high": 415.62,
+      "low": 394.39,
+      "close": 395.75,
+      "volume": 334399.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 388.7,
+      "high": 396.67,
+      "low": 388.7,
+      "close": 394.22,
+      "volume": 230183.0
+    },
+    {
+      "date": "2026-11-09",
+      "open": 397.985,
+      "high": 398.83,
+      "low": 394.09,
+      "close": 397.61,
+      "volume": 278634.0
+    },
+    {
+      "date": "2026-11-10",
+      "open": 398.735,
+      "high": 406.65,
+      "low": 397.315,
+      "close": 405.06,
+      "volume": 241167.0
+    },
+    {
+      "date": "2026-11-11",
+      "open": 404.39,
+      "high": 404.39,
+      "low": 396.95,
+      "close": 403.0,
+      "volume": 226340.0
+    },
+    {
+      "date": "2026-11-12",
+      "open": 405.5,
+      "high": 406.12,
+      "low": 400.67,
+      "close": 405.13,
+      "volume": 143477.0
+    },
+    {
+      "date": "2026-11-13",
+      "open": 407.57,
+      "high": 408.5,
+      "low": 400.5,
+      "close": 407.525,
+      "volume": 262936.0
+    },
+    {
+      "date": "2026-11-16",
+      "open": 412.12,
+      "high": 415.0,
+      "low": 409.04,
+      "close": 412.07,
+      "volume": 288372.0
+    },
+    {
+      "date": "2026-11-17",
+      "open": 396.95,
+      "high": 398.83,
+      "low": 387.14,
+      "close": 389.695,
+      "volume": 540533.0
+    },
+    {
+      "date": "2026-11-18",
+      "open": 386.87,
+      "high": 386.87,
+      "low": 342.46,
+      "close": 349.9,
+      "volume": 1129684.0
+    },
+    {
+      "date": "2026-11-19",
+      "open": 353.32,
+      "high": 353.33,
+      "low": 324.7,
+      "close": 330.355,
+      "volume": 998197.0
+    },
+    {
+      "date": "2026-11-20",
+      "open": 339.9,
+      "high": 347.39,
+      "low": 338.54,
+      "close": 340.03,
+      "volume": 793195.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "Analyst Actions: HSBC and TD Cowen Update Ratings on UnitedHealth Group",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/hsbc-adjusts-price-target-on-unitedhealth-to-385-from-380-ce785ed3d88bf226",
+      "published_at": "2026-11-20T13:02:32+00:00"
+    },
+    {
+      "headline": "HSBC Adjusts Price Target on UnitedHealth to $385 From $380",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/hsbc-adjusts-price-target-on-unitedhealth-to-385-from-380-ce785ed3d88bf226",
+      "published_at": "2026-11-20T12:32:02+00:00"
+    },
+    {
+      "headline": "UnitedHealth Group Shares Decline Following Introduction of CRUSH Rule",
+      "source": "fiscal.ai",
+      "url": "https://www.baystreet.ca/stockstowatch/24434/Watch-Anthropic-Okta-UNH-and-More",
+      "published_at": "2026-11-19T12:31:24+00:00"
+    },
+    {
+      "headline": "UnitedHealthcare Expands Program to Compensate Pharmacists for Medical Services",
+      "source": "fiscal.ai",
+      "url": "https://www.fidelity.com/news/article/company-news/202611180600RTRSNEWSCOMBINED_L6N46Y1DP_1",
+      "published_at": "2026-11-18T11:32:08+00:00"
+    },
+    {
+      "headline": "UnitedHealth Group Shares Decline Following Proposed Medicare Advantage Audit Framework",
+      "source": "fiscal.ai",
+      "url": "https://www.barchart.com/story/news/8878165/stocks-pressured-by-weakness-in-software-and-health-insurance-stocks",
+      "published_at": "2026-11-17T19:01:27+00:00"
+    },
+    {
+      "headline": "Senator Elizabeth Warren Calls for Breakup of Healthcare Conglomerates Including UnitedHealth",
+      "source": "fiscal.ai",
+      "url": "https://www.moomoo.com/stock/BK2999?chain_id=Name1K9-3FXPhg.1lfo9d0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A107%2C%22f%22%3A%22www.moomoo.com%2Fetfs%2FJPXN-US%22%7D",
+      "published_at": "2026-11-17T12:32:38+00:00"
+    },
+    {
+      "headline": "UnitedHealthcare of Ohio Remains in State Marketplace for 2027",
+      "source": "fiscal.ai",
+      "url": "https://insurancenewsnet.com/oarticle/health-insurers-leave-ohio-marketplace",
+      "published_at": "2026-11-17T01:01:36+00:00"
+    },
+    {
+      "headline": "Mubadala Investment Co. PJSC Increases Stake in UnitedHealth Group",
+      "source": "fiscal.ai",
+      "url": "https://www.moomoo.com/news/flash/1004769360/mubadala-investment-co-pjsc-raises-share-stake-in-unitedhealth-group",
+      "published_at": "2026-11-16T20:02:24+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for UNH"
+  ]
+}
