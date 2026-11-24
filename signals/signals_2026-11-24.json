@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-24",
+  "market_context": "Broad relief rally Monday 11-23: VOO +4.6% to 664.01, first up day after eight declines. NVDA +31.5% to 165.185 on Jensen Huang's reinstatement as CEO (fiscal.ai 11-23); GOOGL +6.2% on an empty headline list (sixth straight day; VOO's also empty). UNH fell against the tape on fresh CMS Medicare Advantage audit news (11-24). Portfolio is 100% cash, so the holdings-only breaking-news web sweep did not apply. fetch_data.py exited 1 (PARTIAL, 17th consecutive run): Alpaca prices/headlines fine, yfinance fundamentals incl. sector still blocked, so the 20% sector cap cannot be verified and any buy would fail validation. One up day does not confirm a bottom; all signals are holds and no-trade remains the correct outcome.",
+  "signals": [
+    {
+      "ticker": "NVDA",
+      "action": "hold",
+      "conviction": 0.6,
+      "thesis": "165.185 Monday close, +31.5% on the slide's heaviest volume after 'NVIDIA Reinstates Jensen Huang as President and CEO' (fiscal.ai 11-23). Reinstatement ends the leadership vacuum, but Huang agreed to Senate testimony (11-23), the congressional China probe and California AG investigation (11-20) are open, and the delayed 10-Q is still unfiled. A one-day relief spike atop unresolved filings is untradable either way. Falsifiable: reassess when the 10-Q is filed or the probes conclude.",
+      "sources": [
+        "fiscal.ai 2026-11-23: NVIDIA Reinstates Jensen Huang as President and CEO",
+        "fiscal.ai 2026-11-23: NVIDIA Former CEO Jensen Huang Agrees to Senate Testimony",
+        "data/2026-11-24 snapshot"
+      ],
+      "timestamp": "2026-11-24T12:08:11+00:00"
+    },
+    {
+      "ticker": "UNH",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "336.20 Monday, -1.1% against a +4.6% tape. 'UnitedHealth Group Faces Market Pressure Following CMS Medicare Advantage Audit Proposal' (fiscal.ai 11-24) and 'U.S. Government Proposes Significant Medicare Advantage Regulatory Changes' (11-23) widen the regulatory overhang rather than resolve it; underperforming a strong bounce day confirms persistent selling. Price-target items ignored per rules. Falsifiable: reassess on final MA rule text or 2027 guidance.",
+      "sources": [
+        "fiscal.ai 2026-11-24: UnitedHealth Group Faces Market Pressure Following CMS Medicare Advantage Audit Proposal",
+        "fiscal.ai 2026-11-23: U.S. Government Proposes Significant Medicare Advantage Regulatory Changes",
+        "data/2026-11-24 snapshot"
+      ],
+      "timestamp": "2026-11-24T12:08:11+00:00"
+    },
+    {
+      "ticker": "JNJ",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "270.17 Monday, flat against a +4.6% tape. 'Johnson & Johnson Declares Cash Dividend for Shareholders' (fiscal.ai 11-23) is routine; the pipeline case (Caplyta sNDA 11-19, TREMFYA Phase 4 STAR 11-20) stays alive but parked a 17th run: missing sector fundamentals fail the 20% sector-cap validation, so no buy can pass. Falsifiable: buy case reopens when sector data returns with the pipeline thesis intact.",
+      "sources": [
+        "fiscal.ai 2026-11-23: Johnson & Johnson Declares Cash Dividend for Shareholders",
+        "data/2026-11-24 snapshot"
+      ],
+      "timestamp": "2026-11-24T12:08:11+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "492.95 Monday, +1.6%, lagging the tape. 'Atos and Microsoft Extend Partnership for Digital Sovereignty' (fiscal.ai 11-24) tops another routine partner-ecosystem flow; nothing in the snapshot quantifies demand or the Intel investment. No initiation case, and the sector-data gap bars buys regardless. Falsifiable: reassess on a quantified demand or deal-economics datapoint.",
+      "sources": [
+        "fiscal.ai 2026-11-24: Atos and Microsoft Extend Partnership for Digital Sovereignty",
+        "data/2026-11-24 snapshot"
+      ],
+      "timestamp": "2026-11-24T12:08:11+00:00"
+    },
+    {
+      "ticker": "AAPL",
+      "action": "hold",
+      "conviction": 0.55,
+      "thesis": "349.40 Monday, +1.7%. 'Apple TV Withdraws from FIFA World Cup Bidding' (fiscal.ai 11-23) and 'Apple Plans Return of (PRODUCT)RED Lineup' (11-24) are immaterial; the U.K. tribunal data-demand order (11-19) remains a modest overhang. Nothing thesis-changing either way. Falsifiable: reassess on holiday demand data or material follow-on from the camera-chief departure.",
+      "sources": [
+        "fiscal.ai 2026-11-23: Apple TV Withdraws from FIFA World Cup Bidding",
+        "data/2026-11-24 snapshot"
+      ],
+      "timestamp": "2026-11-24T12:08:11+00:00"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "282.215 Monday, +6.2%, best bounce on the watchlist and back above the 11-18 level. GOOGL's headline list was empty a sixth straight day, so the move remains uncorroborated by snapshot news. No position, no verifiable catalyst; initiating on an unexplained swing would be guessing. Falsifiable: reassess when headline coverage resumes or a catalyst explains the move.",
+      "sources": [
+        "data/2026-11-24 snapshot (GOOGL headline list empty)"
+      ],
+      "timestamp": "2026-11-24T12:08:11+00:00"
+    },
+    {
+      "ticker": "VOO",
+      "action": "hold",
+      "conviction": 0.5,
+      "thesis": "664.01 Monday, +4.6%, first up day after eight straight declines; VOO's headline list was empty again. Benchmark tracking only, not a trading candidate. The 11-20 posture-reassessment trigger was two consecutive up closes - only one so far - and drawdown from 11-12's 696.04 narrowed to -4.6%. Falsifiable: reassess posture after a second consecutive up close.",
+      "sources": [
+        "data/2026-11-24 snapshot (VOO headline list empty)"
+      ],
+      "timestamp": "2026-11-24T12:08:11+00:00"
+    }
+  ]
+}

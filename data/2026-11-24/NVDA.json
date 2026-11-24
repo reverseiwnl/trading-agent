@@ -1,0 +1,314 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-11-24T12:06:50.312299+00:00",
+  "price": 164.85,
+  "price_source": "alpaca",
+  "bars": [
+    {
+      "date": "2026-10-13",
+      "open": 224.265,
+      "high": 228.64,
+      "low": 223.12,
+      "close": 228.5,
+      "volume": 2400846.0
+    },
+    {
+      "date": "2026-10-14",
+      "open": 225.54,
+      "high": 225.975,
+      "low": 219.67,
+      "close": 221.49,
+      "volume": 3432102.0
+    },
+    {
+      "date": "2026-10-15",
+      "open": 215.285,
+      "high": 218.46,
+      "low": 212.865,
+      "close": 217.33,
+      "volume": 4353216.0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 216.525,
+      "high": 218.64,
+      "low": 213.33,
+      "close": 214.125,
+      "volume": 3704374.0
+    },
+    {
+      "date": "2026-10-19",
+      "open": 218.025,
+      "high": 219.6,
+      "low": 214.71,
+      "close": 217.085,
+      "volume": 2365992.0
+    },
+    {
+      "date": "2026-10-20",
+      "open": 215.985,
+      "high": 218.455,
+      "low": 212.78,
+      "close": 216.41,
+      "volume": 2760246.0
+    },
+    {
+      "date": "2026-10-21",
+      "open": 220.875,
+      "high": 222.18,
+      "low": 217.66,
+      "close": 221.9,
+      "volume": 2486314.0
+    },
+    {
+      "date": "2026-10-22",
+      "open": 217.13,
+      "high": 218.86,
+      "low": 211.27,
+      "close": 212.27,
+      "volume": 4565631.0
+    },
+    {
+      "date": "2026-10-23",
+      "open": 210.995,
+      "high": 213.79,
+      "low": 210.22,
+      "close": 211.02,
+      "volume": 2911853.0
+    },
+    {
+      "date": "2026-10-26",
+      "open": 213.055,
+      "high": 217.74,
+      "low": 212.665,
+      "close": 216.01,
+      "volume": 3252237.0
+    },
+    {
+      "date": "2026-10-27",
+      "open": 218.33,
+      "high": 219.19,
+      "low": 215.535,
+      "close": 217.87,
+      "volume": 2379844.0
+    },
+    {
+      "date": "2026-10-28",
+      "open": 219.915,
+      "high": 219.915,
+      "low": 214.47,
+      "close": 215.34,
+      "volume": 2713311.0
+    },
+    {
+      "date": "2026-10-29",
+      "open": 214.44,
+      "high": 215.32,
+      "low": 212.09,
+      "close": 213.7,
+      "volume": 2610378.0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 208.7,
+      "high": 209.06,
+      "low": 200.95,
+      "close": 204.76,
+      "volume": 4650693.0
+    },
+    {
+      "date": "2026-11-02",
+      "open": 207.59,
+      "high": 209.965,
+      "low": 201.66,
+      "close": 202.205,
+      "volume": 4210604.0
+    },
+    {
+      "date": "2026-11-03",
+      "open": 207.71,
+      "high": 209.09,
+      "low": 205.95,
+      "close": 206.565,
+      "volume": 3123764.0
+    },
+    {
+      "date": "2026-11-04",
+      "open": 203.56,
+      "high": 206.79,
+      "low": 199.685,
+      "close": 200.17,
+      "volume": 6216755.0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 196.045,
+      "high": 196.17,
+      "low": 181.48,
+      "close": 181.59,
+      "volume": 11076400.0
+    },
+    {
+      "date": "2026-11-06",
+      "open": 191.25,
+      "high": 194.89,
+      "low": 185.225,
+      "close": 186.7,
+      "volume": 6280666.0
+    },
+    {
+      "date": "2026-11-09",
+      "open": 173.025,
+      "high": 179.91,
+      "low": 170.24,
+      "close": 178.64,
+      "volume": 25226718.0
+    },
+    {
+      "date": "2026-11-10",
+      "open": 173.97,
+      "high": 174.66,
+      "low": 165.89,
+      "close": 168.785,
+      "volume": 18141420.0
+    },
+    {
+      "date": "2026-11-11",
+      "open": 172.71,
+      "high": 177.515,
+      "low": 170.88,
+      "close": 173.85,
+      "volume": 10232454.0
+    },
+    {
+      "date": "2026-11-12",
+      "open": 150.99,
+      "high": 167.14,
+      "low": 148.8,
+      "close": 166.07,
+      "volume": 24090837.0
+    },
+    {
+      "date": "2026-11-13",
+      "open": 169.81,
+      "high": 169.98,
+      "low": 158.4,
+      "close": 162.84,
+      "volume": 10980464.0
+    },
+    {
+      "date": "2026-11-16",
+      "open": 158.98,
+      "high": 162.535,
+      "low": 155.02,
+      "close": 156.145,
+      "volume": 11877170.0
+    },
+    {
+      "date": "2026-11-17",
+      "open": 156.92,
+      "high": 157.43,
+      "low": 150.34,
+      "close": 155.49,
+      "volume": 17854499.0
+    },
+    {
+      "date": "2026-11-18",
+      "open": 159.205,
+      "high": 159.68,
+      "low": 150.41,
+      "close": 150.86,
+      "volume": 8953568.0
+    },
+    {
+      "date": "2026-11-19",
+      "open": 152.895,
+      "high": 158.11,
+      "low": 145.71,
+      "close": 145.985,
+      "volume": 8068954.0
+    },
+    {
+      "date": "2026-11-20",
+      "open": 143.52,
+      "high": 143.72,
+      "low": 124.51,
+      "close": 125.65,
+      "volume": 17679388.0
+    },
+    {
+      "date": "2026-11-23",
+      "open": 167.03,
+      "high": 171.47,
+      "low": 156.96,
+      "close": 165.185,
+      "volume": 21130783.0
+    }
+  ],
+  "fundamentals": {},
+  "headlines": [
+    {
+      "headline": "NVIDIA Reinstates Jensen Huang as President and CEO",
+      "source": "fiscal.ai",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408381/0/en/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director.html",
+      "published_at": "2026-11-23T14:31:20+00:00"
+    },
+    {
+      "headline": "NVIDIA Former CEO Jensen Huang Agrees to Senate Testimony",
+      "source": "fiscal.ai",
+      "url": "https://www.moomoo.com/stock/NVDA-US?chain_id=Name1K9-3FXPhg.1lg7sk0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A107%2C%22f%22%3A%22www.moomoo.com%2Fetfs%2FFAZ-US%22%7D",
+      "published_at": "2026-11-23T12:32:04+00:00"
+    },
+    {
+      "headline": "Trump Administration Pushes for Reinstatement of Jensen Huang as NVIDIA CEO",
+      "source": "fiscal.ai",
+      "url": "https://www.morningstar.com/news/marketwatch/2026112333/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang",
+      "published_at": "2026-11-23T11:31:37+00:00"
+    },
+    {
+      "headline": "NVIDIA Launches Alpamayo 2 Edge Vision-Language-Action Model",
+      "source": "fiscal.ai",
+      "url": "https://af.net/realtime/nvidia-launches-2b-parameter-alpamayo-2-edge-vla-for-drive-thor/",
+      "published_at": "2026-11-23T02:01:26+00:00"
+    },
+    {
+      "headline": "NVIDIA Implements Stricter Export Compliance Measures",
+      "source": "fiscal.ai",
+      "url": "https://newsfilter.io/articles/a-tale-of-two-nvidias-31e13cb6115d54abbce07240edb573d0",
+      "published_at": "2026-11-22T02:01:24+00:00"
+    },
+    {
+      "headline": "Vertiv Launches ATLAS Lab to Validate NVIDIA AI Infrastructure",
+      "source": "fiscal.ai",
+      "url": "https://datacentremagazine.com/news/this-weeks-top-five-stories-in-the-data-centre-industry-21-november-2026",
+      "published_at": "2026-11-21T14:01:24+00:00"
+    },
+    {
+      "headline": "Compute Exchange Announces Live GPU Capacity Auction at NVIDIA GTC DC",
+      "source": "fiscal.ai",
+      "url": "https://www.einnews.com/pr_news/957765130/compute-exchange-announces-live-gpu-capacity-auction-at-nvidia-gtc-dc",
+      "published_at": "2026-11-20T20:01:18+00:00"
+    },
+    {
+      "headline": "NVIDIA Subject to Congressional Probe Regarding China Sales",
+      "source": "fiscal.ai",
+      "url": "https://www.marketscreener.com/news/nvidia-subject-to-congressional-probe-over-ties-to-commerce-department-possible-china-sales-ce785ed3d888f620",
+      "published_at": "2026-11-20T19:01:43+00:00"
+    },
+    {
+      "headline": "California Attorney General Launches Investigation into NVIDIA",
+      "source": "fiscal.ai",
+      "url": "https://www.manilatimes.net/2026/11/21/business/foreign-business/california-probes-nvidia-over-china-chips-access/2475093",
+      "published_at": "2026-11-20T19:01:43+00:00"
+    },
+    {
+      "headline": "5C Group Joins NVIDIA Partner Network as Data Center Partner",
+      "source": "fiscal.ai",
+      "url": "https://www.prnewswire.com/news-releases/5c-announces-data-center-partner-designation-within-the-nvidia-partner-network-in-new-blog-302946572.html",
+      "published_at": "2026-11-20T16:01:25+00:00"
+    }
+  ],
+  "errors": [
+    "fundamentals failed: yfinance returned no fundamentals for NVDA"
+  ]
+}
